@@ -49,7 +49,7 @@ Felipe Codevilla, Antonio Lopez, Vladlen Koltun; PMLR 78:1-16
 
 ```
 @inproceedings{Dosovitskiy17,
-  title = {{CARLA}: {An} Open Urban Driving Simulator},
+  title = { {CARLA}: {An} Open Urban Driving Simulator},
   author = {Alexey Dosovitskiy and German Ros and Felipe Codevilla and Antonio Lopez and Vladlen Koltun},
   booktitle = {Proceedings of the 1st Annual Conference on Robot Learning},
   pages = {1--16},
