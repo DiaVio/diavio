@@ -1,0 +1,11 @@
+This two vehicle crash occurred in a rural area on a two-lane asphalt roadway with access to occasional dirt driveways. The roadway is straight and level. The speed limit is 104 kmph (65 mph). The crash occurred during mid-morning daylight hours with no adverse weather or road conditions.
+
+Vehicle one (V1), a 2001 Ford Sport Trac pickup, was eastbound following Vehicle two (V2), a 2005 Hyundai Santa Fe. V2 slowed down in the eastbound lane almost to a stop with out signaling its intentions. V1 began to pass V2 by going around to the left in the westbound lane in a no passing zone for eastbound traffic. As V1 tried to pass, V2 turned left towards a dirt drive on the westbound side of the roadway. V 1 steered left and applied brakes. The right side of V1 contacted the left side of V2. V2 rotated clockwise and came to rest in the westbound lane facing east. V1 continued forward and came to rest on the eastbound shoulder facing east. Both vehicles were towed due to damage. Police Reported Travel Speed is 105 kmph for V1 and 105 kmph for V2.
+
+The driver of V1, a seventy two (72) year-old male and his passenger were following V2 for a while when it slowed down in the lane almost to a stop. He wasn't sure of V2's intentions so he passed on the left without paying attention to the no passing zone. Then V2 turned left in front of him. V1 tried to steer left to avoid the impact. The driver of V2, a sixty three (63) year-old male and his passenger refused to be interviewed. He stated to police he was intending to turn left.
+
+A witness following behind V1 stated V2 almost stopped in the eastbound lane and did not recall seeing his left turn signal on. V1 passed and steered left to try to avoid hitting V2 after it turned left in front of V1.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling over the lane line on the left side of travel lane. The critical reason for the critical event was coded to V1 as a driver related factor: false assumption of other's actions.
+
+The critical pre-crash event for V2 coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.

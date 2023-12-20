@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate highway interchange",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "4% downhill grade",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Bituminous paving",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side rear door area",
+        "Moving on which Way": "North",
+        "Location after Crash": "Resting on its side in lane three, facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Change lanes to the left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right plane near the front corner and tire",
+        "Moving on which Way": "North",
+        "Location after Crash": "Stopped in lane three after impacting the cement center divider",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Traveling in the HOV lane",
+            "Travel Speed": "93 kmph (58 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

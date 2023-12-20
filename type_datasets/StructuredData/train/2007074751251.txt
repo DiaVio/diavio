@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "uphill grade in the precrash area",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse atmospheric conditions",
+        "Weather": "daylight hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "back",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "off the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "change lanes to the left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in lane two",
+        "Location after Crash": "front struck a concrete wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "weaving between lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

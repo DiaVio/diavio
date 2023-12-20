@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "thruway",
+        "LaneType": "four-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "south",
+        "Location after Crash": "impacted right front corner and a tree with its left side at final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "off the roadway to the right, impacted with a mile marker sign, continued on for 182 meters, rolled over 8 one quarter turns to the left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

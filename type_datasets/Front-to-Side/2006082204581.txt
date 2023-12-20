@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane",
+        "LaneType": "one-way",
+        "RoadShape": "approaching a controlled intersection",
+        "RoadSlope": "+7% uphill",
+        "SpeedLimit": "40 Kph (25 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "paved with concrete and dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in lane two",
+        "Location after Crash": "inside the building facing southeast up against the south wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "westbound in lane one",
+        "Location after Crash": "west of the intersection parked next to the left curb",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

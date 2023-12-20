@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "access-controlled divided freeway",
+        "LaneType": "straight, slightly uphill lanes",
+        "RoadShape": "four straight lanes",
+        "RoadSlope": "slightly uphill",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse atmospheric conditions",
+        "Weather": "dark with streetlights on"
+    },
+    "Vehicle1": {
+        "Impact Side": "front and back",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "off the left side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "steered left to avoid collision",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "changing lanes to the left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

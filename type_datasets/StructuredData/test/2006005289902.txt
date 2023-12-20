@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-way",
+        "LaneType": "two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "64kph (40mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "east",
+        "Location after Crash": "rotated counter-clockwise approximately 90 degrees",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "crossed over double yellow line to position vehicle for backing into driveway",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right front",
+        "Moving on which Way": "west",
+        "Location after Crash": "continued in forward motion shortly before coming to final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "intending to continue straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

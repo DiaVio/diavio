@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south roadway is straight, level and undivided. Both approaches consist of two through lanes and a left turn lane. The speed limit on this roadway is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2002 Ford Windstar, was stopped northbound in lane three. Vehicle two (V2), a 1994 Buick Century, was southbound in lane one. V1 entered the intersection, turning left and the front struck the front of V2. V2 rotated clockwise, traveling to the west and the front struck a guardrail off the north side of the east/west roadway. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an eighty-one-year-old male, was on his way from lunch to church. He was well rested, in good health and familiar with his vehicle. This driver stated that he made his turn when the signal turned green and that he never saw V2 prior to the crash.
+
+The driver of V2, a fifty-year-old female, was not interviewed. Her medical records indicate that she is a dialysis patient with a chronic renal disease. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

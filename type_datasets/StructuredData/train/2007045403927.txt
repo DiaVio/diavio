@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "Divided by concrete barrier",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "89 kph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "29 m north of where it first struck the barrier",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Veered to the left and struck the barrier",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Rural state route",
+        "LaneType": "Two lane undivided",
+        "RoadShape": "Curved",
+        "RoadSlope": "Slight downhill grade",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Gravel area facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Lost control, crossed centerline, collided head-on",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Across both travel lanes facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Southbound",
+            "Vehicle Action": "Applied brakes, attempted to steer right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

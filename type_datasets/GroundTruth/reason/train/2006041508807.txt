@@ -1,0 +1,1 @@
+This is because V1, while attempting to make a lane change, first struck the left rear corner of V2 (front-to-side collision) and then continued its lane change, striking the right front corner of V3.

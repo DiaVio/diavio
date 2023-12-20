@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "one lane in each direction with a center left turn lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "30 mph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "partially on the curb and partially in the parking lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "drifted right, entered the eastside parking lane, and partially departed the roadway",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "rear",
+        "Moving on which Way": "legally parked",
+        "Location after Crash": "still in its parking lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

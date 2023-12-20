@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Dodge Durango) contacts the rear of Vehicle 2 (Chevrolet Impala), and Vehicle 2 contacts the rear of Vehicle 3 (Saturn MPV).

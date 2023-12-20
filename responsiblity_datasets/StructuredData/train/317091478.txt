@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "city street",
+        "LaneType": "divided",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "3% uphill for V1, 3% downhill for V2",
+        "SpeedLimit": "56 kph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "ImpactSide": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "against the east curb of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "front",
+        "Moving on which Way": "east",
+        "Location after Crash": "rolled into the grass on the east roadside",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

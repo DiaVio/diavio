@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "divided",
+        "RoadShape": "curved",
+        "RoadSlope": "-7%",
+        "SpeedLimit": "104 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "hail-covered",
+        "Weather": "hailstorm"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side wheels",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "left road edge",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "counter-clockwise",
+            "Vehicle Action": "spin",
+            "Travel Speed": "97 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

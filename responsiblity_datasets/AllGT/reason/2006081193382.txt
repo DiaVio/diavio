@@ -1,0 +1,1 @@
+The reason for this is that V2 failed to yield and turned left across the path of V1 without giving V1 enough time to stop or avoid the collision. Additionally, V2's decision to turn left was made with an obstructed view, as reported by V1. This indicates that V2 did not take proper precautions before making the turn, which further supports their responsibility for the accident.

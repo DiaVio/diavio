@@ -1,0 +1,1 @@
+This is because Vehicle #1 ran a red light and collided with the right side of Vehicle #2, causing Vehicle #2 to rotate counterclockwise and impact the left side of Vehicle #1.

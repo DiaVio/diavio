@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided two-lane roadways",
+    "LaneType": "bituminous asphalt",
+    "RoadShape": "4-way suburban intersection",
+    "RoadSlope": "negative 2 percent slope (northbound road), positive 2 percent slope (eastbound road)",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "clear",
+    "Weather": "sunny"
+  },
+  "Vehicle1": {
+    "Impact Side": "right passenger area",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "final rest on its top against the westbound north curb and stop sign, facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "no",
+      "Direction": "east",
+      "Vehicle Action": "straight",
+      "Travel Speed": "32 kmph",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "final rest several meters north of point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "32 kmph",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

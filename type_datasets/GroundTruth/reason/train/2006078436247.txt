@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was turning left and the front of Vehicle 2 (V2) collided with the right side of V1. The impact caused V1 to rotate counterclockwise and the right side of V1 and the left side of V2 side slapped.

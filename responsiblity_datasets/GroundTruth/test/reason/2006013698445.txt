@@ -1,0 +1,1 @@
+The critical pre-crash event coded for V1 indicates that the driver of V1 failed to adequately surveil the intersection before proceeding. This means that even though V1 came to a stop at the intersection, they did not properly look for oncoming traffic, resulting in the collision with V2. Therefore, V1's inadequate surveillance and failure to see V2 is the reason for the crash.

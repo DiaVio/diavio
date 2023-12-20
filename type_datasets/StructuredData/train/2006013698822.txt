@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-lane, divided highway",
+        "LaneType": "Unmentioned",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "113 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Slick snow-covered roads",
+        "Weather": "Snowing very hard"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "In the ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "82-96 kmph (51-60 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

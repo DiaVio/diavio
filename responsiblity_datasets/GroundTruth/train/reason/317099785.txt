@@ -1,0 +1,1 @@
+The reason for this is that V1 was attempting to make a left turn across the path of V2 (the 1999 Honda Civic), which was traveling straight in the right lane. V1 failed to yield the right of way to V2, resulting in the collision.

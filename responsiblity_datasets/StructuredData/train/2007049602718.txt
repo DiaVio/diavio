@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Freeway",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Uphill",
+        "SpeedLimit": "104 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "No detrimental atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "West",
+        "Location after Crash": "Resting facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "West",
+        "Location after Crash": "Continued driving west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Yes"
+        }
+    }
+}

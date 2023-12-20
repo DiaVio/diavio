@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "one way",
+        "LaneType": "three lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "dark-lighted"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "82-97kmph (51-60mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "snow bank up against the barrier wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "98-112kmph (61-70mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

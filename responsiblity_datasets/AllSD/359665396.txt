@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided freeway",
+    "LaneType": "southbound lanes",
+    "RoadShape": "right curve on-ramp lane",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "raining"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "clockwise rotation",
+    "Location after Crash": "partially under left side of trailer facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound lane 4",
+    "Location after Crash": "partially in lane 5",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

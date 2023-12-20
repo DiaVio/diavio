@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Curve to the left",
+        "RoadSlope": "+6% grade",
+        "SpeedLimit": {
+            "Northbound": "72 kmph (45 mph)",
+            "Westbound": "64 kmph (40 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "North",
+        "Location after Crash": "Front against the guardrail and right side against the pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes, but experienced brake failure",
+            "Direction": "North",
+            "Vehicle Action": "Turning left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "West",
+        "Location after Crash": "Approximately 28 meters (92 feet) on the grass surface",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "West",
+            "Vehicle Action": "Going straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

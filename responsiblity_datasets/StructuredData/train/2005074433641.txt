@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-way intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Unmentioned",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry, level bituminous",
+        "Weather": "No adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front/middle right side",
+        "Moving on which Way": "North",
+        "Location after Crash": "Facing northeast with rear axle resting on southwest corner sidewalk",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front bumper",
+        "Moving on which Way": "South",
+        "Location after Crash": "Facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Traveling along right side and to the rear of a non-contact SUV",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

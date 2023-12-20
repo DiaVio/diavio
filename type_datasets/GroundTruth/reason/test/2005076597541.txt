@@ -1,0 +1,6 @@
+
+
+Justification:
+- Vehicle one (V1) was backing down the center turn lane and entered the second westbound lane, indicating a reversing or backing movement.
+- Vehicle two (V2) impacted the left side of V1 with its left front, suggesting that V1 reversed into V2.
+- Both vehicles came to rest in the westbound lanes, indicating that the collision occurred while V1 was backing up.

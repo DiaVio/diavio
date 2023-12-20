@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided concrete roadway",
+    "LaneType": "8-lanes on east/west road, 5 southbound lanes and 4 northbound lanes on north/south road",
+    "RoadShape": "intersection",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "wet from recent rain",
+    "Weather": "cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "front right corner",
+    "Moving on which Way": "north",
+    "Location after Crash": "southeast corner of the intersection, then moved to the first lane of southbound traffic and further south until it came to rest about 50-meters (164-feet) south of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "left turn",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "south",
+    "Location after Crash": "within the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+This single vehicle crash occurred on a rainy morning. The crash occurred on a three lane divided, wet, concrete highway. The right side is bordered with an asphalt shoulder, a concrete curb and a chain link fence. Just beyond the fence is a concrete river basin. The left side is bordered with a wood/metal guardrail. The roadway is designated 89 kmph (55 mph.). The roadway curves left. There is a warning sign indicating that the curve has an advisory speed of 64 kmph (40 mph).
+
+Vehicle one (V1) is a 2006 Nissan Altima 3.5 SE 4-door sedan. V1 was a stolen vehicle that was traveling north in an unknown lane. V1 departed the roadway to the right and impacted a concrete curb with its front plane. V1 continued north impacting the chain link fence with its front plane. V1 then rolled down the embankment over its right side and came to rest facing southwest on its wheels. V1 was towed with rollover damage. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1 fled the scene. No interview was conducted.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, off the edge of the road on the right side. The critical reason for the critical event was coded as a driver related factor: type of driver error unknown. The driver was too fast for conditions, specifically the wet roadway and curve, but no other factors are known for this driver. Poor directional control was also considered a factor for this driver.

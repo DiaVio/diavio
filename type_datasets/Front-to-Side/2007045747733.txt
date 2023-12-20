@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Four-way",
+    "RoadSlope": "25% slope",
+    "SpeedLimit": "Unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "Unmentioned",
+    "Weather": "Unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Resting on a grass embankment east of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Resting in southbound lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Left rear",
+    "Moving on which Way": "Stopped at a red light in northbound lane three",
+    "Location after Crash": "Resting straddling northbound lanes two and three",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate highway",
+    "LaneType": "Divided with concrete barrier wall",
+    "RoadShape": "Straight",
+    "RoadSlope": "Uphill slope greater than 2%",
+    "SpeedLimit": "105 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Towed",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Barely made contact with V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

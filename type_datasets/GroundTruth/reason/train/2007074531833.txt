@@ -1,0 +1,1 @@
+Vehicle 1 (V1) struck the rear of Vehicle 2 (V2) and then was struck in the rear by the front of Vehicle 3 (V3). This sequence of events indicates a Rear-End Collision.

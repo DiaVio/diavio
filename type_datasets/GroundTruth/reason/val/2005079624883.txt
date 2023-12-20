@@ -1,0 +1,1 @@
+This is because Vehicle one attempted a left turn and the front plane of Vehicle two contacted the right plane of Vehicle one, causing a collision between the front of one vehicle and the side of another ("T-bone" collision).

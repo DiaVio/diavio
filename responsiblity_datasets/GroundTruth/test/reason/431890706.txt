@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 was making a left turn across the path of Vehicle 1, which was proceeding straight. Vehicle 2 failed to yield the right of way to Vehicle 1, resulting in the collision.

@@ -1,0 +1,1 @@
+This is because Vehicle One (V1) turned left in front of Vehicle Two (V2), causing V2 to collide with the right side of V1. Additionally, V1 then traveled and struck the front of Vehicle Three (V3) in a head-on collision.

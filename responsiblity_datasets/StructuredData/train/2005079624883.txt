@@ -1,0 +1,45 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Undivided",
+        "LaneType": "Asphalt",
+        "RoadShape": "Curves right",
+        "RoadSlope": "Upward slope",
+        "SpeedLimit": {
+            "East/West Roadway": "56 kmph (35 mph)",
+            "North/South Roadway": "40 kmph (25 mph)",
+            "Highway Ramps": "104 kmph (65 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Facing southeast in the off-ramp's number three lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Left turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing southwest blocking the on-ramp number one lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

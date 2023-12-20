@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "3-lane westbound roadway",
+        "LaneType": "divided by a raised curb and grass island",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous, dry roadway",
+        "Weather": "bright and clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "rear of V2",
+        "Objectivebehavior": {
+            "Whether to Brake": "unsuccessfully",
+            "Direction": "forward",
+            "Vehicle Action": "straight",
+            "Travel Speed": "48 kmph (30 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "rear",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "rear of V3",
+        "Objectivebehavior": {
+            "Whether to Brake": "braced for the crash",
+            "Direction": "forward",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

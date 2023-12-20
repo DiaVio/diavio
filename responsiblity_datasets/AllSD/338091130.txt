@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "multi-lane interstate highway",
+    "LaneType": "inboard",
+    "RoadShape": "straight",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "rainy"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "center median",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "back area",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "inboard travel lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

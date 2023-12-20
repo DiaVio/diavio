@@ -1,0 +1,1 @@
+This is because Vehicle 1 changed lanes into Vehicle 2's lane, and the left side of Vehicle 1 was struck by the front of Vehicle 2. The collision occurred when the front of one vehicle (Vehicle 2) collided with the side of another vehicle (Vehicle 1) in a "T-bone" manner.

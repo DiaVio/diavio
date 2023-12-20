@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Primary arterial road",
+        "LaneType": "Non-divided roadway",
+        "RoadShape": "Straight and level on the west side, curved slightly right/north on the east side",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "72 kph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side near the back",
+        "Moving on which Way": "Originally eastbound, turning left onto the side road",
+        "Location after Crash": "Facing east in the westbound right turn only lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound in lane two",
+        "Location after Crash": "Stopped on the north paved shoulder of the arterial facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

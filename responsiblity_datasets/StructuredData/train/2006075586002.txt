@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "undivided",
+    "LaneType": "multiple lanes",
+    "RoadShape": "four-leg intersection",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "56 kph (35 mph) for westbound, 48 kph (30 mph) for northbound"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "left side",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "facing southeast in the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn right",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "facing northwest in lane one of southbound traffic",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

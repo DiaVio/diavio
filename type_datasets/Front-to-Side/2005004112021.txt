@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "T-intersection",
+        "LaneType": "Grass median",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": 45
+    },
+    "Environment": {
+        "RoadCondition": "Rain with light fog",
+        "Weather": "Overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left-front corner",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Facing east in the eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": 5,
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing east in the eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

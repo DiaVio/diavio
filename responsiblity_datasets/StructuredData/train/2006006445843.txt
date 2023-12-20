@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Expressway",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "80 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear quarter panel",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Struck concrete divider",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Base of exit ramp",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Skidded to the left and struck the concrete divider",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

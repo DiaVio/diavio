@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Bridge",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "Uphill 2% grade",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Pushed into V2",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Westbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "0 kmph",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Stopped",
+    "Location after Crash": "Pushed into V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Stopped",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "0 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

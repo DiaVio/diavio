@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Divided",
+    "RoadShape": "Four-leg",
+    "RoadSlope": "Downhill for southbound, Uphill for westbound",
+    "SpeedLimit": "64 kmph (40 kph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Dark with streetlights on, no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front and Left side",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Facing north-northwest on the west side of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Southbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Stopped, then proceeded westbound",
+    "Location after Crash": "Facing southwest in a parking lot",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Westbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+This crash occurred on a curve of a two lane undivided, dark, unlighted roadway with a posted speed limit of 64KMPH (40MPH) and suggested speed limit for that curve of 40KMPH (25MPH).
+
+The radius of the curve was 81 meters with a super-elevation of 3.7%. The weather was misting and the roadway was wet. This crash occurred on a weekday night. Police Reported Travel Speed is Not reported for V1.
+
+Vehicle #1 a 1999 GMC Pick-up Truck, was traveling on the two-lane roadway when it went off road to the left. The driver steered to the right and over-corrected. The vehicle went off the roadway to the left, contacted a small mound of dirt and rolled over 2 one quarter turns, landing on its roof facing a north-easterly direction.
+
+Vehicle #1, the 1999 GMC Pickup, was driven by a belted 41-year-old male who was transported to an area hospital, treated and released. The vehicle was towed due to damage. It should be noted here, the driver stated he has Sleep Apnea and uses CPAP treatment. He also stated he was tired prior to the start of this drive. Personnel at the scene stated they could smell "an overpowering odor of liquor" on the driver.
+
+The Critical Precrash Event for V1 was coded as: This Vehicle Traveling, Off the Roadway to the left. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Overcompensation.
+
+Police considered alcohol to be a factor in this case and the driver was tested for Ethanol content at the hospital (BAC of 0.218).

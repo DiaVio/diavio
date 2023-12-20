@@ -1,0 +1,44 @@
+<Crash>             ::=     <Road>; <Environment>; <Obstacles>; <Vehicles>; <Diagnosis>;
+
+<Road>              ::=     <RoadType>; <Lanes>; <RoadShape>; <RoadSlope>; <SpeedLimit>;
+<RoadType>          ::=     intersection | cityStreet | ruralRoad | 
+<Lanes>             ::=     ∅ | <Lane>; <Lanes>;
+<Lane>              ::=     [laneIdentifier] | unmentioned
+<RoadShape>         ::=     straight | curved | inclined | …
+<RoadSlope>         ::=     flat | uphill | downhill | …
+<SpeedLimit>        ::=     [numerical] | unmentioned
+
+
+<Environment>       ::=     <Weather>; <RoadCondition>; <TrafficSignals>; 
+<Weather>           ::=     sunny | rainy | foggy | …
+<RoadCondition>     ::=     dry | wet | icy | …
+<TrafficSignals>    ::=     red | yellow | green | unmentioned
+
+            
+<Obstacles>         ::=     ∅ | <Obstacle>; <Obstacles>;
+<Obstacle>
+<Type>           
+<Location>
+
+<Vehicles>        
+<Vehicle>
+
+<ImpactSide>
+<MovingOnWhichWay>
+<LocationAfterCrash> 
+<Behavior>
+		      
+
+<Direction>
+<VehicleAction>  
+<TravelSpeed>
+<WhetherToBrake>
+<AttemptedLaneCrossing>
+<IsAgainstRules>
+
+<Diagnosis>          
+
+<ResponsibleParty>
+<ReasonForLiability>
+<CrashCategory>
+<ReasonForCategory>           

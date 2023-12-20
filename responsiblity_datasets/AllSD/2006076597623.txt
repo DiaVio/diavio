@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "country roadway",
+        "LaneType": "two-lane",
+        "RoadShape": "left hand curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "89 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "asphalt constructed with curves and grades",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rested on its wheels heading in a north/easterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "crossed into the on-coming traffic lane, rotated clockwise, skidded sideways across the southbound lane, tripped and rolled right four quarter turns",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

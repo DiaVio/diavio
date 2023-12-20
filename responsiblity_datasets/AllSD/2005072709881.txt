@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "expressway",
+    "LaneType": "four-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "free of defects",
+    "Weather": "no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "left",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "rested in the third lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "change lanes",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "rested in the fourth lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "going straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

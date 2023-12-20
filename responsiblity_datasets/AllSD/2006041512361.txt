@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Off the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Swerved left and right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Not applicable",
+        "Moving on which Way": "Not applicable",
+        "Location after Crash": "Not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "Not applicable",
+            "Direction": "Not applicable",
+            "Vehicle Action": "Not applicable",
+            "Travel Speed": "Not applicable",
+            "is_against_rules": "Not applicable",
+            "Attempted Avoidance Maneuvers": "Not applicable",
+            "Attempted Lane Crossing": "Not applicable"
+        }
+    }
+}

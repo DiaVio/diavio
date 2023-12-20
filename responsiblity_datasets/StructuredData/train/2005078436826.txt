@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two way",
+        "LaneType": "five lane",
+        "RoadShape": "intersection",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": {
+            "westbound/eastbound": "56 kmph (35 MPH)",
+            "northbound/southbound": "72 kmph (45 MPH)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "number one southbound lane to the south of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "near the west side of the intersection facing in a southwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "64-72 kmph (40-45 MPH)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

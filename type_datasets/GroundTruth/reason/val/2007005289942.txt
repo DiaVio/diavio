@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was heading west and collided with the left front side of Vehicle 2 (V2), which was heading south. This collision occurred when V1 was crossing over the intersection and V2 was continuing straight through the intersection.

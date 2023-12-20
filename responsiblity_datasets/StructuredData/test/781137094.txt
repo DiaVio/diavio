@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "concrete",
+        "LaneType": "multi-lane interstate",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left (initial), front (primary)",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "against the guardrail facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "steered sharply left, struck the concrete center divider, veered across lanes, and then struck the guardrail",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

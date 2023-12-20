@@ -1,0 +1,55 @@
+{
+   "RoadNetWork":{
+      "RoadType":"four-legged intersection",
+      "LaneType":"divided",
+      "RoadShape":"level and straight",
+      "RoadSlope":"unmentioned",
+      "SpeedLimit":56
+   },
+   "Environment":{
+      "RoadCondition":"unmentioned",
+      "Weather":"dawn with streetlights on, no adverse atmospheric conditions"
+   },
+   "Vehicle1":{
+      "Impact Side":"right side",
+      "Moving on which Way":"eastbound in lane four",
+      "Location after Crash":"unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"unmentioned",
+         "Vehicle Action":"turning left at intersection",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"front",
+      "Moving on which Way":"westbound in lane three",
+      "Location after Crash":"unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"opposite direction",
+         "Vehicle Action":"going straight",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   },
+   "Vehicle3":{
+      "Impact Side":"front",
+      "Moving on which Way":"westbound in lane two",
+      "Location after Crash":"unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"yes",
+         "Direction":"right",
+         "Vehicle Action":"going straight",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   }
+}

@@ -1,0 +1,27 @@
+{
+  "RoadNetwork": {
+    "RoadType": "unmentioned",
+    "LaneType": "unmentioned",
+    "RoadShape": "curved",
+    "RoadSlope": "uphill",
+    "SpeedLimit": 35
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "near utility pole",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+This is because V1 was turning left and was struck on the right side by the front-end of V2 in the intersection, which is a collision where the front of one vehicle collides with the side of another.

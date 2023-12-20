@@ -1,0 +1,3 @@
+
+
+Justification: The front of Vehicle 2 collided with the right side of Vehicle 1 in the intersection, indicating a side impact.

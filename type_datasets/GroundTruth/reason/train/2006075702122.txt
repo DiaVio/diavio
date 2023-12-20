@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) was making a left turn at the intersection and its front struck the left side of vehicle two (V2) which was approaching from the opposite direction. This collision between the front of V1 and the side of V2 corresponds to a Front-to-Side Collision.

@@ -1,0 +1,39 @@
+RoadNetWork{
+    "RoadType": "unmentioned",
+    "LaneType": "unmentioned",
+    "RoadShape": "curved to the left",
+    "RoadSlope": "6% downhill grade",
+    "SpeedLimit": "72 kph (45 mph)"
+}
+Environment{
+    "RoadCondition": "dry asphalt",
+    "Weather": "clear"
+}
+Vehicle1{
+    "Impact Side": "left",
+    "Moving on which Way": "east",
+    "Location after Crash": "private driveway facing north",
+    "Objectivebehavior": {
+        "Whether to Brake": "unmentioned",
+        "Direction": "unmentioned",
+        "Vehicle Action": "steered to the right",
+        "Travel Speed": "posted speed limit",
+        "is_against_rules": "no",
+        "Attempted Avoidance Maneuvers": "unmentioned",
+        "Attempted Lane Crossing": "unmentioned"
+    }
+}
+Vehicle2{
+    "Impact Side": "front",
+    "Moving on which Way": "west",
+    "Location after Crash": "far side of the driveway facing south",
+    "Objectivebehavior": {
+        "Whether to Brake": "unmentioned",
+        "Direction": "unmentioned",
+        "Vehicle Action": "continued forward and to the left",
+        "Travel Speed": "approximately 105 kph (65 mph)",
+        "is_against_rules": "unmentioned",
+        "Attempted Avoidance Maneuvers": "unmentioned",
+        "Attempted Lane Crossing": "unmentioned"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential intersection",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "positive grade of 4%",
+        "SpeedLimit": "48kmph/30mph (east/west), 64kmph/40mph (north/south)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous, dry",
+        "Weather": "normal, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "east",
+        "Location after Crash": "facing northeast in the northbound lane within the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "brake switch off",
+            "Direction": "straight",
+            "Vehicle Action": "straight",
+            "Travel Speed": "23kmph/14mph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "east side of the roadway about 40m from the first harmful event",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

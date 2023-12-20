@@ -1,0 +1,6 @@
+
+
+Justification:
+- Vehicle 1 (V1), a Hyundai Elantra, lost control while attempting to change lanes and struck Vehicle 2 (V2) in lane four. This indicates a collision between the front of V1 and the side of V2, which is a typical scenario for a front-to-side collision or a "T-bone" collision.
+- Additionally, V2 veered off onto lane two and struck Vehicle 3 (V3) on its left side. Although the critical pre-crash event for V3 was not coded, this secondary collision involving the left side of V3 further supports the classification of a front-to-side collision.
+- The description of the accident does not fit into any other specific type, such as a Rear-End Collision or a single-vehicle accident, making a front-to-side collision the most suitable classification in this case.

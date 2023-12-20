@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "intersection",
+        "LaneType": "multiple lanes",
+        "RoadShape": "curving right",
+        "RoadSlope": "level",
+        "SpeedLimit": {
+            "north-south": "56 kmph",
+            "east-west": "40 kmph"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "asphalt, level and dry",
+        "Weather": "daylight, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "contacting a concrete wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "slightly above the posted speed limit",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right side",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "contacting a utility pole and a stop sign post",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "west",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

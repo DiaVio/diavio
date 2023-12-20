@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided highway",
+        "LaneType": "three lane",
+        "RoadShape": "curve to the right",
+        "RoadSlope": "negative grade",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "off the roadway facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "brakes failed",
+            "Direction": "counterclockwise",
+            "Vehicle Action": "lost control",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Curved to the left",
+        "RoadSlope": "Negative grade on access road",
+        "SpeedLimit": "64 mph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear side",
+        "Moving on which Way": "North",
+        "Location after Crash": "Adjacent private lot",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Resting in original travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

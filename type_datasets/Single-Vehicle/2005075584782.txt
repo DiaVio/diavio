@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided",
+    "LaneType": "two-lane",
+    "RoadShape": "curve to the right",
+    "RoadSlope": "uphill",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "asphalt",
+    "Weather": "no adverse weather conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "between trees in canal, facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "northeasterly",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

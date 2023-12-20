@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 (V1) was making a left turn and failed to see Vehicle 2 (V2) approaching in lane 1 of the westbound roadway. V1's front right then made contact with the front left of V2. This indicates a collision between the front of one vehicle (V1) and the side of another vehicle (V2), which is characteristic of a front-to-side collision.

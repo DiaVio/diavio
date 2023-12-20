@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-lane road",
+        "LaneType": "East and westbound travel lanes",
+        "RoadShape": "Level with a curve warning sign for eastbound traffic and a 7% positive grade with curvature to the right for westbound traffic",
+        "RoadSlope": "0% grade at point of impact",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front corner",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Resting in the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left rear wheel and wheel well",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Pulled over into lane one and brought the vehicle to a stop",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Left front corner",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Resting in the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

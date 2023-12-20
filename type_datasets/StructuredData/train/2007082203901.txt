@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Arterial road with a center turn lane and a city street",
+        "RoadShape": "Straight",
+        "RoadSlope": "-6% downhill grade east/west",
+        "SpeedLimit": {
+            "East/West": "40 kmph (25 mph)",
+            "North/South": "18 kmph (30 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Paved with concrete",
+        "Weather": "Partly cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "East",
+        "Location after Crash": "Parking lot",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "North",
+        "Location after Crash": "Utility pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

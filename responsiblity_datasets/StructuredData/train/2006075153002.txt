@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Freeway",
+        "LaneType": "Through lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "104 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "On-ramp merge lane",
+        "Location after Crash": "Front end in lane three, back end in lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "64 kmph (40 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left end",
+        "Moving on which Way": "Westbound in lane two",
+        "Location after Crash": "Front end in lane one, back end in lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "64 kmph (40 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

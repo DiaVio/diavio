@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) failed to stop behind Vehicle 2 (V2) and the front corner of V1 struck the rear corner of V2.

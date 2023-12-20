@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Expressway",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Resting against the concrete barrier facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Spinning counterclockwise out of control",
+            "Travel Speed": "Above the posted speed limit",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right side near rear quarter panel",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Resting forward of V1 facing northbound on the right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Northbound",
+            "Vehicle Action": "Going straight",
+            "Travel Speed": "97 kmph (60 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

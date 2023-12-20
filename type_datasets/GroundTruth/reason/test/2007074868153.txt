@@ -1,0 +1,1 @@
+This is because the front of vehicle 2 (V2) collided with the side of vehicle 3 (V3), resulting in both vehicles coming to rest partially on the south curb and partially in eastbound lane 1.

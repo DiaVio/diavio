@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "T-intersection",
+        "LaneType": "Four lane east/westbound roadway divided by a grass median with a two lane north/southbound undivided roadway",
+        "RoadShape": "Straight",
+        "RoadSlope": "4% slope uphill on eastbound lanes",
+        "SpeedLimit": {
+            "East/Westbound": "72 kmph (45 mph)",
+            "North/Southbound": "56 kmph (35 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Facing east on the right side of the road approximately 18 meters east of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing northeast on the left shoulder approximately 14 meters northeast of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

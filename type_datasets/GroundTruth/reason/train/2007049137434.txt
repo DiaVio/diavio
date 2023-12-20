@@ -1,0 +1,1 @@
+This is because the crash involved only one vehicle (Vehicle 1) and no other entities were mentioned. The driver of Vehicle 1 lost control while making a u-turn and subsequently collided with a tree.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Southbound",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Spun out of control",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Southbound",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Pulled over to right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Southbound",
+            "Vehicle Action": "Maintain lane",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

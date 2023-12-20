@@ -1,0 +1,11 @@
+This crash occurred on a two lane undivided roadway with a curve to the right. The posted speed limit for Vehicle #2 was 72KMPH (45MPH) and 48KMPH (30MPH) for Vehicle #1. It was raining and the roadway was wet. This crash occurred on a weekday afternoon.
+
+Vehicle # 1, a 2000 Chrysler Cirrus was traveling west and was making a left turn at the intersection. Vehicle #2 a Toyota Rav 4 was traveling north when Vehicle 2's front contacted Vehicle #1 in its left rear. Vehicle #1 came to rest on the west shoulder facing southwest. Vehicle #2 came to rest facing north on the east shoulder. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The Chrysler Cirrus (Vehicle #1) was driven by a belted 26 year old female who was transported to an area hospital, treated and released. A belted 36-year-old male passenger in the front right seat was not injured. This driver was not available for an interview after repeated attempts by the researcher. A male at the telephone number given stated 'no one by that name lives here'.
+
+The Critical Precrash Event coded to Vehicle #1 was: “this vehicle turning left at intersection”. The Critical Reason for the Critical Precrash Event was coded as: “type of driver error unknown”.
+
+The Toyota Rav 4 (Vehicle #2) was driven by a belted 20-year-old female who was not injured. This driver stated she had observed Vehicle #1 at the intersection stop sign and assumed she would yield the right of way.
+
+The Critical Precrash Event coded to Vehicle #2 was: “other vehicle encroachment, from crossing street, turning into opposite direction". The Critical Reason for the Critical Precrash Event was not coded to this vehicle.

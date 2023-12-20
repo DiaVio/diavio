@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "entrance ramp",
+        "RoadShape": "curved",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "113 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "merging onto the interstate",
+        "Location after Crash": "24 meters off the road at the interstate fence line",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "southwesterly",
+            "Vehicle Action": "slid off the road",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

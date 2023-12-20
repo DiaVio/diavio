@@ -1,0 +1,1 @@
+The driver of V2 was attempting to make a U-turn, which is an illegal maneuver, and collided with V1 (the Chrysler Sebring) that was traveling in the correct lane. V1 had the right of way, and V2's illegal U-turn caused the collision.

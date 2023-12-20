@@ -1,0 +1,1 @@
+This is because V1's front left struck the front of V2, indicating that the front of one vehicle (V1) collided with the side of another vehicle (V2) in a "T-bone" collision.

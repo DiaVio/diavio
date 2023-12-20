@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) failed to stop at a stop sign and was struck on its left side by the front of Vehicle 2 (V2), which was traveling straight through the intersection. The description of the collision, with V2 rotating counterclockwise and V1 rotating clockwise, is consistent with a front-to-side collision.

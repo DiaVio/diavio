@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Two lanes",
+    "RoadShape": "Slight right-hand curve",
+    "RoadSlope": "5% uphill grade",
+    "SpeedLimit": "105 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry asphalt",
+    "Weather": "Daylight hours"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound in lane one",
+    "Location after Crash": "Resting against the guardrail facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "North",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "137 kmph (85 mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Westbound in lane one",
+    "Location after Crash": "Stopped in lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Westbound in lane two",
+    "Location after Crash": "Crashed through the guardrail on the south side of the roadway and came to rest facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

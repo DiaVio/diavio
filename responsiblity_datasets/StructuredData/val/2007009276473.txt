@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "six-lane roadway",
+        "LaneType": "divided by a grass median",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous roadway",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front side",
+        "Moving on which Way": "stopped at the intersection",
+        "Location after Crash": "partially on the embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn against the red light",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right front side",
+        "Moving on which Way": "traveling south in lane four",
+        "Location after Crash": "partially on the embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "swerved to miss V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

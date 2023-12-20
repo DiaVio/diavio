@@ -1,0 +1,5 @@
+
+
+Justification:
+- V1, the Nissan Altima, lost control and impacted the back of V2, the Toyota Camry.
+- This indicates that V1 collided with the rear of V2, which is characteristic of a Rear-End Collision.

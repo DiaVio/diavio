@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "two way street",
+        "LaneType": "three lanes",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "icy",
+        "Weather": "snowing"
+    },
+    "Vehicle1": {
+        "ImpactSide": "right side front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "facing south across the two southbound one way lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "front left",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "facing mainly south in the middle of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+The reason for this is that V1 lost control while negotiating the curve, swerving left and right before rotating counterclockwise and crossing into the opposite lane of travel. This loss of control ultimately led to the collision with vehicle two (V2), the 2007 Saturn Vue.

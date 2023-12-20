@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban",
+        "LaneType": "Two-lane",
+        "RoadShape": "T-intersection",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "48kmph (30mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Partially paved and partially gravel in the southbound lane",
+        "Weather": "Daylight and dry on a weekend evening"
+    },
+    "Vehicle1": {
+        "Impact Side": "Head-on",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "At impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Insufficient braking",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Attempted to turn right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Head-on",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "At impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Slowing to make a left turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

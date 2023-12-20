@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane",
+        "LaneType": "unmentioned",
+        "RoadShape": "left turning curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": 50
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "south roadside, within the drainage ditch/culvert area",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+This single-vehicle crash occurred on an undivided, straight, level roadway that consists of one lane in each direction. The speed limit for this roadway is 40 kmph (25 mph). It was dark with streetlights on at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1991 Ford Tempo, was westbound in lane one. Vehicle two (V2), a 1997 Buick LeSabre, was parked (unoccupied) facing eastbound on the south side of the roadway. V1 traveled to the left and the front struck the front of V2. V1 then rotated counterclockwise and rolled over to the right two quarter-turns. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-five-year-old female, was not interviewed. Her medical record indicates a BAC reading of .302 one hour after the crash. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; over the lane line on left side of travel lane." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."

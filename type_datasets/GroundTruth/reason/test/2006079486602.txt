@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) as V1 was turning left into a private drive while V2 was approaching in the first lane. The impact occurred between the front of V2 and the right side of V1, resulting in both vehicles rotating clockwise.

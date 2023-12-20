@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial",
+        "LaneType": "Two-way",
+        "RoadShape": "Intersection",
+        "RoadSlope": "Level",
+        "SpeedLimit": 40
+    },
+    "Environment": {
+        "RoadCondition": "Paved with asphalt",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear",
+        "Moving on which Way": "East",
+        "Location after Crash": "North/west corner",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turning left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "West",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

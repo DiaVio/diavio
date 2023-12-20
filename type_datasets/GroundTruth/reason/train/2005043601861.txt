@@ -1,0 +1,1 @@
+This is because Vehicle 2 (Ford Focus) collided with the right side of Vehicle 1 (Toyota Camry) when Vehicle 1 made a left turn at the intersection.

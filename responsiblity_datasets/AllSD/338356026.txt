@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "suburban bituminous road",
+    "LaneType": "two-way, two-lane",
+    "RoadShape": "right curve",
+    "RoadSlope": "2% downhill grade",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "blowing snow"
+  },
+  "Vehicle1": {
+    "Impact Side": "front left",
+    "Moving on which Way": "southwest",
+    "Location after Crash": "impacted a tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

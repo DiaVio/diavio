@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Straight",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Level",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "40 kmph (25 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Under construction",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Near the impact facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes (but inadvertently pressed the gas pedal)",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Going straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Near the impact facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Going straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Near the impact facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Going straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

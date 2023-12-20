@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Undivided",
+        "LaneType": "Two lanes in the westbound direction, one lane in the eastbound direction",
+        "RoadShape": "Curved to the right",
+        "RoadSlope": "Uphill grade in the westbound lanes, grass embankment with a downhill grade on the right side",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Heavy rain",
+        "Weather": "Dusk"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Westbound in lane two",
+        "Location after Crash": "Off the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

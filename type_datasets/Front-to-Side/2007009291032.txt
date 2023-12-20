@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Highway",
+        "LaneType": "Two lanes",
+        "RoadShape": "Right curve",
+        "RoadSlope": "2% downhill slope",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Standing water on roadway",
+        "Weather": "Heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear side",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Median at the crossover",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "80 kmph (50 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

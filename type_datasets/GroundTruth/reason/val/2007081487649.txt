@@ -1,0 +1,2 @@
+
+Justification: Vehicle 1 initiated a U-turn in the intersection and was struck in the left side by the front of Vehicle 2. This collision between the front of one vehicle (V2) and the side of another vehicle (V1) is characteristic of a front-to-side collision, also known as a "T-bone" collision.

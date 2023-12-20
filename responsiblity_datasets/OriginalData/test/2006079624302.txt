@@ -1,0 +1,7 @@
+A single vehicle daytime collision occurred on a Saturday morning. The collision occurred on the off-ramp of a northbound state highway. The off-ramp is one-way, dry, asphalt, has a downgrade slope, curves right with a radius of 45 meters (148 feet) and a super elevation of 8%. The ramp consists of two lanes. The off-ramp has a warning sign that indicates the curvature. An advisory speed limit sign designates the off-ramp as a 40 kph (25 mph) zone.
+
+Vehicle one (V1), a 2001 Chevrolet, four-door, Lumina with one occupant, was traveling eastbound in the number one lane of the off-ramp. As V1 negotiated the curve, it departed the left edge of the off-ramp. V1 rolled onto its left plane as it completed five-quarter turns. The vehicle came to rest on its left plane facing in a southwesterly direction. The driver was not transported. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1 is a 67-year-old female traveling from home to her ex-husband's residence. The driver is retired from work. The driver wears eyeglasses for a myopic condition, but was not wearing her eyeglasses at the time of the collision. The driver takes Wellbutrin for depression. She took the medication the morning of the collision. The driver stated that she was traveling at approximately 112 kph (70 mph) on the curve.
+
+The critical pre-crash event for V1 was coded "this vehicle traveling-off the edge of the road on the left side." The critical reason was coded "too fast for curve/turn."

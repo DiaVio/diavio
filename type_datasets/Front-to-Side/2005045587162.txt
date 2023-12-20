@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban business roadway",
+        "LaneType": "six-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "72kph (45mph)"
+    },
+    "Environment": {
+        "RoadCondition": "raining and wet",
+        "Weather": "rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "west",
+        "Location after Crash": "facing southeast in the southeast corner of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "east",
+        "Location after Crash": "facing south in the southbound lane of the intersecting road on the south side of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

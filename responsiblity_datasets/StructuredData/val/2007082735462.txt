@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four lane, two-way road",
+        "LaneType": "Northbound lane two",
+        "RoadShape": "Approaching an intersection",
+        "RoadSlope": "5% pre-crash, 4% at impact",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Asphalt paved",
+        "Weather": "Clear sky"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "North",
+        "Location after Crash": "Between V2 and V3",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Stopped due to failed brakes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "North",
+        "Location after Crash": "Pushed forward",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Stopped at intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+  "RoadNetwork": {
+    "RoadType": "two-way",
+    "LaneType": "two-lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": {
+      "V1": "level",
+      "V2": "slightly negative",
+      "V3": "level"
+    },
+    "SpeedLimit": 72
+  },
+  "Environment": {
+    "RoadCondition": "construction zone",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "contacted front of V2, then contacted left front of V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "crossed over center double yellow lines",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "south",
+    "Location after Crash": "contacted front of V1",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "right rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "came to final rest after contact with V1",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped due to construction",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

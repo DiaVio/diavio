@@ -1,0 +1,23 @@
+BACKGROUND:
+
+Description:
+
+This case was initiated in response to a report of an 18 year old male driver, injured in a vehicle crash, who was admitted to a trauma center. Vehicle 1 was a 2002 Ford Explorer (SUV).
+
+Collision Type:
+
+A vehicle vs. two posts, overturn and an utility pole
+
+TECHNICAL SUMMARY:
+
+This single-vehicle collision occurred on a five-lane, undivided, east/west roadway. The posted speed limit for Vehicle 1 was 81 KPH (50 MPH). Vehicle 1 was traveling westbound just prior to leaving the roadway. The westbound travel lanes have a left-handed curve, are level and free of defects. The roadway was icy and it was sleeting at the time of the crash.
+
+Vehicle 1, a 2002 Ford Explorer (SUV), was being driven westbound on the east/west roadway by an 18 year old male driver (case occupant). The driver was restrained by the available lap and shoulder restraint along with a driver's side curtain air bag that deployed. The right side curtain air bag also deployed during the crash sequence. It is unknown when the side curtain air bags deployed during this multiple impact crash. There were three left side impacts (1st, 2nd and 4th events) as well as a rollover/overturn (3rd event) with the vehicle's left side leading. After the final impact with a utility pole (4th event,), which took place during the initial roll, the vehicle overturned again (1 quarter turn with the right side leading) coming to its final rest position on its right side.
+
+The collision began with Vehicle 1 departing the roadway to the right and striking two posts that are part of the wooden embankment near a foot bridge (1st and 2nd events) with its left side. Vehicle 1 then overturned with the left side leading (3rd event). The left side contacted the ground before the vehicle went airborne. While still airborne Vehicle 1 struck a utility pole with its left side plane (4th event). After the 4th event, Vehicle 1 overturned onto the vehicle's right side then slid to the vehicle's final rest position on the north shoulder of the roadway, facing northeast.
+
+The 1st event, a post vs. the left front fender area was assigned a CDC of 09LFEN2 (point defined). The 2nd event with the second struck post was assigned a CDC of 09LPEN1(point defined). The 3rd event was the overturn, and it was assigned a CDC of 00LDAO3. The 4th event with the utility pole was assigned a CDC of 09LPAN3. Also, the right side of Vehicle 1 also exhibited rollover damage.
+
+The driver of Vehicle 1 sustained minor to major injuries in this collision and was transported to an area hospital, but was subsequently transported to a trauma center for the treatment of his injuries. He was admitted to the trauma center for treatment and observation. The case occupant was released from the trauma center on the 10th day post-crash.
+
+Vehicle 1 was towed from the collision scene due to the damage sustained in this collision.

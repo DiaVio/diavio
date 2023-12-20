@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) ran through the stop sign and was impacted on the right rear by the front of Vehicle 2 (V2), causing V1 to rotate clockwise. This indicates that the front of V2 collided with the side of V1, resulting in a T-bone collision.

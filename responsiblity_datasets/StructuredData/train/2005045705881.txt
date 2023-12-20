@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial Highway",
+        "LaneType": "Five-lane",
+        "RoadShape": "Curve left",
+        "RoadSlope": "Level",
+        "SpeedLimit": "72 kmph (45mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Normal",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side near the front end",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing north in the right westbound lane about five meters north of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side near the front end",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Facing northwest in its original travel lane about 12 meters west of POI",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "35 mph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

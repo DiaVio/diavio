@@ -1,0 +1,11 @@
+The crash occurred in the center of a four-way intersection. There were three eastbound lanes and two westbound lanes. There were two southbound lanes and two northbound lanes. All roadways were bituminous and level, the speed limits for the east/westbound lanes were 72 kmph (45 mph), the north/southbound lanes were 80 kmph (50 mph). The intersection was controlled by traffic lights on each corner. It was morning on a weekday. The roads were dry and traffic flow was moderate.
+
+V1, a 2004 Hyundai Santa Fe with one occupant, was traveling east when it entered the intersection. V2, a 2004 Toyota Matrix with two occupants was traveling south when it entered the intersection. V2's front contacted V1 on the left side. The impact caused V1 to skid laterally rotating counter-clockwise before flipping onto its roof and sliding to rest some 43 meters further east. Neither vehicle attempted an avoidance maneuver. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, driven by a 40-year-old female who reported an injury to the head and was transported. She stated to law enforcement personnel that she believed that she had the green light when she entered the intersection. Police witness statements show that the driver of V1 did not have the green light and that she passed through the intersection against the red signal. V1 made no avoidance maneuvers.
+
+The Critical Precrash Event for V1 was "other vehicle encroachment from crossing street across path". The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor was that the driver disregarded the traffic control. No following associated factors were assigned
+
+The Driver of V2, a 28-year-old female, reported a complaint of pain and was transported to the hospital. The occupant of V2, a three-year-old male, reported no injuries but was transported for observation. The driver stated that she was stopped at the intersection and when the light turned green she proceeded through when V1 ran the signal and she struck it struck her on the left side causing it to rollover. V1 made no avoidance maneuver.
+
+The Critical Precrash Event for V2 was "this vehicle traveling-crossing over (passing through) intersection". The Critical Reason was coded “inadequate surveillance”. No following associated factors were assigned.

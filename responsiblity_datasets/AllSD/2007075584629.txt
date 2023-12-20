@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided interstate highway",
+        "LaneType": "three eastbound travel lanes",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous, dry",
+        "Weather": "daylight hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rested on its wheels facing eastbound on the left shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "straight",
+            "Vehicle Action": "traveled straight",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "rear",
+        "Moving on which Way": "stopped",
+        "Location after Crash": "came to final rest at impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "unmentioned",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

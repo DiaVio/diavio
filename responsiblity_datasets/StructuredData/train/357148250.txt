@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "concrete",
+        "LaneType": "three-lane with a bike lane",
+        "RoadShape": "approaching a drawbridge with a metal lifting-deck",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front-right bumper corner",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "facing east straddling the northbound traffic and bike lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "crossed metal deck, entered clockwise yaw, crossed into bike-lane, mounted a barrier curb, struck a light pole",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

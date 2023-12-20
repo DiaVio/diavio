@@ -1,0 +1,25 @@
+BACKGROUND:
+
+Description:
+
+This case was initiated in response to a report of a 47 year old male driver and a 38 year old female passenger, both of which were injured in a single vehicle crash. The 47 year old male driver is 175.0 centimeters (69.0 in) in height and weighs 73 kilograms (160 lbs.). The 38 year old female passenger is 173.0 centimeters (68.0 in) in height and weighs 68 kilograms (150 lbs.). Vehicle 1 was a 2002 Chevrolet Silverado pickup.
+
+Collision Type:
+
+A vehicle vs. a mailbox vs. a fence vs. a pole
+
+TECHNICAL SUMMARY:
+
+This single-vehicle collision occurred on a divided roadway. There are two southbound travel lanes and one northbound travel lane. The trafficway is divided by a flush median (painted yellow lines). The posted speed limit for Vehicle 1 was 72 KPH (45 MPH). Vehicle 1 was traveling southbound on the divided trafficway just prior to the vehicle's departure to the right side (west side) of the roadway. The two southbound travel lanes, prior to the departure area, are graded and free of any defects.
+
+Vehicle 1, a 2002 Chevrolet Silverado pickup, was being driven southbound on the two-lane roadway by a 47 year old male driver (case occupant #1). The driver was restrained by the available lap and shoulder restraint along with the driver's frontal air bag. The second occupant of the case vehicle was seated in the right front occupant seating position. This occupant was a 38 year old female (case occupant #2). She was restrained by the available lap and shoulder restraint along with the passenger's frontal air bag. Both of the frontal air bags deployed during the impact with the pole (3rd event). There were two rear seat occupants. The left rear occupant was a 6 year old female and the right rear occupant was an 8 year old male. Both rear seat occupants were restrained by the available lap and shoulder restraints. Vehicle 1 was traveling at a speed estimated at 69 KPH (43 MPH) at the time of impact with the pole (3rd event). This estimated speed came from the EDR (event data recorder) download. The estimated speed was recorded at the one second sample interval prior to the EDR's algorithm enable (AE).
+
+The collision began with the driver of Vehicle 1 apparently having a seizure and losing control of the case vehicle. The case vehicle departed the right side (west side) of the roadway striking a mailbox with the left outside rearview mirror (1st event). The case vehicle traveled south approximately 17 meters (55 ft) and struck a wood fence with its front end (2nd event). Vehicle 1 continued to travel south approximately another 38 meters (125 ft), across a parking lot, impacting a pole with its front end (3rd event). After the 3rd event, Vehicle 1 rotated counterclockwise and came to a final rest south of the pole, facing northeast.
+
+The estimated Delta V for Vehicle 1, for the 3rd event (pole impact), was computed, using the barrier algorithm of WinSmash, as 28 kilometers per hour (17 MPH). The result appeared low for this impact. Vehicle 1 was assigned a Collision Deformation Classification (CDC) of 12FLEE5 and a Principal Direction of Force (PDOF) of 000 degrees. The maximum crush depth was 121.0 centimeters (47.6 in.) located above the bumper at C1.
+
+The other events involving the case vehicle were assigned the following Collision Deformation Classifications (CDC). The 1st event with a mailbox vs. the left outside rearview mirror (sideswipe type of damage), was assigned a CDC of 12LPGS2 (point defined). The 2nd event was with a wood fence vs. the front end, was assigned a CDC of 12FDEW1. The 2nd event damage was masked by the front end damage from the impact with the pole (3rd event); however the damage would have been minor and that is the reason a collision deformation classification was assigned for the fence impact.
+
+Both the driver (case occupant #1) and the right front occupant (case occupant #2) of Vehicle 1 sustained minor to major injuries in this crash. The case occupants were transported to a trauma center where they were admitted for treatment and observation. The driver (case occupant #1) was released from the trauma center 7 days post crash. The right front occupant (case occupant #2) was released from the trauma center 11 days post crash.
+
+Vehicle 1 was towed from the scene due to the damage sustained in this collision.

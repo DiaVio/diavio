@@ -1,0 +1,69 @@
+{
+    "Road Network": {
+        "Road Type": "urban freeway",
+        "Lane Type": "divided",
+        "Road Shape": "level",
+        "Road Slope": "unmentioned",
+        "Speed Limit": "97 kph (60 mph)"
+    },
+    "Environment": {
+        "Road Condition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle 1": {
+        "Impact Side": "rear",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "jackknifed to the left and struck the right side of vehicle four",
+        "Objective Behavior": {
+            "Whether to Brake": "no",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "Is against Rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle 2": {
+        "Impact Side": "rear",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "struck the back of a fifth wheel trailer being pulled by vehicle three",
+        "Objective Behavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "stopped in traffic lane",
+            "Travel Speed": "unmentioned",
+            "Is against Rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle 3": {
+        "Impact Side": "rear",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "unmentioned",
+        "Objective Behavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "stopped in traffic lane",
+            "Travel Speed": "unmentioned",
+            "Is against Rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle 4": {
+        "Impact Side": "right side of cargo box",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "unmentioned",
+        "Objective Behavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "stopped in traffic lane",
+            "Travel Speed": "unmentioned",
+            "Is against Rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

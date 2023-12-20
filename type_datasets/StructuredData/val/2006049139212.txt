@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way, two-lane, undivided roadway",
+        "LaneType": "Unmentioned",
+        "RoadShape": "Left curve in the westbound direction of travel",
+        "RoadSlope": "+3.28%",
+        "SpeedLimit": {
+            "East/West Roadway": "48 kmph (30 mph)",
+            "North/South Roadway": "64 kmph (40 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry, traveled asphalt",
+        "Weather": "No adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Crossing over (passing through) intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Rotated clockwise and came to rest facing southwest in the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Crossing street across path",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

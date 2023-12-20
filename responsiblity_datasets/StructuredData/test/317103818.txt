@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "residential",
+    "LaneType": "two",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "32 kph (20 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry asphalt",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal plane",
+    "Moving on which Way": "east",
+    "Location after Crash": "just forward of the poles",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

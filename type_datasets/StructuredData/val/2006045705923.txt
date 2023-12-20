@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "secondary arterial",
+        "LaneType": "two-way, two-lane road",
+        "RoadShape": "straight",
+        "RoadSlope": "positive 3% grade if traveling east, leveled off at crash location",
+        "SpeedLimit": "48kph (30mph) on arterial road, 24kph (15mph) on intersecting road"
+    },
+    "Environment": {
+        "RoadCondition": "wet roads with loose gravel",
+        "Weather": "overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "east",
+        "Location after Crash": "facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "turning left (west)",
+        "Location after Crash": "facing southwest in westbound travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

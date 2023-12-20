@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural secondary arterial road",
+        "LaneType": "one lane in each direction",
+        "RoadShape": "curve right onto a bridge",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "72kph/45mph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight with heavy glare from the southwest reflecting from the lake's surface"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "west",
+        "Location after Crash": "rested at impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "east",
+        "Location after Crash": "turned around on the bridge",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

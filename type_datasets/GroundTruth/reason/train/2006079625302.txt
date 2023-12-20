@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted a left turn at the intersection and its front plane contacted the left plane of Vehicle 2 (V2), which was traveling in the opposite direction. This collision is commonly referred to as a "T-bone" collision, where the front of one vehicle collides with the side of another.

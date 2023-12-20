@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two-lane",
+    "LaneType": "two-way",
+    "RoadShape": "curvey",
+    "RoadSlope": "downward",
+    "SpeedLimit": "15 mph"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal",
+    "Moving on which Way": "south",
+    "Location after Crash": "tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

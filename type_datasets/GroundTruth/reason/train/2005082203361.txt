@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) when V1 was turning left in the northbound lane and V2 was crossing the intersection going southbound. The front of V1 collided with the side of V2, which is characteristic of a Front-to-Side collision or a "T-bone" collision.

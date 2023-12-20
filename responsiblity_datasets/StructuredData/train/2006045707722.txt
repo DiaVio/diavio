@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Primary Arterial",
+        "LaneType": "Two-way/Two-lane",
+        "RoadShape": "Curved",
+        "RoadSlope": "Negative three percent grade",
+        "SpeedLimit": "72kph (45mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "Turning left from a private drive to head east",
+        "Location after Crash": "Near impact, generally facing intended travel direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "East",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "Traveling west on the arterial road",
+        "Location after Crash": "Partially straddling the north fog line at final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "West",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

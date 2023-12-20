@@ -1,0 +1,1 @@
+This is because the driver of V1 failed to stop in time and hit the back of V2, causing a chain reaction where V2 was pushed into the back of V3.

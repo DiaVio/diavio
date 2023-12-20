@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Undivided",
+        "RoadShape": "Meeting place for 2 streets",
+        "RoadSlope": "Slight uphill grade on northbound street",
+        "SpeedLimit": {
+            "Northbound Street": "40 kmph (25 mph)",
+            "East/Westbound Street": "48 kmph (30 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front passenger side",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Northbound street travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Attempting to make a left turn onto the northbound street",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left portion",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Veered into a wooden pole on the northeast corner of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

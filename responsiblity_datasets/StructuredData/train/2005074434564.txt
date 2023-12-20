@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way",
+        "LaneType": "Three-lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "V1: Uphill, V2: Downhill",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Sleet, snow, and ice",
+        "Weather": "Snowing, sleeting, gusty crosswinds"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Lane one of northbound traffic, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Crossed into oncoming lane",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "North",
+        "Location after Crash": "Lane one of northbound traffic, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

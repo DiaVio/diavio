@@ -1,0 +1,1 @@
+Single-Vehicle Accident - This accident involves only one vehicle (V1) and no other entities. The driver of V1 went off the road and struck a tree on the right front side, resulting in the vehicle spinning and coming to a rest in the southbound lane. The accident does not involve any other vehicles or entities.

@@ -1,0 +1,1 @@
+The reason for this is that V1 failed to look far enough ahead to recognize the congested traffic flow and was distracted by exterior factors, specifically looking at the two broken down cars on the right side of the road. V1 did not brake and steer right in time to avoid colliding with V2, resulting in the rear-end collision.

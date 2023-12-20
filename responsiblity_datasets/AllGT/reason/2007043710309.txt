@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver made a false assumption of other road users' actions. Despite the malfunctioning traffic signals and congested traffic, V1 proceeded into the intersection with an obstructed view and without ensuring that all southbound traffic had come to a stop. This decision error led to the collision with V2.

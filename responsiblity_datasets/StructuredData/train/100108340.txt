@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "multi-lane, divided interstate",
+        "LaneType": "three lanes for westbound travel",
+        "RoadShape": "straight",
+        "RoadSlope": "steep asphalt/earth embankment along the north shoulder",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "overturned on its top on the same side of the ramped structure",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "steered left abruptly, steered right abruptly",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "driven from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "made some lane changes, came up along the right side of V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

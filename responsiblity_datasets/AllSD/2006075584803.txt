@@ -1,0 +1,69 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided",
+    "LaneType": "multi-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "64 kmph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "rested forward of impact location",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "approaching stopped vehicles",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "rested forward of impact location",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped behind V3",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "rested forward of impact location",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped for traffic",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "rested forward of impact location",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped for red light",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way road",
+        "LaneType": "One lane in each direction",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "48kmph (30mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Clear",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Final rest against a fence on the sidewalk",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Veered into eastbound lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Legally parked and unoccupied",
+        "Location after Crash": "Left side of the Ford E-Series Van",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Legally parked and unoccupied",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

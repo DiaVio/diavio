@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the right side of Vehicle 2 (V2), causing V2 to rotate clockwise and the left side of V2 to strike the front of Vehicle 3 (V3). This collision involved the front of one vehicle (V1) colliding with the side of another vehicle (V2), which is characteristic of a front-to-side collision.

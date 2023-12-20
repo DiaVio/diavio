@@ -1,0 +1,1 @@
+The reason for this is that the driver of Vehicle 1 swerved left for unknown reasons, possibly to avoid an object, and then steered right, causing the vehicle to cross multiple lanes and ultimately leave the roadway. This erratic maneuvering led to Vehicle 1 colliding with a concrete culvert and embankment, resulting in the severe frontal impact.

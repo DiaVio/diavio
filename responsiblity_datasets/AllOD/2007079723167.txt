@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a jersey barrier-divided trafficway. The northbound roadway is straight and level and consists of four through lanes and shoulders on both sides. The speed limit on this roadway is 105 kmph (65 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Traffic was congested at the time of the crash.
+
+Vehicle one (V1), a 1992 Ford Taurus, was northbound in lane four, traveling at police reported speed of 113 kmph (70 mph). Vehicle two (V2), a 2007 Ford F150 pickup, was northbound in lane four in front of V1, at a police reported speed of 56 kmph (35 mph). A non-contact vehicle in lane three moved into lane four between V1 and V2. The driver of V1 steered right to avoid this vehicle and then steered left again, traveling into lane three and then back into lane four. The front of V1 struck the back of V2. V1 then continued in a northwest direction and the front and the left side struck the median jersey barrier. The battery from V1 flew out and struck the front of V2. V1 was towed due to damage. Police Reported Travel Speed is 113 kmph for V1 and 113 kmph for V2.
+
+The driver of V1, a twenty-seven-year-old female, was on her way from her home to visit her boyfriend and had been driving over an hour at the time of the crash. She was healthy and well rested. She travels this route weekly. This driver stated that this was the first time she had driven this vehicle and that the owner had told her that the vehicle needed new motor mounts.
+
+The driver of V2, a forty-seven-year-old male, was traveling from work to his home. He was well rested, healthy and comfortable with his vehicle. This driver travels on this roadway daily.
+
+The critical pre-crash event for V1 was coded: other vehicle encroachment; from adjacent lane (same direction) - over right lane line. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: too fast to be able to respond to unexpected actions of others (specified as: congested traffic/non-contact vehicle changing lanes).
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane; traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.

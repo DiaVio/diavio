@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "two-lane",
+    "LaneType": "undivided",
+    "RoadShape": "straight (northbound), sweeping right curve (southbound)",
+    "RoadSlope": "relatively level with pronounced super-elevation in the curve",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "northbound",
+    "LocationAfterCrash": "deflected to the right (CW) approximately 45-degrees",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "northbound",
+      "VehicleAction": "straight",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "southbound",
+    "LocationAfterCrash": "rotated counterclockwise",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "southbound",
+      "VehicleAction": "negotiating a right curve, crossed (left) over double yellow center lines, steered to the right and then to the left",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

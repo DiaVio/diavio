@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-lane roadway",
+        "LaneType": "Straight",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "105 kph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Snow and slush covered",
+        "Weather": "Heavy snow falling"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Resting against trees",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "72 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

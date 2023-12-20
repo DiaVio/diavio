@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 drifted left for unknown reasons and collided with the frontal plane of Vehicle 2 (the 2006 Mazda 6 4-door sedan) in an offset fashion. This indicates that Vehicle 1 crossed into the lane of Vehicle 2, causing the collision.

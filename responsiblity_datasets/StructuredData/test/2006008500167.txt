@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "entrance ramp",
+        "LaneType": "one-lane",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "5 percent",
+        "SpeedLimit": "32 kmph (20 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "rear",
+        "Moving on which Way": "merging onto a busy highway",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "3 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "merging onto a busy highway",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "3 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

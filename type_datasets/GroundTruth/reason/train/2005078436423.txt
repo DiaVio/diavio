@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the rear of Vehicle 2 (V2), and then V2 moved forward and struck the rear of Vehicle 3 (V3). The critical pre-crash event for V1 was coded as "other motor vehicle stopped," indicating that V1 failed to stop in time and rear-ended V2.

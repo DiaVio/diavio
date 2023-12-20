@@ -1,0 +1,1 @@
+Reason: Vehicle 1 was making a left turn at the intersection, which requires yielding to oncoming traffic. Since Vehicle 2 was traveling straight through the intersection, it had the right of way. Therefore, Vehicle 1 failed to yield and caused the collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Residential",
+        "LaneType": "Undivided",
+        "RoadShape": "Straight with a slight curve to the north",
+        "RoadSlope": "Negatively graded side-slope off the right side of the road",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "East",
+        "Location after Crash": "Resting on its top/left side facing west and parallel to the road at the road's edge",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Swerved left, then swerved right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "West",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "signal-controlled",
+        "LaneType": "multiple lanes",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "72 kph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear and dry",
+        "Weather": "dark with overhead amber street lighting"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "moved to the curb-line",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "32 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "driven to a safer location",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "32 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

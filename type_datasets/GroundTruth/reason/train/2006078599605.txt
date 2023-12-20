@@ -1,0 +1,1 @@
+Vehicle 1 (V1) struck the left side of Vehicle 2 (V2) from behind, causing V2 to rotate and collide with the left side of Vehicle 3 (V3). This sequence of events indicates that V1 rear-ended V2, resulting in a Rear-End Collision.

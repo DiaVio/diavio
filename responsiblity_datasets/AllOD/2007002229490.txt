@@ -1,0 +1,9 @@
+This crash occurred on a two lane undivided roadway with a curve to the left. The curve had a radius of 322 meters and a super elevation of 6%. The weather was clear and the roadway was dry. This crash occurred on a weekend night.
+
+Vehicle #1, a 1996 Chevrolet Blazer, was traveling east on this roadway, negotiating the curve when it went off the roadway to the right, went up on and over the guardrail, impacted with ground with its front then continued on to impact with several trees. The vehicle then rolled over 2 one-quarter turns onto its roof, slid down the embankment and impacted with 2 more trees with its front. The driver of this vehicle left the scene and walked home. She returned to the scene the following morning and was observed by police taking items from the vehicle. The police were concerned with her condition and called EMS. The police encouraged the driver to go to the hospital in the ambulance, however, no records of arrival in the hospital could be found. Police Reported Travel Speed is No PAR obtained (created) for V1.
+
+A friend of the driver stated that this driver is known to speed and imbibe in alcoholic beverages. She also stated this driver is on disability although she did not know why. The driver of this vehicle refused to be interviewed.
+
+The Critical Precrash Event for this vehicle was coded as: This Vehicle Traveling, Off the Edge of the Road to the Right. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Unknown Critical Non-Performance.
+
+The PAR is not available at this time.

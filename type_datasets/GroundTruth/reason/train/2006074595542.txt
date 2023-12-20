@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) was traveling south in lane two, and vehicle two (V2) was traveling north in the left turn lane. The front of V1 impacted the left side of V2, indicating a collision between the front of one vehicle (V1) and the side of another vehicle (V2), which is a characteristic of a front-to-side collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Six-lane roadway",
+        "LaneType": "Bituminous",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Clear day"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front right corner",
+        "Moving on which Way": "Westbound in lane three",
+        "Location after Crash": "Intersection facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound in lane two",
+        "Location after Crash": "Veered right and came to final rest facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Pass through intersection",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

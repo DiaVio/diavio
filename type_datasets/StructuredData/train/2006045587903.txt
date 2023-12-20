@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban tertiary artery",
+    "LaneType": "two-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": {
+      "Arterial Road": "64kph (40mph)",
+      "Side Street": "48kph (30mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "dark with streetlights illuminating"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "north",
+    "Location after Crash": "west side of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "failed to stop at the intersection",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "west",
+    "Location after Crash": "northwest corner of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "struck Vehicle #1",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

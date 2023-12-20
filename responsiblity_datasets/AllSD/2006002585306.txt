@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane roadway",
+        "LaneType": "Divided by a positive barrier",
+        "RoadShape": "Curved to the left",
+        "RoadSlope": "Level",
+        "SpeedLimit": "105 KPH (65 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear, daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "South",
+        "Location after Crash": "Off the right side of the roadway, facing in a southeasterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Passing V2",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "South",
+        "Location after Crash": "Off the roadway to the right, facing in a southerly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Being passed by V1",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

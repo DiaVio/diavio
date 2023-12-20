@@ -1,0 +1,1 @@
+This is because vehicle one (V1) turned left into the path of vehicle two (V2), resulting in the front of V2 impacting the right side of V1.

@@ -1,0 +1,1 @@
+This is because Vehicle 2 collided with the right rear of Vehicle 1 while Vehicle 1 was making a left turn.

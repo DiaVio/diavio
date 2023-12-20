@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-lane two-way roadway",
+        "LaneType": "One travel lane, one bicycle lane, and a parking lane in each direction",
+        "RoadShape": "Straight",
+        "RoadSlope": "+1/61",
+        "SpeedLimit": "48kmph (30mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Daylight and cloudy with rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Merge from parking/bicycle lanes into the eastbound travel lane",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Frontal",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Brake problem",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Traveling over the lane line on the right side of the travel lane",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Too fast for conditions",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

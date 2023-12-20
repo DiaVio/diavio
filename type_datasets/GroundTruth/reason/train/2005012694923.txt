@@ -1,0 +1,1 @@
+This is because the crash only involved one vehicle (Vehicle 1), which skidded off the right side of the roadway and collided with a utility pole. There were no other entities involved in the accident.

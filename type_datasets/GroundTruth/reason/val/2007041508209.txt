@@ -1,0 +1,5 @@
+Rear-End Collision.
+
+Justification:
+- V1, the Pontiac Vibe, collided with the back left corner of the delivery truck, indicating a Rear-End Collision.
+- The driver of V1 failed to recognize that the delivery truck was stopped, suggesting that V1 was following too closely and unable to stop in time to avoid the collision.

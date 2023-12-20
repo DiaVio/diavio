@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided four-lane highway",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "bituminous, straight, and level",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet from freezing rain and light snow",
+        "Weather": "freezing rain, light snow"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rested in lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right rear corner",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "departed the roadway onto the median and drove over the large rocks before coming to final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

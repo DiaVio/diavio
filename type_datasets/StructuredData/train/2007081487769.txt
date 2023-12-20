@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial",
+        "LaneType": "Concrete",
+        "RoadShape": "T-intersection",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": 72
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Resting against utility pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Lost control, rotated counterclockwise",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Resting against separate utility pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Locked up brakes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

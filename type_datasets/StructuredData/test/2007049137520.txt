@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "straight",
+        "RoadShape": "level",
+        "RoadSlope": "undivided",
+        "SpeedLimit": {
+            "North/South": "64 kmph",
+            "East/West": "48 kmph"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "normal",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "adjacent to the telephone pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northbound",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

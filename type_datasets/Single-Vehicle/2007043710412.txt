@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "suburban interstate highway",
+    "LaneType": "divided by a wire tension divider",
+    "RoadShape": "curves left with a 7% super elevation, then straightens out",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "104 kph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "cloudy with heavy rain"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "westbound in lane three",
+    "Location after Crash": "left shoulder inches away from the concrete barrier facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "105 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

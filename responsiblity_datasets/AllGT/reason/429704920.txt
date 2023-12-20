@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 failed to decelerate or slow down when Vehicle 2 (the farm tractor) was slowing down to make a left turn. As a result, Vehicle 1 collided with the rear of Vehicle 2.

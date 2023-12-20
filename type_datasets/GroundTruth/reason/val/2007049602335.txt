@@ -1,0 +1,1 @@
+Vehicle one (V1) struck the left side of vehicle two (V2) at an intersection, causing V2 to rotate counterclockwise and enter the westbound lanes of traffic. This collision scenario matches the description of a "T-bone" collision, where the front of one vehicle collides with the side of another.

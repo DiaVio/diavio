@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-lane",
+        "RoadShape": "curved",
+        "RoadSlope": "uphill",
+        "SpeedLimit": "72 kph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "yaw, struck a tree",
+            "Travel Speed": "113 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

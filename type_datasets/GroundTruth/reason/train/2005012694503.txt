@@ -1,0 +1,1 @@
+This is because Vehicle 2, traveling northbound, entered the intersection and contacted the right side of Vehicle 1, which was stopped in the second lane of the eastbound lanes.

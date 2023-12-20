@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "One lane with two emergency paved shoulders",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "105 KPH (65 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Facing northbound",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "89 KPH (55 MPH)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

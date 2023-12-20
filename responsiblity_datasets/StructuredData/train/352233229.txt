@@ -1,0 +1,44 @@
+{
+    "RoadNetWork":{
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": {
+            "East/West Roadway": "55 mph",
+            "North/South Roadway": "35 mph"
+        }
+    },
+    "Environment":{
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1":{
+        "Impact Side": "Frontal",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Just north of the northwest corner of the intersection, off the west edge of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "West",
+            "Vehicle Action": "Cross through the intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2":{
+        "Impact Side": "Right side",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Off road, in a field",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Cross through the intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

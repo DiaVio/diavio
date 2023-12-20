@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Interstate",
+        "LaneType": "Two lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "113 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry concrete",
+        "Weather": "Cloudy and cold"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front area",
+        "Moving on which Way": "South",
+        "Location after Crash": "Final rest on all four tires facing back to the northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Skid off the right side of the roadway while rotating clockwise",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

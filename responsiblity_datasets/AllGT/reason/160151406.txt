@@ -1,0 +1,1 @@
+The reason for this is that both vehicles attempted to pass straight through the intersection, causing the front of V2 to strike the right side of V1. This indicates that V2 failed to yield the right of way to V1, resulting in the collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided four-lane interstate",
+        "LaneType": "two eastbound lanes",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "121 kmph (75 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry, asphalt roadway",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "near the north edge of the median",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northeasterly",
+            "Vehicle Action": "rotated counter clockwise, slid laterally, tripped and landed on its top, rolled to its left a quarter turn onto its left side, and then back onto its wheels",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "not applicable",
+        "Moving on which Way": "not applicable",
+        "Location after Crash": "not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "not applicable",
+            "Direction": "not applicable",
+            "Vehicle Action": "not applicable",
+            "Travel Speed": "not applicable",
+            "is_against_rules": "not applicable",
+            "Attempted Avoidance Maneuvers": "not applicable",
+            "Attempted Lane Crossing": "not applicable"
+        }
+    }
+}

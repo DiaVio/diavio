@@ -1,0 +1,39 @@
+Case Focus:
+
+The case occupant is a 63 year old, restrained, female driver of a 1997 Honda Accord (4-door sedan), which was involved in a two vehicle collision (head-on / offset frontal impact). She is 165 cm (65 in) tall and weighs 57 kg (125 lbs).
+
+Collision Sequence
+
+Pre-Crash:
+
+This two vehicle collision occurred during the morning hours (daylight) of a summer weekday. The crash occurred on a curved (with grade), two lane, undivided roadway. This bituminous roadway runs generally east and west and measures 5.9 meters (19 ft) in total width. The travel lanes are separated by a painted, solid yellow, double line. A paved shoulder (along with an unfinished roadway entrance) borders the roadway on the south. At the time of the crash, the weather was clear and the roadway surface was dry and free of defects. The grade at the crash area is 3.7 % (positive for the eastbound travel direction / negative for the westbound travel direction). The posted speed limit is 48 km/h (30 mph). The overall environment is rural with small open fields and groves of trees bordering the roadway on either side. Due to the curvature and the associated physical environment, limited sight distances were present.
+
+Vehicle 1 (case vehicle), a 1997 Honda Accord LX 4-door sedan, was being driven by the 63 year old female case occupant. She was restrained by the available 3-point, manual lap and shoulder belt. There were no other occupants in the vehicle. Vehicle 1 was traveling eastbound on a straight portion of the roadway, approaching the right to left handed curve. The driver of Vehicle 1 intended to negotiate the curve and continue traveling east. Vehicle 1 is noted to have a driver and passenger frontal air bags.
+
+Vehicle 2, a 1995 Mercury Sable LS 4-door sedan, was being driven by a 19 year old male of unknown height and weight. As reported by the police accident report (PAR), this occupant was allegedly wearing the available, manual lap and shoulder belt (unconfirmed). There were no other occupants present. Vehicle 2 is equipped with frontal air bags. The driver of Vehicle 2 was traveling westbound on the two lane roadway, approaching the left to right handed curve. The driver of Vehicle 2 intended to negotiate the curve and continue traveling west.
+
+Crash:
+
+The driver of Vehicle 2 failed to negotiate his portion of the curved roadway and crossed over the double center line and entered the eastbound lane, traveling west. At this time, the driver of Vehicle 1 had just started to negotiate her portion of the curved roadway. As Vehicle 1 negotiated the curve, the frontal plane of Vehicle 2 struck the frontal plane of Vehicle 1 in an offset type frontal impact (frontal left half contacting frontal left half). No pre-impact braking evidence was noted at the scene. As a result of this impact, Vehicle 2 rotated counter-clockwise slightly less than 90 degrees and came to rest west of the impact area, straddling the eastbound travel lane, facing in a southerly direction. At impact, Vehicle 1 pivoted slightly counter-clockwise before traveling to its final rest position off the right side of the roadway within the area of the unfinished roadway entrance. Vehicle 1 came to rest, west of the impact area, facing an easterly direction.
+
+The total Delta V for Vehicle 1 was computed, using the WinSMASH Missing Vehicle Algorithm, as 35 kmph (22 mph) with a principal direction of force (PDOF) of 350 degrees and a collision deformation classification (CDC) of 12FYEW3. The direct damage started at the front left corner and extended 72 cm (28 in) across the frontal plane. The total damage length (deformation) measured 152 cm (60 in) which represents the undeformed end width. The maximum crush measured 65 cm (26 in) and was located at the C1 position along the measured field plane (front left corner). As a result of this impact, the frontal air bags deployed.
+
+The total Delta V for Vehicle 2 was computed, using the same WinSMASH Missing Vehicle Algorithm, as 32 kmph (20 mph). Vehicle 2 was not available for inspection. The extent of Vehicle 2's damage is not known, but is believed to have included the entire frontal plane. Vehicle 2's frontal air bags were reported to have deployed, but this is unconfirmed.
+
+Post-Crash:
+
+Emergency medical services (EMS) personnel responded to the scene and proceeded to remove the driver's door and roof structure of Vehicle 1. The case occupant was subsequently removed and transported, by land, to a local trauma center and hospitalized. She was subsequently released on the 3rd day post crash.
+
+The driver of Vehicle 2 was reported to have sustained incapacitating injuries as well. He was transported, by land, to the same local trauma center. The extent of his injuries and/or treatment is not known.
+
+Both vehicles were subsequently towed from the scene due to damage sustained in the crash.
+
+Occupant Kinematics:
+
+The 63 year old female driver (case occupant) of Vehicle 1 was seated in a manually adjusted, bucket seat which was found, at inspection, positioned between the middle and forward most track positions (appropriate for this case occupant). The seat back was upright at impact, but was reclined, post crash, by EMS to facilitate the extrication. No deformations were noted to the seat or seat back. The driver's 3-point, manual lap and shoulder restraint exhibited evidence of heavy loading (D-ring abrasions and belt loop/stitching extended). The interior passenger compartment, specific to the driver's seating area, was noted to have longitudinal intrusions of the toe pan (11 cm / 4 in), A-pillar (10 cm / 4 in) and left instrument panel (10 cm / 4 in). The left sill was noted to have intruded laterally (14 cm / 6 in). A portion of the deformation damage to the components listed above was caused by EMS extraction techniques, such as the steering column jammed upward.
+
+At impact, the case occupant was projected directly forward. Her upper torso was restricted from any further forward movement by the seat belt webbing (heavily loaded) and the deployed air bag. Her face likely contacted the deployed air bag fabric, evident by an abrasion to her nose. Her upper right extremity (lower arm) was displaced from the steering wheel rim by the air bag deployment and projected into the windshield glazing. Her lower extremities (knees) were projected into the knee bolster as evidenced by very visible scuff marks. It is believed that her lower legs and feet were projected into the lower portions of the instrument panel and toe pan. She rebounded back into her respective seating position where she came to rest.
+
+Injury Mechanisms:
+
+The case occupant's injuries include, but may not be limited to: a forehead laceration (dc/air bag/possible), an abrasion to the nose (dc/air bag/probable), a right interior forearm contusion (dc/air bag/probable), a left styloid ulna fracture (unknown), a left ulna shaft fracture (unknown), a left 2nd phalanx fracture (unknown), right rib fractures (dc/shoulder belt webbing/certain), a left rib fracture (dc/rebound in to seat back/possible), a left pnuemothorax (idc/shoulder belt/certain), bilateral knee lacerations/contusions (dc/knee bolster/certain), a right leg laceration (dc/knee bolster/certain), a right forearm laceration (dc/windshield glazing/possible), a left open cuboid fracture (dc/toe pan/inferred), a left 2nd and 3rd metatarsal fracture (dc/toe pan/inferred) and a right foot laceration (dc/toe pan/inferred). The maximum Abbreviated Injury Scale (AIS) is AIS-3.

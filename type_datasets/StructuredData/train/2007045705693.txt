@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate exchange ramp",
+        "LaneType": "One way",
+        "RoadShape": "Curved left",
+        "RoadSlope": "Negative 4.6%",
+        "SpeedLimit": "64kph/40mph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "North",
+        "Location after Crash": "Facing north at impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Travel off the edge of the road on the right side",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "N/A",
+        "Moving on which Way": "N/A",
+        "Location after Crash": "N/A",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "N/A",
+            "Vehicle Action": "N/A",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    }
+}

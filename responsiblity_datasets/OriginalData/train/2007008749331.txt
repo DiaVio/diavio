@@ -1,0 +1,11 @@
+This crash occurred in the northbound and eastbound lanes of a four way intersection. The east and westbound lanes both had stop signs, and the north and southbound lanes had none. The roadway was bituminous with a posted speed limit of 48 kmph (30 mph). The northbound and southbound lanes were straight and level. The eastbound lane curved to the right and had an uphill grade.
+
+V1 was a 1994 Honda Prelude heading east. V2 was a 2004 International school bus, heading north. V2 was traveling northbound in lane one, passing through an intersection. V1 was traveling eastbound in lane one and had just finished negotiating a right curve, when the vehicle crossed through the intersection, without stopping for the stop sign, and contacting V1 in the left rear tire. V1 bounced off of V2 rotated nearly 180 degrees and came to final rest on a lawn on the northwest side of the roadway. V2 pulled off to the right side of the road. Police Reported Travel Speed is 24 kmph for V1 and 24 kmph for V2.
+
+V1 was driven by a 22 year-old female, she sustained minor injuries and was transported to the hospital. The driver stated to the police that she was new to the area and she was looking up at the street signs while she was driving, looking for an address for her work. She never saw the stop sign, and went through it.
+
+The Critical Precrash Event for V1 was "this vehicle traveling, crossing over intersection." The Critical Reason for the Critical Precrash Event was "driver related factor, external distraction." An associated factor that was coded was failed to stop for traffic control device.
+
+V2 was driven by a 61 year-old male, he sustained no injuries. He stated that he saw V1 but knew it had a stop sign. When he drove through the intersection he heard a loud noise and felt the bus shake, he stopped the bus to check the children on the bus.
+
+The Critical Precrash Event for V2 was "other vehicle encroachment, from crossing street, across path." The Critical Reason was not coded to this vehicle. The only other factor that was coded to this vehicle was "assumed that other driver would yield right-of-way."

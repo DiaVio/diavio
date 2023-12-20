@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Three-lane roadway with a median",
+        "LaneType": "Unmentioned",
+        "RoadShape": "Unmentioned",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "80 KMPH (50MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front right",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Facing westbound",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Changing lanes from 2nd to 1st travel lane",
+            "Travel Speed": "Between 31-40 MPH",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Struck curb, drove onto center median and struck a fence",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Going straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Facing westbound on the median",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Going straight",
+            "Travel Speed": "Between 11-20 MPH",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

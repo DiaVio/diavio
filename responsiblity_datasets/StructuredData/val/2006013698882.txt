@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "city street",
+        "LaneType": "non-divided",
+        "RoadShape": "intersection",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": {
+            "V1": "56 Kmph (35 Mph)",
+            "V2": "40 Kmph (25 Mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "west",
+        "Location after Crash": "ran into a utility pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "proceeded into the intersection",
+            "Travel Speed": "40 Kmph (25 Mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right side",
+        "Moving on which Way": "north bound",
+        "Location after Crash": "driven away from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "left turn",
+            "Vehicle Action": "making the left turn",
+            "Travel Speed": "48 Kmph (30 Mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

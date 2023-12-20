@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Arterial road",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "Slight negative grade",
+    "SpeedLimit": "56 KMPH/35 MPH"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Facing south about 16 meters southwest of POI",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "North",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "30-29 mph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left front",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Facing west about 20 meters west of POI",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "East",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

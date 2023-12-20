@@ -1,0 +1,1 @@
+The front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) in the intersection, resulting in the rotation of both vehicles. This collision scenario aligns with the description of a "T-bone" collision.

@@ -1,0 +1,1 @@
+The driver of V1 panicked and made an improper lane change when he saw the vehicle ahead lose control. Instead of braking, he steered into the left lane, resulting in a collision with V2. This driver's incorrect evasive action and lack of a valid driver's license contributed to the crash.

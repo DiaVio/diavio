@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban trafficway",
+    "LaneType": "north/south",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "45 mph"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "northbound outboard travel lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "failed to observe traffic ahead",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "northbound outboard travel lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "decelerating to a stop",
+      "Direction": "north",
+      "Vehicle Action": "decelerating to a stop",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

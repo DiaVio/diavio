@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Straight",
+        "LaneType": "Painted Median",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": 56
+    },
+    "Environment": {
+        "RoadCondition": "No deficiencies",
+        "Weather": "Daylight with no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Still on the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Stopped",
+        "Location after Crash": "Towed due to damage",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Stopped",
+            "Vehicle Action": "Stopped",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

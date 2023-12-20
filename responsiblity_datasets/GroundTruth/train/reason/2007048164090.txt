@@ -1,0 +1,1 @@
+The reason for this is that V2 failed to look ahead to the side and did not see V1 (the Kia Aspire) before the collision. Additionally, V2 was eating/drinking prior to the crash, which can be considered a distraction and may have contributed to her failure to notice V1.

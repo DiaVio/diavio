@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided and undivided",
+    "LaneType": "left turn lane, through lanes, one lane",
+    "RoadShape": "straight on north and west side, curved left on east side",
+    "RoadSlope": "uphill for southbound traffic, level for east and westbound traffic",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "snow covered",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "fled the scene",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "0 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rested on all four tires facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "0 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

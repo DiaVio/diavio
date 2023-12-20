@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two way, two-lane roadway",
+        "LaneType": "unmentioned",
+        "RoadShape": "curves left for southbound traffic",
+        "RoadSlope": "-4 percent",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "darkness with overhead street lighting"
+    },
+    "Vehicle1": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "point of impact with the pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "unmentioned",
+            "Vehicle Action": "swerved left",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

@@ -1,0 +1,1 @@
+The driver of Vehicle #1 failed to use due care by not adequately surveilling the roadway before pulling out into traffic to make a left-hand turn. This recognition error led to the collision with Vehicle #2.

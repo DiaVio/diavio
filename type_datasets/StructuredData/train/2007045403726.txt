@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Undivided roadway",
+    "LaneType": "Two lane",
+    "RoadShape": "Straight",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "64 kph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry asphalt",
+    "Weather": "Clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "West",
+    "Location after Crash": "Stopped facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "West",
+    "Location after Crash": "Stopped facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "West",
+    "Location after Crash": "Stopped facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

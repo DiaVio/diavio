@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "secondary arterial",
+    "LaneType": "three lanes",
+    "RoadShape": "straight",
+    "RoadSlope": "positive grade (northbound) of 4%",
+    "SpeedLimit": "64 kph/40 mph"
+  },
+  "Environment": {
+    "RoadCondition": "dry pavement",
+    "Weather": "overcast sky"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "5 meters north of POI #1, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "back",
+    "Moving on which Way": "north",
+    "Location after Crash": "several meters north of impact 2, facing northwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "front",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

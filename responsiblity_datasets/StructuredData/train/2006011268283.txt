@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban intersection",
+        "LaneType": "Two-way, two-lane road and one-way, one-lane exit ramp",
+        "RoadShape": "Straight",
+        "RoadSlope": ">2% negative slope",
+        "SpeedLimit": "56kmh (35mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight, cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Exiting northbound highway onto the exit ramp",
+        "Location after Crash": "Rotated counter-clockwise to final rest in the driveway across the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Left",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound on the two-lane road",
+        "Location after Crash": "Rotated clockwise to final rest in the parking lot on the right side of her road",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Straight",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

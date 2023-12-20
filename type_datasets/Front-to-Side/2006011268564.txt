@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Fully controlled limited access highway",
+        "LaneType": "Two lanes in each direction",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "113 km/h (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Right shoulder facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "105-113 km/h (65-70 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Grassy median facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "105-113 km/h (65-70 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

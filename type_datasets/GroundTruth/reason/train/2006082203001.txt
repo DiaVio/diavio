@@ -1,0 +1,1 @@
+This is because the front of vehicle one collided with the right rear of vehicle two at the intersection, which is a classic "T-bone" collision.

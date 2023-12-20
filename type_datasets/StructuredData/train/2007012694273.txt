@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Four-way signalized roadway",
+    "LaneType": "Variable",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Asphalt",
+    "Weather": "Clear and sunny"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "South",
+    "Location after Crash": "Final rest at the east curb",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "East",
+    "Location after Crash": "Rotated clockwise to face back to the west in the south center of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "East",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Front left bumper",
+    "Moving on which Way": "North",
+    "Location after Crash": "Rolled back to final rest in its original lane of travel",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

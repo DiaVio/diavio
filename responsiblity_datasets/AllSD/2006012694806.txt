@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Multi-lane road",
+        "LaneType": "Two lanes in each direction with a left turn lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "Contacted by Vehicle 2 on the side",
+        "Moving on which Way": "Exiting a plaza parking lot and entering the roadway",
+        "Location after Crash": "On the other side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Contacted Vehicle 1 on the side",
+        "Moving on which Way": "Traveling east in lane two",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on the approach to a traffic signal-controlled intersection. This roadway is level, has a 2% downgrade and consists of two lanes in each direction and a center left-turn lane. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours and it was raining.
+
+Vehicle one (V1), a 1990 Nissan Sentra, was northbound in lane two. Vehicle two (V2), a 1998 Toyota Camry, was northbound in front of V1. V2 stopped for traffic. V1 slid on the wet pavement and the front of V1 struck the back of V2. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-nine-year-old male, was traveling from his home to work. He was healthy, well rested and familiar with his vehicle. He drives on this roadway daily. Just prior to the crash, this driver was adjusting the climate control. He applied the brakes when he looked back at the roadway and realized that V2 was stopped.
+
+The driver of V2, a twenty-five-year-old female, was traveling from her home and was planning to stop at a store on her way to work. She was healthy, well rested and comfortable with her vehicle. She normally rides the bus to work, but drives on the roadway weekly.
+
+The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; internal distraction."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.

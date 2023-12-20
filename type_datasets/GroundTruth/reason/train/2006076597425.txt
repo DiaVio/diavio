@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the back of Vehicle 2 (V2) after V2 came to a stop for a non-contact vehicle. The critical pre-crash event for V1 was coded as "following too closely to respond to unexpected actions," which aligns with a Rear-End Collision scenario.

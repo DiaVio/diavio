@@ -1,0 +1,4 @@
+{
+    "instruction,output": "### Instruction:\n%instruction%\n\n### Response:\n%output%",
+    "instruction,input,output": "### Instruction:\n%instruction%\n\n### Input:\n%input%\n\n### Response:\n%output%"
+}

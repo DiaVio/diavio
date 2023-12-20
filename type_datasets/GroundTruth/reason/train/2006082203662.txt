@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the left side of Vehicle 1 (V1) as V1 was making a left turn and V2 was traveling in the southbound direction.

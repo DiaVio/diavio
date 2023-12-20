@@ -1,0 +1,31 @@
+BACKGROUND:
+
+Description:
+
+This case was initiated in response to a report of a 20 year old female driver injured in a vehicle crash, who was admitted to a trauma center. Vehicle 1 was a 2002 Chevrolet Cavalier.
+
+Collision Type:
+
+A car vs. van (angle configuration); and a car vs. car (side slap configuration)
+
+TECHNICAL SUMMARY:
+
+This three-vehicle collision occurred in an intersection of two roadways. The posted speed limit for Vehicles 1 and 3 was 40 KPH (25 MPH), and 81 KPH (50 MPH) for Vehicle 2. Vehicles 1 and 3 were traveling northbound on a three-lane, divided roadway just prior to entering the intersection. Vehicle 2 was traveling westbound on a six-lane, divided roadway just prior to entering the intersection. The roadway for both travel directions was level and free of defects.
+
+Vehicle 1, a 2002 Chevrolet Cavalier, was being driven northbound by a 20 year old female driver (case occupant). The driver was restrained by the available lap and shoulder restraint, and a frontal air bag was available and deployed during the impact with Vehicle 2. The driver of Vehicle 1 was attempting to travel through the intersection at the time of the crash.
+
+Vehicle 2, 2002 Toyota Sienna mini van, was being driven westbound by a 40 year old female driver. The driver of Vehicle 2 was attempting to travel through the intersection at the time of the crash. The driver of Vehicle 2 was reportedly traveling through the intersection on a red traffic signal.
+
+Vehicle 3, 1994 Toyota Corolla, was being driven northbound by a 51 year old female driver. The driver of Vehicle 3 was traveling through the intersection next to Vehicle 1 at the time of the crash. After the impact between Vehicles 1 and 2, Vehicle 1 side slapped Vehicle 3.
+
+The event between the Vehicles 1 and 2 occurred when the driver of Vehicle 2 attempted to travel through the intersection at the same time as Vehicle 1 was traveling through the intersection on a green traffic signal. Vehicle 2 struck Vehicle 1's right side with its frontal plane (angle crash). Vehicle 1 subsequently side slapped Vehicle 3.
+
+The estimated total Delta V for Vehicle 1 for the impact with Vehicle 2 was computed, using the missing vehicle algorithm of WinSMASH, as 54 kilometers per hour (34 MPH). Vehicle 1 was assigned a Collision Deformation Classification (CDC) of 02RYAW4 and a Principal Direction of Force (PDOF) of 070 degrees. The maximum crush depth was 68.0 centimeters (26.8 in.) located 33 cm (13.0 in) forward of the C2 measured position.
+
+The estimated total Delta V for Vehicle 2 for this event with Vehicle 1 was computed, using the missing vehicle algorithm of WinSMASH, as 39 kilometers per hour (24MPH). Vehicle 2 was not inspected.
+
+After the multiple impact crash, the final rest positions of Vehicles 1, 2 and 3 were located in the northwest quadrant of the intersection. All vehicles were facing south (clockwise rotation to rest).
+
+The driver of Vehicle 1 (case occupant) sustained minor to major injuries. The case occupant was transported to a trauma center where she was admitted for treatment and observation.
+
+Vehicles 1, 2 and 3 were towed from the crash scene due to the damage sustained in this crash.

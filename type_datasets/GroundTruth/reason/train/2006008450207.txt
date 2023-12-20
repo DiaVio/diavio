@@ -1,0 +1,1 @@
+This is because V1 failed to stop at the stop sign and entered the intersection attempting to make a left turn across V2's path. The front of V1 struck the front right corner of V2, indicating a collision between the front of one vehicle (V1) and the side of another vehicle (V2).

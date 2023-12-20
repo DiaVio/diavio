@@ -1,0 +1,9 @@
+This two vehicle crash occurred mid-morning during daylight hours. The collision occurred on a two-way three-lane roadway in lane one. The pre-crash roadway is uphill and straight, with bituminous paving. It was raining heavily, and the road was very wet. The posted speed limit for the roadway is 40 kmph (25 mph).
+
+Vehicle one (V1), a 1996 Toyota T100 Pickup driven by a 36 year-old male, was traveling north in lane one. Vehicle two (V2), a 1997 Chevy 6500 Box Truck driven by a 37 year-old male, was initially traveling north in lane one. V2 initiated a right turn onto a private driveway in a construction area, and V1's front impacted the right rear corner of V2. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1's pre-crash factors are unknown, as he was not interviewed. The driver of V2 had left his shop about 10 minutes prior to deliver some materials to the job site. V1 was towed from the scene, V2 was driven.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical event was coded to V1 as a driver related factor: external distraction. It was reported that the driver of V1 was looking in his rearview mirror instead of forward. In addition, he was following too closely to respond to unexpected actions of forward traffic most likely thinking V2 was going to continue to proceed straight instead of turning right.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle.

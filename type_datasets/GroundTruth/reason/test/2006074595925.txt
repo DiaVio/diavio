@@ -1,0 +1,1 @@
+This is because vehicle one (V1) collided with the left side of vehicle two (V2) at an intersection, with V2 rotating and subsequently colliding with the left front corner of vehicle three (V3).

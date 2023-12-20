@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane roadway",
+        "LaneType": "Double yellow lines",
+        "RoadShape": "Straight",
+        "RoadSlope": "7 percent uphill in southbound direction",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front right and center",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Struck right front of V2",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Southbound",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Approximately 40 kmph (25 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "Stopped in northbound lane 2, waiting to turn left",
+        "Location after Crash": "Struck by V1's front right and center",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Turning left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

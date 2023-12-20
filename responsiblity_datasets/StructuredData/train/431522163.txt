@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "multi-lane state highway",
+        "LaneType": "divided",
+        "RoadShape": "curved left with uphill grade, then straight on bridge overpass",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": 55 mph
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "final rest on bridge overpass facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front right",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "rest on north shoulder of bridge overpass facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

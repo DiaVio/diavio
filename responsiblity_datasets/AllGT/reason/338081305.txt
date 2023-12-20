@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 initially collided with the back of Vehicle 3, causing it to rotate and strike a guardrail. This impact then redirected Vehicle 2 across the path of the northbound Toyota (Vehicle 1), resulting in a frontal collision between the two vehicles. Therefore, the actions of Vehicle 2 caused the chain of events leading to the accident.

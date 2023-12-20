@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2), which was traveling in a perpendicular direction. The impact occurred when V1 ignored a stop sign and entered the intersection without the right of way, resulting in a collision with the side of V2.

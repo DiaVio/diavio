@@ -1,0 +1,1 @@
+The driver of V1 misjudged the speed of the forward vehicle (V2) and did not look far enough ahead to realize that traffic was stopping. This decision error led to the front of V1 impacting with the back of V2, initiating the chain of events that resulted in the crash.

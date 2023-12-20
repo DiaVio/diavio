@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Primary arterial road",
+    "LaneType": "Two lanes in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "Positive grade for northbound approach, negative grade for southbound approach, positive grade for side-road",
+    "SpeedLimit": {
+      "Arterial": "72kph/45mph",
+      "Side-road": "48kph/30mph"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Snow flurries",
+    "Weather": "Overcast daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "North",
+    "Location after Crash": "Facing northeast on its left side approximately 35.5 meters northeast of the initial impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "North",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "East",
+    "Location after Crash": "Facing southwest approximately 13 meters northeast of impact #1",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "East",
+      "Vehicle Action": "Crossing the intersection",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

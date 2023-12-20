@@ -1,0 +1,1 @@
+The reason for this is that V2 attempted to make a left turn across the path of V1, which was traveling straight in the left northbound lane. V1 swerved to the right to avoid the collision, indicating that V2 failed to yield the right of way to V1. The impact occurred when V2 struck the left side of V1, causing both vehicles to come to a stop in the intersection.

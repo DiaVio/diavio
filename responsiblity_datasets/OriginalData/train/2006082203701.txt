@@ -1,0 +1,13 @@
+A two-vehicle daytime side impact and rollover collision occurred at the intersection of a arterial and city street. In the area of the crash, the arterial has five lanes of travel, with a left hand turn lane in both directions. The road for V1 is paved with asphalt and is straight with a down hill grade of 7%. For V2 the road curves the right and has an uphill grade of 7%. In the immediate area of the rollover there is an uphill grade of 5%. The speed limit for the road is 56 Kmph (35 mph). At the time of the crash the sky was cloudy and the road was dry.
+
+V1, a 1996 Jeep Grand Cherokee with a driver and passenger, was heading north/east in lane two then into the left hand turn lane (lane 3). V2, a Toyota Highlander SUV with only a driver, was headed south/west in lane one. As V1 made a left turn on a blinking yellow light, V2 impacted the right side of V1. V1 rotated clockwise, impacted a raised concrete curb, the left rear wheel collapsed, and V1 tripped over and rolled left 2 quarter turns, then came to rest on its top in the cross street to the west of the intersection. V2 came to a controlled stop in lane one just south/west in the intersection. Both vehicles were towed due to disabling damage, but none of the occupants were transported due to injury. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The V1 driver, a 27-year-old female who reported possible injuries from the crash, stated that the light was turning yellow and she thought she would have enough time to turn left. She added that she saw V2 coming but assumed he was going to stop for the yellow light.
+
+Observation of the intersection: There is a yellow blinking light for left hand turns; it is possible V1 thought all lights were turning yellow.
+
+The Critical Pre-crash event for V1 was coded as: Turning left. The Critical Reason was coded to the V1 driver as a Driver Related Factor, False assumption. The V1 driver thought that V2 would slow down or stop and that there was sufficient time to turn left and clear the intersection. Associative factors: The V1 driver misjudged the V2 driver's speed and intentions.
+
+The V2 driver, a 17-year-old male who reported possible injuries from the crash, stated that he noticed V1 enter the left turn lane and assumed that she would yield the right of way; he added that he had a green light as he approached the intersection.
+
+The Critical Pre-crash event for V2 was coded as: Other Vehicle Encroachment: From opposite direction. An Associative factor for the V2 driver is a false assumption that the V1 driver was going to yield the right of way.

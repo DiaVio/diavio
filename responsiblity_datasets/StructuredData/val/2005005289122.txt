@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-way",
+        "LaneType": "two-lane",
+        "RoadShape": "not physically divided",
+        "RoadSlope": "level",
+        "SpeedLimit": "35 mph"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear door and down the side toward the right front door",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "spun counter clockwise by almost 180 degrees in the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "middle of the intersection and in front of the opposing traffic",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "west",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

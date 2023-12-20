@@ -1,0 +1,7 @@
+This crash occurred off the right side of a two-lane, two-way, non-divided rural asphalt roadway with a posted speed limit of 72 Kmph (45 Mph). The crash occurred during the hours of daylight and there were no adverse conditions present at the time of the crash.
+
+V1 a 1988 Chevy Blazer was traveling north bound in the right curb lane, pulling a trailer. V1s' trailer started to jack-knife, and pulled the rear of V1 into a clockwise rotation. V1 departed the roadway to the right side where it rolled over two-quarter turns. V1 was towed due to moderate damage and the three occupants of V1 were treated on-scene by EMS. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1, a 35 year-old male stated that he had just left his house and had also just gotten up to speed, when all of a sudden the trailer he was pulling started to fishtail. He then stated that he hit the brakes hard, and the next thing he remembers is being upside down in a ditch.
+
+The Critical Pre-Crash Event coded for V1 is "this vehicle control loss due to a jack-knife event". The Critical Reason for the Critical Event coded for V1 is "vehicle related jack-knife".

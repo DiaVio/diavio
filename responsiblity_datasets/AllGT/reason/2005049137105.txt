@@ -1,0 +1,1 @@
+The driver of V2 was attempting a left turn at the intersection and failed to adequately surveil the oncoming traffic, specifically V1. This lack of surveillance resulted in V2 pulling into the path of V1, causing the collision.

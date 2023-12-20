@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was the only vehicle involved in the crash. V1 steered to the right, struck the impact attenuator, and then was struck by Vehicle 2 (V2). No other entities were mentioned in the summary.

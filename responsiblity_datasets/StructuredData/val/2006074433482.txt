@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two-way",
+        "RoadShape": "straight",
+        "RoadSlope": "+8% grade on east side, -7% grade on west side",
+        "SpeedLimit": "56 KPH (35 mph) for north to south roadway, 48 KPH (30 mph) for east to west roadway"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front side",
+        "Moving on which Way": "west",
+        "Location after Crash": "lane two of southbound traffic lanes on the south side of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "south",
+        "Location after Crash": "southwest corner of the intersection on a +41% grade grassy hill",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

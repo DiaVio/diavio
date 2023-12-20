@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided state highway",
+        "LaneType": "two northbound travel lanes with a third merge lane and paved shoulders on both sides",
+        "RoadShape": "curved to the left in the pre-crash area and straightened out with a slight uphill grade where the crash occurred",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front center section",
+        "Moving on which Way": "north",
+        "Location after Crash": "near the tree, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

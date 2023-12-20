@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Five-lane roadway",
+        "LaneType": "Divided by a grassy median with a crossover",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "56 kph/35 mph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry asphalt",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Facing northeast with its front right in contact with the right front of V2",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Eastbound",
+            "Vehicle Action": "Crossing over/through the intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    }
+}

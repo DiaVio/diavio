@@ -1,0 +1,69 @@
+{
+  "RoadNetWork": {
+    "RoadType": "multi-lane divided roadway",
+    "LaneType": "four northbound lanes and three southbound lanes",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "lane four near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "no",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "lane four near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "lane four near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "lane four near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

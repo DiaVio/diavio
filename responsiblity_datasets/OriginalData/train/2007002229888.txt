@@ -1,0 +1,9 @@
+This crash occurred on a two lane undivided roadway with a curve to the left and an uphill grade of 3.7%. The posted speed limit was 64KMPH (40MPH) and there was a warning sign for the curve 65 meters prior to the start of the curve. This crash occurred on a dark, unlighted roadway. The weather showed areas of heavy fog and the roadway had areas of black ice.
+
+Vehicle #1, a 2000 Saturn Station Wagon, was traveling south on the two-lane roadway when it encountered an area of black ice. The vehicle slid left, then right and went off the roadway to the right, up a 36% incline embankment, striking a 5cm tree. The vehicle rolled over 2 one-quarter turns to the left coming to final rest, on its roof, across both lanes of the roadway. Police Reported Travel Speed is Not reported for V1.
+
+The Saturn Station Wagon was driven by a belted 47-year-old female who stated she was trying to keep control of her vehicle without hitting any oncoming traffic. She stated she steered the vehicle right to avoid an oncoming vehicle before going off the roadway to the right and rolling over onto the roof. The driver was transported to an area hospital, treated and released. There was a belted 14-year-old female passenger in the right front seat who was not injured.
+
+The Critical Precrash Event coded to Vehicle #1 was: "this vehicle control loss due to: poor road conditions (ice)". The Critical Reason for the Critical Precrash Event was coded as: "driver related factor: too fast for conditions", specified as heavy fog and icy roadway.
+
+The Police did not consider illegal drugs or alcohol to be involved and ordered no test for this driver.

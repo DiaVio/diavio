@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a grass median-divided, straight trafficway. The eastbound roadway is level, consists of three through lanes and has shoulders on both sides and a guardrail on the left (median) side. The speed limit for this roadway is 105 kmph (65 mph). It was dark at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2003 Dodge Ram pickup, was eastbound in lane three. Vehicle two (V2), a 2003 Kia Sorrento, was eastbound in lane three in front of V1. V2 stopped due to a crash ahead. The front of V1 struck the back of V2. V1 then rotated counterclockwise and rolled over to the right two quarter-turns. V2 traveled off the left side of the roadway and the front struck the guardrail. Both vehicles were towed due to damage. Police Reported Travel Speed is 105 kmph for V1 and 105 kmph for V2.
+
+The driver of V1, a nineteen-year-old male, had just picked up his twenty-year-old girlfriend at the airport and they were on their way home. He was healthy, well rested and comfortable with his vehicle and passenger. He travels this route rarely. This driver stated that he was frustrated because he could not find the highway that he wanted to be on and they were late for a social engagement. He further stated that he was looking down at a map and when he looked up, V2 was stopped. He steered to the right in an attempt to avoid a crash.
+
+The driver of V2, a forty-nine-year-old female, was traveling with a forty-year-old female passenger. This driver stated that she looked in her rearview mirror and saw that V2 was not slowing. She steered left but did not have time to accelerate to avoid the crash. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: internal distraction.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.

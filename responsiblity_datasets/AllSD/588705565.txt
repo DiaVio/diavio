@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Two-lane",
+        "LaneType": "East/West",
+        "RoadShape": "Curved",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": "50 mph"
+    },
+    "Environment": {
+        "RoadCondition": "Icy with snow and ice accumulations",
+        "Weather": "Sleeting"
+    },
+    "Vehicle1": {
+        "ImpactSide": "Right",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "East of the struck pole",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

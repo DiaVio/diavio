@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "suburban",
+    "LaneType": "bituminous",
+    "RoadShape": "curve",
+    "RoadSlope": "downhill",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "offset frontal",
+    "Moving on which Way": "west",
+    "Location after Crash": "middle of the road",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "offset frontal",
+    "Moving on which Way": "east",
+    "Location after Crash": "departing north edge of the road",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "yes"
+    }
+  }
+}

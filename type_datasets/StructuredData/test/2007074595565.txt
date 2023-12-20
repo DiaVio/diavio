@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided",
+    "LaneType": "one lane in each direction",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "48 kmph (30 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "ice-covered",
+    "Weather": "no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "in the driveway",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "towed",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "behind V1",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

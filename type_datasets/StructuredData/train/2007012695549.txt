@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Divided highway",
+        "LaneType": "Two-way divided concrete roadway",
+        "RoadShape": "Curved",
+        "RoadSlope": "Positive grade",
+        "SpeedLimit": 113
+    },
+    "Environment": {
+        "RoadCondition": "Standing water",
+        "Weather": "Rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right back",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Spin clockwise",
+            "Travel Speed": "98-113 kmph (61-70 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Contact V1",
+            "Travel Speed": "82-97 kmph (51-60 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Contact V1",
+            "Travel Speed": "98-113 kmph (61-70 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

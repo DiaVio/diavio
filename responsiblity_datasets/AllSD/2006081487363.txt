@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous four-lane divided roadway",
+    "LaneType": "unmentioned",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "97 kmph (60 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "wet from previous rain",
+    "Weather": "cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "stalled where it was at impact, then pushed over to the right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "stopped in congested traffic in southbound lanes",
+    "Location after Crash": "drove over to the right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

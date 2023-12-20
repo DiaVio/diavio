@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "4-lane divided highway",
+    "LaneType": "Bituminous",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "89 kmph (55 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Clear and dry",
+    "Weather": "Dark"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Exiting the apartment complex",
+    "Location after Crash": "Grass median and across the northbound lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Southbound",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left side of the trailer",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Parked on the left side of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Southbound",
+      "Vehicle Action": "Continued forward",
+      "Travel Speed": "40 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 fell asleep while driving, which is a driver-related critical non-performance factor. This resulted in V1 departing from the #1 lane and ultimately crashing into the cement wall. The driver's drowsiness and subsequent loss of control of the vehicle caused the accident.

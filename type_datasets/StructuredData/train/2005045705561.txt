@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial road",
+        "LaneType": "Two-way, two-lane road",
+        "RoadShape": "Left curve transitioning to right curve",
+        "RoadSlope": "Level",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear end",
+        "Moving on which Way": "North",
+        "Location after Crash": "4 meters north of impact, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes (after the collision)",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear end",
+        "Moving on which Way": "North",
+        "Location after Crash": "4 meters north of impact, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes (decelerated considerably)",
+            "Direction": "North",
+            "Vehicle Action": "Slowing down to make a left turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

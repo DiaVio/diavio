@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "two lane, two way roadway",
+        "LaneType": "unmentioned",
+        "RoadShape": "curves to the left",
+        "RoadSlope": "sloped embankment on the south side",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "ImpactSide": "right",
+        "MovingOnWhichWay": "west",
+        "LocationAfterCrash": "completely off the roadway, on its top, facing north",
+        "Objectivebehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "north",
+            "VehicleAction": "lost control, counterclockwise yaw, swiped tree, impacted another tree",
+            "TravelSpeed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "unmentioned",
+        "MovingOnWhichWay": "unmentioned",
+        "LocationAfterCrash": "unmentioned",
+        "Objectivebehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    }
+}

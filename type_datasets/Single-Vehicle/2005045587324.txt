@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "U.S. Highway",
+        "LaneType": "Two lane",
+        "RoadShape": "Curves and elevation changes",
+        "RoadSlope": "8.7% to 10.2%",
+        "SpeedLimit": "72kph (45mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "North",
+        "Location after Crash": "Off the west edge of the road against a southbound curve warning sign",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "85kph (53mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

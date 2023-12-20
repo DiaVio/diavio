@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "State highway",
+        "LaneType": "Concrete",
+        "RoadShape": "Level",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "104 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Facing eastbound against the concrete center divider",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "On its roof facing westbound on the dirt embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

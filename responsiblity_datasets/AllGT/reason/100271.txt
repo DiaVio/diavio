@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 attempted to make a left turn at the intersection, crossing the path of Vehicle two (V2 - the 1999 Chevrolet Blazer) which was traveling straight in the southbound through-lane. The front of V2 struck the left side of V1 in a T-type configuration, indicating that V1 failed to yield the right of way to V2.

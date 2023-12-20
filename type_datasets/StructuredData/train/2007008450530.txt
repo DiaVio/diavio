@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Three-lane roadway",
+        "LaneType": "One eastbound and two westbound lanes",
+        "RoadShape": "Left hand curve",
+        "RoadSlope": "8.3% grade",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Westbound in lane one",
+        "Location after Crash": "Rest on the roadway and backed off the side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Illegal U-turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "Westbound in lane two",
+        "Location after Crash": "Rest on the westbound shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Struck by V1 during illegal U-turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

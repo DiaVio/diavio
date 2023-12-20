@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Primary arterial road",
+        "LaneType": "Undivided",
+        "RoadShape": "Curved",
+        "RoadSlope": "Super elevated",
+        "SpeedLimit": "72kmph/45mph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Exiting the driveway on the north side of the intersection",
+        "Location after Crash": "Resting in a parking lot bordering the access road about 60 meters south of the first impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Southwest",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Traveling east in lane 1 of the arterial",
+        "Location after Crash": "Rolled 2 quarter turns into the driveway east of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

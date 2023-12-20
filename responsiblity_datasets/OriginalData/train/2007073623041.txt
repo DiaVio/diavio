@@ -1,0 +1,15 @@
+This three-vehicle crash occurred on a level, divided trafficway. The westbound lanes curve to the left (the radius of curvature is 161 meters) and consist of two through lanes, a left turn lane and a right turn lane. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Traffic was congested at the time of the crash.
+
+Vehicle one (V1), a 2005 Ford F350 pickup, was westbound in lane two. Vehicle two (V2), a 2003 Honda Odyssey, was stopped westbound in lane two in front of V1 and vehicle three (V3), a 2006 Ford F150 pickup, was stopped westbound in lane two in front of V2. The front of V1 struck the back of V2. V2 moved forward and the front struck the back of V3. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a forty-four-year-old male, stated that "traffic was stop and go" and "it stopped and then started and it just stopped again." He applied the brakes in an attempt to avoid the crash.
+
+The driver of V2, a forty-five-year-old female, was not interviewed. No further information is available for this driver.
+
+The driver of V3, a thirty-three-year-old male, was traveling with his wife and three children on their way from their home to drop his wife off at work. This driver was comfortable with his vehicle and passengers. He travels this route weekly.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; misjudgment of gap or other's speed."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle.

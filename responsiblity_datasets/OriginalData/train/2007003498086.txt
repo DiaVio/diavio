@@ -1,0 +1,11 @@
+The crash occurred in the intersection of two roadways. The east/west roadway was two-way with one lane in each direction. The north/south roadway was two-way with one lane in each direction. It was wet and raining, and the roadways were straight and level, and bituminous. The speed limit was 48 kmph (30 mph), and it was the afternoon hours of a weekday.
+
+V1, a 2000 Nissan Maxima four door with one occupant was traveling westbound in lane one. V2, a 2000 Mitsubishi Galant four door with two occupants was traveling eastbound in lane one. At the intersection, V1 entered into the eastbound lanes to pass a parked vehicle, and the front of V1 contacted the left side of V2. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Nissan Maxima, was driven by a 31 year-old female who reported no injuries. The driver stated to the Police that she was passing a double-parked vehicle and was sideswiped by V2.
+
+The Critical Pre-crash event for V1 was "This vehicle traveling, over the lane line on left side of travel lane". The Critical Reason for the Critical event was coded as a Driver related factor, type of driver error unknown. An Associated factors coded to the driver was a decision error, illegal maneuver, the driver crossed full barrier lines while passing. The rain was coded as a Weather related factor, and the other possible Associated factors were coded unknown because no interview was obtained.
+
+V2, the Mitsubishi Galant, was driven by a 16 year-old male who reported minor injuries and was transported to a medical facility. A 20 year-old female occupant reported no injuries but was transported to a medical facility. The occupant stated that while going out for lunch and traveling straight, the driver of V2, traveling in other direction came into their lane and impacted them.
+
+The Critical Pre-crash event for V2, was "Other vehicle encroachment, from opposite direction - over left lane line". The Critical Reason for the Critical event was not coded to this driver. The rain was coded as a Weather related factor. No other Associated factors were coded to the driver.

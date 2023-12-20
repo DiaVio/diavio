@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial road",
+        "LaneType": "Two-lane",
+        "RoadShape": "Intersection",
+        "RoadSlope": "Downhill (-11% grade)",
+        "SpeedLimit": {
+            "North/South": "40 kmph (25 mph)",
+            "East/West": "48 kmph (30 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Paved with concrete",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear",
+        "Moving on which Way": "East",
+        "Location after Crash": "Right deflection, impacted rear of V4",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight through the intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Assumed V1 would yield the right of way",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

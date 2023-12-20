@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "112 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry asphalt",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Blocking both eastbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Right",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "No PAR obtained",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Eastbound in lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

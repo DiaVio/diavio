@@ -1,0 +1,1 @@
+The driver of V1 made a false assumption that the traffic lanes were clear based on the non-contact driver motioning for them to proceed. However, the driver failed to properly assess the situation and did not see V2 (the driver of the Cadillac Deville sedan) in lane one. This false assumption and failure to observe the oncoming vehicle led to the collision.

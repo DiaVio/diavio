@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Unmentioned",
+    "LaneType": "Unmentioned",
+    "RoadShape": "Unmentioned",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": 56
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear skies"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "Westbound",
+    "LocationAfterCrash": "Still on the scene",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Change lanes",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Rear",
+    "MovingOnWhichWay": "Westbound",
+    "LocationAfterCrash": "Still on the scene",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Slowing down for traffic",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Rear",
+    "MovingOnWhichWay": "Westbound",
+    "LocationAfterCrash": "Tow yard (across the street)",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Stopped",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  }
+}

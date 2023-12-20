@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Arterial road",
+        "LaneType": "Two-lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "6% uphill for V1, level for V2",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Paved with asphalt",
+        "Weather": "Cloudy with fog and frost on the roadway"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left corner",
+        "Moving on which Way": "East",
+        "Location after Crash": "Just south of the intersection on the northwest curb",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front right corner",
+        "Moving on which Way": "South",
+        "Location after Crash": "South of the intersection in the oncoming travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

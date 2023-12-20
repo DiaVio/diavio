@@ -1,0 +1,8 @@
+
+
+Justification:
+- Vehicle #1 (Mazda 626) entered the intersection without the right of way, indicating that it collided with the side of another vehicle.
+- Vehicle #2 (Ford Taurus) was stopped northbound in the second travel lane, indicating that it was struck on the front side by the right side of Vehicle #1.
+- The right side of Vehicle #1 then side slapped the left side of Vehicle #2, further supporting a front-to-side collision.
+- The critical pre-crash event for Vehicle #1 was "this vehicle traveling-crossing over (passing through) intersection," indicating a front-to-side collision.
+- The critical pre-crash event for Vehicle #2 was "other vehicle encroachment-from crossing street across path," which also suggests a front-to-side collision.

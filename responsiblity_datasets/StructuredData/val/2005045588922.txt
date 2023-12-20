@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Suburban",
+        "LaneType": "Two-lane",
+        "RoadShape": "Mostly straight with a slight curve left",
+        "RoadSlope": "Level",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "No adverse weather conditions",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "West",
+        "Location after Crash": "Still drivable but leaking coolant",
+        "Objectivebehavior": {
+            "Whether to Brake": "No skid marks on the roadway",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "West",
+        "Location after Crash": "Towed from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

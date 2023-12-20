@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Urban highway interchange",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Straight on the south side, curve on the north side",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "72 KMPH (45 MPH)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry bituminous asphalt",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Lane 3 of southbound lanes, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right back side and front right side",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Approximately 50 meters (165 feet) south of initial Point of Impact in lane 3 of the southbound lanes, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

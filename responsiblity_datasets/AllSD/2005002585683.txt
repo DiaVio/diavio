@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "level four lane undivided roadway",
+        "LaneType": "straight/left turn lane",
+        "RoadShape": "slightly curved to the right",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "35 MPH (56 KPH)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear, daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "off the road into a driveway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "5-10 MPH",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "south",
+        "Location after Crash": "came to rest facing in a southerly direction in its original lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

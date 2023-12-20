@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "4-way",
+    "RoadSlope": "Uphill for westbound traffic, downhill for eastbound traffic",
+    "SpeedLimit": "64 kmph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No adverse weather conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Number one eastbound lane near the east edge of the intersection facing generally east",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Near the point of impact with V3 facing generally southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Go straight",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Stopped",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

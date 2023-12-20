@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "secondary arterial",
+        "LaneType": "through lanes and left turn-only lane",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "super elevated to 2 percent",
+        "SpeedLimit": "72kmph/45mph"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "dusk on a weekday evening"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "originally northbound, turning left (west)",
+        "Location after Crash": "within a few (2) meters of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "south",
+        "Location after Crash": "8 meters south of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

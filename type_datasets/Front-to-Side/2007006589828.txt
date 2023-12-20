@@ -1,0 +1,55 @@
+{
+    "RoadNetwork": {
+        "RoadType": "fully controlled positive-divided major highway",
+        "LaneType": "three eastbound and three westbound lanes divided by a raised concrete barrier",
+        "RoadShape": "level, curved",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "raining"
+    },
+    "Vehicle1": {
+        "ImpactSide": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "shoulder area facing westward",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "traveling in lane two negotiating a leftward curve",
+            "Travel Speed": "approximately 60 mph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "rear",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "against the concrete barrier facing westward",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "traveling in lane two directly in front of V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "ImpactSide": "left side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rolled over on its top on the shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "traveling in adjacent lane one",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

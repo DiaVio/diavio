@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Freeway",
+    "LaneType": "Divided",
+    "RoadShape": "Bridge",
+    "RoadSlope": "Uphill",
+    "SpeedLimit": "104 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No detrimental atmospheric conditions"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Left",
+    "MovingOnWhichWay": "West",
+    "LocationAfterCrash": "Resting facing east",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Right",
+    "MovingOnWhichWay": "West",
+    "LocationAfterCrash": "Continued driving west",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "West",
+    "LocationAfterCrash": "Stopped on south shoulder of the highway",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Expressway entrance ramp",
+        "LaneType": "Non-traffic signal controlled",
+        "RoadShape": "Downhill slope",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Wet asphalt",
+        "Weather": "Rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound on the expressway on-ramp",
+        "Location after Crash": "Towed due to damage",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Back end",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Not towed due to damage",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

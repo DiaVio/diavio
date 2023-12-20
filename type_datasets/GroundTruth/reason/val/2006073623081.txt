@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) struck the right side of Vehicle two (V2) as V2 entered the intersection from the west. This indicates a collision between the front of V1 and the side of V2, which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

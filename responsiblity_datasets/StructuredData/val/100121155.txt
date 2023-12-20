@@ -1,0 +1,41 @@
+{
+   "RoadNetwork":{
+      "RoadType":"Interstate",
+      "LaneType":"Multiple lanes",
+      "RoadShape":"Straight and curved",
+      "RoadSlope":"Downhill",
+      "SpeedLimit":"Unmentioned"
+   },
+   "Environment":{
+      "RoadCondition":"Dry",
+      "Weather":"Clear, nighttime (dark-street lights)"
+   },
+   "Vehicle1":{
+      "Impact Side":"Front",
+      "Moving on which Way":"Wrong way (northbound on southbound ramp)",
+      "Location after Crash":"Resting at point of impact, facing Northeast",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"North",
+         "Vehicle Action":"Straight",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"Yes",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"Front",
+      "Moving on which Way":"Southbound on exit ramp",
+      "Location after Crash":"Resting at point of impact, facing Southwest",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"Unmentioned",
+         "Vehicle Action":"Unmentioned",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"Unmentioned",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   }
+}

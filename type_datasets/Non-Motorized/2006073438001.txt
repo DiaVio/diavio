@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Expressway",
+        "LaneType": "One-way",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": 88
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Dusk"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Across the ditch, facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": 97,
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Suburban roadway",
+    "LaneType": "One lane in each direction",
+    "RoadShape": "Curved for northbound approach, straight for southbound approach",
+    "RoadSlope": "Downhill for northbound approach, uphill for southbound approach",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Bituminous roadway",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Final rest at point of impact with Vehicle3",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Northbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Parked on right shoulder facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Southbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

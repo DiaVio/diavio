@@ -1,0 +1,69 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Interstate highway",
+    "LaneType": "HOV lane",
+    "RoadShape": "Curved to the right",
+    "RoadSlope": "Level",
+    "SpeedLimit": "105 KPH (65 MPH)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Rear",
+    "MovingOnWhichWay": "Southbound",
+    "LocationAfterCrash": "Back of V2",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Yes",
+      "Direction": "South",
+      "VehicleAction": "Straight",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "AttemptedAvoidanceManeuvers": "No",
+      "AttemptedLaneCrossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Rear",
+    "MovingOnWhichWay": "Slowing down in southbound lane",
+    "LocationAfterCrash": "Between V1 and V3",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Rear",
+    "MovingOnWhichWay": "Stopped in southbound lane",
+    "LocationAfterCrash": "Between V2 and V4",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Yes",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "Unmentioned",
+    "LocationAfterCrash": "Front of V3",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  }
+}

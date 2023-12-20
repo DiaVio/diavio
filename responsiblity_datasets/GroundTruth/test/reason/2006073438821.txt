@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 failed to adequately surveil the intersection before making a left turn. Despite waiting for approximately ten seconds, the driver did not properly assess the presence of oncoming traffic, specifically V2. This lack of surveillance resulted in V1 entering the intersection and turning left in front of V2, causing the collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Bridge",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Uphill",
+        "SpeedLimit": "72 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Heavy rain, fog"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "South",
+        "Location after Crash": "Contacted concrete barrier on right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Stopped in lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "South",
+            "Vehicle Action": "Stopped",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

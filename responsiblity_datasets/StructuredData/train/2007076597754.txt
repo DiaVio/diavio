@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four-lane divided roadway",
+        "LaneType": "asphalt",
+        "RoadShape": "right hand curve",
+        "RoadSlope": "6 percent",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "good",
+        "Weather": "no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

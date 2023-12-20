@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": {
+            "East/West": "64 kmph",
+            "North/South": "48 kmph"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Across the intersection, striking a concrete utility pole on the southeast corner",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "East",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "40 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Pushed through to the other side of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "East",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "40 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

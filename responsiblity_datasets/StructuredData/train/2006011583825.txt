@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "slightly right turn",
+        "RoadSlope": "level",
+        "SpeedLimit": "89 kmph (55mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "dark"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "16 meters off the west side of the road, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "137 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Four-way",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "Unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "Clear",
+    "Weather": "Daylight, dry"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "North",
+    "Location after Crash": "Resting in the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Straight",
+      "Travel Speed": 56,
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Stopped at the intersection facing west",
+    "Location after Crash": "Resting in the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "West",
+      "Vehicle Action": "Intending to make a left turn (south)",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

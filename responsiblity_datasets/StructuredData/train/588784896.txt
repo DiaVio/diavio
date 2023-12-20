@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "multi-lane trafficway",
+        "LaneType": "northbound",
+        "RoadShape": "left turning curve",
+        "RoadSlope": "slight downhill",
+        "SpeedLimit": 65
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "wooded area of the east roadside",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northbound",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

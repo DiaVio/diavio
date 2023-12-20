@@ -1,0 +1,1 @@
+This is because the front of vehicle 1 (V1) collided with the side of vehicle 2 (V2) when V1 was traveling eastbound in the westbound lane.

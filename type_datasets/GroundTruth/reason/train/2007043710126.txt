@@ -1,0 +1,1 @@
+Vehicle One (V1) was turning left and Vehicle Two (V2) collided with the right side of V1 in the intersection.

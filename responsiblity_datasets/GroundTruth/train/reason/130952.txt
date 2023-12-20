@@ -1,0 +1,1 @@
+The reason for V1 being primarily responsible is that the driver of V1 relinquished control of the vehicle, possibly due to a pre-existing medical condition. This caused V1 to drift to the left, cross the center turn lane, and enter the left eastbound lane, ultimately resulting in the collision with V2.

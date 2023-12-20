@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "not physically divided",
+        "RoadShape": "curves right then straightens out",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "89 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse conditions",
+        "Weather": "daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "front-end plane, right front tire, right rear tire",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing west across the eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "97 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

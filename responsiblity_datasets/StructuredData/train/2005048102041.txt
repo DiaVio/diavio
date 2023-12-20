@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "two northbound lanes and a merging lane",
+        "RoadShape": "downhill with a right-hand curve",
+        "RoadSlope": "super elevated down to the center of radius of curvature",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "poor road conditions due to excessive water",
+        "Weather": "heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "northbound in lane one",
+        "Location after Crash": "rested in a grassy area",
+        "Objectivebehavior": {
+            "Whether to Brake": "applied ABS",
+            "Direction": "northbound",
+            "Vehicle Action": "rotated counterclockwise, then clockwise",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "attempting to merge with northbound traffic",
+        "Location after Crash": "rested with right front wheel off the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

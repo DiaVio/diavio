@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban",
+    "LaneType": "multiple lanes",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear, night"
+  },
+  "Vehicle1": {
+    "Impact Side": "left front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rested against corner of concrete block patio wall",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "attempted to avoid collision by steering right",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "facing east in the eastbound lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "attempted to steer left away from collision",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

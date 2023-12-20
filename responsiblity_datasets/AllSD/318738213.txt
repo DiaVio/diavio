@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Rural road",
+        "LaneType": "Three-lane road",
+        "RoadShape": "Left curve approaching a three-way intersection",
+        "RoadSlope": "Level in all directions",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Offset frontal",
+        "Moving on which Way": "South",
+        "Location after Crash": "On the inside shoulder of the eastbound lanes facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Negotiating a left curve",
+            "Travel Speed": "Approximately 105 kmph (65 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Steered left, right, then left again",
+            "Attempted Lane Crossing": "Crossed lane 2"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Offset frontal",
+        "Moving on which Way": "North",
+        "Location after Crash": "In the oncoming lane of travel",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Stopped facing north",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Rear-ended V2",
+        "Moving on which Way": "North",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Rear-ended V2",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane roadway",
+        "LaneType": "Two lanes each direction",
+        "RoadShape": "Intersection",
+        "RoadSlope": "Negative 2 percent",
+        "SpeedLimit": "64 kmph (40 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Daylight with clouds in the afternoon"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Around jug-handle intending to turn left",
+        "Location after Crash": "Facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Between 11-20 MPH",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right front side",
+        "Moving on which Way": "Westbound in the left lane",
+        "Location after Crash": "Facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Continuing straight",
+            "Travel Speed": "Between 31-40 MPH",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

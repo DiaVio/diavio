@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "four-lane divided highway",
+    "LaneType": "unmentioned",
+    "RoadShape": "straight and level",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry asphalt",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "left rear door",
+    "Moving on which Way": "west",
+    "Location after Crash": "grass median",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "attempted left turn into oncoming traffic",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "edge of the median",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

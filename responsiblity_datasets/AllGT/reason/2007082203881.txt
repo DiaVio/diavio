@@ -1,0 +1,1 @@
+The reason for this is that V1 disregarded the traffic signal and entered the intersection on a red light, while V2 (the driver of the Honda Accord sedan) entered on a yellow light. This means that V1 did not allow V2 enough time to clear the intersection, resulting in the collision.

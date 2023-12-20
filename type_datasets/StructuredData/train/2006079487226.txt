@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Y-intersection",
+    "LaneType": "Two-lanes",
+    "RoadShape": "Curved to the left",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "40 kmph (25 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Unmentioned",
+    "Weather": "Daylight hours with no adverse atmospheric"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "At impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Crossed over into the northbound lane",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Bounced back a few feet and came to rest facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Driving to pick up a friend",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban 5-lane undivided roadway",
+        "LaneType": "two lanes eastbound, two lanes westbound, two-way left turn lane",
+        "RoadShape": "straight",
+        "RoadSlope": "3% uphill on westbound approach, 7% uphill on southbound driveway approach",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "dawn"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in lane two",
+        "Location after Crash": "facing west in the two-way left turn lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "56 kmph (35 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left",
+        "Moving on which Way": "south on the private driveway",
+        "Location after Crash": "facing east in the two-way left turn lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+This is because V1 turned left into the path of V2, resulting in a collision between the front of V1 and the side of V2 ("T-bone" collision).

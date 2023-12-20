@@ -1,0 +1,1 @@
+The reason for this is that V2 failed to stop at the intersection, even though all of the traffic lights were out. V1, on the other hand, stopped at the intersection and proceeded cautiously after checking for traffic. V2's failure to stop and proceed through the intersection without properly assessing the situation led to the collision with V1.

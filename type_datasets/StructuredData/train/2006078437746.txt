@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane roadways",
+        "LaneType": "straight",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "40 kph (25 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no defects",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "westbound in lane one",
+        "Location after Crash": "off to the northwest, impacted a curb with its front right wheel",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "crossing over [passing through] intersection",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front plane",
+        "Moving on which Way": "northbound in lane one",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "Other vehicle encroachment: from crossing street across path",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

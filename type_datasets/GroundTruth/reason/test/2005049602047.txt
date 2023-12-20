@@ -1,0 +1,1 @@
+This is because the front of vehicle 2 (V2) impacted the left front of vehicle 1 (V1) at the intersection, with V2 being deflected to the left and striking a concrete base. This collision scenario matches the description of a front of one vehicle colliding with the side of another, also known as a "T-bone" collision.

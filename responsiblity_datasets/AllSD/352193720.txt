@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "two-way",
+    "RoadShape": "curved and straight",
+    "RoadSlope": "slight uphill grade",
+    "SpeedLimit": 30
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal",
+    "Moving on which Way": "west",
+    "Location after Crash": "embankment",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

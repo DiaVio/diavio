@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "two-lane",
+        "RoadShape": "curved",
+        "RoadSlope": "+7%",
+        "SpeedLimit": "80 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "no obvious defects",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "end of guardrail",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "80 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban",
+        "LaneType": "divided",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill",
+        "SpeedLimit": 72
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "normal"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front corner",
+        "Moving on which Way": "eastbound in lane three",
+        "Location after Crash": "rested with its front against the rear plane of V3",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": 56,
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left plane",
+        "Moving on which Way": "eastbound in lane three",
+        "Location after Crash": "pushed into the bushes in the median with its front plane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": 8,
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

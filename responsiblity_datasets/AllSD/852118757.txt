@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "freeway",
+        "LaneType": "one way",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "slight upgrade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "full front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "full front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

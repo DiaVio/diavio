@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Urban",
+    "LaneType": "Two lanes in each direction divided by a two-way center left-turn lane",
+    "RoadShape": "Straight",
+    "RoadSlope": "Gentle rise",
+    "SpeedLimit": "64 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Slightly overcast and cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Partially entered lane two of the westbound side of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Eastbound",
+      "Vehicle Action": "Steered left into the center turn lane",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side front",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Rotated approximately 30 degrees and partially departed the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Eastbound",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

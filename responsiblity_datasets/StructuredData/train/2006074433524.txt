@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interchange",
+        "LaneType": "Divided",
+        "RoadShape": "Curved",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": 97
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Off the roadway, struck a tree",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Failed to control vehicle with skill ordinarily expected",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {}
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided roadways",
+    "LaneType": "2-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "40 kmph (25 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "west",
+    "Location after Crash": "within approximately 5 meters of point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "straight",
+      "Vehicle Action": "failed to come to a complete stop at the stop sign",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left front",
+    "Moving on which Way": "south",
+    "Location after Crash": "within approximately 5 meters of point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "assumed V1 would stop",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

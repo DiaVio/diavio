@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Divided",
+    "LaneType": "Three lanes in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "104 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Against the median cable guardrail",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "West",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "104 kmph (65 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Back right corner",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Left roadside",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "West",
+      "Vehicle Action": "Decelerating",
+      "Travel Speed": "112 kmph (70 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Yes"
+    }
+  }
+}

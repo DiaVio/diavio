@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Urban roadway",
+    "LaneType": "Two lanes in each direction",
+    "RoadShape": "Straight and level",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": 56
+  },
+  "Environment": {
+    "RoadCondition": "Wet from rain",
+    "Weather": "Tropical storm"
+  },
+  "Vehicle1": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Lane one near point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": 48,
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Lane one near point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped behind V3",
+      "Travel Speed": 48,
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped to let a vehicle pull out of a parking space",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

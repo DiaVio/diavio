@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate highway",
+    "LaneType": "Four-lane",
+    "RoadShape": "Straight for northbound, curved to the right for southbound",
+    "RoadSlope": "Level",
+    "SpeedLimit": "89kph (55mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Sideswiped the center barrier",
+    "Moving on which Way": "Southbound in lane two",
+    "Location after Crash": "Rest against the barrier about 200m south of the first impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Tapped the brakes",
+      "Direction": "South",
+      "Vehicle Action": "Lost control and sideswiped the center barrier",
+      "Travel Speed": "93kph (58mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Struck by the front end of the cargo unit of V1",
+    "Moving on which Way": "Northbound in lane two",
+    "Location after Crash": "Rest against the barrier facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Rotated clockwise and then back southbound in the northbound lane two",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Struck by debris falling off the barrier",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

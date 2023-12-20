@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted a left turn onto the roadway and its front collided with the right side of Vehicle 2 (V2), which was traveling southbound in the number two lane. This type of collision is also commonly referred to as a "T-bone" collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four lane",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "4 percent downhill to the north (northbound) and 4 percent downhill to the south (southbound)",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "facing east across southbound lanes 1 and 2 about 2 meters east of impact #2",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front end",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "facing southwest about 3 meters west of the west edge of the roadway and about 6 meters from impact #1",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

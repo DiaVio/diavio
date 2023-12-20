@@ -1,0 +1,13 @@
+This crash occurred early in the afternoon in the left of three westbound lanes on a divided interstate highway. The roadway was straight with an uphill grade of +5.7%. The posted speed limit was 55mph. It was raining at the time.
+
+Vehicle 1 was a 2005 Hyundai Accent. Vehicle 2 was a 2004 Toyota Camry. Police Reported Travel Speed is No PAR obtained (created) for V1 and No PAR obtained (created) for V2.
+
+Both vehicles were traveling west in lane 3. Vehicle 1 was behind Vehicle 2. The driver of Vehicle 1 estimated that she was traveling 30 feet behind vehicle 2 prior to the crash and both drivers estimated their travel speeds to be approximately 40 mph (64kph) prior to the crash.
+
+The driver of vehicle 2 indicated that she decelerated to a stop to avoid stopped traffic ahead. The driver of vehicle 1 stated that she applied her brakes but slid into the back of vehicle 2.
+
+The critical precrash event for vehicle 1 was vehicle 2 stopped in the travel lane.
+
+The critical precrash event for vehicle 2 was vehicle 1 traveling in the same direction with a higher speed.
+
+The critical reason for the critical precrash event was vehicle 1 traveling too fast to be able to respond to the unexpected actions of others. A critical reason was not attributed to vehicle 2.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Divided",
+        "RoadShape": "Four-legged",
+        "RoadSlope": "Level",
+        "SpeedLimit": 64
+    },
+    "Environment": {
+        "RoadCondition": "Straight",
+        "Weather": "Dark with streetlights on, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Back",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "South of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Not applicable",
+            "Vehicle Action": "Backing into intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Left",
+            "Vehicle Action": "Struck back of V1",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-lane roadway",
+        "LaneType": "Separated by painted double yellow lines",
+        "RoadShape": "Sweeping left curve",
+        "RoadSlope": "Positive grade",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Rest on its top facing southwest with its front against large boulders",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turning maneuvers",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

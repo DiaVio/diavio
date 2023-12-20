@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "state highway",
+    "LaneType": "two lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "intersection, facing northeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right side",
+    "Moving on which Way": "south",
+    "Location after Crash": "southeast side of the intersection, facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "braked",
+      "Direction": "left",
+      "Vehicle Action": "attempted to avoid collision",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "steering to the left",
+      "Attempted Lane Crossing": "yes"
+    }
+  }
+}

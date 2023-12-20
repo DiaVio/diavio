@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Divided",
+    "LaneType": "Five-lane",
+    "RoadShape": "Intersection",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "80 kmph (50 MPH)"
+  },
+  "Environment": {
+    "RoadCondition": "Unmentioned",
+    "Weather": "Rain"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Facing Westbound",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Illegal maneuver (running a red TCD)",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Facing Eastbound",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Between 11 and 20 MPH",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Undivided",
+        "LaneType": "One lane in each direction",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": {
+            "North/South Roadway": "72 kmph (45 mph)",
+            "East/West Roadway": "40 kmph (25 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Undivided",
+        "Weather": "Dark with streetlights on, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Rotated counterclockwise, traveled to the southeast and back right wheel struck the curb",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Stopped, then entered the intersection",
+        "Location after Crash": "Rotated counterclockwise, traveled to the southeast and back right wheel struck the curb",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "East",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

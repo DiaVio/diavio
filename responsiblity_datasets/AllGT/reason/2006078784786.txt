@@ -1,0 +1,1 @@
+The reason for this is that V1 made a false assumption that it was clear to proceed with the left turn, despite having an obstructed view. This decision error led to the collision with V2 (the driver of the Kia Sportage) who was traveling straight in the center turn lane. V2 was not at fault as they were following the correct lane and did not encroach into the opposite direction.

@@ -1,0 +1,1 @@
+However, based on the information you have given, the accident can be classified as a Rear-End Collision. This is because Vehicle #1 collided with the rear of Vehicle #2, which caused Vehicle #2 to then collide with the rear of Vehicle #3. This sequence of events aligns with the characteristics of a Rear-End Collision.

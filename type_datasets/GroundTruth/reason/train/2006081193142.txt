@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was spinning out of control and the front left of Vehicle 2 (V2) impacted the left front of V1, resulting in a collision between the front of V2 and the side of V1.

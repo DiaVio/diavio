@@ -1,0 +1,1 @@
+This is because the front of vehicle one (V1) collided with the side of vehicle two (V2) when V1 entered the oncoming lane intending to turn left and V2 was traveling southbound in lane one.

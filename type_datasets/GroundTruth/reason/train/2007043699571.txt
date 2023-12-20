@@ -1,0 +1,1 @@
+This is because Vehicle 1 lost control and rotated counterclockwise, resulting in the right side of Vehicle 1 being struck by the front of Vehicle 2.

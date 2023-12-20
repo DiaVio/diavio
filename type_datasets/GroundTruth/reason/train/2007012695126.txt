@@ -1,0 +1,1 @@
+This is because the front of Vehicle #1 (V1) collided with the side of Vehicle #2 (V2) in a "T-bone" fashion. V1 was traveling east and crossed over the centerline, perpendicular to the westbound lanes, resulting in the collision with the front left side of V2.

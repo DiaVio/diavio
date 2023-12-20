@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Jeep Cherokee) was turning left and its front collided with the front of Vehicle 2 (Mercury Villager) as it was starting from the green light, resulting in a collision between the front of one vehicle (V1) and the side of another vehicle (V2).

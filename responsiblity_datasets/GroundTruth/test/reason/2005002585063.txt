@@ -1,0 +1,1 @@
+The reason for this is that the driver of Vehicle 1 was traveling too fast for the conditions, as indicated by the unsafe speed contributing factor. Additionally, the driver overcompensated in steering by abruptly steering to the left, which led to a loss of control and ultimately caused the crash. Excess speed and aggressive driving were also coded as associated factors.

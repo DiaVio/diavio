@@ -1,0 +1,1 @@
+This is because vehicle V1 was stopped at a stop sign and attempting to turn left, and vehicle V2, traveling northbound, collided with the front of V1 when V1 turned in front of V2.

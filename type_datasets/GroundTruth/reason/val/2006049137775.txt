@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to turn left across the path of Vehicle 2, resulting in the front left of Vehicle 1 contacting the right side of Vehicle 2.

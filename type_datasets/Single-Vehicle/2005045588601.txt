@@ -1,0 +1,27 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Urban residential",
+    "LaneType": "Undivided",
+    "RoadShape": "Curved slightly to the right",
+    "RoadSlope": "-3 percent grade",
+    "SpeedLimit": "48kmph (30mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Daylight"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Left",
+    "Moving on which Way": "East",
+    "Location after Crash": "Against utility pole, facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Veered left off the left side of the road",
+      "Travel Speed": "71kmph (44mph) five seconds prior to algorithm enable, dropping to 26kmph (16mph) at one second prior to AE",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "Three through lanes",
+        "RoadShape": "Overpass",
+        "RoadSlope": "5% uphill grade before the overpass leveling out at the top",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "No adverse weather conditions"
+    },
+    "Vehicle1": {
+        "ImpactSide": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "South shoulder, facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "Rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "South shoulder, facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "ImpactSide": "Rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "South shoulder, facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

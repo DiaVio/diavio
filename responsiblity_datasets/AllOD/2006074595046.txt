@@ -1,0 +1,15 @@
+This three-vehicle crash occurred in a three-legged, traffic signal-controlled intersection. The north/south roadway is straight and divided by a curbed median. The southbound lanes have an uphill grade and consist of two through lanes. The northbound lanes have a downhill grade and consist of two through lanes and a left turn lane. The speed limit on this roadway is 72 kmph (45 mph). The intersecting roadway (on the west side of the north/south roadway) is straight and consists of one lane in each direction and a right turn lane at the intersection. The eastbound lanes have an uphill grade. The speed limit on this roadway is 40 kmph (25 mph). These roadways were wet at the time of the crash. This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2001 Chevrolet Venture, was southbound in lane two. Vehicle two (V2), a 2005 Chevrolet Colorado, was stopped northbound in lane three. Vehicle three (V3), a 1999 F250 pickup, was stopped eastbound at the intersection. V2 entered the intersection to turn left and the right side was struck by the front of V1. V2 rotated clockwise and the back struck the front of V3. V1 and V2 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-nine-year-old female, was traveling with her thirty-three-year-old husband and her four-year-old son. They had just had lunch and were on their way to drop off their son at preschool. This driver was healthy, well rested and comfortable with her vehicle and passengers. She stated that she was talking to her passengers, but was fully attentive to the driving task. She travels this route daily.
+
+The driver of V2, a forty-one-year-old male, was traveling from his home to work. He was in good healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he saw V1 but assumed that V1 would stop at the intersection. When he realized that V1 was not stopping, he accelerated in an attempt to avoid a crash.
+
+The driver of V3, a thirty-two-year-old male, was traveling from one work site to another work site. He was well rested, healthy and familiar with his vehicle. This driver travels this route daily.
+
+The critical pre-crash event for V1 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle."
+
+The critical pre-crash event for V2 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; false assumption of other's actions."
+
+The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

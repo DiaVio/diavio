@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "US Highway",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "Negative 3% grade on northbound lanes, negative 2% grade at point of impact on southbound lanes",
+        "SpeedLimit": "72 KMPH/45 MPH"
+    },
+    "Environment": {
+        "RoadCondition": "Rainy",
+        "Weather": "Dark with street lamps illuminated on a weekend evening"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "North",
+        "Location after Crash": "Partially on right shoulder and partially in grass next to shoulder facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Right shoulder on south side of intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

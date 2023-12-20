@@ -1,0 +1,29 @@
+{
+  "RoadNetWork": {
+    "RoadType": "interstate highway",
+    "LaneType": "divided",
+    "RoadShape": "straight",
+    "RoadSlope": "negative 2%",
+    "SpeedLimit": "113 kph (70 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal",
+    "Moving on which Way": "south",
+    "Location after Crash": "rest at bridge support column",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "70 mph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {},
+  "VehicleN": {}
+}

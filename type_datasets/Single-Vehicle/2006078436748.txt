@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "five lane, two-way roadway",
+        "LaneType": "two westbound lanes, two eastbound lanes, continuous two-way left turn lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "89 KPH (55 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "retention basin",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "southeasterly",
+            "Vehicle Action": "going straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

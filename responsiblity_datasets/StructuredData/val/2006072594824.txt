@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban",
+        "LaneType": "undivided",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 48
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "head-on, side slap",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "sidewalk at southeast corner of intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "head-on",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "near impact with Vehicle3",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

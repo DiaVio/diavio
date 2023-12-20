@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "suburban road",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "right curve",
+        "RoadSlope": "7% downhill grade with 10% superelevation"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "north",
+        "Location after Crash": "point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {}
+}

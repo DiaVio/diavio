@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate highway",
+        "LaneType": "bituminous",
+        "RoadShape": "straight",
+        "RoadSlope": "slight downhill",
+        "SpeedLimit": "96 kph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "snow and ice",
+        "Weather": "daylight with snow"
+    },
+    "Vehicle1": {
+        "Impact Side": "front and left",
+        "Moving on which Way": "east",
+        "Location after Crash": "impacted concrete median",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

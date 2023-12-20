@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (Vehicle one - V1) and no other entities were involved.

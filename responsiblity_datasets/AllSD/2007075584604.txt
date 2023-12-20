@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous",
+    "LaneType": "multiple lanes",
+    "RoadShape": "four-way intersection",
+    "RoadSlope": "downhill for eastbound, uphill for westbound",
+    "SpeedLimit": "80 kmph (50 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "facing south on the west side of the intersection in the westbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unsuccessful",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "facing northwest on a snow bank",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

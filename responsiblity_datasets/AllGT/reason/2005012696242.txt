@@ -1,0 +1,1 @@
+The driver of V1 failed to adequately surveil the road before making a left-hand turn, resulting in a recognition error. This means that the driver of V1 did not see the oncoming vehicle (V2) and proceeded to make the turn, causing the collision.

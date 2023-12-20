@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "80 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "south",
+        "Location after Crash": "edge of a deep canal ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "attempting to pass another vehicle while racing",
+            "Travel Speed": "97 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {}
+}

@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged intersection. The north/south roadway was straight and level, consists of one lane in each direction and is controlled by stop signs. The speed limit on this roadway is 40 kmph (25 mph). The east/west roadway is undivided, straight and has no traffic control devices. The eastbound approach has a seven percent downhill grade and consists of one through lane with a parking lane on the right side. The speed limit on this roadway is 48 kmph (30 mph). This crash occurred during daylight hours and it was raining.
+
+Vehicle one (V1), a 2004 Subaru Impreza, was stopped northbound in lane one. Vehicle two (V2), a 1996 Mazda Protégé, was eastbound in lane one. V1 entered the intersection, turning right. The front of V2 struck the left side of V1. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-five-year-old female, was not interviewed. No further information is available for this driver.
+
+The driver of V2, a thirty-five-year-old male, was traveling with two family members from his home to a football game. He was healthy, well rested and comfortable with his vehicle and passengers. This driver travels this roadway daily. When he saw V1 entering the intersection, he applied the brakes in an attempt to avoid a crash.
+
+The critical pre-crash event for V1 was coded as: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: type of driver error unknown.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into same direction. The critical reason for the critical pre-crash event was not coded to this vehicle.

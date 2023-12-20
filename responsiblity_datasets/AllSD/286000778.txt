@@ -1,0 +1,52 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "two-way two-lane",
+        "RoadShape": "4-way intersection",
+        "RoadSlope": "upward gradient",
+        "SpeedLimit": {
+            "northeast-southwest": "75 km/h",
+            "intersecting road": "58 km/h"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "southwest",
+        "Location after Crash": {
+            "Resting Position": "on its right side",
+            "Facing Direction": "north",
+            "Position on Roadway": "partially on the westbound roadway and partially on the shoulder"
+        },
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "northwest",
+        "Location after Crash": {
+            "Resting Position": "on its right side",
+            "Facing Direction": "northeast",
+            "Position on Roadway": "on the east corner of the intersection"
+        },
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

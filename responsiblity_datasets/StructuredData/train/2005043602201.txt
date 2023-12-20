@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "rural",
+        "LaneType": "2-lane gravel",
+        "RoadShape": "curves to the left and right",
+        "RoadSlope": "5 percent downhill grade with a 5 percent super elevation",
+        "SpeedLimit": "55 mph (89 kmph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "east",
+        "Location after Crash": "on its roof facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

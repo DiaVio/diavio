@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver failed to stop for the red traffic control signal, which is a driver-related factor and an illegal maneuver. This means that V1 entered the intersection when it was not their right of way, causing the collision with V2.

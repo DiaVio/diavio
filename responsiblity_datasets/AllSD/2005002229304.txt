@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two lane undivided roadway",
+        "LaneType": "unmentioned",
+        "RoadShape": "curving to the right",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "89KMPH (55MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "cloudy and misting after a moderate rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front, left rear, front right",
+        "Moving on which Way": "north",
+        "Location after Crash": "impacted with a guardrail on the northbound side",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "divided",
+        "RoadShape": "curved",
+        "RoadSlope": "downgrade",
+        "SpeedLimit": "80 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rested on passenger side",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "attempted to straighten out trailer",
+            "Travel Speed": "80 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "not applicable",
+        "Moving on which Way": "not applicable",
+        "Location after Crash": "not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "not applicable",
+            "Direction": "not applicable",
+            "Vehicle Action": "not applicable",
+            "Travel Speed": "not applicable",
+            "is_against_rules": "not applicable",
+            "Attempted Avoidance Maneuvers": "not applicable",
+            "Attempted Lane Crossing": "not applicable"
+        }
+    }
+}

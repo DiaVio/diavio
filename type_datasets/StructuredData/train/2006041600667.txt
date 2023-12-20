@@ -1,0 +1,69 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "72 KPH"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Multiple sides",
+        "Moving on which Way": "Across four lanes of southbound traffic, jumped the median, and across three lanes of northbound traffic",
+        "Location after Crash": "Against the bus bench on the northeast side of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Claimed to have tried to brake but vehicle did not stop",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Lost control, hit pedestrian, accelerated, hit bus bench and other vehicles",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Stopped in lane three at the red light",
+        "Location after Crash": "Still in lane three",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Stopped at red light, opened door to V1, put V1 in park, took keys",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Right side door",
+        "Moving on which Way": "Stopped in lane two at the red light",
+        "Location after Crash": "Still in lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Stopped at red light",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle4": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Stopped in lane three at the red light",
+        "Location after Crash": "Pushed up onto the curbed median",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

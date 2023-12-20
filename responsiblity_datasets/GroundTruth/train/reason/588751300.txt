@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 struck the left side plane of Vehicle 1, causing it to spin counterclockwise and collide with a utility pole. This indicates that Vehicle 2 failed to yield the right of way to Vehicle 1, resulting in the collision.

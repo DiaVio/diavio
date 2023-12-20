@@ -1,0 +1,1 @@
+This classification is justified because the front of vehicle one (V1) collided with the left side of vehicle two (V2) in the intersection, resulting in the rotation of V2 clockwise.

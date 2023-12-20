@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way five lane undivided highway",
+        "LaneType": "Bituminous",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Slick due to de-icer",
+        "Weather": "Clear and dry"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Against the north barrier wall facing southbound",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front right",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Partially on the right shoulder and in lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+   "RoadNetwork":{
+      "RoadType":"Interstate highway",
+      "LaneType":"Southbound lanes",
+      "RoadShape":"Straight",
+      "RoadSlope":"Level",
+      "SpeedLimit":"104 kmph (65 mph)"
+   },
+   "Environment":{
+      "RoadCondition":"Dry",
+      "Weather":"No adverse atmospheric conditions"
+   },
+   "Vehicle1":{
+      "Impact Side":"Rear",
+      "Moving on which Way":"Southbound",
+      "Location after Crash":"Right-hand shoulder",
+      "Objectivebehavior":{
+         "Whether to Brake":"Yes",
+         "Direction":"South",
+         "Vehicle Action":"Towing 2 vehicles",
+         "Travel Speed":"97 kmph",
+         "is_against_rules":"Yes",
+         "Attempted Avoidance Maneuvers":"No",
+         "Attempted Lane Crossing":"No"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"Rear",
+      "Moving on which Way":"Southbound",
+      "Location after Crash":"Right-hand shoulder",
+      "Objectivebehavior":{
+         "Whether to Brake":"Yes",
+         "Direction":"South",
+         "Vehicle Action":"Slowing down",
+         "Travel Speed":"97 kmph",
+         "is_against_rules":"No",
+         "Attempted Avoidance Maneuvers":"No",
+         "Attempted Lane Crossing":"No"
+      }
+   },
+   "Vehicle3":{
+      "Impact Side":"Not involved in the crash",
+      "Moving on which Way":"Southbound",
+      "Location after Crash":"Unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"Unmentioned",
+         "Vehicle Action":"Unmentioned",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"Unmentioned",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   }
+}

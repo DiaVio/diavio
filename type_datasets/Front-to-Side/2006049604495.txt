@@ -1,0 +1,55 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided",
+        "LaneType": "multiple lanes",
+        "RoadShape": "curved",
+        "RoadSlope": "uphill for northbound, downhill for southbound",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "ImpactSide": "right front",
+        "Moving on which Way": "north",
+        "Location after Crash": "partially on north curb of left turn lane and partially on roadway",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "front",
+        "Moving on which Way": "south",
+        "Location after Crash": "front impacted with V3",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "pass straight through",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "ImpactSide": "unmentioned",
+        "Moving on which Way": "west",
+        "Location after Crash": "unmentioned",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "west",
+            "Vehicle Action": "waiting for light to change to make a left turn into southbound lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

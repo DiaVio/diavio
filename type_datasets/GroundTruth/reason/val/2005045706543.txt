@@ -1,0 +1,1 @@
+Vehicle 1 attempted a left turn at the intersection and was struck on the front end by the left front corner of Vehicle 2, which was traveling in the opposing direction. This collision corresponds to a "T-bone" collision where the front of one vehicle collides with the side of another.

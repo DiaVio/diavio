@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was turning left and Vehicle 2 (V2) was traveling straight in lane one, and V1's front contacted the left front side of V2.

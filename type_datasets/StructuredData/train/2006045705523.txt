@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Primary arterial road",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Positive 4 percent grade",
+        "SpeedLimit": "80kph/50mph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "North",
+        "Location after Crash": "Partially over the right lane line",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes (full ABS application)",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Back right",
+        "Moving on which Way": "Stopped in lane waiting to turn left into a private drive",
+        "Location after Crash": "Facing original travel direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

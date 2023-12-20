@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "rural",
+    "LaneType": "two-way, two-lane",
+    "RoadShape": "curved",
+    "RoadSlope": "2% downhill grade",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "south",
+    "Location after Crash": "northbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "64 kmph (40 mph)",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "stopped at the end of the driveway",
+    "Location after Crash": "southbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "east",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "64 kmph (40 mph)",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "head-on",
+    "Moving on which Way": "north",
+    "Location after Crash": "northbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

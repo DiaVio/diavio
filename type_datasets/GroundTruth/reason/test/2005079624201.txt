@@ -1,0 +1,1 @@
+This is because the front of vehicle one (V1) impacted the left rear of vehicle two (V2), causing V2 to move in a northwesterly direction, and then the front of V2 impacted the right rear of vehicle three (V3). This collision involves the front of one vehicle colliding with the side of another, which is also known as a "T-bone" collision.

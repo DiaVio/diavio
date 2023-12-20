@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Nissan Maxima) was stopped facing east at the entrance to a parking lot, waiting to turn left, and Vehicle 2 (Chevrolet Venture) was traveling south in lane one. Vehicle 1 proceeded to turn left into Vehicle 2's lane, resulting in the left front corner of Vehicle 1 being impacted by the front of Vehicle 2.

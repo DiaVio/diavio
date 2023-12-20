@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver fell asleep while negotiating a left-hand curve, causing the vehicle to drift into the northbound lane and collide with V2's trailer. The driver's fatigue, likely due to their work schedule, was a contributing factor to the crash.

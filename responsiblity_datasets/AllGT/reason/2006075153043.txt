@@ -1,0 +1,1 @@
+The reason for this is that V2 was making a left turn at the intersection and falsely assumed that V1 (the driver of the 1996 Cadillac Seville) would stop when the light turned yellow. This false assumption of V2's actions led to the collision between V1 and V2, as V1 entered the intersection at the same time as V2 was making the left turn.

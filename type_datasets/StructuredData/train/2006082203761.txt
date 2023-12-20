@@ -1,0 +1,58 @@
+{
+  "RoadNetWork": {
+    "RoadType": "surface streets",
+    "LaneType": "four lanes and two lanes",
+    "RoadShape": "straight and level",
+    "RoadSlope": "level",
+    "SpeedLimit": {
+      "MainRoad": "48 kmph (30 mph)",
+      "IntersectingRoad": "40 kmph (25 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "daylight hours with no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "left side",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "impacted left side of V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "rotated counterclockwise, departed the roadway, and impacted a mailbox",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unspecified object",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "facing north",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

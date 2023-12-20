@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "4 lane undivided roadway",
+        "LaneType": "Unmentioned",
+        "RoadShape": "Hillcrest after a curve to the right",
+        "RoadSlope": "3.6%",
+        "SpeedLimit": "72 KMPH (45MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Rolling in the 2nd lane",
+        "Location after Crash": "North shoulder facing in a northeasterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Awaiting passing oncoming traffic to make a left turn or U-turn",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Traveling in the same lane",
+        "Location after Crash": "South shoulder facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Rear-ended Vehicle #1",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

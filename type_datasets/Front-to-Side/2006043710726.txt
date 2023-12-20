@@ -1,0 +1,59 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous",
+    "LaneType": "curved",
+    "RoadShape": "offset intersection",
+    "RoadSlope": {
+      "Southbound": "level and curved right",
+      "Northbound": "curved left with an uphill 3% slope",
+      "Eastbound": "straight with a downhill 2% slope"
+    },
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "clear",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "ImpactSide": "right rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "final rest facing southwest in between the two southbound lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "64 kmph (40 mph)",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "final rest approximately 4m (13 ft) from its initial point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "left side",
+    "Moving on which Way": "stopped facing north in lane 3 (a designated left turn lane)",
+    "Location after Crash": "final rest in its original travel lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

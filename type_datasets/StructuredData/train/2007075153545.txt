@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "one-way entrance ramp",
+        "LaneType": "one lane",
+        "RoadShape": "curves to right",
+        "RoadSlope": "level",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "slush-covered",
+        "Weather": "raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "departed right side of roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

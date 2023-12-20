@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Two westbound lanes",
+    "RoadShape": "Slight right hand curve",
+    "RoadSlope": "5% uphill grade",
+    "SpeedLimit": "105 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry asphalt",
+    "Weather": "Daylight hours"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound in lane one",
+    "Location after Crash": "Against the guardrail on the north side of the roadway, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "137 kmph (85 mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Westbound in lane one",
+    "Location after Crash": "Came to rest in lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "64 kmph (40 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

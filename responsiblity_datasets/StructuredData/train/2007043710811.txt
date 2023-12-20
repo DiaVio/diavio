@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban",
+        "LaneType": "Undivided",
+        "RoadShape": "Four-legged intersection",
+        "RoadSlope": "Slight uphill grade",
+        "SpeedLimit": "56 kph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear and sunny"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front and left",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Final rest 11.3 meters (37 feet) south of impact area facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "North",
+            "Vehicle Action": "Turning left at intersection",
+            "Travel Speed": "56 kph (35 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Final rest 31.5 meters (103 feet) south of impact area facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "South",
+            "Vehicle Action": "Straight ahead",
+            "Travel Speed": "56 kph (35 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    }
+}

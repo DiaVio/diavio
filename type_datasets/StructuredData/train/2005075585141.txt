@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "access-controlled",
+        "LaneType": "divided",
+        "RoadShape": "straight with a left curve",
+        "RoadSlope": "level",
+        "SpeedLimit": "105 kph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "left rear",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing west on the south shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "right",
+            "Vehicle Action": "rotate counterclockwise, then clockwise",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

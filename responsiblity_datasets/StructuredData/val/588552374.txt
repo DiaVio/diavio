@@ -1,0 +1,27 @@
+{
+  "RoadNetwork": {
+    "RoadType": "bituminous",
+    "LaneType": "single",
+    "RoadShape": "curved",
+    "RoadSlope": "positively graded",
+    "SpeedLimit": 45
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "frontal",
+    "Moving on which Way": "west",
+    "Location after Crash": "off the north side of the roadway, facing a northwesterly direction",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

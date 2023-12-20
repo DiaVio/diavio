@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Northbound",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "105 kmph"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Towed",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Northbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "105 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Remained at scene",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Northbound",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "105 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

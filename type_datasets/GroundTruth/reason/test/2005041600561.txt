@@ -1,0 +1,1 @@
+This is because the front of Vehicle #1 (Honda Civic) collided with the side of Vehicle #2 (Toyota Corolla) in the intersection as Vehicle #1 was attempting to make a left turn and Vehicle #2 was traveling straight.

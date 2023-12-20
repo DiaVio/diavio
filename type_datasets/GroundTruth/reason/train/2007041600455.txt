@@ -1,0 +1,2 @@
+Rear-End Collision
+- V2 hit the back of V3, causing a chain reaction of collisions involving V4 and V1. This indicates that V2 was following too closely and failed to stop in time, resulting in a Rear-End Collision.

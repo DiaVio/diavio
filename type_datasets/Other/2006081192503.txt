@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Freeway off-ramp",
+        "LaneType": "Two lane, one way, undivided",
+        "RoadShape": "Curved to the right",
+        "RoadSlope": "Negative grade",
+        "SpeedLimit": "96 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Bounced backwards and stopped",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

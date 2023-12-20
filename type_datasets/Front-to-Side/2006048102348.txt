@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided",
+    "LaneType": "two-way",
+    "RoadShape": "Tee intersection",
+    "RoadSlope": "level",
+    "SpeedLimit": "48 kmph (30 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "bituminous roadway",
+    "Weather": "no adverse weather conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "left side",
+    "Moving on which Way": "north",
+    "Location after Crash": "partially off the roadway in lane one of the westbound lanes facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "turn left at intersection",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "westbound in lane one",
+    "Location after Crash": "in the back yard of a private residence facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "crossing street - turning into opposite direction",
+      "Travel Speed": "16 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

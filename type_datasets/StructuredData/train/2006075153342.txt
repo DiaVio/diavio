@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "through lanes and left turn lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "64 kmph (40 mph) in north/south direction, 48 kmph (30 mph) from the west"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "thrown off the motorcycle onto the pavement",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "64 kmph (40 mph)",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left front side",
+        "Moving on which Way": "stopped at the light in preparation to turn left",
+        "Location after Crash": "came to rest on all four tires facing east in the middle of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "east",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "24 kmph (15 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

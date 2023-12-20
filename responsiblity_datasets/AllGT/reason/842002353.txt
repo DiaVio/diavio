@@ -1,0 +1,1 @@
+The reason for this is that the driver of Vehicle 1 attempted to change lanes, resulting in the vehicle rotating and departing the pavement edge. This action ultimately led to the vehicle colliding with multiple tree trunks and causing damage.

@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided interstate highway",
+        "LaneType": "4-lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "ImpactSide": "front right",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "off the east shoulder, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "pre-impact braking",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "rear left",
+        "Moving on which Way": "unoccupied",
+        "Location after Crash": "straddling the east fogline of the northbound lanes, facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

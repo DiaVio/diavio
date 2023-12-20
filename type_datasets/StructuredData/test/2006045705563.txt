@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Primary arterial road",
+        "LaneType": "Divided with double yellow line",
+        "RoadShape": "Curved to the east",
+        "RoadSlope": "Super-elevated 8%, negative precrash grade of 5%",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Dark, unlit, heavy fog cover"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "South",
+        "Location after Crash": "Facing south almost 70 meters south of the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Struck the fallen tree in the road",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

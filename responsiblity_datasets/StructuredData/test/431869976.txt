@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "intersection",
+        "LaneType": "divided",
+        "RoadShape": "four-legged",
+        "RoadSlope": "-3%",
+        "SpeedLimit": {
+            "north/south": "45 mph",
+            "east/west": "25 mph"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight, no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "partially on sidewalk, facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right fender",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "on its roof in northbound outboard travel lane, facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "attempting left turn",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

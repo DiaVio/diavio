@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) as V2 was traveling through the intersection. The front plane of V1 contacted the left plane of V2, resulting in both vehicles rotating and coming to rest in positions that indicate a front-to-side collision.

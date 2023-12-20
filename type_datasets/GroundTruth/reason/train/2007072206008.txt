@@ -1,0 +1,1 @@
+This is because Vehicle 1 struck the back of Vehicle 2 while they were both traveling in the same direction and V2 had stopped due to traffic. The critical pre-crash event for V1 was also coded as "other motor vehicle in lane; other vehicle stopped," which further supports this classification.

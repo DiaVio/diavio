@@ -1,0 +1,1 @@
+This is because the collision involved only one vehicle (V1), with no mention of any other entities being involved in the crash.

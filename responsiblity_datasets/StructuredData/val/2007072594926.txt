@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Jersey barrier-divided",
+        "LaneType": "Four through lanes with shoulders on both sides",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "No information available",
+        "Weather": "Daylight hours with no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound in lane two",
+        "Location after Crash": "Off the right side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "No information available",
+            "Direction": "No information available",
+            "Vehicle Action": "No information available",
+            "Travel Speed": "No information available",
+            "is_against_rules": "No information available",
+            "Attempted Avoidance Maneuvers": "No information available",
+            "Attempted Lane Crossing": "No information available"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "No information available",
+        "Moving on which Way": "No information available",
+        "Location after Crash": "No information available",
+        "Objectivebehavior": {
+            "Whether to Brake": "No information available",
+            "Direction": "No information available",
+            "Vehicle Action": "No information available",
+            "Travel Speed": "No information available",
+            "is_against_rules": "No information available",
+            "Attempted Avoidance Maneuvers": "No information available",
+            "Attempted Lane Crossing": "No information available"
+        }
+    }
+}

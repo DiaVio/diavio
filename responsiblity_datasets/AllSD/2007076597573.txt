@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "T",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": {
+            "Primary Road": "56 kmph",
+            "Secondary Road": "40 kmph"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Daylight with good visibility"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side bed area",
+        "Moving on which Way": "Stopped at south side entrance with intention of turning left to go west",
+        "Location after Crash": "Spun around in the intersection and across the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "16 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Eastbound in the #2 travel lane",
+        "Location after Crash": "Towed from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Right",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "16 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

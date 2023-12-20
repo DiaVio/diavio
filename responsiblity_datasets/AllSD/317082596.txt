@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "rural",
+    "LaneType": "two-lane",
+    "RoadShape": "straight and level",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "64 kph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "slushy with ice and snow",
+    "Weather": "snowing"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal",
+    "Moving on which Way": "west",
+    "Location after Crash": "rested at the tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

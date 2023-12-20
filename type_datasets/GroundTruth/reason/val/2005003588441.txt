@@ -1,0 +1,8 @@
+
+
+Justification:
+- V2, the Toyota Corolla, rear-ended V1, the Mercedes-Benz ML320.
+- Both vehicles came to a final rest in the roadway.
+- The Critical Pre-crash Event for V2 was coded as "other motor vehicle in lane, other vehicle stopped", indicating that V2 collided with the stopped V1.
+- The Critical Reason for the Critical Event was coded as "false assumption of other's actions", indicating that the driver of V2 assumed that V1 would go through the second set of traffic lights.
+- The driver of V2 attempted to avoid the crash by braking and steering, but still impacted the rear of V1.

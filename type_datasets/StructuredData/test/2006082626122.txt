@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban arterial road",
+        "LaneType": "Two lanes of two-way travel",
+        "RoadShape": "Curved left leading up to the intersection",
+        "RoadSlope": "Downhill grade of -7% on the side street",
+        "SpeedLimit": "48 Kmph (30 mph) for the arterial road, 40 Kmph (25 mph) for the side street"
+    },
+    "Environment": {
+        "RoadCondition": "Paved with concrete",
+        "Weather": "Clear sky, no adverse conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Stopped at the intersection facing west",
+        "Location after Crash": "Estimated to be somewhere on the roadway facing Northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Crossing over (passing through) intersection",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Headed north on the arterial road",
+        "Location after Crash": "Off the Northwest corner of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

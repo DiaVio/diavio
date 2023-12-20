@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Highway on-ramp",
+        "LaneType": "Divided",
+        "RoadShape": "Right curve",
+        "RoadSlope": "Uphill with a 6 percent super elevation",
+        "SpeedLimit": "Not posted for the on-ramp"
+    },
+    "Environment": {
+        "RoadCondition": "Bituminous dry roadway",
+        "Weather": "Dusk on a weekday"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "On-ramp merging onto the highway",
+        "Location after Crash": "Off the road, hitting a tree",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

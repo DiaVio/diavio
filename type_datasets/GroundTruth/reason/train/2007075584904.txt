@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 (V1) lost control and entered the eastbound lane, resulting in a collision with the front of Vehicle 2 (V2). V1 impacted with its front to V2's front, which indicates a front-to-side collision.

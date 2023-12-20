@@ -1,0 +1,11 @@
+The crash occurred in a signalized intersection of two roadways. The northbound roadway was one way with one lane of travel, and the eastbound roadway was one-way with two lanes of travel. It was straight, level, bituminous, wet and raining with a speed limit of 48kmph (30mph). It was the evening hours of a weekday.
+
+V1, a 2002 Buick Rendez-Vous sport utility vehicle with one occupant, was traveling eastbound in lane two. V2, a 1992 Toyota Camry four door with three occupants, was traveling northbound in lane one. At the intersection, the front of V1 impacted the left side of V2. V1 and V2 came to a final rest on the north/east corner of the intersection. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Buick Rendez-Vous, was driven by a 48 year-old female who reported no injuries. She advised the Police that she was traveling through the intersection with a green light and the driver of V2 ran the red light.
+
+The Critical Pre-crash event for V1 was "This vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical event was coded as an unknown recognition error. The associated factors coded to the driver were an illegal maneuver, she failed to stop for the traffic control device, and the rain, which was coded as weather related factor. The other possible associated factors were coded unknown because no interview was obtained.
+
+V2, the Toyota Camry, was driven by a 40 year-old male who reported minor injuries and was transported to a medical facility. The 39-year-old female and 14 year-old male occupants both reported minor injuries and were transported to a medical facility. The driver advised that he was going home from a doctor's visit, and while driving through the intersection, was struck by the other driver.
+
+The Critical Pre-crash event for V2 was "Other vehicle encroachment, from crossing street, across path". The Critical Reason for the Critical event was not coded to the driver. An Associated factor was the rain, which was coded as weather related factor. The use of a prescription medication for a cold infection was coded as an associated factor. No other Associated factors were coded to the driver.

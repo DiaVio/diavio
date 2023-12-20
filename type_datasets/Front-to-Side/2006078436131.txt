@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential",
+        "LaneType": "undivided",
+        "RoadShape": "straight",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "40 kph (25 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "southwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "brakes not operating properly",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "40 kph (25 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "near right front tire",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "northwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "40 kph (25 mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

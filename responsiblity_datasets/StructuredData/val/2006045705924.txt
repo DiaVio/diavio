@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "secondary arterial",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "negative 24%",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "turning left (west) from the driveway",
+        "Location after Crash": "facing southeast in lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front right corner",
+        "Moving on which Way": "eastbound on the roadway",
+        "Location after Crash": "facing southeast in lane two (westbound lane)",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "swerved left partially into the westbound lane",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

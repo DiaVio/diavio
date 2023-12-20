@@ -1,0 +1,9 @@
+This two-vehicle crash occurred in a four-legged intersection. The north/south roadway is straight, level and undivided and consists of one lane in each direction with parking lanes on both sides. The cross street is straight, level and one-way with one lane in the eastbound direction and parking lanes on both sides. The speed limit on these roadways is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1997 Geo Prizm, was westbound on the eastbound roadway, approaching the intersection. Vehicle two (V2), a 2000 Pontiac Grand Prix, was northbound, approaching the intersection. V1 turned right in the intersection and the front struck the front of V2. V2 rotated clockwise and the right side struck a tree on the northwest corner of the intersection. Both vehicles were towed due to damage. Police Reported Travel Speed is No PAR obtained (created) for V1 and No PAR obtained (created) for V2.
+
+Neither of the drivers was interviewed. Witnesses stated that the two occupants of V1 left the scene prior to police arrival and that the two occupants of V2 were transported to an unknown medical facility. No police report was obtained.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning right at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, turning into opposite direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

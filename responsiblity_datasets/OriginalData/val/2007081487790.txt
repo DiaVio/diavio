@@ -1,0 +1,9 @@
+This two-vehicle collision occurred in the early evening hours. The collision occurred in an intersection. It was dark, but there were overhead street lights. Traffic flow was controlled by on-color overhead signals. The north-south roadway has five lanes, two in each direction, with a center left turn only lane. The pre-crash roadway is straight with bituminous paving in both the north & south directions. The pre-crash roadway south has a slight uphill grade, and the pre-crash roadway north is level. The weather was clear and dry. The posted speed limit is 48 kmph (30 mph).
+
+Vehicle one (V1), a 1999 Lexus GS300 4-door sedan driven by a fifty eight (58) year old male, was traveling southbound attempting to turn eastbound from lane three. Vehicle two (V2), a 1993 Ford Taurus 4-door sedan driven by a eighteen (18) year old female, was northbound in lane one. For unknown reasons V1 turned left in front of V2, and the front of V2 impacted the right front corner of V1. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+Neither driver could be reached for an interview.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was coded as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). According to the driver's statement to the investigating officer, the driver initiated his left turn on a yellow light and did not see V2 prior to turning left. The driver was busy looking up at the traffic light instead of the approaching traffic, an exterior factor.
+
+The critical pre-crash event for V2 coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason was not coded to this vehicle.

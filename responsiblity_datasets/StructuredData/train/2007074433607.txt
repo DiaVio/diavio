@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "undetermined",
+        "Weather": "clear daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "undetermined",
+        "Objectivebehavior": {
+            "Whether to Brake": "undetermined",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "undetermined",
+            "is_against_rules": "undetermined",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "undetermined",
+        "Objectivebehavior": {
+            "Whether to Brake": "undetermined",
+            "Direction": "undetermined",
+            "Vehicle Action": "undetermined",
+            "Travel Speed": "undetermined",
+            "is_against_rules": "undetermined",
+            "Attempted Avoidance Maneuvers": "undetermined",
+            "Attempted Lane Crossing": "undetermined"
+        }
+    }
+}

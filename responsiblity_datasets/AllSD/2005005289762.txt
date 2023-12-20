@@ -1,0 +1,58 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "multiple lanes",
+    "RoadShape": "four-way",
+    "RoadSlope": "level",
+    "SpeedLimit": {
+      "east/west": "64 kph",
+      "north/south": "72 kph"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "moderate rainfall"
+  },
+  "Vehicle1": {
+    "Impact Side": "right front",
+    "Moving on which Way": "east",
+    "Location after Crash": "spun counter-clockwise in a backwards motion approximately 270 degrees",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "16 kph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "west",
+    "Location after Crash": "struck the left front of V3 before coming to final rest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "continue through the intersection",
+      "Travel Speed": "64 kph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "left front",
+    "Moving on which Way": "south",
+    "Location after Crash": "pushed slightly to the right before coming to final rest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "stopped at a traffic light",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

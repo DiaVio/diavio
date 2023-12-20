@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "undivided",
+    "LaneType": "five lanes",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "left",
+    "MovingOnWhichWay": "southwest",
+    "LocationAfterCrash": "facing southwest at impact with V4",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "turn left",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "southeast",
+    "LocationAfterCrash": "in the northbound lanes, facing southeast",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "straight",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

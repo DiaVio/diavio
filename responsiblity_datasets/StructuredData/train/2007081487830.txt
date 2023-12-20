@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "five-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "2% uphill",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "snow-covered, wet",
+        "Weather": "cloudy, lightly snowing"
+    },
+    "Vehicle1": {
+        "Impact Side": "left A-pillar area",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing eastbound under the sign",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn right into a private drive",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Urban roadway",
+    "LaneType": "Undivided with one lane in both directions",
+    "RoadShape": "Four-way intersection",
+    "RoadSlope": "Positive grade",
+    "SpeedLimit": "48 kmph (30 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Wet",
+    "Weather": "Cloudy with on-and-off rain drizzle"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "North",
+    "Location after Crash": "Parallel to the right side of V2",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left",
+    "Moving on which Way": "West",
+    "Location after Crash": "Facing south with back right tire on the edge of the northwest curb and back left tire on the sidewalk",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "West",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

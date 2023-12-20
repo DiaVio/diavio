@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Divided city trafficway",
+        "LaneType": "Unknown",
+        "RoadShape": "East-to-west",
+        "RoadSlope": "Unknown",
+        "SpeedLimit": "Unknown"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "West",
+        "Location after Crash": "Rotated clockwise and came to final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unknown",
+            "Direction": "Northwest",
+            "Vehicle Action": "Lost control and started to rotate clockwise",
+            "Travel Speed": "Unknown",
+            "is_against_rules": "Unknown",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

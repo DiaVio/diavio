@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided roadway",
+        "LaneType": "no lane delineation lines",
+        "RoadShape": "straight",
+        "RoadSlope": "3% negative grade",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "traveled bituminous paving",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "collided with non-breakaway pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "attempted to pass V2 on the right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right front fender",
+        "Moving on which Way": "turning left onto southbound roadway",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "right",
+            "Vehicle Action": "attempted to turn right onto westbound side street",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

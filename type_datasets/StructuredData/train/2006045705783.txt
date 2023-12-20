@@ -1,0 +1,44 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Secondary Arterial",
+    "LaneType": "One lane in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "Positive 4.8% grade (if northbound)",
+    "SpeedLimit": {
+      "Arterial": "64 kmph (40 mph)",
+      "Residential": "48 kmph (30 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Dawn, unlit"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Front",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Adjacent yard",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "98 kmph (61 mph) at 3 seconds prior to algorithm enable, 80 kmph (50 mph) at 1 second before algorithm enable",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Left side",
+    "Moving on which Way": "Turning left",
+    "Location after Crash": "Approximately 30 meters north of point of impact facing north while straddling both travel lanes on the arterial road",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "South",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

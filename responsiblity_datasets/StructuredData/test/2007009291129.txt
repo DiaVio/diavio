@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "North/South roadway",
+        "LaneType": "Three northbound lanes and three southbound lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "64 mph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Cloudy with light snow flurries"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear",
+        "Moving on which Way": "South",
+        "Location after Crash": "On its right side on the roadside, facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "56 kmph (35 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "North",
+        "Location after Crash": "Final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Approximately 72 kmph (45 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

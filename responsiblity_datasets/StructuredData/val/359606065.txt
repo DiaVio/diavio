@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two lane",
+        "LaneType": "two way",
+        "RoadShape": "curve",
+        "RoadSlope": "slight uphill grade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "east paved shoulder, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight into the curve",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "jack-knifed in southbound lane, trailer in ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "locked up",
+            "Direction": "unmentioned",
+            "Vehicle Action": "swerved to the right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

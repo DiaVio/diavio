@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a straight, level, undivided roadway at a driveway. This roadway consists of one lane in each direction with a left turn lane for the intersection west of the crash area. The speed limit for this roadway is 48 kmph (30 mph). The driveway is on the north side of this roadway. This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2006 Chrysler Pacifica, was entering the roadway from the driveway, turning right. Vehicle two (V2), a 1998 Cadillac Deville, was westbound in lane two, the left turn lane. As V1 entered the turn lane, the left side was struck by the front of V2. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-seven-year-old male, was on his way home from a store. His seven-year-old daughter was in the second right seat. This driver was healthy, well rested and comfortable with his vehicle and passenger. He travels this route daily. This driver stated that he was looking at his daughter just before the crash. He further stated that a non-contact vehicle stopped in lane one to allow him to enter the roadway so he assumed that V2 would also stop. This driver applied the brakes when he realized that V2 was not stopping.
+
+The driver of V2, a sixty-seven-year-old male, was traveling with a thirty-six-year-old female. He was well rested, healthy and comfortable with his vehicle and passenger. He travels this route daily. This driver stated that he never saw V1 prior to the crash.
+
+The critical pre-crash event for V1 was coded as "other; entering roadway, turning right." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; false assumption of other's actions."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from driveway, turning into same direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's failure to look to the side ahead was an associated factor in this crash.

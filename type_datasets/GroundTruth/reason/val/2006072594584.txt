@@ -1,0 +1,1 @@
+This is because Vehicle 1 collided with the back of Vehicle 2 while both vehicles were traveling in the same direction and Vehicle 2 had slowed down due to traffic congestion. Driver-related factors such as following too closely and not being able to respond to unexpected actions were identified as critical reasons for the accident.

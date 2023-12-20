@@ -1,0 +1,1 @@
+The reason for this is that V1 performed a performance error by turning into lane 2 instead of remaining in lane 1 to ensure that lane 2 was clear before changing lanes. This poor directional control of the vehicle led to the encroachment into V2's lane of travel, making the collision unavoidable.

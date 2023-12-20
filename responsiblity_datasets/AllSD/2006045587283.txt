@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban arterial business roadway",
+    "LaneType": "two lanes in each direction with a center two-way left turn lane",
+    "RoadShape": "straight",
+    "RoadSlope": "negative 4% grade",
+    "SpeedLimit": "72kmph (45mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "left front",
+    "Moving on which Way": "attempting to cross from the private drive on the east side of the road to the private drive on the west side",
+    "Location after Crash": "rested on its top facing east in the northbound lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "northwest",
+      "Vehicle Action": "attempted to cross the five lanes in a 'S' path",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front right",
+    "Moving on which Way": "northbound in the left lane",
+    "Location after Crash": "came to a controlled stop in a parking lot off the east side of the road",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "continued north",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

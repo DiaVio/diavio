@@ -1,0 +1,8 @@
+
+Justification:
+- Vehicle one (V1) failed to stop and impacted the back of vehicle two (V2).
+- Vehicle two (V2) stopped behind vehicle three (V3).
+- The front of vehicle two (V2) contacted the back of vehicle three (V3).
+- All three vehicles came to a final rest near the points of impact, facing north in lane one.
+
+This sequence of events indicates that the rear of one vehicle collided with the front of another vehicle, which is characteristic of a Rear-End Collision.

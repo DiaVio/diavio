@@ -1,0 +1,1 @@
+The reason for this is that V2 made contact with the right side of V1, causing V1 to rotate counterclockwise and resulting in further impact from the left side of V2. This indicates that V2 failed to yield the right of way to V1, leading to the collision.

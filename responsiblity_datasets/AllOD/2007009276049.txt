@@ -1,0 +1,15 @@
+This crash occurred in the early evening of a weekend in the middle of a busy suburban intersection. The intersection consisted of a north/south multi-lane divided roadway and an east/west multi lane divided roadway controlled by a properly functioning traffic signal. Both roadways were bituminous, dry, straight and level, with a posted speed limit of 64 kmph (40 mph). The traffic flow was normal and there were no adverse atmospheric conditions at the time of the crash.
+
+V1, a 2001 Lincoln Continental with one occupant, was northbound in lane four (a designated left turn lane) approaching the intersection where it intended to turn left. V2, a 2006 Mitsubishi Galant with two occupants, was southbound in lane three, approaching the intersection where it intended to go straight. V3, a 2004 Pontiac Grand Prix with one occupant, was stopped at the intersection waiting for the light to change so it could continue through the intersection. V1 failed to stop for the red light and turned left through the intersection. V2 entered the intersection at the same time as V1 and the front of V1 struck the front of V2. The force of impact caused V1 to rotate counter-clockwise and strike V3, which remained stopped at the intersection. V1 came to rest facing south at the edge of the intersection, V2 came to rest facing west in the westbound lanes and V3 came to rest at its point of impact. V1 and V2 were towed due to damage while V3 was driven from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a 52-year-old male, was transported due to minor injuries. An attempt to interview the driver was denied. The driver has retained a lawyer and will not talk without the lawyer's permission (which has not been obtained).
+
+The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason was coded as an unknown driver error. The only known associated factor was failure to stop for a traffic control device.
+
+The driver of V2, a 51-year-old female, was transported due to minor injuries (as was her passenger). She stated that the TCD had turned green before she entered the intersection. She stated that V1 obviously ran the red light, crossed in front of her, resulting in the crash. She said she had slammed on the brakes but could not avoid V1.
+
+The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over the left lane line. The critical reason was not coded to this vehicle. There were no associated factors coded to V2 and the driver was not thought to have contributed to the crash.
+
+The driver of V3, a 22-year-old male, was not injured as a result of the crash. He stated that he did not see what led up to the impact but did see the actual impact.
+
+The Critical Precrash Event was coded other, not involved in first harmful event. The Critical Reason was not coded to this vehicle. There were no known associated factors coded to V3 and the driver was not thought to have contributed to the crash.

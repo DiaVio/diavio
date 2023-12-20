@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban",
+    "LaneType": "multiple",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": 56
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "in lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "no",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": 56,
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "in between V1 and V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "stopped",
+      "Travel Speed": 56,
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "rear",
+    "Moving on which Way": "stopped",
+    "Location after Crash": "in between V2 and V1",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "stopped",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

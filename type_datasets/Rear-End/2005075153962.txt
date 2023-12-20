@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "state highway",
+    "LaneType": "divided",
+    "RoadShape": "straight",
+    "RoadSlope": "downhill",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "no adverse weather conditions"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "towed",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "south",
+      "VehicleAction": "merging into traffic",
+      "TravelSpeed": "72 kmph (45 mph)",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "rear",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "stopped",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "no",
+      "Direction": "south",
+      "VehicleAction": "stopped",
+      "TravelSpeed": "72 kmph (45 mph)",
+      "is_against_rules": "no",
+      "AttemptedAvoidanceManeuvers": "no",
+      "AttemptedLaneCrossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "rear",
+    "MovingOnWhichWay": "unmentioned",
+    "LocationAfterCrash": "not towed",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "stopped",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

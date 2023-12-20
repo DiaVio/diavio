@@ -1,0 +1,69 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate highway",
+    "LaneType": "Four-lane divided",
+    "RoadShape": "Straight",
+    "RoadSlope": "3% uphill grade",
+    "SpeedLimit": "105 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "West",
+    "Location after Crash": "Lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Proceeded at highway speed",
+      "Travel Speed": "108 kmph (67 mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "West",
+    "Location after Crash": "Lane two",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Steered left in an attempt to avoid collision",
+      "Travel Speed": "72 kmph (45 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "West",
+    "Location after Crash": "Left shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "24 kmph (15 mph)",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "West",
+    "Location after Crash": "Lane one",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Paying attention to the vehicle ahead with a flat tire",
+      "Travel Speed": "8 kmph (5 mph)",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

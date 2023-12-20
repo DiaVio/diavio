@@ -1,0 +1,1 @@
+The driver of V1 changed lanes without being able to safely see the traffic in the next lane, resulting in inadequate surveillance. This action led to V1 skidding and impacting V2. The driver of V1 was cited for 'Careless Driving'.

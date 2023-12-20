@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "High occupancy",
+        "RoadShape": "Curved to the right",
+        "RoadSlope": "Level",
+        "SpeedLimit": "105 KPH (65 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Stopped in left paved shoulder, then pulled into lane five",
+        "Location after Crash": "Northbound traffic lanes, lane five",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Pulled back into traffic",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Northbound in lane five",
+        "Location after Crash": "Northbound traffic lanes, lane five",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Northbound",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

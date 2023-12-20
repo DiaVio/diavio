@@ -1,0 +1,58 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided",
+    "LaneType": "one lane in each direction",
+    "RoadShape": "straight",
+    "RoadSlope": "downhill grade",
+    "SpeedLimit": {
+      "North/South Roadway": "72 kmph (45 mph)",
+      "East/West Roadway": "40 kmph (25 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "undivided",
+    "Weather": "no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "towed due to damage",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right side",
+    "Moving on which Way": "stopped",
+    "Location after Crash": "rotated clockwise and struck V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "westbound",
+      "Vehicle Action": "crossing intersection",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "front",
+    "Moving on which Way": "stopped",
+    "Location after Crash": "struck by V2",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "eastbound",
+      "Vehicle Action": "stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

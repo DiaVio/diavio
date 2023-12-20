@@ -1,0 +1,1 @@
+The reason for this is that V2 was attempting to make a left turn from the intersecting roadway onto the eastbound lane, but the trailer portion remained across the westbound lane. This means that V2 failed to clear the westbound lane completely, resulting in V1 (the 2004 Chevrolet Cavalier) striking the left rear wheel of V2 with its front end.

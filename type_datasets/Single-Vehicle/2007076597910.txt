@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "county road",
+        "LaneType": "two-lane",
+        "RoadShape": "curves",
+        "RoadSlope": "sloping embankment",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no obvious defects",
+        "Weather": "mid-afternoon daylight hours with no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rested on its right side heading in an easterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

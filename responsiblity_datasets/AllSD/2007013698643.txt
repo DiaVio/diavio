@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "two-lane",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "positive 3% super elevation",
+        "SpeedLimit": "113Kmh (70Mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight hours, no adverse conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "left rear",
+        "Moving on which Way": "right curb lane",
+        "Location after Crash": "departed the roadway to the right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "attempted to pass on the right side",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "left lane",
+        "Location after Crash": "departed the roadway to the left, rolled over, hit a tree, and came to final rest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "passing V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous",
+    "LaneType": "left turn lanes, right turn off-ramps",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "dark and cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "facing southwest, against the front of the median on the west side of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "no",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right side (rear and passenger portion)",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "partially in the eastbound lane two, mostly on the median facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "west",
+      "Vehicle Action": "straight",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

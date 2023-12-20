@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "two northbound lanes",
+        "RoadShape": "wet, level, left curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "113kmph (70mph)"
+    },
+    "Environment": {
+        "RoadCondition": "slick roads",
+        "Weather": "dark and cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "right shoulder facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "lost control, rebounded off the wall",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "lane one facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "tried to brake",
+            "Direction": "unmentioned",
+            "Vehicle Action": "struck V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

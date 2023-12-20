@@ -1,0 +1,1 @@
+It involves only one vehicle (V1) which departed the roadway, impacted a pole, and then collided with another vehicle (V2).

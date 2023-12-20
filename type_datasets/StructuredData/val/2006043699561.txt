@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "signal-controlled intersection",
+        "LaneType": "northbound and southbound",
+        "RoadShape": "ridge",
+        "RoadSlope": "2% uphill grade in both directions, 4% grade down in north and south directions",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "off the southwest corner of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "northbound",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rested in the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "southbound",
+            "Vehicle Action": "straight",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "one lane in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "uphill grade of 2.4 percent in the northbound direction",
+        "SpeedLimit": "24 kmph (15 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "brick",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "against the curb",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "unmentioned",
+            "Vehicle Action": "illegal maneuver for failing to stop at the stop sign",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "right side of V1",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,2 @@
+
+Justification: Vehicle one (V1) swerved right into the number one lane to avoid vehicle two (V2), but the front plane of V1 then contacted the right plane of V2, resulting in a collision between the front of V1 and the side of V2.

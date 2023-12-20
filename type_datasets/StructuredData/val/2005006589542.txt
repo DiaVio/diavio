@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Cobblestone",
+        "LaneType": "Undivided",
+        "RoadShape": "Curved",
+        "RoadSlope": "Level",
+        "SpeedLimit": "40 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left and right back",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Lodged between pole and wall, facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Turn right",
+            "Travel Speed": "48 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+Vehicle one (V1) collided with the side of vehicle three (V3) after being impacted on the right side by the front of vehicle two (V2).

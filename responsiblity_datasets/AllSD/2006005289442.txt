@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Two-way",
+    "LaneType": "Three-lane",
+    "RoadShape": "Straight",
+    "RoadSlope": "Slight downhill",
+    "SpeedLimit": "64 kmph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right",
+    "Moving on which Way": "West",
+    "Location after Crash": "Partially off the roadway facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "West",
+      "Vehicle Action": "Swerved violently from center lane into eastbound lane, went through intersection in eastbound lane, swerved off right side of road",
+      "Travel Speed": "48 kmph",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Not applicable",
+    "Moving on which Way": "Not applicable",
+    "Location after Crash": "Not applicable",
+    "Objectivebehavior": {
+      "Whether to Brake": "Not applicable",
+      "Direction": "Not applicable",
+      "Vehicle Action": "Not applicable",
+      "Travel Speed": "Not applicable",
+      "is_against_rules": "Not applicable",
+      "Attempted Avoidance Maneuvers": "Not applicable",
+      "Attempted Lane Crossing": "Not applicable"
+    }
+  }
+}

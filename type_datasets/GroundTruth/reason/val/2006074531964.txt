@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one was eastbound and vehicle two was northbound, and the front of vehicle two impacted the right rear of vehicle one. This indicates that the front of one vehicle (vehicle two) collided with the side of another vehicle (vehicle one), which is characteristic of a front-to-side collision.

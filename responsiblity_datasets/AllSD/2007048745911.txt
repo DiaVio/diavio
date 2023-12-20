@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "dirt",
+        "LaneType": "undivided",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse atmospheric conditions",
+        "Weather": "dark"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "off the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "primary arterial road",
+        "LaneType": "2 lanes in each direction with a left turn lane",
+        "RoadShape": "intersection",
+        "RoadSlope": "level",
+        "SpeedLimit": "72kmph (45mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "dark but lighted roadway"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing south just a few meters north of impact and in the middle of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "facing west very close to the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

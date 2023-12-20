@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Divided",
+    "LaneType": "Through lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "97 kmph (60 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Resting in the first lane of travel facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Back",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Resting in the first lane of travel facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Not coded to this vehicle",
+      "Attempted Avoidance Maneuvers": "Not coded to this vehicle",
+      "Attempted Lane Crossing": "Not coded to this vehicle"
+    }
+  }
+}

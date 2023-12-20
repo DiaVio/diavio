@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Four-lane roadway",
+    "LaneType": "Two eastbound lanes and two westbound lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "-5/122",
+    "SpeedLimit": "56kmph (35mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry asphalt",
+    "Weather": "Clear, bright sunlight"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Front",
+    "Moving on which Way": "East",
+    "Location after Crash": "Point of impact",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "Is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "East",
+    "Location after Crash": "Pushed forward to final rest",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "Is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "East",
+    "Location after Crash": "Pushed forward to final rest",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "Is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

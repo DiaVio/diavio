@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged intersection. The north/south roadway is undivided, straight, level, consists of one lane in each direction and is controlled by stop signs. The speed limit for this roadway is 40 kmph (25 mph). The east/west roadway is straight, level and consists of two lanes in each direction divided by a left turn lane. The speed limit for this roadway is 72 kmph (45 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1993 Toyota Camry, was stopped northbound at the intersection. Vehicle two (V2), a 2003 Nissan Altima, was eastbound in lane one going straight with no traffic controls. V1 entered the intersection, turning left. The front of V2 struck the left side of V1. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-year-old male, was on his way home from donating blood. He was well rested, healthy and familiar with his vehicle. He travels this route daily. This driver stated that he had family problems and had had an argument within the previous twelve hours. He further stated that he saw V2 when it was about one-half block away but thought that he could safely clear the intersection. When he realized that a crash was imminent, he accelerated in an attempt to avoid the crash.
+
+The driver of V2, a twenty-six-year-old female, was on her way home from work. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she saw V1 just before the crash and applied the brakes in an attempt to avoid the crash.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling; turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: misjudgment of gap or other's speed. This driver's focus on his family problems and driving immediately after donating blood were associated factors in this crash.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event for V2 was not coded to this vehicle.

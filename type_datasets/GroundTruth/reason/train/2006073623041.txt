@@ -1,0 +1,1 @@
+It involves only one vehicle (Vehicle one) and no other entities were directly involved in the collision. Vehicle one moved around the railroad-crossing gates and was impacted by a train on the second set of tracks, resulting in damage to the vehicle.

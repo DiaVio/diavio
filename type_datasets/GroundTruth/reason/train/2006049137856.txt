@@ -1,0 +1,1 @@
+This is because Vehicle 1 initiated a left turn and was struck on the right side by the front of Vehicle 2, which indicates a collision between the front of one vehicle (Vehicle 2) and the side of another vehicle (Vehicle 1).

@@ -1,0 +1,13 @@
+The crash occurred in the northbound lane four of a high-speed -high-volume interstate highway separated with a concrete wall. There were five lanes and two emergency paved shoulders. Conditions were daytime afternoon on a weekday. The skies were clear and it was the start of the afternoon rush hour.
+
+Vehicle #2 was a 1988 Lincoln Town car who was traveling southbound in lane 3 going approximanty 80 KPH (50 MPH) keeping up with the traffic. Vehicle #3 was a 2005 Chevy Colorado Truck traveling in lane 4 going approximately 104 KPH (65MPH). A hit and run Vehicle #1, was traveling in lane 3 behind Vehicle #2 it rear-ended the Lincoln Town car on his back right bumper causing the Lincoln to rotate to the right. This rotation causes the Lincoln to encroach into lane 4 hitting the Chevy Colorado on the right front bumper. This impact causes the Lincoln to rotate counter clockwise and come to rest after impacting the concrete barrier leaving the Lincoln facing northbound. Police Reported Travel Speed is 105 kmph for V1 and 105 kmph for V2.
+
+Vehicle #1 was a hit and run. The Critical Precrash Event for Vehicle #1 is other motor vehicle in lane traveling in same direction with lower steady speed. The Critical Reason for the Critical Precrash Event was coded as unknown do to the fact that it was a hit and run.
+
+Vehicle #2 was driven by a 64 year old male who was keeping up with traffic. His car was towed due to damages and he was transported to a local hospital with injuries. The driver stated that he was traveling in the middle lane when he was hit in the back right side causing his car to spin left. As he spun around he entered the lane that the pickup was in and his left side was hit by the pickups front. He continued to rotate counter clockwise and hit the concrete wall with the back right of the car and came to final rest next to the concrete wall.
+
+The Critical Precrash Event for Vehicle #2 was other motor vehicle in lane traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. He was taking medication for high cholesterol medication.
+
+Vehicle #3 was driven by a 21 year old male who was also keeping up with the afternoon rush hour. He stated that he was in lane 4 and the car in the lane next to him on the right stopped suddenly and jerked the wheel to the left and came into his lane. His vehicle was towed due to damages but, he was not injured and refused EMS.
+
+The Critical Precrash Event was coded as not involved in first harmful event. There was no Critical Reason for Vehicle #3.

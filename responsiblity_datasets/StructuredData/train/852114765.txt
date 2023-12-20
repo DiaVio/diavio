@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two way",
+    "LaneType": "two lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "clear",
+    "Weather": "dry"
+  },
+  "Vehicle1": {
+    "Impact Side": "front left",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "east side of the driveway on the sidewalk",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front left",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "on its roof top",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "attempted left turn into a driveway",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

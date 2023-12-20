@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south roadway is undivided, straight and level. This roadway consists of two lanes in each direction and a center left turn lane. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1991 Toyota pickup, was southbound in lane three. Vehicle two (V2), a 2000 Honda Accord, was northbound in lane one. V1 turned left in the intersection and the front struck the front of V2. V2 traveled off the northeast corner of the intersection and the right side struck a hedge. Both vehicles were towed due to damage. Police Reported Travel Speed is 16 kmph for V1 and 16 kmph for V2.
+
+The driver of V1, a fifty-three-year-old male, was traveling from a bar to his home nearby. This driver stated that he had spent the past couple of hours drinking beer at the bar and felt drunk when he left the bar. He further stated that he did not see V2 prior to the crash.
+
+The driver of V2, a twenty-five-year-old male, was going to a post office on his way home from work. He was healthy, well rested and familiar with his vehicle. This driver travels this route daily. He stated that he saw V1 just prior to the crash and applied the brakes in an effort to avoid the crash.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling; turning left at intersection. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see).
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.

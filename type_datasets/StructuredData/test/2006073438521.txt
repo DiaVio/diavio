@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Access ramp",
+        "LaneType": "Single lane",
+        "RoadShape": "Curves right",
+        "RoadSlope": "Downhill with a grade of -4%",
+        "SpeedLimit": "88 kph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Snow and ice covered",
+        "Weather": "Blowing snow"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Off the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

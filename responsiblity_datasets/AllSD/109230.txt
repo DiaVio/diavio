@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "exit ramp",
+    "LaneType": "one-way",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "left-front, left-rear, front",
+    "Moving on which Way": "west",
+    "Location after Crash": "rest",
+    "Objectivebehavior": {
+      "Whether to Brake": "no",
+      "Direction": "northwest",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

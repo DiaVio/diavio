@@ -1,0 +1,1 @@
+This is because Vehicle 1 struck the rear of Vehicle 2, which then pushed Vehicle 2 into the rear of Vehicle 3.

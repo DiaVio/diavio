@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban",
+        "LaneType": "undivided",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 40
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "stopped",
+        "Location after Crash": "facing west near initial point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": 24,
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front right corner",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "against V3 blocking westbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": 24,
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

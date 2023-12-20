@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "asphalt",
+        "LaneType": "two-way",
+        "RoadShape": "straight and level",
+        "RoadSlope": "slightly uphill",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse conditions",
+        "Weather": "daylight hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "stopped at business drive, intending to turn left onto the roadway",
+        "Location after Crash": "driven from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "accelerated and crossed #1 and #2 lanes",
+            "Travel Speed": "16 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front-end",
+        "Moving on which Way": "traveling in the #2 eastbound lane",
+        "Location after Crash": "towed due to damage",
+        "Objectivebehavior": {
+            "Whether to Brake": "applied brakes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "skidded into the left side of V1",
+            "Travel Speed": "16 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

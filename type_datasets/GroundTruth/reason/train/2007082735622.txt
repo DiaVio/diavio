@@ -1,0 +1,1 @@
+Vehicle one (V1) was traveling eastbound and vehicle two (V2) was turning left from the northbound lane, resulting in the front of V2 contacting the right side of V1. This is a classic "T-bone" collision where the front of one vehicle collides with the side of another.

@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 initiated an unsafe U-turn maneuver in the middle of the road, without ensuring it was safe to do so. This action caused V1 to be in the path of Vehicle two (V2 - the 1997 Saturn SC2), resulting in a collision.

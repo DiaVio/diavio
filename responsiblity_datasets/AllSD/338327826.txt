@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "bituminous",
+        "LaneType": "two-way",
+        "RoadShape": "left curve",
+        "RoadSlope": "3% downhill",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "southeast",
+        "Location after Crash": "rested against second embankment",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

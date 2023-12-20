@@ -1,0 +1,1 @@
+This is because Vehicle one (V1) collided with the left side of Vehicle two (V2) as V2 was traveling westbound through the intersection, resulting in V1's front contacting the left side of V2.

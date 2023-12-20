@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (Vehicle 1) and no other entities were involved in the collision. The description of the accident indicates that Vehicle 1 traveled off the roadway, struck the end of the guardrail, and subsequently rolled over and caught fire.

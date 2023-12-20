@@ -1,0 +1,5 @@
+This crash occurred on a two-lane asphalt roadway. It was clear, dry weekend morning. The speed limit was 48 kmph (30mph) and there was a 2.8% uphill grade.
+
+Vehicle 1 was a 2004 Nissan Frontier driven by an 18 year-old female. This vehicle was traveling east along a slight left curve that had a radius of 1125m. Vehicle 2 was an unoccupied 2005 Ford Crown Victoria that was legally parked at the right (south) curb heading east. The front of Vehicle 1 contacted the back of Vehicle 2. Both vehicles traveled 25m east before coming to rest at the right curb. Police Reported Travel Speed is 48 kmph for V1 and 48 kmph for V2.
+
+The Critical Precrash Event for Vehicle 1 was this vehicle traveling over the lane line on the right side of travel lane. The Critical Reason for the Critical Precrash Event was an internal distraction. The driver of Vehicle 1 told police that she was distracted by an insect inside the vehicle.
