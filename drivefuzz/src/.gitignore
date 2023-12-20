@@ -1,0 +1,4 @@
+reports/*
+out-artifact/*
+out-artifact-*/*
+out-artifact/meta
