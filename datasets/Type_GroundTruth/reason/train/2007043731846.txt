@@ -1,0 +1,1 @@
+This is because V1, while turning left, crashed into the front of V2, which was going straight.

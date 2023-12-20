@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the left rear of Vehicle 1 (V1), causing V1 to fishtail and sideswipe Vehicle 3 (V3). The impact occurred between the front of V2 and the side of V1, resembling a "T-bone" collision.

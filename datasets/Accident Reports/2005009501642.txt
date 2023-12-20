@@ -1,0 +1,7 @@
+This crash took place in the westbound lanes of a five lane divided roadway during the daylight hours of a weekday. The straight and level roadway had a posted speed limit of 55mph (89kmph).
+
+V1, a 1992 Honda Civic was traveling west in lane three. The driver of V1 attempted to change lanes to the right, but in the process realized that there was another vehicle already traveling in that lane. The driver of V1 then attempted to re enter the original travel lane, but over compensated. V1 departed two lanes to the left, departed the roadway to the left, and made contact to the raised divider with its front plane. V1 re entered the roadway, rotated clockwise, and rolled two quarter turns coming to rest on its top plane in lane three. Police Reported Travel Speed is Not reported for V1.
+
+V1 was driven by a 32 year-old female who was transported with non incapacitating injuries. She stated that she had looked in her right side mirror prior to begining her lane change right, and thought she had room to move over. As she was half way into lane 4 she heard a horn blow and saw another vehicle overtaking her from the rear. The driver stated that she cut her wheel left attempting to return to her original travel lane but lost control.
+
+The Critixcal Pre Crash Event for this vehicle was coded This Vehicle Traveling ( off the edge of the road on the left side). The Critical Reason was coded Overcompensation.

@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided",
+        "LaneType": "through lanes with paved shoulders",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "121 kmph (75 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "clear daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "off the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "rotated clockwise, rolled over four quarter-turns",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

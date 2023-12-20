@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Divided",
+        "LaneType": "Seven-lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Snow covered roadside, fog rolled in after the crash"
+    },
+    "Vehicle1": {
+        "Impact Side": "Back",
+        "Moving on which Way": "Clockwise rotation",
+        "Location after Crash": "Resting on its wheels facing northeast on the shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "100 kmph (62 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Not applicable",
+        "Moving on which Way": "Not applicable",
+        "Location after Crash": "Not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "Not applicable",
+            "Direction": "Not applicable",
+            "Vehicle Action": "Not applicable",
+            "Travel Speed": "Not applicable",
+            "is_against_rules": "Not applicable",
+            "Attempted Avoidance Maneuvers": "Not applicable",
+            "Attempted Lane Crossing": "Not applicable"
+        }
+    }
+}

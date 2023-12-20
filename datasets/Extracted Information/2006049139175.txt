@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "three lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "rear",
+        "Moving on which Way": "illegally parked",
+        "Location after Crash": "point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "between first and second travel lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "going straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

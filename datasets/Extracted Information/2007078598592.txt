@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Two-lane roadway",
+        "LaneType": "Concrete curbs",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "ImpactSide": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Private parking area",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "43 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "Front",
+        "Moving on which Way": "Parked",
+        "Location after Crash": "Damaged",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "43 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

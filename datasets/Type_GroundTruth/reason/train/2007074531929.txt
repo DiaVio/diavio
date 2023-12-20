@@ -1,0 +1,1 @@
+Single-Vehicle Accident - This accident involves only one vehicle, with no other entities involved. The case describes a single vehicle, a 2005 Honda CR-V, that experienced a failure in the tie rod, causing the driver to lose control and the vehicle to roll over.

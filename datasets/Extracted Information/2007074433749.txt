@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Four-legged, traffic signal-controlled intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Unmentioned",
+    "Weather": "Daylight hours with no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Towed due to damage",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Stopped",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Top",
+    "Moving on which Way": "Stopped",
+    "Location after Crash": "Towed due to damage",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

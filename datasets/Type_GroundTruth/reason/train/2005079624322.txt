@@ -1,0 +1,1 @@
+This is because the collision only involves one vehicle (V1) and there is no involvement of any other entities such as another vehicle, object, or pedestrian. The accident occurred when V1 crossed over the right lane line and collided with parked vehicles (V2, V3, and V4), resulting in V1 rolling onto its side.

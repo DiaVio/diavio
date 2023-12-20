@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential",
+        "LaneType": "two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill",
+        "SpeedLimit": 48
+    },
+    "Environment": {
+        "RoadCondition": "lighted",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front and back",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "against the wooden fence",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northeast",
+            "Vehicle Action": "turn left",
+            "Travel Speed": 48,
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

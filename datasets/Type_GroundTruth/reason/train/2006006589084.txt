@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (Chevrolet Impala) collided with the right side of Vehicle two (Honda Accord) as both vehicles entered the intersection. This indicates a collision between the front of Vehicle one and the side of Vehicle two, which is characteristic of a front-to-side collision.

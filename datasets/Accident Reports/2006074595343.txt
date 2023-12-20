@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a traffic signal-controlled intersection. The north/south roadway is level, straight and divided by a curbed median. The lanes approaching the intersection consist of two through lanes and a left-turn-only lane. The speed limit on this roadway is 89 kmph (55 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2000 Buick LeSabre, was northbound in lane three, intending to turn left at the intersection. Vehicle two (V2), a 1995 Mercury Villager, was southbound in lane two, intending to pass through the intersection. The driver of V1 noticed V2, but thought there was enough time to make a left turn before V2 traveled through the intersection. The driver of V2 realized that V1 was going to turn in front of his vehicle and steered right and applied the brakes. In the intersection, the front of V1 struck the left side of V2. V1 continued west and came to rest in the westbound lanes facing west. V2 rotated counterclockwise and traveled off the southeast corner of the intersection. V2 came to rest facing east and was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an eighty-nine-year-old female, was traveling from her home to her daughter's home. She was well rested, healthy and familiar with her vehicle. This driver travels this route monthly.
+
+The driver of V2, a twenty-six-year-old male, was on his way back to work from his lunch break. He was healthy, well rested and familiar with his vehicle. He drives this roadway daily.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as: misjudgment of gap or other's speed.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.

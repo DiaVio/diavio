@@ -1,0 +1,11 @@
+This three-vehicle crash occurred shortly after the noon hour during daylight hours. The location was a busy seven lane arterial in an inter-city commercial area. The weather was clear and dry. It was daylight and there were no sight restrictions. The posted speed limit for all three vehicles was 64 kmph (40 mph). Traffic was heavy and backed up northbound approaching an interchange area. The roadway for northbound traffic was bituminous and three lanes with a slight uphill grade. The crash occurred in lane two.
+
+Vehicle one (V1), a 2004 Subaru Legacy sedan, driven by a sixty two (62) year old male was traveling northbound in the center lane. The driver told the police an unknown object distracted him inside his vehicle. When he looked back at the road, traffic was stopped in front of him. There were no pre-crash skid marks on the roadway. V1 struck the rear of vehicle two (V2), a 2006 Honda Accord LX sedan. driven by a thirty nine (39) year old male This impact pushed V2 forward to impact with the rear of vehicle three (V3), a 1995 Nissan Maxima sedan driven by a forty four (44) year old female that was also stopped in the same traffic lane. V1 and V3 were towed due to damage; V2 was not towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+There was no additional information as none of the drivers were available for interviews.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was coded to V1 as a driver related factor: internal distraction, based on the police report narrative.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+
+V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.

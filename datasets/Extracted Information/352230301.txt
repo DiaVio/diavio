@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane",
+        "LaneType": "transition from two-lane to divided trafficway",
+        "RoadShape": "curved",
+        "RoadSlope": "positive graded, right-handed curve",
+        "SpeedLimit": 55
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front half",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "north of impact area in southbound travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "negotiating the curved section of the roadway",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "frontal plane",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "off the western edge of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "continue traveling south",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

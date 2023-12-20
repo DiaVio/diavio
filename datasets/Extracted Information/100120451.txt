@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Four-lane",
+    "RoadShape": "Right curve",
+    "RoadSlope": "Downgrade",
+    "SpeedLimit": "Unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Attempted to regain the roadway",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+The crash occurred on a north/south 5-lane undivided roadway at an entrance to a stadium. The roadway was dry and bituminous with a 5.7 percent downhill grade in the northbound direction and a 5.7 percent uphill grade in the southbound direction. The posted speed limit was 72 kmph (45 mph). It was night on a weekend but the roadway was illuminated by streetlamps. Traffic flow was moderate.
+
+V1, a 2005 Toyota Camry 4-door sedan with one occupant, was traveling north in lane two when the driver attempted to make a left turn in front of V2. V2, a 1995 Chevrolet Lumina 4-door sedan with one occupant, was traveling south in lane three when V1 turned left in front of it. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1 was driven by a 79-year-old male who reported injuries and was transported to the hospital. The driver stated that he was going to a baseball game when he attempted to turn left and does not know what happened next. No avoidance maneuver was attempted.
+
+The Critical Pre-crash Event for V1 was "This vehicle traveling-turning left at intersection." The Critical Reason for the Critical Event was "Type of driver error unknown" because the driver could not be reached for an interview, although his daughter was interviewed. The driver told police and his daughter that he was unable to recall the details of the crash. An associated factor coded to this driver was the use of prescription medication for diabetes and heart disease.
+
+V2 was driven by a 31-year-old male who reported minor injuries but was not transported to the hospital. The driver stated that he traveling south when V1 suddenly turned in front of him. The driver attempted to avoid the crash by applying his brakes.
+
+The Critical Pre-crash Event for V2 was "Other motor vehicle encroachment-from opposite direction over left lane line." No Critical Reason for the Critical Event was assigned to this vehicle. One associated factor coded to the driver was the medical condition of diabetes.

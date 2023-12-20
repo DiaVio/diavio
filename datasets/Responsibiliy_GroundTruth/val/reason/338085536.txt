@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 attempted to turn left across the path of Vehicle 2, resulting in the collision.

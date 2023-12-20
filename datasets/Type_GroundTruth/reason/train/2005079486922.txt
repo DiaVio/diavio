@@ -1,0 +1,3 @@
+
+
+Justification: The accident occurred when Vehicle 2 (V2) collided with the right side of Vehicle 1 (V1) as V1 was making a left turn at the intersection. V2's front impacted the right side of V1, indicating a collision between the front of one vehicle and the side of another, which is characteristic of a front-to-side collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Secondary arterial road",
+        "LaneType": "Two-way, two-lane road",
+        "RoadShape": "Slight curve left/south",
+        "RoadSlope": "Level",
+        "SpeedLimit": "64kph (40mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "West",
+        "Location after Crash": "Facing west in the eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Left",
+            "Vehicle Action": "Swerved left and hit Vehicle2",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "East",
+        "Location after Crash": "Facing east in its original travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Stopped and got hit by Vehicle1",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

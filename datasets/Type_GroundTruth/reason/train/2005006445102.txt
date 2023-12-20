@@ -1,0 +1,1 @@
+This is because V1 (the first vehicle) was traveling in the westbound lanes and V2 (the second vehicle) entered the roadway from a parking lot and crossed the path of V1, resulting in a collision with V1's left front.

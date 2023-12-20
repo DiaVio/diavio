@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided interstate freeway",
+    "LaneType": "three lanes with paved shoulders",
+    "RoadShape": "straight",
+    "RoadSlope": "uphill",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "raining"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "north",
+    "Location after Crash": "west shoulder and lane three",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "south",
+    "Location after Crash": "grassy median",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

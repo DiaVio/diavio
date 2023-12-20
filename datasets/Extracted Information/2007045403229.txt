@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 64
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "dirt horse training field",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {}
+}

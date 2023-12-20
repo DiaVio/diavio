@@ -1,0 +1,7 @@
+
+
+Justification: 
+- Vehicle one was impacted on the left side by vehicle two's front, indicating a collision between the front of one vehicle and the side of another.
+- Both vehicles entered the intersection at the same time, suggesting a T-bone collision.
+- After the impact, vehicle one rotated clockwise and vehicle two rotated counter-clockwise, further indicating a collision between the front and side of the vehicles.
+- The critical pre-crash event for vehicle two was coded as "other vehicle encroachment: from crossing street, turning into same direction," which aligns with a front-to-side collision.

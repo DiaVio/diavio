@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Jersey barrier-divided trafficway",
+        "LaneType": "Three through lanes",
+        "RoadShape": "Curves to the right and then to the left",
+        "RoadSlope": "Downhill grade",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Westbound in lane three",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Westbound in lane two",
+        "Location after Crash": "Front struck the impact attenuator in the gore area between the ramps",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Continue westbound",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

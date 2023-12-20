@@ -1,0 +1,1 @@
+Vehicle 1 (V1) struck the right rear of Vehicle 2 (V2) at an intersection, with V1's front end colliding with the side of V2. This collision is commonly referred to as a "T-bone" collision, which falls under the category of a front-to-side collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Fully controlled highway",
+        "LaneType": "Three lanes in each direction",
+        "RoadShape": "Straight",
+        "RoadSlope": "Downhill grade of 14%",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Daylight, cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left corner",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Lane two, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "40-45 mph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

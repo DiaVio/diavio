@@ -1,0 +1,28 @@
+{
+  "RoadNetwork": {
+    "RoadType": "trafficway",
+    "LaneType": "divided",
+    "RoadShape": "straight",
+    "RoadSlope": "negative grade"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "east",
+    "LocationAfterCrash": "point of impact",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "east",
+      "VehicleAction": "continue traveling",
+      "TravelSpeed": 89,
+      "is_against_rules": "no",
+      "AttemptedAvoidanceManeuvers": "no",
+      "AttemptedLaneCrossing": "no"
+    }
+  },
+  "Vehicle2": {},
+  "VehicleN": {}
+}

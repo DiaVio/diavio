@@ -1,0 +1,1 @@
+This is because vehicle one (V1) impacted the right side of vehicle two (V2) at the intersection, and then V2's left rear corner impacted the front of vehicle three (V3). This collision occurred when V2 was attempting to make a left turn at the intersection.

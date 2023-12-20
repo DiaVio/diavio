@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 attempted to change lanes to the right, crossing the path of Vehicle 1. This action resulted in the front right area of Vehicle 2 impacting the left rear area of Vehicle 1, causing the collision. Additionally, Vehicle 2 fled the scene after the accident, indicating a lack of responsibility and accountability.

@@ -1,0 +1,9 @@
+This two-vehicle crash occurred on an access-controlled roadway exit ramp. This roadway is one-way, one-lane, straight and has an uphill grade. The speed limit on this roadway is 97 kmph (60 mph) with an advisory speed of 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1995 Honda Prelude, was northbound on the exit ramp. Vehicle two (V2), a 1998 Honda Accord, was northbound in front of V1. V2 began to decelerate for the curve ahead. The front of V1 struck the back of V2. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-three-year-old female, and the driver of V2, a twenty-seven-year-old female, were not interviewed; no further information is available for these drivers.
+
+The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in same direction while decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "this vehicle traveling; this vehicle decelerating." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

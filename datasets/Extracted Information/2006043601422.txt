@@ -1,0 +1,55 @@
+{
+   "RoadNetWork":{
+      "RoadType":"highway",
+      "LaneType":"four-lane",
+      "RoadShape":"straight",
+      "RoadSlope":"level",
+      "SpeedLimit":105
+   },
+   "Environment":{
+      "RoadCondition":"wet",
+      "Weather":"rainstorm"
+   },
+   "Vehicle1":{
+      "Impact Side":"rear",
+      "Moving on which Way":"east",
+      "Location after Crash":"in lane one",
+      "Objectivebehavior":{
+         "Whether to Brake":"yes",
+         "Direction":"unmentioned",
+         "Vehicle Action":"straight",
+         "Travel Speed":97,
+         "is_against_rules":"no",
+         "Attempted Avoidance Maneuvers":"yes",
+         "Attempted Lane Crossing":"yes"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"rear",
+      "Moving on which Way":"east",
+      "Location after Crash":"rolled onto the back of V3",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"unmentioned",
+         "Vehicle Action":"unmentioned",
+         "Travel Speed":97,
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   },
+   "Vehicle3":{
+      "Impact Side":"rear",
+      "Moving on which Way":"east",
+      "Location after Crash":"struck by rolled SUV",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"unmentioned",
+         "Vehicle Action":"unmentioned",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   }
+}

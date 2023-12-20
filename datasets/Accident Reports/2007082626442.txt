@@ -1,0 +1,9 @@
+This two-vehicle daytime collision occurred in the intersection of a two-lane two-way city street and a two-way two-lane arterial road. Both roadways are paved with concrete. The city street is controlled by a stop sign for the north/south lanes, The roadway for both vehicles is straight and level. The speed limit for both vehicles is 40 kmph (25 mph). At the time of the crash was raining.
+
+Vehicle one (V1), a 1990 Nissan pick-up Truck driven by a fifty one (51) year old male, was traveling south in lane one. Vehicle two (V2), a 2002 Audi AG4 sedan driven by a thirty five (35) year old male with one passenger, was traveling west in lane one. It is unclear if V1 stopped for the stop sign. V1 entered the intersection initiating a left turn and impacted the front right corner of V2. V1 came to rest on the north/west corner and V2 came to rest facing west in the oncoming lane. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 was unable to be contacted for an interview after numerous attempts. The driver of V2 was unable to be contacted for an interview after numerous attempts.
+
+The critical pre-crash event for V1 coded: this vehicle traveling, turning left at intersection. The critical reason for critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see. An associated factor for V1 was the illegal maneuver, for failure to stop for the stop sign.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event is not coded to this vehicle.

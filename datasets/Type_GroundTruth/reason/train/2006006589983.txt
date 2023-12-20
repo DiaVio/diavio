@@ -1,0 +1,1 @@
+This is because vehicle one, traveling westbound, collided with the front of vehicle two, traveling southbound, at the intersection. The vehicles made contact with their fronts, indicating a front-to-side collision.

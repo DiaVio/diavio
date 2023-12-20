@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Undivided",
+    "LaneType": "Mixed",
+    "RoadShape": "Straight",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": 56
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front Left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Westbound Lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Turn Left",
+      "Travel Speed": 89,
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left Passenger Side",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Skid for 72 meters, then hit light post and tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

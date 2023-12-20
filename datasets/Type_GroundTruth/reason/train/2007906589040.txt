@@ -1,0 +1,1 @@
+The driver of vehicle one collided with the back of vehicle two, which then caused a chain reaction of Rear-End Collisions with vehicle three and vehicle four. This sequence of collisions from the rear is characteristic of a Rear-End Collision.

@@ -1,0 +1,1 @@
+The reason for this is that V2 failed to yield the right of way at the four-way stop intersection. Even though the traffic lights were not functioning, V2 should have treated the intersection as a four-way stop and come to a complete stop before proceeding. However, V2 proceeded into the intersection without stopping, resulting in a collision with the right side of V1.

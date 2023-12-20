@@ -1,0 +1,6 @@
+
+
+Justification:
+- V1, the Freightliner tractor, was backing up across both lanes of travel.
+- V2, the Mercury Tracer, struck V1 in the left side with its front.
+- The Critical Precrash Event for V2 was "other vehicle in lane, backing", indicating that V1 was backing up at the time of the collision.

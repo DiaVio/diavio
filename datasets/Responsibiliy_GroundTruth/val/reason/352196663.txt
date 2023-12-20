@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 3 struck the rear plane of Vehicle 2, causing it to be pushed forward and into the path of Vehicle 1. This indicates that Vehicle 3 failed to maintain a safe distance or failed to stop in time to avoid the collision.

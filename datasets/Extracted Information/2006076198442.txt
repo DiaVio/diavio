@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "four-lane divided roadway",
+    "LaneType": "unmentioned",
+    "RoadShape": "curved",
+    "RoadSlope": "downhill",
+    "SpeedLimit": "88 kmph (55 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "clear",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "rear left side",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "off the road, struck the embankment edge",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "steered right to avoid V2",
+      "Travel Speed": "89 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "rear end",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "controlled stop on the right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "rapidly decelerating",
+      "Travel Speed": "89 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "front left corner",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "rotated counter-clockwise, on the right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "pedestrian crossing the road",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

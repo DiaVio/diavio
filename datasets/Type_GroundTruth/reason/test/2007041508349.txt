@@ -1,0 +1,1 @@
+This is because the driver of V1 attempted to change back into lane two at the same time as a phantom vehicle was changing lanes from lane three into lane two, resulting in a collision between the front of V1 and the side of the phantom vehicle.

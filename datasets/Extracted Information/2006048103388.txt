@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "two-lane roadway",
+        "LaneType": "double yellow center lines",
+        "RoadShape": "curved right",
+        "RoadSlope": "5% upgrade",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse atmospheric conditions",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "illegal maneuver - passing in a no-passing zone",
+            "Travel Speed": "97 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "off the right side of the roadway, struck a tree",
+        "Objectivebehavior": {
+            "Whether to Brake": "applied the brakes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "97 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

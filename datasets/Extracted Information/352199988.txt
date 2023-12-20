@@ -1,0 +1,29 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "multiple travel lanes",
+    "RoadShape": "T-type",
+    "RoadSlope": "slight downhill grade",
+    "SpeedLimit": "30 mph"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "heavy rain"
+  },
+  "Vehicle1": {
+    "Impact Side": "lower frontal plane/undercarriage",
+    "Moving on which Way": "south",
+    "Location after Crash": "bottom of embankment",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "north",
+      "Vehicle Action": "turn right",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {},
+  "VehicleN": {}
+}

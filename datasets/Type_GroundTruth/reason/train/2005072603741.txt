@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) swerved from the left lane and crossed the center lane, resulting in a collision with Vehicle 2 (V2) in the right lane. The front of V1 contacted the left side of V2, resembling a "T-bone" collision.

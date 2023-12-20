@@ -1,0 +1,8 @@
+setup.py
+source/carla/__init__.py
+source/carla/command.py
+source/carla.egg-info/PKG-INFO
+source/carla.egg-info/SOURCES.txt
+source/carla.egg-info/dependency_links.txt
+source/carla.egg-info/top_level.txt
+source/libcarla/libcarla.cpp

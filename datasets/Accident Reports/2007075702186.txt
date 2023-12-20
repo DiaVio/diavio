@@ -1,0 +1,11 @@
+This two-vehicle, rear-end crash occurred in a four-way, stop sign-controlled intersection. On the west side of the intersection, the roadway is undivided with two lanes of travel, one in each direction; the eastbound travel lane may turn right or left or travel through. This roadway is straight and level, with a posted speed limit of 48 kmph (30 mph). This crash occurred during daylight afternoon hours with moderate traffic flow.
+
+Vehicle one (V1), a 1991 Subaru Legacy with one occupant, was eastbound in lane one. Vehicle two (V2), a 1988 Toyota Camry with three occupants, was stopped in lane one in front of V1, waiting to turn left at the intersection. V1 failed to stop and the front of V1 impacted the back of V2. V1 came to final rest facing east in lane one at the approximate point of impact. V2 was pushed forward past the intersection to final rest, facing east in lane one. Both vehicles were towed due to damage. Police Reported Travel Speed is 48 kmph for V1 and 48 kmph for V2.
+
+The driver of V1, a nineteen-year-old male, was coming from his father's girlfriend's house and going home. He admitted to being distracted by changing songs on the CD player just prior to the crash. He said he had been in an argument earlier, but had gotten over it and wasn't thinking about it at the time of the collision. He was well rested, very comfortable with his vehicle, and drives this route several times a month. He is in good health and takes no medications.
+
+The driver of V2, a nineteen-year-old female, was coming from a bookstore with her sister and her niece and was going home. She was well rested, very comfortable with her car, and drives this route daily. She is in good health and takes no medications.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: internal distraction, due to changing songs on the CD player
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle.

@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted to pass Vehicle 2 (V2) by going around to the left in the westbound lane, and as V1 tried to pass, V2 turned left towards a dirt drive on the westbound side of the roadway. The right side of V1 contacted the left side of V2, indicating a collision between the front of V1 and the side of V2.

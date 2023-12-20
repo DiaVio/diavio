@@ -1,0 +1,1 @@
+This is because Vehicle one was traveling southbound and attempted to turn left, while Vehicle two was traveling westbound and collided with the left side of Vehicle one.

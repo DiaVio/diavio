@@ -1,0 +1,7 @@
+
+
+- V1, the Chevrolet Malibu, swerved to avoid a non-contact vehicle in front of it, resulting in the front of V1 colliding with the guardrail and then entering the westbound roadway.
+- V2, the Pontiac Aztec, swerved to the right in an attempt to avoid V1 but the front of V2 still struck the left side of V1.
+- V3, the Dodge Ram van, also braked and swerved to avoid V1 but was sideswiped by V1 as it was spinning after being struck by V2.
+
+This sequence of events indicates that the front of one vehicle (V1) collided with the side of another vehicle (V2), resulting in a Front-to-Side Collision.

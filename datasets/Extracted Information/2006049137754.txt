@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane roadway",
+        "LaneType": "Divided by a positive barrier",
+        "RoadShape": "Curve to the right",
+        "RoadSlope": "Level",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Touching V2 in lane four",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Evasive action to avoid rear-ending a vehicle",
+            "Travel Speed": "80-97 kmph (50-60 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Touching V1 in lane four",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

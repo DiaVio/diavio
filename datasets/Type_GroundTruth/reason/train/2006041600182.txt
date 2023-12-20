@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (Vehicle 1) and no other entities were involved in the collision. Vehicle 1 lost control and made contact with the left side concrete barrier wall.

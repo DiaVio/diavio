@@ -1,0 +1,1 @@
+This collision involves the front of one vehicle colliding with the side of another, which is characteristic of a front-to-side collision.

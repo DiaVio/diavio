@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-way",
+        "LaneType": "five-lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "downhill for V1, level for V2",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "north",
+        "Location after Crash": "southbound travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "left turn",
+            "Travel Speed": "24 kmph (15 mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "south",
+        "Location after Crash": "southbound travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "56 kmph (35 mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver fell asleep while operating the vehicle. The critical pre-crash event for V1 was coded as "this vehicle traveling, end departure," indicating that V1 departed the roadway due to the driver falling asleep. The driver's fatigue, caused by working long hours and not having sufficient sleep, was a contributing factor to the crash.

@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "physically divided six-lane highway",
+        "LaneType": "unmentioned",
+        "RoadShape": "right curve",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous, dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rested on its wheels facing northwest in lane three and the shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "105 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "rear",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "unmentioned, continued eastbound",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "105 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "right side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "rested on the right shoulder on its wheels facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

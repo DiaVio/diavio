@@ -1,0 +1,41 @@
+{
+   "RoadNetWork":{
+      "RoadType":"interstate highway",
+      "LaneType":"inboard lane",
+      "RoadShape":"straight",
+      "RoadSlope":"unmentioned",
+      "SpeedLimit":"unmentioned"
+   },
+   "Environment":{
+      "RoadCondition":"dark and unlit",
+      "Weather":"unmentioned"
+   },
+   "Vehicle1":{
+      "Impact Side":"left side",
+      "Moving on which Way":"eastbound",
+      "Location after Crash":"second inboard travel lane, facing northwest",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"unmentioned",
+         "Vehicle Action":"straight",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"no"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"front right area",
+      "Moving on which Way":"eastbound",
+      "Location after Crash":"unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"unmentioned",
+         "Vehicle Action":"attempted to change lanes to the right",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"yes"
+      }
+   }
+}

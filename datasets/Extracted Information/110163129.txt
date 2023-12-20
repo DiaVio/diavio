@@ -1,0 +1,42 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided bituminous road",
+        "LaneType": "two lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "on the roof and pointed in a southwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "steered left into the center left turn lane, then over-steered right and entered a clockwise yaw",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "VehicleN": {}
+}

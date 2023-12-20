@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) entered the intersection on a red light and its front impacted with the left side of Vehicle 1 (V1). V1 then was pushed to the right, and its front bumper impacted with the right side of Vehicle 3 (V3). This collision between the front of V2 and the side of V1 corresponds to a Front-to-Side Collision.

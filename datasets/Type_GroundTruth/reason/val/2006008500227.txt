@@ -1,0 +1,1 @@
+This is because the front left corner of V1 sideswiped the left side of V2, indicating a collision between the front of V1 and the side of V2.

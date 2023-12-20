@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "single-lane access ramp/roadway",
+        "LaneType": "northbound travel lane",
+        "RoadShape": "sweeping left turning curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "25 mph (40 km/h)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "frontal",
+        "Moving on which Way": "north",
+        "Location after Crash": "at or near the tree impact, within the area of dense vegetation",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

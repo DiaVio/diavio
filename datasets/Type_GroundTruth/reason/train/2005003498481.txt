@@ -1,0 +1,1 @@
+This is because Vehicle #2, traveling northbound, collided with the left side of Vehicle #1, which was traveling westbound. The point of contact indicates that the front of Vehicle #2 collided with the side of Vehicle #1, resembling a "T-bone" collision.

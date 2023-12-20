@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way street",
+        "LaneType": "Five-lanes including a continuous left-turn lane",
+        "RoadShape": "Level, left-curved",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet roadway",
+        "Weather": "Raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Lane one",
+        "Location after Crash": "Off the roadway facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Attempted to return to lane one",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

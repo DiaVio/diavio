@@ -1,0 +1,1 @@
+The reason for this is that V1 turned left into the path of V2, causing the collision. V1 failed to yield while making a left turn, which is a violation of traffic laws. Additionally, the driver of V1 was cited by the investigating officer for this failure to yield.

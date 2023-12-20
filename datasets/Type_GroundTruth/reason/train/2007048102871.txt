@@ -1,0 +1,1 @@
+This is because vehicle one (V1), while turning left in the intersection, was struck on the right side by the front of vehicle two (V2). The collision occurred between the front of V2 and the side of V1, which is characteristic of a front-to-side collision.

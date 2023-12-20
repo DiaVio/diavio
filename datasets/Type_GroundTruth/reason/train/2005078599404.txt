@@ -1,0 +1,1 @@
+Vehicle #1 (V1) was traveling westbound and collided with the front of Vehicle #2 (V2) as V2 was turning left. The front of V1 collided with the left side of V2.

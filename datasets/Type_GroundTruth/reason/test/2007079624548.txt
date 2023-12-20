@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the right side of Vehicle 2 (V2) as V2 changed lanes to the right. The front of V1 then contacted various objects (curb, foliage, fire hydrant, brick wall) before coming to rest on the sidewalk.

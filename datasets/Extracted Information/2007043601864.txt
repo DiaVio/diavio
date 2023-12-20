@@ -1,0 +1,83 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Main thoroughfare",
+    "LaneType": "Two lanes in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "Unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "Clear",
+    "Weather": "Dry"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "South",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": 48,
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Front",
+    "Moving on which Way": "South",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": 48,
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "South",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "ImpactSide": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle5": {
+    "ImpactSide": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 departed its travel lane and entered the southbound travel lane, traveling in the wrong direction. This action caused the collision with Vehicle 1, despite the driver of Vehicle 1 attempting to brake and avoid the collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Seven-lane roadway",
+        "LaneType": "Asphalt",
+        "RoadShape": "Curves right",
+        "RoadSlope": "Level",
+        "SpeedLimit": "64 kph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Artificial lighting",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Right shoulder of the eastbound roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Stopped at the light facing north",
+        "Location after Crash": "Middle of the intersection facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turning left at intersection",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

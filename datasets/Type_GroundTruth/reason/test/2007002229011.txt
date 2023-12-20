@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) when V1 was in the first northbound lane and V2 was making a right turn out of a plaza on the east side of the intersection.

@@ -1,0 +1,1 @@
+Vehicle 1 collided with the rear plane on the right side of the trailer being towed by Vehicle 2, causing Vehicle 1 to rotate counterclockwise and come to rest partially in a ditch on the right side of the road. Vehicle 2 was pushed forward and came to rest in its original travel lane.

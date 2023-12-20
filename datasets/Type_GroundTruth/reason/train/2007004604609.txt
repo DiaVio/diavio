@@ -1,0 +1,1 @@
+This is because the crash only involved one vehicle, with no other entities involved. The vehicle (V1) departed the roadway to the right, striking various objects before coming to rest, indicating that it was a single-vehicle incident.

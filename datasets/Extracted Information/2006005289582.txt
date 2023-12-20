@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-way",
+        "LaneType": "one lane in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "normal"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "westbound lane near the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "straight",
+            "Vehicle Action": "failed to stop behind V2",
+            "Travel Speed": "56 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "back",
+        "Moving on which Way": "stopped",
+        "Location after Crash": "westbound lane near the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "stopped at the T-intersection preparing to turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

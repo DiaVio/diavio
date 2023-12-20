@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) crossed over from the second lane to the first lane and made contact with the right front side of Vehicle 2 (V2), causing V2 to steer right to avoid the collision. This scenario matches the description of a front of one vehicle colliding with the side of another, also known as a "T-bone" collision.

@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "divided trafficway",
+    "LaneType": "3 lanes in each direction",
+    "RoadShape": "curved",
+    "RoadSlope": "heavily graded",
+    "SpeedLimit": "105 km/h (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "roof and left side",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "partially straddling the north paved shoulder and the number 1 westbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

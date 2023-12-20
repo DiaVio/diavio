@@ -1,0 +1,1 @@
+This is because Vehicle 1 turned left at the intersection and the front of Vehicle 1 struck the front of Vehicle 2, which was traveling southbound in lane two.

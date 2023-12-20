@@ -1,0 +1,1 @@
+This is because V1 attempted to turn left onto the intersecting road in front of V2, causing V2's front to collide with the left side of V1. The impact occurred when V2 was traveling straight and V1 made a left turn in front of it, resulting in a collision between the front of V2 and the side of V1.

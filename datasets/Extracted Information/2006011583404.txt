@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "3 lane",
+        "RoadShape": "T intersection",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "facing northwest in lane 1 of the westbound roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "facing south southeast in lane 2 of the north-south roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "front left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing east in the left turn lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the left side of Vehicle 1 (V1) as they entered the intersection at the same time. After the initial impact, the right side of V2 also made contact with the left side of V1. Additionally, V2 continued on a southeast trajectory and collided with the front of Vehicle 3 (V3).

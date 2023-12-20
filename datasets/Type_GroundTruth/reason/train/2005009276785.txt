@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to pass Vehicle 2 on the left side, resulting in the left side of Vehicle 1 striking the right rear tire of Vehicle 2.

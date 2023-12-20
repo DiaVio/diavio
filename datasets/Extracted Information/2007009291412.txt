@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Four-lane highway",
+    "LaneType": "Divided",
+    "RoadShape": "Right curve",
+    "RoadSlope": "21% downhill slope",
+    "SpeedLimit": "89 kmph (55 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Partially over the south side of the driveway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Southwest",
+      "Vehicle Action": "Veer right to avoid the boom truck",
+      "Travel Speed": "93 kmph (58 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

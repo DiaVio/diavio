@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Bituminous",
+        "RoadShape": "Curving left",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Dry roadway, icy shoulders",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "On the inside shoulder facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left rear wheel",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

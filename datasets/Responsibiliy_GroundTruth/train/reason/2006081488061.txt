@@ -1,0 +1,1 @@
+The driver of V1 failed to comply with proper lane travel, made an illegal left turn on a green arrow, and crossed the intended path of V2. The police report indicated that V1 made an improper left turn as a contributing circumstance for the collision. The critical reason for the critical event was coded to the driver of V1 as a driver decision error: illegal maneuver.

@@ -1,0 +1,1 @@
+The reason for this is that V2 was making a right turn from the eastbound lanes onto the southbound lanes, but instead of staying in its designated lane, it crossed the median and struck V1 in a head-on configuration. This indicates that V2 failed to yield the right of way and made an improper turn, resulting in the collision with V1.

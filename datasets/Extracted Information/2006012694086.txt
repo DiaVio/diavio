@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban intersection",
+        "LaneType": "two-way, five lane",
+        "RoadShape": "straight with a pre-crash slope of +3/122",
+        "RoadSlope": "+3/122",
+        "SpeedLimit": "56kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "normal",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "left turn lane on the west side of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "left turn lane of the eastbound traffic way",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

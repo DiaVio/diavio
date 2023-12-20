@@ -1,0 +1,69 @@
+{
+  "RoadNetWork": {
+    "RoadType": "one-way",
+    "LaneType": "one lane of travel",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "contacting V2",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": 24,
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right side",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "contacting V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "back",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "contacting V4",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "front",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

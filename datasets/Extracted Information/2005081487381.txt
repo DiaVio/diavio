@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "Divided",
+        "RoadShape": "Curve",
+        "RoadSlope": "Downhill 4%",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Heavy rain, poor visibility, daylight but grey and overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front bumper",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Resting on its top facing southbound",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Northbound",
+            "Vehicle Action": "Ran off the right side of the road",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two lane",
+        "LaneType": "two way",
+        "RoadShape": "curve right",
+        "RoadSlope": "downgrade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side rear half",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "north side of the roadway in a ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "counterclockwise",
+            "Vehicle Action": "lost control, swerved left, swerved right, crossed into opposite lane",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "near the point of impact in the westbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

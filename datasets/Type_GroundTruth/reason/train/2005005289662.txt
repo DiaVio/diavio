@@ -1,0 +1,1 @@
+This is because the left side of Vehicle 1 (V1) collided with the right side of Vehicle 2 (V2) when V1 attempted to change lanes. The point of impact was at the side of V2, resembling a "T-bone" collision.

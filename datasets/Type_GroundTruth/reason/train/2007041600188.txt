@@ -1,0 +1,1 @@
+This is because the driver of V1 panicked and steered into the left lane, hitting the right side of V2, causing V2 to collide with the left concrete barrier wall.

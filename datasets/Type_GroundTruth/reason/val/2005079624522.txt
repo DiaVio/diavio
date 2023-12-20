@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was making a left turn at the intersection, and Vehicle 2 (V2) collided with the left side of V1 as it was passing straight through the intersection. The impact configuration of the vehicles, with the front of V2 impacting the left side of V1, and then the right side of V2 impacting the left side of V1, is consistent with a front-to-side collision.

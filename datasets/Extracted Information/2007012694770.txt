@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four lane two-way roadway",
+        "LaneType": "asphalt",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "clear evening"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front side",
+        "Moving on which Way": "north",
+        "Location after Crash": "facing south in the center of lane one and two",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right front side",
+        "Moving on which Way": "south",
+        "Location after Crash": "off the roadway to contact the mailbox post",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

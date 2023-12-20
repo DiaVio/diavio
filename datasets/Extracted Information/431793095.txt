@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "4-lane divided state trafficway",
+        "LaneType": "unmentioned",
+        "RoadShape": "curved left (with an uphill grade)",
+        "RoadSlope": "negative slope (off road edge)",
+        "SpeedLimit": "60 mph (97 km/h)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "off the north road edge of the westbound roadway, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "proceeding straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

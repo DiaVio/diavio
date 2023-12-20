@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Secondary arterial road",
+        "LaneType": "Four lanes divided by a concrete median",
+        "RoadShape": "Straight",
+        "RoadSlope": "Slight negative grade of 2.4%",
+        "SpeedLimit": "48 kph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight, sun about 20 minutes away from setting"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "East",
+        "Location after Crash": "Fled the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "East",
+        "Location after Crash": "Resting in a private drive facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Preparing to turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

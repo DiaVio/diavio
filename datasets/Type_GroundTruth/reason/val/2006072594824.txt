@@ -1,0 +1,1 @@
+This is because Vehicle 1 and Vehicle 2 collided head-on, which is characteristic of a frontal collision where the fronts of two vehicles collide head-on.

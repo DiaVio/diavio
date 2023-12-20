@@ -1,0 +1,58 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "multiple",
+        "RoadShape": "straight",
+        "RoadSlope": {
+            "East/West Road": "2.5% upgrade",
+            "North/South Road": "4.9% upgrade"
+        },
+        "SpeedLimit": "54 kph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "west",
+        "Location after Crash": "between poles, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right side",
+        "Moving on which Way": "north",
+        "Location after Crash": "22 meters (74 feet) from the north curb of the westbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "left rear corner",
+        "Moving on which Way": "north",
+        "Location after Crash": "stopped within a safe area, north of the final rest of V2",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

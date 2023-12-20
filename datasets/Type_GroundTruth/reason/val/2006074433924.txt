@@ -1,0 +1,1 @@
+This is because Vehicle 1 turned left and the front of Vehicle 2 impacted the left side of Vehicle 1, resulting in a collision between the front of one vehicle and the side of another ("T-bone" collision).

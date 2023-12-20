@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Honda Accord) collided with the right side of Vehicle 2 (Toyota 4-Runner) at a 90-degree angle, with the front of Vehicle 1 contacting the right side of Vehicle 2.

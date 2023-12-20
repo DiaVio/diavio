@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "asphalt",
+    "LaneType": "four-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "72 kmph"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "rear",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "off the right side of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rotated clockwise and came to rest with its right front wheel on the edge of the curb",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "stopped in traffic lane",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

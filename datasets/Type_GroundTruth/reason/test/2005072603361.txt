@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) disregarded the stop sign and crossed the northbound section of the roadway. Vehicle two (V2) was traveling northbound and the front of V2 contacted the left side of V1. After the initial impact, V1 rotated counterclockwise and continued on a westbound trajectory. The front of Vehicle three (V3) contacted the left side of V2. This sequence of events indicates that the front of one vehicle (V1) collided with the side of another vehicle (V2), which is characteristic of a Front-to-Side Collision.

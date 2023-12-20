@@ -1,0 +1,3 @@
+
+
+Justification: The driver of V1 suddenly veered from lane one to the left side and struck the right side of V2 in lane two. This indicates that the front of V1 collided with the side of V2, which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

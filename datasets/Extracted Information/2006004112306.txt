@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "2-lane undivided roadway",
+        "LaneType": "2-lane undivided driveway",
+        "RoadShape": "straight and level",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "40 mph"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "lightly raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "private driveway",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

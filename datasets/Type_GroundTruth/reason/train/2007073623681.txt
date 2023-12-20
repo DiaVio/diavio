@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the front of Vehicle 2 (V2) in the intersection, which can be considered a "T-bone" collision. Debris from this collision also struck the left side of Vehicle 3 (V3).

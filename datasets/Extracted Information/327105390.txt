@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two-lane road",
+    "LaneType": "wide eastbound lanes narrowing down to one lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "dark and not lighted with severe crosswinds"
+  },
+  "Vehicle1": {
+    "Impact Side": "left fender",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "off the north shoulder, facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "eastbound inside lane",
+    "Location after Crash": "west of the railroad crossing, straddling the east and west lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+
+Justification: The front of Vehicle 1 (V1) impacted the right rear of Vehicle 2 (V2), indicating a collision between the front of one vehicle (V1) and the side of another vehicle (V2). This is commonly referred to as a "T-bone" collision, which falls under the category of Front-to-Side Collision.

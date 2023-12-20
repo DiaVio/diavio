@@ -1,0 +1,11 @@
+The crash occurred at the intersection of two two-lane roadways. There was one roadway that went north to south and another roadway that went east to west. The east/west roadway was controlled by a stop sign. Both roadways were traveled bituminous asphalt with one lane in each direction and posted speed limit of 40 kmph (25 mph). It was late afternoon on a weekday and the road was dry and skies were clear. Traffic flow was light and moving freely.
+
+V1, a 2003 Honda Civic four door with one occupant, was stopped at a stop sign facing west. V2, a 2001 Chrysler Town and Country minivan with two occupants was traveling south. The driver of V1 was unfamiliar with the roadway and believed that the intersection was a four way stop. V2 did not have a stop sign and proceeded through the intersection. The driver of V1 pulled out into the intersection and struck V2. V1 continued on and hit the stop sign on the opposite side of the road and then ran into the fence. Police Reported Travel Speed is 8 kmph for V1 and 8 kmph for V2.
+
+V1, the Honda Civic, was driven by a 17 year old female who reported no injuries. She advised it was her first time on the roadway. She stated she sat at the intersection for approx. 5-10 seconds scanning both direction prior to accelerating. She stated she observed V2 approaching on her right but believed that the vehicle would stop.
+
+The Critical Pre crash Event for V1 was “this vehicle traveling crossing over (passing through) the intersection”.. The Critical Reason for the Critical Pre crash Event was coded driver related, “false assumption of other's actions”. An associated factor would be the driver's inexperience; she had only been driving for about a year. Also, this was the first time the driver had been on this particular roadway.
+
+V2, the Chrysler Town and Country minivan, was driven by a 77 year old male who reported no injuries. The driver of V2 advised he saw V1 looking around prior to proceeding but guess that she did not realize that V2 did not have to stop.
+
+The Critical Pre crash Event for V2 was “other vehicle encroachment from crossing street across path”. The Critical Reason for the Critical Pre crash Event was not coded to this vehicle.

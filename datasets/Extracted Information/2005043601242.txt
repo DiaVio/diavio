@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided highway",
+        "LaneType": "two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "uphill",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "rear",
+        "Moving on which Way": "north",
+        "Location after Crash": "pulled over to the right side shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "attached to the back of Vehicle1",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

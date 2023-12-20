@@ -1,0 +1,1 @@
+This is because the collision only involved one vehicle, with no other entities involved. The vehicle veered off the road and collided with a mailbox and a drainage ditch.

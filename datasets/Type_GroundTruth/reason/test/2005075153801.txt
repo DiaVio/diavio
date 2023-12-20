@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was unable to stop and its front contacted the rear of Vehicle 2 (V2), and V2 was pushed forward and its front contacted the rear of Vehicle 3 (V3).

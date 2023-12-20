@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in the southbound lane of a 4-way intersection. The intersection is controlled by a pre-timed traffic signal and all four directions have a posted speed limit of 79 kmph (45 mph.) The conditions this morning were clear, dry and daylight.
+
+V1, a 1999 Infiniti QX4 with one occupant, was traveling west in lane one toward the intersection. V2, a 1997 Ford E150 cargo van with one occupant, was traveling south in lane three toward the same intersection. Both vehicles entered the intersection at the same time and collided. The front of V2 struck the right side of V1 (event #1). Following the initial impact, the left side of V2 side slapped the right side of V1 (event #2). Both vehicles were towed due to damage and the driver of V1 was transported from the scene for treatment of minor injuries. Police Reported Travel Speed is 32 kmph for V1 and 32 kmph for V2.
+
+V1 was driven by a 39-year-old male that was never reached for an interview. He was charged with: "Driving while license revoked" and a "Red Light Violation."
+
+The Critical Precrash Event for this driver was coded: "this vehicle traveling through an intersection" and the Critical Reason for the Critical Event was coded: "unknown recognition error".
+
+V2 was driven by a 41-year-old male that was making a delivery this morning when he was involved in this crash. This driver said he had just left a car dealership 5 minutes earlier and was driving south when he entered this intersection and V1 drove across his path. He slammed on the brakes and steered right but could not avoid a collision with V1. This driver suffered a small cut to his left elbow when the driver side airbag deployed but he refused treatment for the injury.
+
+The Critical Precrash Event for this driver was coded: "other vehicle encroaching from crossing street, across path" and the Critical Reason for the Critical Event was not coded to this vehicle.

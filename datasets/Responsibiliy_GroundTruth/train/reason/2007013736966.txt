@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 fell asleep while driving, which is a driver-related factor. This caused V1 to drift over the left lane line and eventually depart the roadway to the right, resulting in the rollover. The driver's lack of sleep, with only 4 hours of sleep the night before, likely impaired their ability to stay alert and in control of the vehicle.

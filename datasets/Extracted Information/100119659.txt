@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "multi-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "slight grade decline",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "full frontal",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "against the trailer facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "back",
+        "Moving on which Way": "parked",
+        "Location after Crash": "legally parked along the west roadside",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "stationary",
+            "Vehicle Action": "parked",
+            "Travel Speed": "0 mph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

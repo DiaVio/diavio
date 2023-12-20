@@ -1,0 +1,1 @@
+Vehicle one (V1) attempted a left turn and collided with the front of vehicle two (V2), resulting in a front-to-side collision. Additionally, V2 rotated clockwise and the front of V2 struck the left side of vehicle three (V3), further supporting the classification of a front-to-side collision.

@@ -1,0 +1,11 @@
+This two-vehicle crash occurred at a four-legged, traffic signal-controlled intersection. The east/west roadway is straight, level and consists of one lane in each direction. The speed limit for this roadway is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1985 Dodge Mini Ram van, was eastbound in lane one. Vehicle two (V2), a 2005 Chrysler 300, was stopped eastbound in lane one in front of V1. The front of V1 struck the back of V2. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-six-year-old male, was on his way from a friend's house to a store. He was healthy, well rested and familiar with his vehicle. He travels this route weekly. This driver stated that he did not notice that the traffic in front of him had stopped for the traffic signal. When he realized that V2 was stopped, he applied the brakes and steered to the left. According to the police report, this driver was under the influence of alcohol.
+
+The driver of V2, a fifty-three-year-old female, stated that she did not see V1 prior to the crash. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

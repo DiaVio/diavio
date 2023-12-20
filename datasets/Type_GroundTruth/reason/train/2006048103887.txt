@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to merge from lane one into lane two, and the right front of Vehicle 2 contacted the left side of Vehicle 1.

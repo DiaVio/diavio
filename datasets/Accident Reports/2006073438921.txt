@@ -1,0 +1,11 @@
+This two vehicle crash occurred in the northbound lanes of a non-divided two-way, four lane, dry, straight, level, bituminous roadway, with a posted speed limit of 56 kmph (35 mph). At the time of this early morning crash, skies were clear, there were no road defects or sight restrictions and traffic flow was normal for rush hour.
+
+Vehicle one (V1), a 2001 Ford Ranger small pickup truck driven by a 19 year-old male was northbound in the number one lane, behind a slower non-contacted vehicle. Vehicle two (V2), a 2000 International 4900 series 6x4 Dump Truck driven by a 44 year-old male was northbound in the second lane ahead of V1. V2 was loaded with 6577 Kg (14,500 lbs.) of asphalt. and was decelerating intending to stop, to allow southbound traffic to clear in order to make a left turn into a private drive. The V1 driver, changed lanes to the left in order to pass the non-contacted vehicle and, after entering lane two, struck the rear of V2 with the front of V1. Both vehicles came to final rest in the number two northbound lane. V1 was towed due to damage, and V2 was driven from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 stated that he had noticed V2 as he was passing the non-contacted vehicle, but didn't anticipate that it was going to slow down. He added that he momentarily focused his attention to the V1 interior in order to change the radio station and upon redirecting his attention forward, noticed that V2 had nearly stopped and that he was unable to make an avoidance maneuver.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane; traveling in same direction while decelerating. The critical reason for the critical pre-crash event was a driver related recognition factor: Internal distraction. The driver took his eyes off the roadway in front of him, and did not see V2 turn on it's turn signals and begin to decelerate.
+
+The critical pre-crash event for V2 was coded: this vehicle traveling, this vehicle decelerating. The critical reason was not coded to this vehicle.
+
+Associative Factors: The V1 driver made a false assumption of the V2 driver's intentions: He assumed that the V2 driver would proceed forward at a constant speed.

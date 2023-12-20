@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two lane",
+        "LaneType": "two way",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "final rest at the point of impact with the back tires in the ditch off the south edge of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "final rest facing northeast after rotating about 200 degrees counterclockwise from point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "overtaking another unmentioned westbound vehicle",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

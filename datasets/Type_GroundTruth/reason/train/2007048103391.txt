@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with a non-contact vehicle that was changing lanes to the left, indicating that V1 hit the back of the other vehicle.

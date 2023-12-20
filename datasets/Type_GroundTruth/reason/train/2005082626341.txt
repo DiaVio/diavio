@@ -1,0 +1,1 @@
+This is because Vehicle 1 collided with the right front fender of Vehicle 2, resulting in the left side of Vehicle 1 being damaged.

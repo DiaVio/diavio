@@ -1,0 +1,1 @@
+This is because the accident involves only one vehicle (V1) and no other entities. V1 departed the left edge of the off-ramp and rolled onto its left plane, resulting in the collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "concrete",
+        "RoadShape": "straight",
+        "RoadSlope": "slight uphill",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rest on its top facing southwest in the median",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "steered left to avoid non-contact vehicle, then struck median barrier",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "left the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "changed lanes from number-four to number-one lane",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

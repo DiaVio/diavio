@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "rural",
+        "LaneType": "two-lane",
+        "RoadShape": "curves left, straightens out, curves right",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "89 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse conditions",
+        "Weather": "daylight"
+    },
+    "Vehicle1": {
+        "ImpactSide": "rear left side, right side plane, right front plane, right rear corner",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "westbound lane facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "counter-clockwise",
+            "Vehicle Action": "rotate, contact guardrails",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    }
+}

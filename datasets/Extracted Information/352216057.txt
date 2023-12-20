@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "East/West roadway",
+        "LaneType": "One eastbound lane, one westbound lane, one westbound left turn lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "Negative downhill grade for eastbound travel direction",
+        "SpeedLimit": 40
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Frontal",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Rest at the area of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Frontal",
+        "Moving on which Way": "Parked facing westerly direction",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

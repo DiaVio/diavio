@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south roadway is straight, undivided and consists of two lanes in each direction. The southbound approach has an uphill grade and the northbound approach is level. The speed limit for this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1999 Toyota Corolla, was southbound in lane two. Vehicle two (V2), a 2005 Honda CR-V, was northbound in lane one. There was a non-contact vehicle in northbound lane two waiting to turn left. V1 entered the intersection, turning left and the front struck the front of V2. V2 continued to the northeast off the roadway and the front struck two electrical boxes. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an eighty-four-year-old female, was on her way home from a pharmacy. She was in fairly good health, well rested and familiar with her vehicle. She travels this route weekly. She has high blood pressure and takes an unspecified medication for it as well as Fosamax. This driver stated that she did not see V2 prior to the crash.
+
+The driver of V2, a thirty-five-year-old female, was on her way from a gas station to work. She was healthy, well rested and familiar with her vehicle. She travels this route weekly. This driver stated that she saw V1 at the "last second" prior to the crash.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's inadequate surveillance was an associated factor in this crash.

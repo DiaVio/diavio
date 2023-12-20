@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Curved",
+        "RoadSlope": "Uphill",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Dark morning hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Stopped at stop sign, ready to cross the arterial",
+        "Location after Crash": "Facing northeast in lane 1 of the arterial road",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Heading southwest on the arterial street in lane 2",
+        "Location after Crash": "Facing southwest in the travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Braked right as the two cars collided",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Traveling straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

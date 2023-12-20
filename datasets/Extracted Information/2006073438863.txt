@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane roadway",
+        "LaneType": "Divided by a grass median",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front end",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Second westbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Following closely",
+            "Travel Speed": "16 to 32 kmph (10 to 20 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Second westbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Decelerating and came to a full stop",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

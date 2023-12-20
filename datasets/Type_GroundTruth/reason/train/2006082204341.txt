@@ -1,0 +1,1 @@
+This is evident from the description that Vehicle 1 (V1) impacted the right side of Vehicle 2 (V2) at the intersection, causing V2 to be pushed to the left and collide with the front of Vehicle 3. This aligns with the definition of a Front-to-Side Collision, where the front of one vehicle collides with the side of another vehicle, also known as a "T-bone" collision.

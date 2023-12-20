@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban",
+        "LaneType": "bituminous",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmh (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front",
+        "Moving on which Way": "exiting the bank driveway",
+        "Location after Crash": "partially in lanes two and three facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in lane two",
+        "Location after Crash": "partially off the road on the south side facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "40 kmh (25 mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

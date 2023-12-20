@@ -1,0 +1,1 @@
+This is because vehicle one (V1) collided with the left rear of vehicle two (V2), causing V2 to spin out of control and flip over onto its side. The initial impact occurred between the front of V1 and the rear of V2, which is consistent with a front-to-side collision.

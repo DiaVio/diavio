@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided asphalt freeway",
+        "LaneType": "lane one of a three lane",
+        "RoadShape": "curves to the left, then straightens out",
+        "RoadSlope": "slightly uphill",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet roadway conditions",
+        "Weather": "rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "front end in the ditch, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "departed left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

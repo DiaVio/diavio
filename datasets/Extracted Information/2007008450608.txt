@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two-lane",
+        "RoadShape": "left hand curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "56KMPH (35MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "snowy/icy road surface",
+        "Weather": "snowing heavily"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "north",
+        "Location after Crash": "rested on its roof blocking both lanes of travel",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

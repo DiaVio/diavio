@@ -1,0 +1,3 @@
+
+
+This is because Vehicle 1 (V1) was changing lanes to the right and the front struck the left side of Vehicle 2 (V2). V2 then rotated counterclockwise and the left side was struck by the front of V1. This sequence of events indicates a collision where the front of one vehicle (V1) collides with the side of another vehicle (V2), which is characteristic of a front-to-side collision.

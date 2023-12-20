@@ -1,0 +1,69 @@
+{
+  "RoadNetwork": {
+    "RoadType": "interstate freeway",
+    "LaneType": "five lane",
+    "RoadShape": "straight",
+    "RoadSlope": "slight uphill grade",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "overcast"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "Moving on which Way": "south",
+    "Location after Crash": "straddling lanes four and five, facing northeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "south",
+    "Location after Crash": "facing southwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "south",
+    "Location after Crash": "facing southwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "ImpactSide": "front",
+    "Moving on which Way": "south",
+    "Location after Crash": "lane five, near V1, facing southwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

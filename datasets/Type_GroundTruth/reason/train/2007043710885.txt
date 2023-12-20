@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) crossed the double yellow line and its front collided with the front left corner of Vehicle 2 (V2), which was traveling in the opposite direction.

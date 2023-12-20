@@ -1,0 +1,7 @@
+This collision involved a single vehicle that ran off the left side of the roadway. It occurred on a two-way, two-lane roadway that is divided by a depressed earth median. The speed limit on the roadway is posted 120 kmph (75 mph). The crash occurred on a rural interstate during the daylight hours. There were no weather conditions noted at the time of the crash. It occurred mid-afternoon.
+
+Vehicle one (V1), a 2002 Ford Mustang 2 door with two occupants, was traveling eastbound in the number two lane. The left rear tire tread began to separate. V1 then traveled off the left side of the roadway and came to rest in the median. The vehicle was removed from the scene due to the fact that the driver was arrested for unrelated charges to this crash. Police Reported Travel Speed is No PAR obtained (created) for V1.
+
+The driver could not be located for an interview after several attempts. Police stated that the driver and occupant were arrested for unrelated charges to this crash. Police also stated that a police report was not generated.
+
+The critical pre-crash event was coded: this vehicle control of loss due to - blow out/flat tire (specified as: the left rear tire tread separated from the tire. The critical reason for the critical event is coded as a vehicle related factor: tires/wheels failed.

@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) impacted the front left of Vehicle 1 (V1), indicating a head-on collision between the two vehicles.

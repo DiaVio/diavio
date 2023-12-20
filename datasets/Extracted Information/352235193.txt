@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "curved and graded",
+    "LaneType": "two-lane",
+    "RoadShape": "left turning curve",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "30 mph"
+  },
+  "Environment": {
+    "RoadCondition": "dry with multiple areas of surface damage",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "frontal",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "off the right edge of the roadway, partially in the stream",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "continue traveling westbound",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

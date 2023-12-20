@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) made a left turn into an apartment building's driveway and the front plane of V1 contacted the left plane of Vehicle 2 (V2). The front plane of V2 then proceeded to contact the rear plane of a parked vehicle (V3). This indicates that the front of V1 collided with the side of V2, resulting in a "T-bone" collision.

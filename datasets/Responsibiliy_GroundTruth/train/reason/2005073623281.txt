@@ -1,0 +1,1 @@
+The reason for this is that V2 changed lanes in front of V1, which indicates a failure to yield the right of way. Additionally, the critical pre-crash event for V2 was coded as "other motor vehicle in lane-traveling in the same direction with higher speed," suggesting that V2 may have misjudged the speed of V1 and made an unsafe lane change.

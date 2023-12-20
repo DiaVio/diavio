@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two-lane",
+    "LaneType": "bituminous",
+    "RoadShape": "positively graded curve",
+    "RoadSlope": "positively graded",
+    "SpeedLimit": "45 mph"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front right corner",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "north roadside shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "true",
+      "Direction": "unmentioned",
+      "Vehicle Action": "continue traveling westbound",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

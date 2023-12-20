@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was traveling north and was contacted on the left side by Vehicle 2 (V2) while V2 was crossing the intersection from east to west.

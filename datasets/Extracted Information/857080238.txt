@@ -1,0 +1,54 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Divided, multi-lane roadway with one-way exit/entrance ramps",
+    "LaneType": "Three southbound lanes, four northbound lanes, grass median",
+    "RoadShape": "Straight with a 2.2% grade (negative for southbound)",
+    "SpeedLimit": "72 km/h (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right front plane",
+    "Moving on which Way": "Initiated left turn",
+    "Location after Crash": "Paved shoulder area, south of the intersection, facing southwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Left turn",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Frontal impact with Vehicle 1",
+    "Moving on which Way": "Approaching intersection from the north",
+    "Location after Crash": "Off the right side of the roadway, south of the intersection, facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "Braked and skidded into the intersection",
+      "Direction": "South",
+      "Vehicle Action": "Pass through intersection and continue traveling south",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Left front plane",
+    "Moving on which Way": "Stopped, waiting to turn left",
+    "Location after Crash": "Southwest corner of the intersection, facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Turn left and continue traveling north",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

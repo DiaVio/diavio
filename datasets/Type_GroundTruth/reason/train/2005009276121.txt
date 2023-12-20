@@ -1,0 +1,1 @@
+This is because Vehicle 2, traveling southbound, struck the right side of Vehicle 1, which was making a left turn at the intersection. Vehicle 1 then struck Vehicle 3, which was stopped at the intersection going east. This sequence of events indicates a front-to-side collision.

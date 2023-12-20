@@ -1,0 +1,1 @@
+This classification is justified by the fact that Vehicle 1 was turning left at the intersection and the front of Vehicle 1 impacted the front of Vehicle 2, which was passing through the intersection in the opposite direction.

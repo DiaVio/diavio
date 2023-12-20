@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "2-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "89 kmh (55mph)"
+    },
+    "Environment": {
+        "RoadCondition": "icy and rutted",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "shallow, wide marshy ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

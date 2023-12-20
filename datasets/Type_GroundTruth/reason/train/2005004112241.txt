@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 (V1) ran a red traffic control signal and struck the left side bumper of Vehicle 2 (V2), which was traveling southbound in the left turn lane intending to turn left at the intersection. V1 then continued and struck the left side of Vehicle 3 (V3) in the westbound lane. This sequence of events indicates that the front of V1 collided with the side of both V2 and V3, which aligns with the characteristics of a Front-to-Side Collision.

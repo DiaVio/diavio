@@ -1,0 +1,1 @@
+Vehicle one (V1) impacted the rear plane of vehicle two (V2) while both vehicles were traveling in the same direction.

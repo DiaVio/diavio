@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane",
+        "LaneType": "Median divided",
+        "RoadShape": "Curve",
+        "RoadSlope": "Level",
+        "SpeedLimit": "105 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Partially in lane two, facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "105 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

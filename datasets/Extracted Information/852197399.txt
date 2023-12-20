@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "state highway",
+        "LaneType": "two lane",
+        "RoadShape": "curved to the left",
+        "RoadSlope": "uphill",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "off the roadway, facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

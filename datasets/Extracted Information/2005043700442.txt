@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential street",
+        "LaneType": "two-way",
+        "RoadShape": "right curve",
+        "RoadSlope": "7% downhill grade",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "northwest",
+        "Location after Crash": "rested in the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "steered left of center",
+            "Travel Speed": "45 mph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "southeast",
+        "Location after Crash": "rested in the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "responding to a police call",
+            "Travel Speed": "20 mph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

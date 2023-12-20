@@ -1,0 +1,1 @@
+This is because Vehicle one (V1) was southbound and turned left (east) at the intersection, while Vehicle two (V2) was westbound and its front bumper contacted the left side of V1. This type of collision involves the front of one vehicle colliding with the side of another, which is consistent with the description of the accident in the case summary.

@@ -1,0 +1,1 @@
+This is because the front of Vehicle 1 impacted with the left side of Vehicle 2, as V1 was turning left into southbound traffic and V2 was traveling in the two-way left turn lane.

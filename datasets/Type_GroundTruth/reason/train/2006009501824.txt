@@ -1,0 +1,1 @@
+This is because V1, while trying to avoid a collision with another vehicle, steered left and crossed the grass median, resulting in V1's front left corner striking the left side of V2. Additionally, V1 then rotated counter-clockwise and its right side struck the left side of V3.

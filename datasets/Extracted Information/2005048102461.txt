@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "undivided",
+        "RoadShape": "left hand curve",
+        "RoadSlope": "level",
+        "SpeedLimit": 89
+    },
+    "Environment": {
+        "RoadCondition": "standing water",
+        "Weather": "rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "on its roof on top of railroad tracks at the bottom of the steep embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": 113,
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

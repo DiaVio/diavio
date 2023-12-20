@@ -1,0 +1,1 @@
+The reason for this is that Vehicle #2 was traveling eastbound and attempted to travel through the intersection, impacting Vehicle #1 on the driver's door. Vehicle #1 was stopped at the intersection and was attempting to execute a left turn. Therefore, Vehicle #2 failed to yield the right of way to Vehicle #1, resulting in the collision.

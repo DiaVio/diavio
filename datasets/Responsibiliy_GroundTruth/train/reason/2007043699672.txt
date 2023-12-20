@@ -1,0 +1,1 @@
+The reason for Vehicle 2's responsibility is that it encroached into the intersection and collided with the left side of Vehicle 1 (Chevrolet Astro Van) while Vehicle 1 was making a left turn. This indicates that Vehicle 2 failed to yield the right of way to Vehicle 1, resulting in the collision.

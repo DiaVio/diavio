@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle #2's front contacted Vehicle #1's left rear, indicating a collision between the front of Vehicle #2 and the side of Vehicle #1. This is consistent with a front-to-side collision, also known as a T-bone collision.

@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two lane",
+        "RoadShape": "4-way intersection",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "40 kmph (25 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "east",
+            "Vehicle Action": "responding to police call",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "rear",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "west",
+            "Vehicle Action": "stopped at red light",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

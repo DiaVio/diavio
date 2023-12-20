@@ -1,0 +1,69 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided",
+        "LaneType": "left turn only",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 72
+    },
+    "Environment": {
+        "RoadCondition": "under construction",
+        "Weather": "clear night"
+    },
+    "Vehicle1": {
+        "ImpactSide": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "left side impacted V4's right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "back",
+        "Moving on which Way": "north",
+        "Location after Crash": "original travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle3": {
+        "ImpactSide": "back",
+        "Moving on which Way": "north",
+        "Location after Crash": "original travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle4": {
+        "ImpactSide": "back",
+        "Moving on which Way": "north",
+        "Location after Crash": "original travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "stopped",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

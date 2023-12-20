@@ -1,0 +1,1 @@
+This is because Vehicle two attempted a lane change into the left lane and ended up contacting the back of Vehicle one.

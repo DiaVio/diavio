@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (V1) and no other entities were involved in the collision. V1 departed the roadway, went off an embankment, and made contact with a river, resulting in the vehicle being swept downstream.

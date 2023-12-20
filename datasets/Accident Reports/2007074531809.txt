@@ -1,0 +1,15 @@
+This three-vehicle crash occurred on a curbed median-divided, straight trafficway. The northbound lanes have an uphill grade and consist of three through lanes. The speed limit for this trafficway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Traffic was congested at the time of the crash.
+
+Vehicle one (V1), a 2004 Jeep Wrangler, was northbound in lane one. Vehicle two (V2), a 2001 Ford F150 pickup, was stopped northbound in lane one in front of V1 and vehicle three (V3), a 2003 Ford F150 pickup, was stopped northbound in lane one in front of V2. The front of V1 struck the back of V2. V2 moved forward and the front struck the back of V3. V1 and V3 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-year-old female, was on her way home from a friend's house. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she was watching two police officers that were standing off the right side of the road and did not realize that V2 was stopped in front of her until the last second.
+
+The driver of V2, a thirty-eight-year-old female, was on her way to a store from her home. She was well rested, healthy and familiar with her vehicle. She travels this route several times each month. She has allergies and takes the medication Hydroxyzine. This driver stated that she saw V1 behind her but could not avoid the crash.
+
+The driver of V3, a thirty-eight-year-old male, was traveling with a forty-two-year-old female passenger. They had left home and were on their way to take their dogs to the groomer. This driver was healthy, well rested and familiar with his vehicle. He travels this route weekly.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; external distraction." This driver's speed was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

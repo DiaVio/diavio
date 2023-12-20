@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was impacted on its front right side by the left front corner of Vehicle 2 (V2), resulting in a collision between the front of V1 and the side of V2. Additionally, V1's right side plane side-slapped the left side plane of Vehicle 3 (V3), further confirming the front-to-side collision.

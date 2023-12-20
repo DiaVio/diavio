@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "T-intersection",
+        "LaneType": "1st travel lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": 30
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "cloudy with rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "off the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northwest",
+            "Vehicle Action": "straight",
+            "Travel Speed": "between 31 and 40 MPH",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

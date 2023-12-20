@@ -1,0 +1,11 @@
+The crash occurred in the westbound lane of a one-way roadway with one lane of travel. The roadway was straight, level, dry, bituminous, and it was dark but lighted. It was evening on a weekday, the sky was clear, and the speed limit was 48kmph (30mph).
+
+V1, a 2004 Ford Crown Victoria four door, with one occupant was traveling westbound in lane one. V2, a 1991 Toyota Tercel two door, with one occupant was traveling westbound in lane one. Both vehicles turned right at the intersection approximately 20 meters behind the point of impact, when the front of V1 impacted the back of V2. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the 2004 Ford Crown Victoria, was driven by a 38 year-old male who reported no injuries. The driver declined to participate in the study.
+
+The Critical Pre-crash event for V1 was "other motor vehicle in lane, traveling in same direction with lower speed". The Critical Reason for the Critical event was coded as a driver related factor, "following too closely to respond to unexpected actions". An associated factor coded to the driver was an aggressive factor, tailgating. The other associated factor coded to the driver was a driver's decision factor, that he was following too closely, did not realize he was too close to forward vehicle. The other possible associated factors were coded as unknown because no interview was obtained.
+
+V2, the Toyota Tercel, was driven by a 36 year-old male who sustained minor injuries and was transported to a medical facility. The driver stated that he was traveling straight when V1 rear-ended his vehicle.
+
+The Critical Pre-crash event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical event was not coded to the driver. No associated factors were coded to the driver.

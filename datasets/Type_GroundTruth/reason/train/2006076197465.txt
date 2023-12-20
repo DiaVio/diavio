@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the back of Vehicle 2 (V2) while both vehicles were traveling in the same direction. The critical pre-crash event for V1 was coded as "other motor vehicle in lane, traveling in the same direction with lower steady speed," indicating that V1 failed to maintain adequate surveillance and collided with the rear of V2.

@@ -1,0 +1,27 @@
+{
+  "RoadNetwork": {
+    "RoadType": "divided four-lane traffic-way",
+    "LaneType": "inside lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "level",
+    "Weather": "cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "front end",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "straddling road side and southbound parking lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "U-turn",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+This motor vehicle crash took place on a two-lane roadway. This roadway has a set of rail tracks dividing the two lanes. The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph). The north/south roadway was not controlled by any TCD's (traffic control devices).
+
+V1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one. V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right. V1 was unable to stop and ended up striking the left side of V2 with its front end. Both vehicles came to rest. Police Reported Travel Speed is 24 kmph for V1 and 24 kmph for V2.
+
+No interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash.
+
+The Critical Pre-Crash Event for the driver of V1 was when the other vehicle encroached into her lane from a driveway, turning into the same direction. The Critical Reason was not coded to the driver of V1. Due to the lack of an interview, no other information was known about the driver of V1 or her actions.
+
+No interview was obtained from the driver of V2, an 82-year old male. According to the eyewitness, V2 pulled out from the parking lot at about 10- 15 mph.
+
+The Critical Pre-Crash Event for the driver of V2 was when he began to turn right at the intersection. The Critical Reason For the Critical Pre-Crash Event was coded as "Type of driver error unknown," due to the lack of an interview. It may have been a surveillance issue, a misjudgment of the other's speed, or even a false assumption. Since the reason for the actions of V2 could not be ascertained, the Critical Reason had to be coded as an unknown driver error. No other information about the driver of V2 was known.

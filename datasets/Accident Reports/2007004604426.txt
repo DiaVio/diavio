@@ -1,0 +1,11 @@
+The crash occurred in the center of a four-way intersection composed of a three-lane north/southbound roadway, and a three-lane east/westbound roadway. All roadways were bituminous. The north/south roadway had a 1.6% uphill grade and a posted speed limit of 64 kph (40 mph). The east/westbound roadway was level and had a posted speed limit of 56 kph (35mph). The intersection was controlled by traffic lights on each corner. It was morning on a weekday. The roads were wet and it was raining. Traffic flow was moderate.
+
+V1, a 2006 GMC Envoy with one occupant, was traveling west when it entered the intersection without observing the traffic signal and was struck by V2 on the right side. The impact caused V2, a 2004 Buick Le Sabre with one occupant, to depart the roadway and strike a sign. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, driven by a 31-year-old male who reported a complaint of pain but was not transported, stated that he was traveling toward the intersection when the light changed from yellow to red. He then tried to stop by applying his brakes, but was traveling at fast and he slid into the intersection, striking V2.
+
+The Critical Precrash Event for V1 was "This Vehicle Traveling - crossing over (passing through) intersection". The Critical reason for the Critical Event was "Driver Related Factor- traveling too fast for conditions". The driver was traveling too fast on the wet road to stop in time to avoid the collision. The following associated factors were assigned - Roadway related factor "Slick Surface (low friction due to rain), Weather Factor "rain", and an illegal maneuver - failed to stop for TCD.
+
+The Driver of V2, a 66-year-old female, reported a complaint of pain and was transported to the hospital. Driver stated that she was stopped at the intersection and when the light turned green she proceeded through when V2 ran the signal and struck her on the right side. V1 made no avoidance maneuver.
+
+The Critical Precrash Event for V2 was " Other vehicle encroachment from crossing street, across path.". No Critical Reason was coded to this vehicle. The following associated factors were assigned. Roadway related factor "Slick Surface (low friction due to rain) and Weather Factor "rain".

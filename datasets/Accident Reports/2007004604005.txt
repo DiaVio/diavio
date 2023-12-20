@@ -1,0 +1,11 @@
+This crash occurred in the center of a four-way intersection composed of a two-lane northbound roadway, a three-lane north/southbound roadway and a 5-lane east/westbound roadway. All roadways were bituminous and level, the north and southbound roadways had posted speed limits of 56 kmph (35 mph). The east/westbound roadway had a posted speed limit of 80 kmph (50 mph). The intersection was controlled by multiple traffic lights. It was dusk on a weekday. The roads were dry and the sky was clear. Traffic flow was moderate.
+
+V1, a 1992 Chevrolet S-10 Blazer with one occupant, was traveling north when it entered the intersection in an attempt to turn left and was struck by V2 on the right side. The impact caused V1 to impact a traffic signal in the median. V2, a 2004 Porsche Cayenne with three occupants, was traveling south. As V2 passed through the intersection it struck V1 on the right side causing V1 to impact a traffic signal. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, driven by an 18-year-old male who was not injured, stated that he had stopped at the light and when it turned green he followed the car in front of him into the intersection in an attempt to turn left. He saw V2 but believed he could complete the turn before it entered the intersection. V1 made no avoidance maneuvers.
+
+The Critical Precrash Event for V1 was coded this vehicle traveling, turning left at intersection. The Critical Reason for the Critical Event was a driver related factor, misjudgment of gap or other's speed. Driver inexperience was coded as an associated factor as the driver had been licensed for less than one year.
+
+V2 was driven by a 37-year-old female and occupied by both a 9-year-old male and an 11-year-old female. Both the driver and the male occupant reported complaints of pain but were not transported. She stated that she had stopped at the traffic light and when it turned green she attempted to cross over. As she did so, V1 turned in front of her and she struck it on the right side, forcing V1 into a traffic signal. V1 made no avoidance maneuver.
+
+The Critical Precrash Event for V2 was coded other vehicle encroachment, from opposite direction over the left lane line. The Critical Reason was not coded to this vehicle. No associated factors were coded to this vehicle.

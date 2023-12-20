@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-way",
+        "LaneType": "four-lane",
+        "RoadShape": "curves sharply to the right",
+        "RoadSlope": "level",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "asphalt with melting snow on roadside edges",
+        "Weather": "no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "east",
+        "Location after Crash": "against wooden utility pole in lane one facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

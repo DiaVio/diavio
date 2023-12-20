@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) entered the intersection and turned left, and was struck on the left side by the front of Vehicle 2 (V2). This aligns with the description of a "T-bone" collision, where the front of one vehicle collides with the side of another.

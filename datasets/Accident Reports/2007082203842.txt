@@ -1,0 +1,9 @@
+This two vehicle daytime rear-end collision occurred in lane two of a four-lane arterial road heading north. The road has four lanes of travel paved with bituminous asphalt and is straight with an uphill grade of 4%. The speed limit for the road is 56 kmph (35 mph). At the time of the crash the sky was cloudy and there were no adverse conditions.
+
+Vehicle one (V1), a 1992 Mazda 323 coupe driven by a twenty five (25) year old male, was traveling north in lane one. Vehicle two (V2), a 2004 Ford E350 Cargo Van driven by a forty (40) year old male, was traveling north in lane two. V1 was traveling in lane one and began to change lanes as V2 stopped behind a vehicle that was yielding the right of way to turn left onto a side street. Before V1 could establish lane two as its travel lane, it impacted the rear of V2 with its front. V1 came to final rest near the area of impact straddling the number one and number two travel lanes.. V2 was pushed forward to final rest within the original travel lane. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 did not speak English and the researcher was unable to get an interview.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was assigned to V1 as a driver related factor: too fast for unexpected actions of other's. Misjudgment of gap or other's speed was an associative factor.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event is not coded to this vehicle.

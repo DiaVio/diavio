@@ -1,0 +1,27 @@
+This crash occurred in an intersection of two undivided two lane straight roadways.
+
+The posted speed limit for both roadways was 48KMPH (30MPH). There is a flashing warning signal for both roadways. The weather was clear and the roadway was dry.. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+This crash occurred on a weekday afternoon.
+
+Vehicle #1 a 2004 Nissan Sentra was traveling south on the roadway when it approached the intersection. Vehicle #2, a 2003 Honda Odyssey, was traveling southwest and had stopped at a stop sign awaiting passing traffic. Vehicle #2 was waved out from the stop sign position by an uninvolved motorist and proceeded into the intersection.
+
+Vehicle #1 impacted the front of Vehicle#2 with its right front. Both vehicles came to final rest in the intersection.
+
+Vehicle #1 (2004 Nissan Sentra) was driven by a belted 67 year old female who stated she did not have time to take any avoidance actions. She also stated her sight line was impaired by a truck parked on the right side of the roadway just prior to the intersection.
+
+This driver refused medical treatment at the scene.
+
+The Critical Precrash Event coded to this Vehicle was: Other Vehicle Encroachment,
+
+From Crossing Street, turning into opposite direction.
+
+The Critical Reason for the Critical Precrash Event was not coded to this vehicle.
+
+Vehicle #2 (2003 Honda Odyssey) was driven by a belted 40 year old female who stated she had been waiting at the intersection for traffic to pass, for 5 to 10 seconds, when she was waved out into the intersection by an uninvolved motorist. She, also, stated a truck was parked to her left on the other roadway and it was blocking her sight line. This driver refused medical treatment at the scene.
+
+The Critical Precrash Event coded to this Vehicle was: This Vehicle Traveling, Turning Left at Intersection,
+
+The Critical Reason for the Critical Event Precrash Event was coded as: Driver Related Factor, Inadequate Surveillance.
+
+The Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for either driver.

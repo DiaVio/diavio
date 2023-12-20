@@ -1,0 +1,13 @@
+This crash occurred at an intersection of a 4-lane roadway, which is a roadway with a non-positive barrier for Vehicle #1 and an undivided roadway for Vehicle 2. This is a "T" type intersection controlled by a traffic signal. The weather was clear and the roadway was dry. This crash occurred on a weekday late afternoon.
+
+Vehicle #1, a 1998 Volkswagen Jetta, was traveling south on the roadway, in the driving lane, when Vehicle #2, a 1993 Chrysler New Yorker, made a left turn in front of Vehicle #1. Vehicle #1 impacted the right side of Vehicle #2 with its front. Vehicle #1 came to final rest facing in a southwesterly direction. Vehicle #1 came to final rest in a northwesterly direction. Both vehicles were towed from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The Volkswagen Jetta (Vehicle #1) was driven by a belted 18 year old male who was transported to an area hospital, treated and released. There was a belted 21-year-old male passenger who was also transported to an area hospital, treated and released. The driver of Vehicle #1 stated he had seen Vehicle #2 hesitate in making the left turn before proceeding. This driver stated he slammed on his brakes but hit Vehicle #2 anyway. This driver had a green light and was decelerating from a 72KMPH (45MPH) zone to a 48KMPH (30MPH) zone.
+
+The Critical Precrash Event coded to Vehicle #1 was: Other Vehicle Encroachment:From Opposite Direction-Over the Left Lane Line. The Critical Reason for the Critical Precrash Event was not coded to Vehicle #1.
+
+The Chrysler New Yorker (Vehicle #2) was driven by a 72-year-old belted male who was not injured. There was a belted 35-year-old male passenger who was transported to an area hospital, treated and released. The driver of Vehicle #2 stated he thought he could make it (through the intersection). He stated that the driver of Vehicle #1 was speeding.The driver of Vehicle #2 was grumpy and uncooperative refusing to only give a partial interview.
+
+The Critical Precrash Event coded to Vehicle #2 was: This Vehicle Traveling, Turning Left at Intersection. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Misjudgment of Gap or Other's Speed.
+
+The Police did not consider alcohol or illegal drugs to be a factor in this crash and no summonses were issued to either driver.

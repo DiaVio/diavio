@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to cross the path of Vehicle 2 and was struck on the right side by the front of Vehicle 2. Additionally, Vehicle 1 then rotated counterclockwise and struck the left side of Vehicle 3.

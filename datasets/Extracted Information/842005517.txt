@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural two lane roadway",
+        "LaneType": "unmentioned",
+        "RoadShape": "curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right area",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "private yard",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northwest",
+            "Vehicle Action": "attempted avoidance",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "frontal area",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "right side across eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "southwest",
+            "Vehicle Action": "attempted re-entry",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "right rear side surface of Vehicle 1",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "off the south pavement edge",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "southeast",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

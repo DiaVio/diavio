@@ -1,0 +1,1 @@
+This is because V1 was attempting to turn left at the intersection and was struck on the right side by V2, which was traveling straight in the opposite direction. This type of collision is commonly known as a "T-bone" collision.

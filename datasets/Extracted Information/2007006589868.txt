@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "fully controlled, divided highway",
+        "LaneType": "two northbound and two southbound lanes",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "crossed path of travel",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rolled over onto left side on the shoulder area",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "struck by Vehicle1",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "flipped over the guardrail and came to final rest in the grassy area beyond the guardrail facing south on its right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

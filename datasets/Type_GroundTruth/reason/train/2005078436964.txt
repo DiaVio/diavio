@@ -1,0 +1,1 @@
+Vehicle 1 was making a left turn across the path of Vehicle 2, and the impact occurred between the front of Vehicle 2 and the right side of Vehicle 1.

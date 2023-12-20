@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Expressway",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Slight curve to the left",
+        "RoadSlope": "Positive 3% super-elevation",
+        "SpeedLimit": "96 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Final rest against two trees down the embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "96 kmph (60 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right passenger's door",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Final rest against concrete barrier wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "104 kmph (65 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

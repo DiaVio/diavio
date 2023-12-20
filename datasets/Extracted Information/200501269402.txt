@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Curved",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": "113 kmph (70mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Light rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right rear corner",
+        "Moving on which Way": "Counter-clockwise rotation",
+        "Location after Crash": "Center median wall",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Between 51-60 mph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Clockwise rotation",
+        "Location after Crash": "Ditch on the south side of the interstate",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

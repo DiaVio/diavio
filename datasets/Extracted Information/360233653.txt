@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "asphalt",
+    "LaneType": "two way",
+    "RoadShape": "straight",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet roadways with standing water",
+    "Weather": "rainy"
+  },
+  "Vehicle1": {
+    "Impact Side": "left",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "final rest still in contact with the tree, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

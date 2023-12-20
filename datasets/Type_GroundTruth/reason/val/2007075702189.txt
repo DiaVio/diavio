@@ -1,0 +1,1 @@
+The front of Vehicle 1 (V1) struck the back of Vehicle 2 (V2), and then the front of Vehicle 3 (V3) struck the back of V1. The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped," indicating that V1 failed to stop in time and rear-ended V2. The rain and wet roadway were associated factors in this collision.

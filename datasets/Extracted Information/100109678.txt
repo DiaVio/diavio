@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "two-lane",
+        "LaneType": "single lane in each direction",
+        "RoadShape": "left curve",
+        "RoadSlope": "slight, gradual, downgrade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "opposite its original heading",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

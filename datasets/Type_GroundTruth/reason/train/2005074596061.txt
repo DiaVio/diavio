@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) when V2 entered the intersection on a red light and V1 proceeded forward on a green signal without checking for cross traffic.

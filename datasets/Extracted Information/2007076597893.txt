@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Four-legged light controlled intersection",
+    "LaneType": "Curved lanes on the east to west roads and curved roads on the north to south entrances",
+    "RoadShape": "Unmentioned",
+    "RoadSlope": "Uphill grade for the east direction, hill crest of +2 percent for both directions",
+    "SpeedLimit": {
+      "EastToWest": "72 kmph (45 mph)",
+      "NorthToSouth": "56 kmph (35 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Dry asphalt",
+    "Weather": "Unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Eastbound in the #2 lane",
+    "Location after Crash": "Rested in the westbound #1 lane heading in a northerly direction",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "South in lane #2",
+    "Location after Crash": "Pulled off the roadway to the right shoulder of the northbound travel lanes",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "64 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

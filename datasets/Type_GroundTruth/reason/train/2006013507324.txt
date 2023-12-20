@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the right rear of Vehicle 1 (V1) as V2 was traveling south and V1 was traveling west. The collision occurred at the intersection, with V2 crossing the path of V1.

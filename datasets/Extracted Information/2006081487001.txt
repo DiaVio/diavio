@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-way, two-lane undivided",
+        "RoadShape": "straight approaching a sharp left 90-degree turn",
+        "RoadSlope": "10% downhill grade",
+        "SpeedLimit": "40 Kmph (25mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "on its roof",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "departed the roadway via the right shoulder, went airborne and impacted the front into the ground, and the vehicle flipped end over end",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

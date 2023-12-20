@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "four lane north/south roadway, two-lane east/west roadway",
+    "RoadShape": "T-type",
+    "RoadSlope": "positively graded left turning curve on southbound travel direction, straight with a slight uphill grade on east/west roadway",
+    "SpeedLimit": "50 mph (80 km/h)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front right corner",
+    "Moving on which Way": "south",
+    "Location after Crash": "departed east edge of the roadway some distance south of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unsuccessful",
+      "Attempted Lane Crossing": "yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left front corner",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "rotated clockwise and came to rest in the intersection, facing a southwesterly direction",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

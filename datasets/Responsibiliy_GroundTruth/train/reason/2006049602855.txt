@@ -1,0 +1,1 @@
+The critical reason for the crash was coded as a driver decision error: illegal maneuver, specifically running a red light. V1's driver failed to stop at the red light, resulting in the collision with V2. Additionally, V1 fled the scene, further indicating their responsibility for the accident.

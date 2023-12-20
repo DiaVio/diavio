@@ -1,0 +1,3 @@
+
+
+Justification: The front of Vehicle 1 (V1) struck the left side of Vehicle 2 (V2), causing a collision between the front of V2 and the side of Vehicle 3 (V3). This is a classic "T-bone" collision, where the front of one vehicle collides with the side of another.

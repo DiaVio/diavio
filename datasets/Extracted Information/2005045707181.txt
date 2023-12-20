@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "secondary arterial road",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "straight and level",
+        "RoadSlope": "negative 5% grade (if northbound)",
+        "SpeedLimit": "64KPH (40MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "dark and unlit",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "north",
+        "Location after Crash": "rear end in the creek bed, partially up the creek's north bank",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

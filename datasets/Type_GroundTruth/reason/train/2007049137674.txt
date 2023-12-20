@@ -1,0 +1,1 @@
+This is because vehicle one (V1) entered the intersection and turned left, causing the front of V1 to strike the right side of vehicle two (V2).

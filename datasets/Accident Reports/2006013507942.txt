@@ -1,0 +1,7 @@
+This crash occurred early in the morning in the interchange area of two expressways. The conditions at the time were clear, sunny, and dry. The vehicle was on an interchange ramp changing from an eastbound direction to a northbound roadway. There were no weather or environmental conditions that lead to the crash.
+
+The vehicle a 1994 Ford Tempo, driven by a 33 year-old female was on the eastbound expressway and took an exit ramp. The ramp had a slight curve and then straightened out before it curved again slightly to merge with another expressway. The vehicle lost control exiting the first curve causing the vehicle to exit the right side of the roadway, were it rolled 4 quarter turns contacted a tree and finally came to rest on its wheels. Police Reported Travel Speed is No PAR obtained (created) for V1.
+
+The driver was in the middle of a one-and-a-half-hour trip and was not familiar with the roadway. The driver's friend who was trailing the vehicle in another vehicle stated that the driver was driving her (witness) vehicle, and she didn't think she was very comfortable driving it. The witness stated that the driver began to loose control after the exit and looked like she was trying to gain control of the vehicle as the vehicle exited the roadway.
+
+The Critical Precrash Event was this vehicle loosing control and exiting the roadway. The Critical Reason for the Critical Precrash Event is coded that the vehicle was traveling too fast for the curve in the roadway.

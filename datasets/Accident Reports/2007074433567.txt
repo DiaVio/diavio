@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west roadway is undivided and straight and consists of two lanes in each direction with a left turn lane at the intersection. Both approaches have a five percent uphill grade. The speed limit for this roadway is 64 kmph (40 mph). It was dark with streetlights on at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1998 Nissan Frontier, was eastbound in lane three. Vehicle two (V2), a 2007 Honda CBR600 motorcycle, was westbound in lane one. In the intersection, V1 turned left and the front struck the left side of V2. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-one-year-old male, was on his way home from a friend's house. He was healthy, well rested and familiar with his vehicle. He travels this route weekly. This driver stated that he was focused on his turn destination and did not see V2 prior to the crash.
+
+The driver of V2, a twenty-four-year-old male, was riding with a twenty-one-year-old female passenger. They had left home and were on their way to a gas station before going for a ride. This driver was well rested, healthy and comfortable with his passenger. He travels this route daily. He had three years of motorcycle riding experience but had not received any formal training. This driver stated that he saw V1 but assumed that it would stop or slow down. When he realized that V1 was not slowing, he applied the brakes and steered to the left in an attempt to avoid the crash.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's assumption that V1 would yield the right-of-way was an associated factor in this crash.

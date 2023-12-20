@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two-way",
+    "LaneType": "two-lane",
+    "RoadShape": "left curve",
+    "RoadSlope": "uphill",
+    "SpeedLimit": "89 kph (55 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "misty"
+  },
+  "Vehicle1": {
+    "Impact Side": "left front",
+    "Moving on which Way": "right lane of eastbound travel lanes",
+    "Location after Crash": "on its top after rolling two quarter turns and landing with its roof on a log",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "change lanes",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right side",
+    "Moving on which Way": "left lane of east travel lanes",
+    "Location after Crash": "controlled stop in the median",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

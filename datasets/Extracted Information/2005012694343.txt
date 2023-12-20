@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Level",
+    "RoadSlope": "Negative slope on exit ramp, positive slope on intersecting roadway",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Daylight with clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Against northeast curb of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Straight",
+      "Vehicle Action": "Changed lanes from four to three",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Exiting the interstate",
+    "Location after Crash": "400 feet ahead, against east curb of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Straight",
+      "Vehicle Action": "Fully loaded with gravel",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

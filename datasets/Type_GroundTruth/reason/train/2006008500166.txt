@@ -1,0 +1,1 @@
+This is because V1 changed lanes and made contact with the left rear of V2, causing V2 to spin 180 degrees and come to a rest facing in a northwest direction. This collision involved the front of V1 colliding with the side of V2, which aligns with the definition of a front-to-side collision.

@@ -1,0 +1,1 @@
+The reason for this is that V1 failed to adequately surveil the intersection before making a left turn, which is coded as a driver-related factor: inadequate surveillance.

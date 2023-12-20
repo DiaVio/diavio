@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to make a left turn across the three eastbound lanes, and Vehicle 2, traveling east in the number one right turn lane, struck the right side of Vehicle 1.

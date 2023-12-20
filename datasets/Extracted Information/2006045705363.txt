@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential intersection",
+        "LaneType": "two-lane divided roadway (north/south) and two-lane undivided roadway (east/west)",
+        "RoadShape": "straight and level",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "64kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "stopped facing north at the stop sign",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes (driving on an expired license)",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front right corner",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "against a tree on the northeast corner of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

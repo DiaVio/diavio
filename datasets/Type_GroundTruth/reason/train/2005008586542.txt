@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Ford Windstar) collided with the front right side of Vehicle 2 (GMC Yukon) as Vehicle 2 was turning left across the path of Vehicle 1.

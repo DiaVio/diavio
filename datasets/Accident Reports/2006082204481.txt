@@ -1,0 +1,15 @@
+This three-vehicle crash occurred in lane one of a five-lane interstate highway. The road has four lanes of regular travel, with the fifth lane being an HOV lane. The lanes are paved with concrete and are straight and level in the area of the crash. The crash occurred just north of where a long on-ramp merges into the first lane. The speed limit for the road is 97 kmph (60 mph). This crash occurred during daylight hours during the morning rush hour. There were no adverse atmospheric conditions, traffic was congested.
+
+Vehicle one (V1), a 2001 Pontiac Firebird, was southbound in the first lane. Vehicle two (V2), a 2000 Ford Ranger pickup, was stopped southbound in the first lane ahead of V1. Vehicle three (V3), a 1998 Toyota Sienna van, was stopped southbound in the first lane ahead of V2. The front of V1 impacted the rear of V2. The front of V2 then impacted the rear of V3. All three vehicles came to rest near the point of impact. All three vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-seven year old female, was heading to work at the time of the crash. This driver had been driving for almost forty-five minutes at the time of the crash. This driver stated that she has some work pressure to perform well. This driver said she was not in a hurry. She stated that she does not remember much before the crash or if she had any interior or exterior distractions. This driver drives this vehicle daily and over this road on a daily basis.
+
+The driver of V2, a sixteen-year-old female, was not interviewed. There is no known pre-crash information for this driver.
+
+The driver of V3, a forty-seven year old female, was heading to her daughters school to do some volunteer work. It is unknown how long this driver had been driving on this trip. This driver drives this vehicle daily and over this road on a daily basis.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: unknown recognition error. Associative factors were: inattention, inadequate surveillance and a misjudgment of the speed of the forward vehicle.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.
+
+V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.

@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Urban",
+        "LaneType": "Four lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Uphill (more than 2%)",
+        "SpeedLimit": "56 KPH (35 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Slick roads due to leaked radiator fluids",
+        "Weather": "Dry and clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Off the roadway on the right side guardrail",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

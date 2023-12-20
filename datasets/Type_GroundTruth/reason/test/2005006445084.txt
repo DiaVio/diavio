@@ -1,0 +1,1 @@
+This is because V1's front contacted V2's right side when V1 entered the intersection on a solid red light, while V2 entered the intersection with the green light. This collision occurred when the front of one vehicle (V1) collided with the side of another vehicle (V2), which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

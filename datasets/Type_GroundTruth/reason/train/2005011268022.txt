@@ -1,0 +1,3 @@
+Front-to-Side Collision (T-bone collision)
+
+Justification: The front of V1 collided with the left side of V2, which is a classic example of a front-to-side collision or a T-bone collision.

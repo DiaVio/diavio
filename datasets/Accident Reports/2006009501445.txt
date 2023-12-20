@@ -1,0 +1,7 @@
+This crash occured at the intersection of two roadways in the evening hours of a weekday. Both roadsways were two way and undivided, and both had posted speed limits of 56kmph (35mph).
+
+V1 was traveling east in lane one approaching a signal-controlled intersection. V2 was traveling south in lane one approaching the same intersection. V1 initiated a right turn and V2's front left plane came into contact with the left plane of V1. V1 deflected from the impact, and continued south, departing the roadway to the right before striking a pole and coming to rest. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, a 1995 Toyota Corolla, was driven by a 48 year-old male who refused to be interviewed. The critical pre crash event for this vehicle was coded: Turning right at intersection. The critical reason was coded unknown.
+
+V2, a 2005 Chrysler PT Cruiser, was driven by a 25 year-old male who stated that he saw the other driver and assumed that he would yeild the right of way. He applied his brakes , but was unable to avoid the collision. The critical pre crash event for this vehicle was coded: Other vehicle encroachment, and a critical reason was not coded to this vehicle.

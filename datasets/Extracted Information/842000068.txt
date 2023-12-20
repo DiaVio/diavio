@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "multi-lane divided highway",
+    "LaneType": "inboard lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "inboard lane facing northeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "across the delineation line facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

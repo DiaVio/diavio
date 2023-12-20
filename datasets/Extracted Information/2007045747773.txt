@@ -1,0 +1,58 @@
+{
+   "RoadNetWork":{
+      "RoadType":"crossover four-way intersection",
+      "LaneType":"divided",
+      "RoadShape":"curved",
+      "RoadSlope":"level",
+      "SpeedLimit":{
+         "north/southbound":89,
+         "east/westbound":48
+      }
+   },
+   "Environment":{
+      "RoadCondition":"dry",
+      "Weather":"clear skies"
+   },
+   "Vehicle1":{
+      "Impact Side":"right side",
+      "Moving on which Way":"westbound",
+      "Location after Crash":"rested on left side facing northwest about 9m southwest of the first impact",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"west",
+         "Vehicle Action":"crossing",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"yes",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"front",
+      "Moving on which Way":"southbound",
+      "Location after Crash":"rested facing west just west of the impact point",
+      "Objectivebehavior":{
+         "Whether to Brake":"braked without lockup prior to impact",
+         "Direction":"south",
+         "Vehicle Action":"straight",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"no",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   },
+   "Vehicle3":{
+      "Impact Side":"front left corner",
+      "Moving on which Way":"stopped in lane one",
+      "Location after Crash":"left the scene",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"east",
+         "Vehicle Action":"stopped",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"no",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   }
+}

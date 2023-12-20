@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the right side of Vehicle 2 (V2) as V2 was making a left turn at the intersection. The impact occurred between the front of V1 and the right side of V2.

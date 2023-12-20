@@ -1,0 +1,1 @@
+Vehicle 1 (V1) struck the back of Vehicle 2 (V2) after V2 merged into lane one. This type of collision involves one vehicle hitting the back of another, which is consistent with the scenario described.

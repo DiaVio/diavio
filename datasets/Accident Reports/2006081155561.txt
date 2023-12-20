@@ -1,0 +1,7 @@
+A two-vehicle crash occurred a few hours before mid-night during dark hours. The collision occurred in the northwest area of a busy intersection. Traffic controlled by tri-color traffic signal. The north-south section of the roadway is a 7 lane, two-way roadway divided by a center raised curb median. The east-west section of the intersection is a three lane, two-way roadway with bituminous paving straight and level. The posted speed limit for the roadway is 56 kmph (35 mph).
+
+Vehicle one (V1), a 1991 Buick Regal sedan driven by a male with one passenger, was traveling west in lane one. Vehicle two (V2), a 1979 Ford Pickup driven by a 24 year-old male, was turning from east to head north. V1 had a green light and went straight through the intersection when V2 turned left in front of V1. The front of V1 impacted the right front of V2. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The critical pre-crash event for V1 was coded: other motor encroachment; from opposite direction - over left lane line. The critical reason for the critical event was not coded to this vehicle.
+
+The critical pre-crash event for V2 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was attributed to V2 as a driver related factor: inadequate surveillance. This driver was to yield to oncoming traffic.

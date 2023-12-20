@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 failed to look both ways before entering the roadway, resulting in a recognition error and inadequate surveillance. This failure to properly assess the oncoming traffic led to the collision with V2 (the 1992 Chevy Cavalier) that was traveling on the main roadway.

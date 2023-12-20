@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate highway",
+        "LaneType": "divided",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "downgrade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "middle of the median",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

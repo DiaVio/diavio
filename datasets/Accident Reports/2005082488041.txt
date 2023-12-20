@@ -1,0 +1,9 @@
+This two vehicle daytime crash occurred shortly past noon. The collision occurred on east and westbound travel lanes. The roadway consists of one lane each way with a 19% grade at point of impact. The pre-crash roadway for eastbound traffic is a 3 % negative grade at the uncontrolled intersection immediately prior to impact and just prior to the intersection is a 23% negative grade. The pre-crash roadway for westbound traffic has a 19% positive grade. Travel lanes were wet and free of congestion. Due to the grade fluctuation of the roadway, sight distance is restricted. Both roadways have a posted speed limit of 48 kph (30 mph).
+
+Vehicle one (V1), a 1997 Toyota Corolla, driven by a 24 year-old male was traveling eastbound. Vehicle two (V2), a 2002 GMC Yukon suv driven by a 34 year-old male with one passenger was traveling westbound. As V1 negotiated the steep grade it lost control and went into in a counterclockwise yaw. V1 crossed over the centerline into the westbound lane. The right side of V1 struck the front of V2. The vehicles then rotated and side slapped with the right rear corner of V1 impacting the left side of V2. V1 came to rest in the middle of the roadway facing southwest. V2 came to rest up on the north curb facing northwest. Both V1 and V2 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The pre-event movement for V1 coded going straight, category this vehicle control loss due to traveling too fast for conditions. Critical reason driver related factor "Too fast for conditions" (rain/wet roadway).
+
+The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle .
+
+Associative factors, V1 tire deficiency thread worn. V2 sight-line in sufficient.

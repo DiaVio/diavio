@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided four-lane asphalt roadway",
+        "LaneType": "first lane",
+        "RoadShape": "curves left with a radius of 391 meters",
+        "RoadSlope": "level",
+        "SpeedLimit": "60 kph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "darkness with streetlights present"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front end",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "across a ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

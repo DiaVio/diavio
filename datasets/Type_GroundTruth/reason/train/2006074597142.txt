@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) as V2 turned right at the intersection and departed its lane.

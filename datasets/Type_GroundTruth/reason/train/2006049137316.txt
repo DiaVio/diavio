@@ -1,0 +1,1 @@
+This is because vehicle one (V1) attempted a right turn from the third lane and collided with the left side of vehicle two (V2) at the intersection.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four-lane rural road",
+        "LaneType": "inboard travel lane",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "center median, facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left area",
+        "Moving on which Way": "attempting to turn right (south)",
+        "Location after Crash": "close proximity to the initial point of impact in the southbound (outboard) travel lane, facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

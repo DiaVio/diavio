@@ -1,0 +1,1 @@
+The driver of V1 made a false assumption of V2's actions, assuming that V2 would stop when the light turned yellow. This false assumption led to V1 making a left turn across the path of V2, resulting in the collision.

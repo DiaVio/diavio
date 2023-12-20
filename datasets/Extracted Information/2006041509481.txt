@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two-way",
+    "LaneType": "divided",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "56 kmph"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rear of V2",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "straight",
+      "Vehicle Action": "failed to stop in time",
+      "Travel Speed": "56 kmph",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rear of V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "straight",
+      "Vehicle Action": "stopped for backed up traffic",
+      "Travel Speed": "56 kmph",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "rear",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

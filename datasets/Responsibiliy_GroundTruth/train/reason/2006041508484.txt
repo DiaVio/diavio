@@ -1,0 +1,1 @@
+The driver of V1 failed to stop at a red traffic light, making an illegal maneuver by turning left at the intersection. This decision error, along with inadequate surveillance as the driver failed to look to the side before entering the intersection, led to the collision with V2.

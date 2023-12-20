@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "Unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rainy"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left rear",
+        "Moving on which Way": "North",
+        "Location after Crash": "Southeast direction in the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left rear",
+        "Moving on which Way": "East",
+        "Location after Crash": "Drove up into a parking lot",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "East",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Left front",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Stayed at the point of impact in the left turn lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "West",
+            "Vehicle Action": "Waiting to turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+This two-vehicle daytime collision occurred at the on-colors controlled intersection of two city streets. The east-west road is the dominant roadway with four lanes of two-way travel to the east of the intersection and two lanes of two-way travel to the west of the intersection. The north south roadway is two lanes of two-way travel but is only marked with a dividing line at the intersection. There is an uphill grade of +3% approaching the intersection from the south, continuing at +2% north of the intersection. The road is paved with bituminous asphalt and was dry at the time of the crash. The speed limit for both roads is 40 kmph (25 mph).
+
+Vehicle one (V1), a 1993 Volvo 940 station wagon driven by a seventy eight (78) year old male, was heading south preparing to turn left at the intersection. Vehicle two (V2), a 2000 Toyota Celica coupe driven by a fifty five (55) year old male was headed north in lane one. V1 turned left into the left front corner of V2, deflecting V2 to the northeast corner of the intersection. Both vehicles were towed due to disabling damage, but neither driver was transported due to injured. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 was unable to be contacted for a complete interview, but a short description of the crash was obtained at the scene.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event is coded to V1 as a driver related factor: inadequate surveillance(e.g., failed to look, looked but did not see). The driver stated that he did not see V2 prior to the crash,
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the critical event is not coded to this vehicle. The driver of V2 made a false assumption, and assumed the driver of V1 would yield the right of way.

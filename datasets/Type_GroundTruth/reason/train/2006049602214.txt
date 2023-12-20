@@ -1,0 +1,1 @@
+This is because Vehicle 2, traveling east, impacted the right side of Vehicle 1, which was attempting a left turn at the intersection.

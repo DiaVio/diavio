@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Expressway",
+    "LaneType": "Divided",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Concrete, no visible deficiencies",
+    "Weather": "Clear and dry"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Resting in lane five facing north on its right side",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Final rest slightly ahead of V1 and pointing in a northwest direction",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

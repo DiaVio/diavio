@@ -1,0 +1,1 @@
+The driver of V1 attempted to change lanes without properly checking for other vehicles, specifically V2 (the Ford Taurus) in the adjacent lane. This indicates inadequate surveillance on the part of the driver of V1. As a result, the left side of V1 made contact with the right side of V2, causing the accident.

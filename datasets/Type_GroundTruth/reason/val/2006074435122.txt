@@ -1,0 +1,1 @@
+This is because the front of vehicle 2 (V2) impacted the side of vehicle 1 (V1), resulting in rotation and further impact between the left side of V1 and the right side of V2.

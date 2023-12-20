@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Divided",
+        "RoadShape": "Slight curvature to the right",
+        "RoadSlope": "Minimal positive grade",
+        "SpeedLimit": "97 kmph (60 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Raining"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Lane three-exit lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}
