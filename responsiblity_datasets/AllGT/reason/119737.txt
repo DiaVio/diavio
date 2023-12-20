@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 was attempting to pass a non-contact vehicle (NCV) on the left by entering the southbound lane, which is a violation of traffic rules. This action resulted in a head-on collision with Vehicle one (V1), the 2004 Pontiac Grand Prix, which was traveling in the correct lane.

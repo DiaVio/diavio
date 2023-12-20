@@ -1,1 +1,0 @@
-This is because Vehicle one (V1) was traveling south and intended to make a left turn, while Vehicle two (V2) was traveling north and intended to continue straight. The front of V1 contacted the left side of V2, indicating a collision between the front of one vehicle and the side of another.

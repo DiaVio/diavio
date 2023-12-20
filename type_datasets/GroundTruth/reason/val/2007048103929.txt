@@ -1,1 +1,0 @@
-Non-Motorized Vehicle or Pedestrian Crash - This accident involves two motorized vehicles (V1 and V2) colliding in an intersection. Since both vehicles are pickups, they are considered motorized entities.

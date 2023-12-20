@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 entered the intersection and crossed the path of Vehicle 1, resulting in the impact between the two vehicles.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 failed to avoid Vehicle 2, which was stopped in the travel lane. Despite attempting to move to the right, Vehicle 1 still collided with the rear plane of Vehicle 2. This indicates that the driver of Vehicle 1 did not exercise proper caution and failed to take appropriate action to avoid the collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was making a left turn and its right plane was impacted by the front plane of Vehicle 2 (V2), which was traveling north in the number two lane.

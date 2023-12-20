@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that it lost control while negotiating the curve to the right, causing it to cross the center lane lines into the northbound lane. This loss of control and crossing into the opposite lane initiated the collision with Vehicle 2 (V2), the Ford F350 truck pulling a trailer.

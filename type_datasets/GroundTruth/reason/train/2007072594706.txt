@@ -1,1 +1,0 @@
-Vehicle one (V1) struck the right side of vehicle two (V2) as V1 traveled across the lanes. The front of V1 collided with the side of V2, resulting in a front-to-side collision.

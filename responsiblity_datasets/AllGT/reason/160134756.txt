@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to make a left turn at the intersection while facing a red light. It is the responsibility of the driver to wait for a green light before making a left turn. By attempting to turn on a red light, V1 violated traffic laws and failed to yield the right of way to oncoming traffic, resulting in the collision with Vehicle two (V2).

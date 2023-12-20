@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 was attempting to make a left turn across the southbound lane of traffic, which would require yielding to oncoming traffic. However, Vehicle 1 failed to yield to Vehicle 2 (the 1998 Jeep Wrangler) traveling southbound and turned in front of it, resulting in the collision.

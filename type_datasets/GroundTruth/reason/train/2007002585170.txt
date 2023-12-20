@@ -1,1 +1,0 @@
-This is because the crash involved only one vehicle (V1, a 1991 BMW 318iS) and no other entities. The vehicle went off the right side of the roadway, rotated, and struck two trees before coming to rest.

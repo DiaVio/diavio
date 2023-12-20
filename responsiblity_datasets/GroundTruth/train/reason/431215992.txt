@@ -1,1 +1,0 @@
-The reason for this is that V2 entered the intersection from a stopped position and attempted to execute a left turn, crossing the path of V1 (the 2003 four-door Mitsubishi Lancer) which was traveling straight through the intersection. V2 failed to yield the right of way to V1, resulting in the collision.

@@ -1,1 +1,0 @@
-The driver of vehicle one crossed over the intersection and struck the left side of vehicle two, which was turning left. This aligns with the definition of a front-to-side collision, where the front of one vehicle collides with the side of another ("T-bone" collision).

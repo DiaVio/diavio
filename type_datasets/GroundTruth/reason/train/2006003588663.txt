@@ -1,1 +1,0 @@
-This is because Vehicle # 1 (Lincoln Town Car) collided with the left side of Vehicle # 2 (Jeep Grand Cherokee) as it was attempting to make a left turn at the intersection.

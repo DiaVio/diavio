@@ -1,7 +1,0 @@
-The crash occurred on a one-way roadway with one lane of travel. It was daylight and the roadway was straight and level. The roadway was asphalt and it was clear with no adverse conditions.
-
-Vehicle # 1 was a 1997 Chrysler Sebring Convertible that was traveling eastbound on the roadway when it veered to the right side on the sidewalk and impacted a wooden utility pole. Vehicle # 1 then rebounded backwards to its final rest. Police Reported Travel Speed is Not reported for V1.
-
-The Chrysler Sebring (Vehicle # 1) was driven by an unknown person who removed their license plates and left the scene on foot. It was unclear if Vehicle # 1 had any other occupants.
-
-The Critical Pre-crash event for Vehicle # 1 was coded as: This vehicle traveling, over the right side of travel lane. This was coded because no skid-marks were evident on the roadway. The Critical Reason for the Critical event was coded as unknown and the associated factors were also coded unknown.

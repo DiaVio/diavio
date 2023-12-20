@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 observed a deer crossing the road and steered left in an attempt to avoid it. As a result, Vehicle 1 departed the left pavement edge, traversed a roadside embankment, and ultimately collided with a large diameter tree. This indicates that the driver's actions, specifically steering left to avoid the deer, led to the accident.

@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 failed to negotiate the T-type intersection and continued straight, departing the roadway and colliding with the embankment. This indicates a failure on the part of the driver to properly control the vehicle and navigate the intersection, resulting in the collision.

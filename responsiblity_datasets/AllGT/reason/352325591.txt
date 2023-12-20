@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 was making a left turn at the intersection, which means it had the duty to yield to oncoming traffic. Vehicle 2 (the 2003 Ford E-350 cutaway van) was traveling straight in the right northbound through lane and had the right of way. Therefore, Vehicle 1 failed to yield to Vehicle 2, resulting in the collision.

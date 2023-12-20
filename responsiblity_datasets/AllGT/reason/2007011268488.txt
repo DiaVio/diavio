@@ -1,1 +1,0 @@
-The driver of V1 made a driver-related decision error by driving too fast for the icy road conditions. This decision led to a loss of control of the vehicle, resulting in the crash.

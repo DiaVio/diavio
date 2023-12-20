@@ -1,1 +1,0 @@
-The driver of Vehicle 1 allowed the vehicle to depart the right pavement edge and subsequently re-directed it back across the travel lanes, crossing the path of Vehicle 2. This indicates a failure to maintain control of the vehicle and a failure to yield the right of way to Vehicle 2.

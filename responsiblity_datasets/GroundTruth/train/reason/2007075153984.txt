@@ -1,1 +1,0 @@
-The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." This indicates that V2 failed to yield the right of way to V1, who was already in the intersection. V2's left turn across the path of V1 resulted in the collision.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle #1 fell asleep while driving, crossed over into the northbound lane, and collided with Vehicle #2 (the parked 1994 Plymouth Colt Vista). This indicates that the driver of Vehicle #1 was not in control of their vehicle and failed to maintain their lane, resulting in the collision.

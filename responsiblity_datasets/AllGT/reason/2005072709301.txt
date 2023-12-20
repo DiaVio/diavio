@@ -1,1 +1,0 @@
-The reason for this is that V1 changed lanes from the second lane to the first lane without properly checking for other vehicles, resulting in a collision with the rear of V2 (the 2005 Ford Mustang). This action by V1 indicates a failure to exercise caution and maintain proper control of their vehicle while merging into the first lane.

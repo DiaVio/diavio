@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) was traveling westbound and entered the intersection on a red light. Vehicle two (V2) was traveling northbound and struck the left side of V1. This scenario describes a collision where the front of one vehicle (V2) collides with the side of another vehicle (V1), which is characteristic of a Front-to-Side Collision.

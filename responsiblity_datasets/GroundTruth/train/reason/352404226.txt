@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 attempted to pass Vehicle 2 by steering left, but for unknown reasons, the frontal plane of Vehicle 1 struck the back plane of Vehicle 2. This indicates that the driver of Vehicle 1 failed to properly assess the situation and misjudged the distance or speed of Vehicle 2, resulting in the collision.

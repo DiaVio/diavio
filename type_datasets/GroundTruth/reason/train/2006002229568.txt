@@ -1,1 +1,0 @@
-This is because V1, while negotiating the curve, failed to stay in its lane, crossed the left lane line, and struck V2. The front of V1 collided with the side of V2, resulting in a "T-bone" collision.

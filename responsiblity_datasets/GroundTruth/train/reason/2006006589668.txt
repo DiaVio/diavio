@@ -1,1 +1,0 @@
-The driver of vehicle two failed to recognize the red traffic light at the second intersection and proceeded through the intersection, resulting in a collision with vehicle one. This recognition error and inadequate surveillance on the part of the driver of vehicle two led to the accident.

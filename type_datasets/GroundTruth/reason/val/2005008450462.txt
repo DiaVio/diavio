@@ -1,1 +1,0 @@
-Single-Vehicle Accident. This is because the accident involved only one vehicle, with no other entities involved. The driver of Vehicle 1 lost control and collided with a tree off the right side of the road.

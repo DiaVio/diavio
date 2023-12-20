@@ -1,1 +1,0 @@
-This is because the front of vehicle V1 collided with the left side of vehicle V2 at the intersection, resulting in V2 spinning counter-clockwise and the right side of V2 contacting a light pole.

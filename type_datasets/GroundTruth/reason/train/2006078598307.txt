@@ -1,1 +1,0 @@
-Vehicle one (V-1) collided with the right side of vehicle two (V-2) near the right rear wheel. This type of collision occurs when the front of one vehicle collides with the side of another, which is exactly what happened in this case.

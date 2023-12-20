@@ -1,1 +1,0 @@
-It involves only one vehicle (Vehicle one - V1) and no other entities. The accident description states that V1 traveled off the left side of the road, returned to the roadway, and then traveled off the right side of the road, ultimately colliding with a concrete embankment and rolling over.

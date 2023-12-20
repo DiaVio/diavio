@@ -1,3 +1,0 @@
-
-
-Justification: The front of Vehicle 1 (V1) struck the front of Vehicle 2 (V2) in the eastbound lane, causing V2 to be pushed towards the westbound lane. Additionally, Vehicle 3 (V3) also collided with the back right of V2 and then with the left front and passenger area of V1. This indicates that the front of one vehicle (V1) collided with the side of another vehicle (V2), which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-This is because the front of V1 collided with the side of V2, resulting in V2 rolling and skidding. Additionally, V2 also collided with the left side of V3.

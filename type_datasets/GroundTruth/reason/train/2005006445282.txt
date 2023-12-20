@@ -1,1 +1,0 @@
-The driver of V1 did not see V2 stopped in the travel lane and contacted the rear of V2 with its front end. This aligns with the definition of a Rear-End Collision where one vehicle hits the back of another.

@@ -1,4 +1,0 @@
-Backover Collision - Vehicle reverses into an object, person, or another vehicle.
-
-Justification:
-The accident involves Vehicle 1 (V1) backing up from a parking lot onto the roadway, and Vehicle 2 (V2) colliding with the right side of V1's front. This scenario fits the description of a backover collision where one vehicle reverses into another vehicle (V2).

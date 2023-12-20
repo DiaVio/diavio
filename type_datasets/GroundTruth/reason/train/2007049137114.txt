@@ -1,1 +1,0 @@
-Vehicle one (V1) changed lanes to the right and the front of Vehicle two (V2) struck the right side of V1. This collision occurred between the front of one vehicle (V2) and the side of another vehicle (V1), which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-Vehicle one (V1) changed lanes and struck the back of vehicle two (V2), causing V2 to rotate and collide with the median barrier. This indicates that V1 hit the back of V2, which aligns with the definition of a Rear-End Collision.

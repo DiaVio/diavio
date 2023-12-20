@@ -1,5 +1,0 @@
-Its right front struck the left front of V2, causing a collision between the front of one vehicle (V1) and the side of another vehicle (V2).
-- After the initial impact, V2 flipped over longitudinally to its left side and continued skidding westward, with its top (engine hood) striking the right rear of V1. This indicates a collision between the front of V2 and the side of V1.
-- Additionally, V1's front left also struck the rear right of V3, further confirming a collision between the front of V1 and the side of V3.
-
-Therefore, based on these observations, the accident can be classified as a Front-to-Side Collision (Type 5).

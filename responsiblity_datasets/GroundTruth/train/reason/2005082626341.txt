@@ -1,1 +1,0 @@
-The reason for this is that V2 made a false assumption about V1's actions, assuming that V1 would yield the right of way and not attempt to pass on the right side. Additionally, V2 attempted to turn right from the wrong travel lane, which further contributed to the collision.

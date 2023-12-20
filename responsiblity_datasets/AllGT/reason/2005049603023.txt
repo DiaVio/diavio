@@ -1,1 +1,0 @@
-The driver of V1 made a driver decision error by failing to adequately surveil the intersection before making a left turn. This error resulted in V1 colliding with V2 (the Toyota Camry) that was traveling straight in the opposite direction.

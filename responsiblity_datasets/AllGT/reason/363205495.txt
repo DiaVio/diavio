@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to execute a left turn directly in front of Vehicle 2 (V2), the 1999 Mercedes Benz C230, resulting in a right side impact. V1 failed to yield the right of way to V2, causing the collision.

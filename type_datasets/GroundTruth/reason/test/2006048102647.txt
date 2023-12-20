@@ -1,2 +1,0 @@
-
-The critical pre-crash event for vehicle one states that another vehicle (vehicle two) was stopped in the same lane, and vehicle one impacted the rear of vehicle two. This aligns with the definition of a Rear-End Collision, where one vehicle hits the back of another.

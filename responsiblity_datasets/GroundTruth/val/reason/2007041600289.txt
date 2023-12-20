@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver failed to yield the right of way when making a left turn. Despite having a green light, V1 should have recognized that the oncoming traffic had the right of way and should have waited for a safe opportunity to turn left. The driver's false assumption that the oncoming traffic would stop or yield led to the collision.

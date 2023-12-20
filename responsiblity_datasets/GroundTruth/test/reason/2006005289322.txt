@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn across the oncoming traffic, which requires yielding to the vehicles traveling straight. V2 (Vehicle two) was traveling straight in its lane and was encroached upon by V1, resulting in the collision. V1 failed to yield the right of way to V2, causing the accident.

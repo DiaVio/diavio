@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was traveling eastbound and turned left in the intersection, causing the front of V1 to strike the front of Vehicle 2 (V2) which was traveling westbound. This collision between the front of one vehicle and the side of another is commonly referred to as a "T-bone" collision.

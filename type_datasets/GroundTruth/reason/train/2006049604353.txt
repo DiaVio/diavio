@@ -1,1 +1,0 @@
-Rear-End Collision - Vehicle one (V1) was traveling at a higher rate of speed and its front impacted the back of vehicle two (V2).

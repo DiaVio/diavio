@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to turn left (eastbound) at the intersection and was struck on the left side by the front of Vehicle 2, which was traveling straight.

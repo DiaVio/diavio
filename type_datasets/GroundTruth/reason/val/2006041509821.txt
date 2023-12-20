@@ -1,1 +1,0 @@
-This is because the front of vehicle 2 (V2) collided with the left side of vehicle 1 (V1) as V1 attempted to cross the roadway diagonally into the opposite parking lot entrance. This impact was followed by a sideslap impact between the left side of V1 and the right side of V2.

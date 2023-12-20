@@ -1,1 +1,0 @@
-The driver of V1 failed to see the traffic control device (traffic signal) and did not adequately surveil the intersection before proceeding. Additionally, a witness reported excessive speed by V1, indicating aggressive driving behavior. These factors suggest that V1's actions contributed to the collision.

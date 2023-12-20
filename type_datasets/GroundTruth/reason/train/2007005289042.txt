@@ -1,1 +1,0 @@
-This is because Vehicle one (V1) was heading east and entered the intersection, while Vehicle two (V2) was heading north and collided with the front left of V1.

@@ -1,1 +1,0 @@
-The reason for this is that V1 was turning left at the intersection and made the decision to turn with an obstructed view. This means that V1 did not see V2 (the 2004 Jeep Cherokee) approaching from the opposite direction, resulting in the collision between the two vehicles.

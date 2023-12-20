@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) at the intersection, resulting in the impact and subsequent movement of both vehicles in a southwesterly direction.

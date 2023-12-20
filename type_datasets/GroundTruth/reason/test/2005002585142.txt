@@ -1,1 +1,0 @@
-This is because Vehicle #2 impacted the rear of Vehicle #1 with its front, indicating that Vehicle #2 hit the back of Vehicle #1.

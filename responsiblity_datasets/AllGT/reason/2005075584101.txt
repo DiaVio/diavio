@@ -1,1 +1,0 @@
-The reason for Vehicle 1's responsibility is that the driver made a false assumption of the actions of other traffic in the adjacent lane. This false assumption led to the driver braking and steering to the right in an attempt to avoid a crash, but ultimately resulted in the front of Vehicle 1 striking the rear of Vehicle 2.

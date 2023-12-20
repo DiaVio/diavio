@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 1 attempted to make a U-turn, and Vehicle 2 collided with the left side of Vehicle 1. This indicates that the front of Vehicle 2 collided with the side of Vehicle 1, which is characteristic of a front-to-side collision or "T-bone" collision.

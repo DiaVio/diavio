@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) turned left in the intersection and the front struck the front of Vehicle two (V2). This indicates that the front of one vehicle (V1) collided with the side of another vehicle (V2), which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

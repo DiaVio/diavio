@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to stop behind Vehicle 2 (V2) and rear-ended V2. The force of impact pushed V2 forward before it came to rest, indicating a Rear-End Collision.

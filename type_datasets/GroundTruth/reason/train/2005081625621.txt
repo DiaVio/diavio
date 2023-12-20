@@ -1,3 +1,0 @@
-Frontal Collision. 
-
-Justification: The accident involves a head-on collision between Vehicle 1 (V1) and Vehicle 2 (V2) as they collided in a counterclockwise rotation. The description states that V1 crossed the centerline and collided with V2, resulting in both vehicles coming to rest in opposite directions.

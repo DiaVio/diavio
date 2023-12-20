@@ -1,1 +1,0 @@
-This is because Vehicle 1's front collided with the side of Vehicle 2 in an intersection, resulting in the rotation and damage of Vehicle 2.

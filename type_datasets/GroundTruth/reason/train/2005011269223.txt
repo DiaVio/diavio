@@ -1,1 +1,0 @@
-This is because the front of vehicle 1 (V1) collided with the side of vehicle 2 (V2) when V1 crossed the centerline and struck the front of V2.

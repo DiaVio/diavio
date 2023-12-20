@@ -1,1 +1,0 @@
-Vehicle 2 (V2) impacts the back of Vehicle 3 (V3), which is a typical characteristic of a Rear-End Collision.

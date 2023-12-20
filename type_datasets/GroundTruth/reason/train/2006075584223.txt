@@ -1,1 +1,0 @@
-This is because Vehicle 1, which was turning left, was impacted on the right side by the front of Vehicle 2. Additionally, Vehicle 1 sideswiped Vehicle 3 with its left side to Vehicle 3's front.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 failed to adequately surveil the intersection before making a left turn. The driver simply followed the large truck in front of them without checking if the westbound traffic was clear. This lack of surveillance resulted in V1 turning left in front of V2, causing the collision.

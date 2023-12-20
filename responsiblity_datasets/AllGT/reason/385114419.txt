@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 steered left and departed the roadway, ultimately colliding with an embankment. This indicates that the driver of Vehicle 1 failed to maintain control of their vehicle and veered off the road, resulting in the accident.

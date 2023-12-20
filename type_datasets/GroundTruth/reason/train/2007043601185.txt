@@ -1,5 +1,0 @@
-
-
-Justification: 
-- Vehicle V1 failed to slow down and struck the back of vehicle V2, which indicates a Rear-End Collision.
-- The force of the impact pushed V2 into the back of V3, further confirming a Rear-End Collision.

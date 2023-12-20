@@ -1,1 +1,0 @@
-The driver of V1 failed to yield the right of way to V2, misjudging the speed of V2 and pulling into the intersection to make a left turn. This action directly caused the collision with V2.

@@ -1,1 +1,0 @@
-The reason for this is that V2 was turning left from a driveway into the eastbound traffic lanes without gaining sight of V1 until the last second. This indicates that V2 failed to properly assess the oncoming traffic before making the turn, resulting in the collision with V1.

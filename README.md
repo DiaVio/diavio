@@ -4,6 +4,13 @@ Simulation testing has been widely adopted by leading companies to ensure the sa
 To bridge this gap, we propose DiaVio to automatically diagnose safety violations in simulation testing by leveraging large language models (LLMs). It is built on top of a new domain specific language (DSL) of crash to align real-world accident reports described in natural language and violation scenarios in simulation testing. DiaVio fine-tunes a base LLM with real-world accident reports to learn diagnosis capability, and uses the fine-tuned LLM to diagnose violation scenarios in simulation testing. Our evaluation has demonstrated the effectiveness and efficiency of DiaVio in violation diagnosis.
 
 We bridge DiaVio with two state-of-the-art open source scenario-based testing approaches, i.e., AV-Fuzzer and DriveFuzz. Specifically, we set up AV-Fuzzer with the Apollo 8.0 ADS and the SORA-SVL simulator, and set up DriveFuzz with the Behavior Agent ADS and the Carla simulator.
+
+## Catalog Description
+
+*code* directory contains the source code of DiaVio
+*training_format* contains the data format for fine-tuning.
+LoRA models and dataset available at [here](https://huggingface.co/DiaVio/loras).
+
 ## Experiment Environment
 
 ### The following environment was used to fine-tune and use the LoRA models（recommended）:
@@ -27,7 +34,11 @@ We bridge DiaVio with two state-of-the-art open source scenario-based testing ap
     - Ubuntu 18.04.6 (strictly required)
     - Python3.6
 
+
 ## Installation & Run
+
+In this repository, we have open-sourced the modified AV-Fuzzer and DriveFuzz code in the *code/Crash Description Generator* directory. The *code/DataProcess* directory contains some of the code for our data processing. The *code/gpt* directory contains some of the code we interact with GPT-4.
+
 ### Setting up docker and nvidia driver
 
 1. Install `docker-ce`

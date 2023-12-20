@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 entered the intersection in an attempt to turn left across the path of Vehicle 2, which was proceeding straight in the outboard lane of the highway. This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the collision.

@@ -1,1 +1,0 @@
-This is because V1 attempted to pass V2 on the left-hand side and contacted the front of V2 to its left side.

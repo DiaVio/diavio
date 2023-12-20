@@ -1,1 +1,0 @@
-This is because Vehicle 1's front plane impacted Vehicle 2's left plane as Vehicle 2 traveled into the intersection.

@@ -1,1 +1,0 @@
-This is because vehicle one (V1) entered lane two occupied by vehicle two (V2) and V2 struck V1 as it crossed its path of travel.

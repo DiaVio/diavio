@@ -1,1 +1,0 @@
-This is because Vehicle #1 was making a left turn at the intersection and impacted Vehicle #2 in its front right corner, which is consistent with a "T-bone" collision where the front of one vehicle collides with the side of another.

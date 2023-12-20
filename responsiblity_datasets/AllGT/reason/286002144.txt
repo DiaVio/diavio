@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to make a left turn onto the main roadway without yielding to the right of way of V2. V1 crossed directly into the path of V2, resulting in the collision.

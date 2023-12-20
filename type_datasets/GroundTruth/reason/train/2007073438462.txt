@@ -1,1 +1,0 @@
-The accident involved only one vehicle (Vehicle 1), with no other entities involved. The driver of Vehicle 1 encountered an animal (dog) on the roadway, applied the brakes, and overcompensated by steering left. As a result, Vehicle 1 rotated counterclockwise and struck a tree off the left side of the road.

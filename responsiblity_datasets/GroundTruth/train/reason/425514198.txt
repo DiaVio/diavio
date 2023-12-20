@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 reported swerving to avoid a cat in the road, which caused the vehicle to cross the center line and travel off the road. This indicates that the driver of Vehicle 1 was not able to maintain control of the vehicle and failed to stay within their lane, resulting in the collision with the trees.

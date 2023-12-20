@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the rear of Vehicle 2 (V2) when V1 attempted to pass V2 in a no passing zone but had to return to the northbound lane to avoid a head-on collision with an oncoming vehicle.

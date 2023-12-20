@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the left rear side of Vehicle 2 (V2), which was traveling northbound through the intersection. The initial impact occurred between the front of V1 and the side of V2.

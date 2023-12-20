@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver was distracted and failed to notice that V2 had stopped. V1 was looking to the left and falsely assumed that V2 and V3 would continue to proceed. This lack of attention and failure to detect the stopped vehicle ahead resulted in V1 colliding with the back of V2, causing a chain reaction that involved V3 as well.

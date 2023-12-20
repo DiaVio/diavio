@@ -1,1 +1,0 @@
-Vehicle #1 impacted the right side of Vehicle #2 with its front when Vehicle #2 made a left turn in front of Vehicle #1 at the intersection.

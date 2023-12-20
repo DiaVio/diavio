@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one, while changing lanes, failed to notice that vehicle two had come to a stop due to congestion. As a result, the front of vehicle one made contact with the back of vehicle two. This scenario aligns with the definition of a Rear-End Collision, where one vehicle hits the back of another.

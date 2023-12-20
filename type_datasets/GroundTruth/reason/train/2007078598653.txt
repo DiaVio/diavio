@@ -1,1 +1,0 @@
-The driver of Vehicle 1 attempted to make a left turn and collided with the right side of Vehicle 2, which was traveling through the intersection. This corresponds to a front of one vehicle colliding with the side of another ("T-bone" collision).

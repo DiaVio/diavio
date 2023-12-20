@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 entered the intersection to proceed straight (north), across the path of the eastbound Volvo (Vehicle 2). As a result, the left side surface of Vehicle 1 was impacted by the frontal area of Vehicle 2. This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, leading to the collision.

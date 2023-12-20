@@ -1,1 +1,0 @@
-This is because V1 made a left turn across the path of V2, resulting in V2's front colliding with the driver's side of V1.

@@ -1,1 +1,0 @@
-Vehicle 2 attempted to make a left turn across the path of Vehicle 1, resulting in the collision.

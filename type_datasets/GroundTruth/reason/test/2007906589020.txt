@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to enter lane 2 (adjacent lane) and collided with the rear of Vehicle 2, causing a collision between the front of Vehicle 1 and the side of Vehicle 2.

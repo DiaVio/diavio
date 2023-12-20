@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn across the northbound lanes, and the driver of V1 turned with an obstructed view. The driver of V1 either assumed that all lanes were stopped or that there was no vehicle in lane one. This indicates that the driver of V1 did not exercise proper caution and failed to ensure that it was safe to make the left turn.

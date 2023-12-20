@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle #1, traveling eastbound, collided with the left side of Vehicle #2, which was turning left in the opposite direction. This scenario corresponds to a front of one vehicle colliding with the side of another, also known as a "T-bone" collision.

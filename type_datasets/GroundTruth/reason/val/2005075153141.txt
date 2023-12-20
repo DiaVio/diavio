@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) attempted to change lanes from lane two to lane one and its right side contacted Vehicle 1 (V1) in lane one. This collision between the front of V1 and the side of V2 is a typical "T-bone" collision, which falls under the category of a Front-to-Side Collision.

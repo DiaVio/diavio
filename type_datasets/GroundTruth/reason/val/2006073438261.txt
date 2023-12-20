@@ -1,1 +1,0 @@
-This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) when V1 initiated a left turn, and then V1 continued east and the left side of V1 struck the left side of Vehicle 3 (V3).

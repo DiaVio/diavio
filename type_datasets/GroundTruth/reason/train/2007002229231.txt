@@ -1,1 +1,0 @@
-This is because Vehicle #2 (Honda Accord) collided with the front left side of Vehicle #1 (Mercury Mystique) at an intersection.

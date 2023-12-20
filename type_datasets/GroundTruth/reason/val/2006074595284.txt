@@ -1,1 +1,0 @@
-Vehicle 1 (V1) struck the back of Vehicle 2 (V2), causing the collision. The critical pre-crash event for V1 was following too closely to respond to unexpected actions, which is indicative of a Rear-End Collision.

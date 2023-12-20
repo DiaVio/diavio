@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 allowed the vehicle to drift to the left and cross the centerline, resulting in a collision with Vehicle Two (V2). This indicates a failure to maintain proper lane control and stay within their designated lane.

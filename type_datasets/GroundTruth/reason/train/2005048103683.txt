@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) as V2 was making a left turn and entered the intersection. The front of V1 contacted the left side of V2, resulting in a counterclockwise rotation of both vehicles.

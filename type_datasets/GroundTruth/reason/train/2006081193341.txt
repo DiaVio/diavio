@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the right side front of Vehicle 2 (V2) as V2 pulled out in front of V1 while attempting to turn right onto the primary roadway.

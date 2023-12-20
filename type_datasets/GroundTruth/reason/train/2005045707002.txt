@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was attempting a left turn at the intersection when its brakes failed, causing it to enter the right southbound lane and collide with Vehicle 2 (V2) on the right side with its front.

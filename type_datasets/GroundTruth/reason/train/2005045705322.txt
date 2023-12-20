@@ -1,1 +1,0 @@
-Vehicle #1 ran into the back of Vehicle #2, indicating that there was a collision between the two vehicles.

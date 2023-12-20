@@ -1,1 +1,0 @@
-This is because the left plane of Vehicle 1 (V1) impacted the right plane of Vehicle 2 (V2) as both vehicles merged in the third lane simultaneously.

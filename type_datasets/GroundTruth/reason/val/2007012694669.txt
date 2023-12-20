@@ -1,2 +1,0 @@
-
-Justification: Vehicle 1 was making a left turn and turned into the path of Vehicle 2, resulting in a collision between the front of Vehicle 1 and the side of Vehicle 2.

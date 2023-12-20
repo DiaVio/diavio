@@ -1,3 +1,0 @@
-
-
-Justification: The front of Vehicle 1 (V1) collided with the right side of Vehicle 2 (V2) at the intersection. This is a typical scenario of a "T-bone" collision, where the front of one vehicle collides with the side of another.

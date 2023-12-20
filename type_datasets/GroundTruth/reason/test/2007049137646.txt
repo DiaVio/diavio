@@ -1,1 +1,0 @@
-Vehicle one (V1) attempted a left turn across the path of vehicle two (V2), resulting in the front of V2 striking the right side of V1. This aligns with a front of one vehicle colliding with the side of another, which is characteristic of a front-to-side collision.

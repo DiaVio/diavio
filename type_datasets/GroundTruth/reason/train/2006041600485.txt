@@ -1,3 +1,0 @@
-Rear-End Collision
-
-Justification: V1 failed to stop in time and impacted the rear of V2, pushing V2 into the rear of V3. This indicates a Rear-End Collision where one vehicle hits the back of another.

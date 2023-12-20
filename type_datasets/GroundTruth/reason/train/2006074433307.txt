@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was stopped in lane three, intending to turn left at the intersection, and Vehicle 2 (V2) struck the right side of V1 with its front. This indicates that the front of V2 collided with the side of V1, which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

@@ -1,1 +1,0 @@
-The front of Vehicle 1 (V 1) collided with the side of Vehicle 2 (V 2), resulting in the accident.

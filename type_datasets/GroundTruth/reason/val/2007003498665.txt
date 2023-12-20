@@ -1,1 +1,0 @@
-This is because the accident only involves one vehicle (V1, the Honda Civic) and no other entities. The driver of V1 lost control while attempting to avoid a non-contact vehicle, resulting in contact with parked vehicles (V2 and V3).

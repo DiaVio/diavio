@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to make a left turn at the intersection, which indicates that V1 had the duty to yield to oncoming traffic. However, V2, which was traveling west, struck the left side of V1. This suggests that V1 failed to yield the right of way to V2, resulting in the collision.

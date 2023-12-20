@@ -1,1 +1,0 @@
-The reason for this is that V2 was the vehicle that was turning left at the intersection, and the critical reason for the critical pre-crash event for V2 was coded as "driver related factor; false assumption of other's actions." This indicates that the driver of V2 assumed that V1 would stop for the yellow traffic signal, which ultimately led to the collision.

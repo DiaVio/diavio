@@ -1,1 +1,0 @@
-Based on the provided case summary, the accident can be classified as a Rear-End Collision (Type 3). This classification is based on the fact that the driver of V1 rear-ended V2, and the driver of V3 was also involved in a Rear-End Collision with V2.

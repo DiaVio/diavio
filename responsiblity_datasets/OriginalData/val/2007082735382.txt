@@ -1,9 +1,0 @@
-This two-vehicle daytime rear-end collision occurred on an on an arterial roadway consisting of four-lanes of travel in each direction and a left hand turn lane just west of the crash, road surface dry asphalt. The speed limit for the road is 56 kmph (35 mph). This crash occurred during daylight hours and the sky was clear.
-
-Vehicle one (V1), a 1979 Ford Econoline E-250 windowed van driven by a unknown aged male, was going straight in the number two eastbound travel lane. Vehicle two (V2), a 1998 Mercury Sable sedan driven by a unknown aged female , was also in the number two eastbound travel lane. V2 was stopped facing east in the lane waiting to turn left and yielding to traffic coming from the west. As V2 was waiting V1 came up from behind. The driver of V1 locked up his brakes and skidded into the rear of V2. Both vehicles came to rest just east of impact. V1 was pushed into a parking lot and towed later. V2 was able to be driven from scene. Police Reported Travel Speed is No PAR obtained (created) for V1 and No PAR obtained (created) for V2.
-
-The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event is coded as a driver related factor:misjudgment of gap or other's speed. The driver stated he saw the other car but did not realize it was stopped.
-
-The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event is no coded to this vehicle.
-
-Associated factors for V1 thinking about the future event, misjudgment of the speed of the forward vehicle, and assuming is was going to proceed in its travel lane.

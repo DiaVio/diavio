@@ -1,3 +1,0 @@
-Rear-End Collision - One vehicle hits the back of another.
-
-Justification: Although it is a single-vehicle accident, the driver of the Ford F-150 pick-up lost control while attempting to pass a farm tractor, indicating that there was another vehicle involved. The collision occurred when the driver hit the brakes and the vehicle rotated counterclockwise, potentially hitting the back of the farm tractor.

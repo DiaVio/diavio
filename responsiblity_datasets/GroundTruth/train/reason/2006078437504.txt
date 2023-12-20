@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 made a false assumption of the bus's position and incorrectly believed that it was in the lane she wanted to turn into. As a result, she went around the stopped bus and entered the southbound lane, ultimately colliding with Vehicle two (V2). This false assumption and subsequent action by the driver of V1 led to the collision.

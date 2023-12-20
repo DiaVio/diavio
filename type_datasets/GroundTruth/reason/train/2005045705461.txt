@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Ford Escort) collided with the rear of Vehicle 2 (Saturn SL2) while it was stopped in the eastbound lane, waiting for the vehicle in front to turn left.

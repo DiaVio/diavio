@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn across the path of Vehicle two (V2), the 1990 Triumph motorcycle, which was traveling straight in its lane. V1 failed to yield the right of way to V2, resulting in the collision.

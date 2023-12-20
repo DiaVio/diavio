@@ -1,1 +1,0 @@
-The front of V1 collided with the side of V2, resulting in the crash.

@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver overcompensated when trying to avoid a possible collision in the intersection. Instead of maintaining control of the vehicle and staying on the roadway, V1 steered to the right and drove off the roadway, ultimately impacting a traffic light pole. This overcompensation by the driver led to the crash.

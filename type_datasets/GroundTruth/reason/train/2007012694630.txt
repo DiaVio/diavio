@@ -1,2 +1,0 @@
-
-Justification: Vehicle 1 (V1) contacted the rear of Vehicle 2 (V2), pushing it forward to re-contact Vehicle 3 (V3). This indicates that V1 collided with the rear of V2, which is characteristic of a Rear-End Collision.

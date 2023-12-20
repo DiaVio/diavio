@@ -1,1 +1,0 @@
-V1 attempted to turn left across the path of V2, and the front of V2 made contact with the front of V1. This collision involves the front of one vehicle colliding with the side of another, which is commonly referred to as a "T-bone" collision.

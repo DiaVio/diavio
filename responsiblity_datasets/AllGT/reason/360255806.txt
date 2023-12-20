@@ -1,1 +1,0 @@
-The reason for this is that V2 initiated the lane change into lane 2, and its right rear impacted V1's left front. This initial impact caused V2 to rotate clockwise in lane 2, ahead of V1. As a result, the front of V1 then impacted the right side of V2 in lane 2. Therefore, V2's lane change maneuver and subsequent impact with V1 led to the collision.

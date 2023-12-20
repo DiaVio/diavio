@@ -1,1 +1,0 @@
-The driver of V1 failed to adequately surveil the intersection and did not realize that the left arrow light had changed or disappeared. This resulted in V1 turning left in front of V2, causing the collision.

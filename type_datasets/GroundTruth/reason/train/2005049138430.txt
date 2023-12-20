@@ -1,7 +1,0 @@
-
-
-Justification: 
-- Vehicle 1 (V1) departed its original travel lane to the left and struck the back of Vehicle 2 (V2). This indicates a front-to-side collision.
-- After the initial collision with V2, V1 returned to its original travel lane and the right side of V1 struck the left side of Vehicle 3 (V3).
-- The description of V1 striking the back of V2 and then the side of V3 aligns with the characteristics of a front-to-side collision, commonly known as a "T-bone" collision.
-- The location of the impacts and the directions of the vehicles involved support the classification of a front-to-side collision.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 attempted to brake to avoid the collision but was unsuccessful. This suggests that the driver of Vehicle 1 failed to yield the right of way to Vehicle 2, which was traveling northbound and had the right of way at the intersection.

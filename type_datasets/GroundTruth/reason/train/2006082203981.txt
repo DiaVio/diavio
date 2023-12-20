@@ -1,1 +1,0 @@
-This is because Vehicle two (GMC Van) impacted the left side of Vehicle one (Ford Explorer SUV) at the intersection, with the front of Vehicle two colliding with the left side of Vehicle one.

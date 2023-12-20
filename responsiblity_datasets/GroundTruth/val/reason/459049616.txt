@@ -1,1 +1,0 @@
-The driver of Vehicle 1 was attempting to turn left into a private driveway, crossing the eastbound travel lane. This indicates that the driver of Vehicle 1 failed to yield the right of way to oncoming traffic, which resulted in the collision with Vehicle 2 (the 2002 Chevrolet Tahoe).

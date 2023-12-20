@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to change lanes to the left and the front of the vehicle struck the right side of Vehicle 2. The collision occurred when the front of one vehicle (V1) collided with the side of another vehicle (V2), which is characteristic of a "T-bone" collision.

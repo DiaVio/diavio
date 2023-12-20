@@ -1,7 +1,0 @@
-This single vehicle crash occurred on a four-lane roadway. This roadway is straight and level with no defects. The roadway is designated 56 kph (35 mph). This crash occurred during nighttime hours with additional lighting.
-
-Vehicle one, a 1999 Saab 9-3 was westbound in the first lane. Vehicle one departed the roadway to the right when its front left wheel impacted a curb and then the front plane impacted a building. Vehicle one caught fire in the engine compartment after impact. Vehicle one was towed due to damage. Police Reported Travel Speed is Not reported for V1.
-
-The driver of vehicle one fled the scene and could not be interviewed. However the witness stated that the driver of vehicle one was racing another vehicle, which passed her on the left at a high rate of speed. The witness was traveling in the same lane as vehicle one just ahead of it after pulling out of her driveway on the south curb.
-
-The critical pre-crash event for vehicle one was coded as “this vehicle traveling: off the edge of the roadway on the right side”. The critical reason for the critical event for vehicle one was coded as: “driver related factor: type of driver error unknown”.

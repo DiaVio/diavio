@@ -1,1 +1,0 @@
-Based on the given case summary, V3 is primarily responsible for the crash

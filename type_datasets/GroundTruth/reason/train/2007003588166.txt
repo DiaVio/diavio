@@ -1,1 +1,0 @@
-This scenario matches the description of a front-to-side collision, also known as a "T-bone" collision.

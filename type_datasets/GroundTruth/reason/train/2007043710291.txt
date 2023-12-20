@@ -1,1 +1,0 @@
-This is because the front of V2 collides with the side of V1 when V1 turns left in front of V2, causing the crash.

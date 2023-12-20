@@ -1,1 +1,0 @@
-Vehicle one (V1) traveling southbound collided with the right side of vehicle two (V2) traveling westbound in the intersection. The impact occurred between the front of V1 and the side of V2, which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that the driver fell asleep while negotiating a left curve, causing V1 to depart the lane and travel off the roadway. The driver's loss of control and subsequent collisions with the roadside marker, fence, and trees resulted in the deployment of multiple airbags and severe injuries to the driver.

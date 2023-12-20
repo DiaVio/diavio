@@ -1,1 +1,0 @@
-This is because V1, which was traveling north, turned left at the intersection and V2, traveling south, struck the right side of V1. This collision involved the front of V1 colliding with the side of V2, resembling a "T-bone" collision.

@@ -1,1 +1,0 @@
-The driver of V1 failed to adequately surveil the intersection before entering, resulting in the collision with V2. This is supported by the fact that the Critical Precrash Event for V1 was coded as crossing over the intersection and the Critical Reason was inadequate surveillance. Additionally, the driver of V1 admitted to not seeing V2 before the crash.

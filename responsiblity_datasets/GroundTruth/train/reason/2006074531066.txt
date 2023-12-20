@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver made a false assumption of V2's actions. V1 assumed that V2 would stop and not enter the intersection, leading to V1 encroaching into V2's travel lane. This false assumption ultimately resulted in the collision between the two vehicles.

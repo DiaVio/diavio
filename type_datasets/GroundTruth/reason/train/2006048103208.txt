@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) as V1 entered the intersection. V2 rotated counterclockwise and the right side struck the left side of Vehicle 3 (V3). This type of collision is commonly referred to as a "T-bone" collision.

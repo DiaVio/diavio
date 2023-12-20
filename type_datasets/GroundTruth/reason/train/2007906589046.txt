@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Jeep Cherokee) collided with the right side of Vehicle 2 (Oldsmobile Cutlass) as they were traveling in different directions through the intersection. The impact occurred between the front of Vehicle 1 and the side of Vehicle 2, which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

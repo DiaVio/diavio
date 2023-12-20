@@ -1,1 +1,0 @@
-This is because Vehicle 1 collided into the rear of Vehicle 2, and then Vehicle 2 was propelled into the rear of Vehicle 3. The sequence of events indicates that the impact originated from the back of the vehicles, which is characteristic of a Rear-End Collision.

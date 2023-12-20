@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was making a left turn at the intersection, and Vehicle 2 (V2) struck the right side of V1's vehicle, as it was approaching the intersection from the opposite direction.

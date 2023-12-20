@@ -1,1 +1,0 @@
-The driver of V1 made a false assumption of the other vehicle's actions, thinking that it would stop for the yellow light. This false assumption led to V1 attempting to accelerate but ultimately failing to get out of the way, resulting in the collision.

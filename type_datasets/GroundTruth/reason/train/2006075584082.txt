@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one was making a left turn in front of vehicle two, and the front of vehicle two struck the left side of vehicle one. This scenario matches the description of a front-to-side collision, also known as a "T-bone" collision.

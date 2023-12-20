@@ -1,1 +1,0 @@
-This is because Vehicle 1 was stopped and waiting to turn left, while Vehicle 2 was traveling in the opposite direction and struck the right side of Vehicle 1's front.

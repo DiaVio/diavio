@@ -1,1 +1,0 @@
-The reason for this is that V2 was traveling through the intersection without any controls for the east or west directions. V1, on the other hand, had stop signs for the north and south directions. This indicates that V2 failed to yield the right of way to V1, resulting in the collision.

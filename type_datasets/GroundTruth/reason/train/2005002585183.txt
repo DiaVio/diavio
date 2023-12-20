@@ -1,1 +1,0 @@
-This is because Vehicle #2 impacts the rear of Vehicle #1 with its front.

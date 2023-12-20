@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was turning left and collided with Vehicle 2 (V2) that was traveling in the opposite direction in lane one. The impact occurred at the front right of V1 and the front left of V2, indicating a front-to-side collision.

@@ -1,1 +1,0 @@
-This is because the front of Vehicle 2 (V2) impacted the left side of Vehicle 1 (V1) as V2 was southbound and V1 was eastbound, resulting in a "T-bone" collision at the intersection.

@@ -1,1 +1,0 @@
-The reason for this is that V2 was attempting to execute a left turn onto the entrance ramp, crossing the path of V1, which was traveling straight in the southbound lane. V2 impacted the front left of V1, indicating that V2 failed to yield the right of way to V1.

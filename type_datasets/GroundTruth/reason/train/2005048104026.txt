@@ -1,3 +1,0 @@
-
-
-This is because Vehicle 2 (V2) collided with the rear of Vehicle 1 (V1) while both vehicles were traveling in the same direction. The critical pre-crash event for V2 was coded as "other vehicle in lane, other vehicle stopped" and the critical reason was driver-related, indicating a misjudgment of the gap or the speed of V1.

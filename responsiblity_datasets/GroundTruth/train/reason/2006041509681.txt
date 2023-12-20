@@ -1,1 +1,0 @@
-The reason for this is that V1 was signaling to make a right turn but instead continued straight through the intersection, causing the collision with V2. V1's illegal maneuver of not following their signaled intention and continuing through the intersection led to the accident.

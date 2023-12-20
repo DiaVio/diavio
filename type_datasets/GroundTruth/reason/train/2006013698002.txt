@@ -1,1 +1,0 @@
-Rear-End Collision - V1's front hit V2 in the back when V1 failed to stop in time due to an external distraction.

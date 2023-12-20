@@ -1,1 +1,0 @@
-This is because it involves only one vehicle (V1) and no other entities were involved in the collision. The driver of V1 lost control of the vehicle and drove off the left side of the roadway, resulting in a collision with a utility pole.

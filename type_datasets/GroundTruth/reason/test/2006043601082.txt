@@ -1,1 +1,0 @@
-This is because the front of vehicle 2 (V2) collided with the right side of vehicle 1 (V1) initially, and then the left side of V2 side slapped the right side of V1.

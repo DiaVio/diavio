@@ -1,1 +1,0 @@
-The reason for this is that V2 impacted the left side of V1, indicating that V2 failed to yield the right of way to V1, which was already in the intersection. This suggests that V2 either failed to stop at a stop sign or failed to properly assess the situation before entering the intersection.

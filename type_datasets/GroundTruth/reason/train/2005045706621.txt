@@ -1,1 +1,0 @@
-Vehicle 1 collided with the rear end of Vehicle 2 after Vehicle 2 stopped abruptly due to a non-contact vehicle pulling out of a parking space.

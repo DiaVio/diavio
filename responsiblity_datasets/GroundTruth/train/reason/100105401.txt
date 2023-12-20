@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 failed to negotiate the left curve properly and did not straighten the steering, causing V1 to travel into the westbound lane and collide with V2. This indicates a failure to maintain control of the vehicle and stay within the designated lane, resulting in the head-on collision.

@@ -1,1 +1,0 @@
-This is because the front of vehicle two (V2) collided with the side of vehicle one (V1) in the intersection, resulting in rotation and subsequent collision between the right side of V1 and the left side of V2.

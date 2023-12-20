@@ -1,1 +1,0 @@
-This is because Vehicle #1 failed to stop at the intersection and was struck in the right side by the front of Vehicle #2. A secondary side-slap collision also occurred between the right side of Vehicle #1 and the left side of Vehicle #2.

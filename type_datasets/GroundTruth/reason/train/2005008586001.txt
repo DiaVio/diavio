@@ -1,1 +1,0 @@
-This is because the front of vehicle 2 collided with the side of vehicle 1 as it crossed the left southbound lane.

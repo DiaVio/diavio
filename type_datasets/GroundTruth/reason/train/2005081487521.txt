@@ -1,1 +1,0 @@
-Vehicle one (V1) veered right to avoid colliding with stopped traffic and ended up impacting the back of vehicle two (V2). V2 then moved ahead and impacted the back of vehicle three (V3). Therefore, the accident belongs to Type 3 - Rear-End Collision.

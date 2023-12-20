@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 made an illegal maneuver by passing another vehicle (V1) using a non-passing lane. The driver of V2 attempted to overtake the large truck by using the shoulder, which is not designated for passing. When V2 tried to return to the original travel lane, it was struck by V1. This illegal maneuver by V2 ultimately led to the collision.

@@ -1,1 +1,0 @@
-Vehicle 1 (V1) was attempting to make a left turn at the intersection, while Vehicle 2 (V2) was traveling straight. V1 turned left across the path of V2, resulting in V1 striking the right side of V2. This scenario fits the definition of a front of one vehicle colliding with the side of another, also known as a "T-bone" collision.

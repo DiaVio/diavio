@@ -1,1 +1,0 @@
-The front of V1 collided with the left side of V2 in the intersection, resulting in a T-bone collision.

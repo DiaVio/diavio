@@ -1,1 +1,0 @@
-This is because the collision involved a vehicle (V1) and a parked car (V2) that was preparing to make a U-turn. The driver of V2, a non-motorized entity, made an illegal maneuver and was unable to see the oncoming vehicle due to the hillcrest. This type of accident involves a non-motorized entity (V2) and a motorized vehicle (V1).

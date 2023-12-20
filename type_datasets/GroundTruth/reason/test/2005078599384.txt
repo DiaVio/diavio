@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) when V2 attempted to make a left turn in front of V1. The impact caused both vehicles to rotate and resulted in a side-slap impact on the left side of V1 and the right side of V2.

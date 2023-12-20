@@ -1,1 +1,0 @@
-The driver of V2 allowed the vehicle to travel into the oncoming eastbound lanes while negotiating a left curve, ultimately causing the head-on collision with V1. This indicates a failure to maintain proper control of the vehicle and stay within the designated lane.

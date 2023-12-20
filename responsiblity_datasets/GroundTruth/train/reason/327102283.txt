@@ -1,1 +1,0 @@
-The reason for this is that the driver lost control of the vehicle while negotiating a curve, resulting in the vehicle departing the road and ultimately colliding with two large trees. The driver's loss of control suggests a failure to maintain proper control of the vehicle, which is a key responsibility of the driver.

@@ -1,1 +1,0 @@
-The driver of V1 was changing lanes to go faster and failed to look far enough ahead to see the slow-moving traffic in lane two. This indicates that V1 was driving too fast for the congested conditions and did not exercise proper caution while changing lanes.

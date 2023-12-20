@@ -1,1 +1,0 @@
-The reason for this is that V2 impacted the right side of V1, causing V1 to rotate and ultimately resulting in V1 rolling onto its right side. This indicates that V2 failed to yield the right of way or violated traffic signals, leading to the collision.

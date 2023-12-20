@@ -1,1 +1,0 @@
-This is because the front of vehicle 1 (V1) contacted the right side of vehicle 2 (V2), causing V2 to go into a clockwise yaw across lane 1 and V1's path. This indicates a collision between the front of one vehicle (V1) and the side of another vehicle (V2), which is characteristic of a front-to-side collision.

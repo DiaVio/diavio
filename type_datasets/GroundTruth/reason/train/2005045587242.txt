@@ -1,1 +1,0 @@
-This is because Vehicle #1 attempted to turn left at the intersection and collided with the left side of Vehicle #2, which was traveling straight in the northbound lane of the highway.

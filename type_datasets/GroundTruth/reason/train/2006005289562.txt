@@ -1,1 +1,0 @@
-This is because Vehicle 2 (Jeep Liberty) collided with the front of Vehicle 1 (Freightliner school bus) as it attempted to make a left turn at the intersection, resulting in a front-to-side collision.

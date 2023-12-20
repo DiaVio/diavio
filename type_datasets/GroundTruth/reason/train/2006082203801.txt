@@ -1,1 +1,0 @@
-This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) in the uncontrolled intersection. The impact occurred when V2 was crossing the intersection and encroached into the path of V1.

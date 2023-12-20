@@ -1,1 +1,0 @@
-The driver of V1 failed to adequately survey the intersection and did not see V2 approaching. Additionally, the driver of V1 did a rolling stop at the intersection, failing to stop for the traffic control device. These actions indicate a driver-related error and a failure to follow traffic rules, ultimately leading to the collision.

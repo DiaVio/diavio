@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 1 (V1) failed to stop and the front of V1 contacted the back of Vehicle 2 (V2), indicating a Rear-End Collision.

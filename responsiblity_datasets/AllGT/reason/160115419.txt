@@ -1,1 +1,0 @@
-The reason for this is that V1 was attempting to make a left turn across the path of oncoming traffic (V2) when the collision occurred. Making a left turn requires yielding to oncoming traffic, and it appears that V1 failed to do so, resulting in the collision.

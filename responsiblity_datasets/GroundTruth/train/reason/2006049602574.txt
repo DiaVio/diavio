@@ -1,1 +1,0 @@
-The critical pre-crash event was coded as "other vehicle encroaching into the lane, from crossing street, across path" and the critical reason for this event was coded as "illegal maneuver" (running a red light). However, the exact reason for this illegal maneuver is not known as the driver of V1 left the scene shortly after the crash events and was never identified.

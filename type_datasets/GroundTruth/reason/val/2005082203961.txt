@@ -1,1 +1,0 @@
-The front of Vehicle 1 collided with the side of Vehicle 2 as Vehicle 1 was making a left-hand turn at the intersection.

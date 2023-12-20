@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) ran into the rear of Vehicle 2 (V2), causing it to be pushed into the rear of Vehicle 3 (V3).

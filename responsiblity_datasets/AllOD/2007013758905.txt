@@ -1,7 +1,0 @@
-This crash occurred off the right side of a two-lane, two-way, non-divided, gravel rural roadway with a posted speed limit of 89Kmph (55Mph). The crash occurred during the hours of daylight, and there were no adverse conditions present at the time of the crash.
-
-V1 a 1996 Chevy Beretta was traveling south bound in the right lane, V1 crested a small hill and lost control. V1 departed the roadway to the right side and rolled over two-quarter turns before coming to final rest on its roof. The driver and a back seat passenger were transported to the hospital with minor injuries. V1 was towed from the scene with moderate damage. Police Reported Travel Speed is Not reported for V1.
-
-The driver of V1 a 17 year-old female, stated to her father that she was on her way home from a friends house. She then told him that she was traveling down the dirt roadway at approximately 96Kmph (60Mph), when she crested the hill and the back of the vehicle began to fishtail. She stated that she hit the brakes as hard as she (full ABS) could but could not regain control of the vehicle before it departed the roadway, and rolled over.
-
-The Critical Pre-Crash Event coded for V1 is "this vehicle control loss due to traveling too fast for conditions". The Critical Reason for the Critical Event coded for V1 is "driver related factor, Poor directional control".

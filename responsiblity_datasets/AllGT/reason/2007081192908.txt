@@ -1,1 +1,0 @@
-The driver of V1 made a driver-related decision to turn left with an obstructed view. Despite not being able to see V2 in lane one, the driver proceeded with the left turn, which ultimately led to the collision. The driver's failure to adequately survey the area before making the turn was the critical reason for the accident.

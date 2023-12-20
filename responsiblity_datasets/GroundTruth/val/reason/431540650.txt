@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was traveling southbound and proceeded straight through the intersection, but it first impacted with Vehicle 3 and Vehicle 4 before colliding with Vehicle 1. This indicates that Vehicle 2 failed to yield or maintain control, causing a chain reaction of collisions.

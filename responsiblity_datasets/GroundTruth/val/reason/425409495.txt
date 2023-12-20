@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was traveling in the opposite direction of Vehicle 1 and entered Vehicle 1's direction of travel during the curve. This resulted in an offset frontal configuration where the front plane of Vehicle 2 impacted the front plane of Vehicle 1. As a result, both vehicles rotated counterclockwise and came to rest in the road.

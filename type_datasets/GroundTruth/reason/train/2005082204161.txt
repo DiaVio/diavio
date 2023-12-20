@@ -1,1 +1,0 @@
-This is because Vehicle 1 collided with the back of Vehicle 2, which was stopped behind Vehicle 3.

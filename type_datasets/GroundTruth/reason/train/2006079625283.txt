@@ -1,3 +1,0 @@
-
-
-Justification: The front plane of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) at the intersection. Additionally, after the initial collision, the front plane of V2 proceeded to contact the front plane of Vehicle 3 (V3). This aligns with the characteristics of a Front-to-Side Collision.

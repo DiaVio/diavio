@@ -1,1 +1,0 @@
-The reason for this is that Vehicle #2 collided with the case vehicle, causing it to roll onto the hood of Vehicle #2 and then off onto its left side. This indicates that Vehicle #2 was the one that initiated the collision and caused the case vehicle to lose control.

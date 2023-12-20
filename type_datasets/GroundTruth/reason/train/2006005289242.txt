@@ -1,1 +1,0 @@
-This is because Vehicle 1 was struck on the left side by the front of Vehicle 2 as it entered the intersection. The impact caused Vehicle 1 to rotate clockwise, indicating a collision between the front of one vehicle (Vehicle 2) and the side of another vehicle (Vehicle 1).

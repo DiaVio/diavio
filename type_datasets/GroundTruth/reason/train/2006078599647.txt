@@ -1,1 +1,0 @@
-The description states that the front of Vehicle 1 struck the back of Vehicle 2, indicating a collision between the two vehicles from behind.

@@ -1,1 +1,0 @@
-The left side of V1 and the left side of V2 collided. This collision between the front of V1 and the side of V2 is known as a front-to-side collision or a T-bone collision.

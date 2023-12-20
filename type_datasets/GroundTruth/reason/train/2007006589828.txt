@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with the left side of vehicle three (V3) after initially hitting the rear of vehicle two (V2).

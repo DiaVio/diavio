@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Toyota Corolla) struck the back of Vehicle 2 (Jeep Liberty) with its front, causing Vehicle 2 to move forward and collide with the back of Vehicle 3 (Chevrolet Suburban).

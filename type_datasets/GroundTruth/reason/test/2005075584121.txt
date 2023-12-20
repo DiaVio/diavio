@@ -1,1 +1,0 @@
-Vehicle one (V1) collided with the back of vehicle two (V2) while both vehicles were westbound in lane number three.

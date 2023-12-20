@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver fell asleep while negotiating a curve, causing V1 to depart from its lane and impact the cable barrier and guardrail. This indicates a lack of attention and control on the part of the driver, leading to the subsequent chain of events that resulted in the severe injuries sustained by the driver.

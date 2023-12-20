@@ -1,1 +1,0 @@
-This is because vehicle one (V1) was making a left turn at the intersection and was struck by the front of vehicle two (V2), causing V1 to spin in a counter-clockwise motion. Vehicle two then continued forward and struck the left front of vehicle three (V3). This scenario fits the description of a front of one vehicle colliding with the side of another ("T-bone" collision).

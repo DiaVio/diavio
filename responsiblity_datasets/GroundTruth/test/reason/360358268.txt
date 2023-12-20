@@ -1,1 +1,0 @@
-The reason for this is that V2 initiated the lane change to the left without ensuring it was safe to do so, resulting in the collision with V1.

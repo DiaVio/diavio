@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 was attempting to negotiate a left turn at the intersection, bringing it into the path of V2 (the 1994 Ford "Super-Duty" truck). Although the driver of V2 observed this and applied the brakes, the impact still occurred. Therefore, the driver of V1 failed to yield the right of way to V2, resulting in the collision.

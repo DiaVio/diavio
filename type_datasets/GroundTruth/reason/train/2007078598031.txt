@@ -1,1 +1,0 @@
-This is because Vehicle 1 turned left in the intersection and was struck on the right side by the front of Vehicle 2. Then, Vehicle 1 rotated clockwise and the left side struck the front of Vehicle 3. This collision involves the front of one vehicle (Vehicle 2) colliding with the side of another vehicle (Vehicle 1 and Vehicle 3).

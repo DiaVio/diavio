@@ -1,2 +1,0 @@
-
-This is because Vehicle 1 (V1) turned left and lost traction, resulting in a sideswipe motion where the right side of V1 contacted the back-left corner of Vehicle 2 (V2).

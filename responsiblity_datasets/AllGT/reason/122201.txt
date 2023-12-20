@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 reportedly fell asleep and relinquished control of the vehicle, causing it to drift off the road and ultimately collide with a tree. Falling asleep while driving is a clear example of driver negligence and failure to maintain control of the vehicle.

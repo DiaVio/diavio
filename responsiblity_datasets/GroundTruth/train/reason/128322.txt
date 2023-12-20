@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that the driver of V1 failed to negotiate the curve, ran off the right side of the road, and struck two trees. This indicates a failure to maintain control of the vehicle and stay within the designated lane, resulting in the accident.

@@ -1,1 +1,0 @@
-The reason for this is that V2 failed to adequately surveil the intersection, as indicated by the critical reason coded as "inadequate surveillance (e.g., failed to look, looked but did not see)." This means that V2 did not detect V1 (the Chevrolet G-series van) until entering the intersection, and did not attempt any evasive maneuvers to avoid the collision.

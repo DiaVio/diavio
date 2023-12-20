@@ -1,1 +1,0 @@
-This is because Vehicle 2 attempted to switch lanes to the right and collided with the left front of Vehicle 1, indicating a collision between the front of one vehicle (V2) with the side of another (V1).

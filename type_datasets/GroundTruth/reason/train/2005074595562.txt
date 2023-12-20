@@ -1,2 +1,0 @@
-
-Justification: Vehicle 2 (V2) struck the left side of Vehicle 1 (V1) as V1 was traveling south and V2 was traveling west. This collision occurred at an intersection, with V2 colliding with the side of V1 in a "T-bone" style collision.

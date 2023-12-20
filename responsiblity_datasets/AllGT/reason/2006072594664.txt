@@ -1,1 +1,0 @@
-The critical event and critical reason for the crash indicate that V1 lost control due to traveling too fast for the conditions, specifically, going too fast for the curve/turn on the wet road surface. Additionally, it is mentioned that V1 had a right front tire that was overinflated, which could have contributed to the loss of traction and control.

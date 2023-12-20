@@ -1,1 +1,0 @@
-The description states that Vehicle 2 struck the rear of Vehicle 1, causing it to rotate. This matches the definition of a Rear-End Collision where one vehicle hits the back of another.

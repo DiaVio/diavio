@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to pass Vehicle 2 on the left as Vehicle 2 re-entered the roadway to make a left-hand turn, resulting in the front of Vehicle 2 colliding with the right side of Vehicle 1.

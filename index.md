@@ -24,4 +24,4 @@ The paper has been submitted to ISSTA 2024.
 
 ## The prototype of DiaVio and documents are available [here](https://github.com/DiaVio/diavio).
 
-## The LoRA models and datasets are available [here](https://github.com/DiaVio/diavio).
+## The LoRA models and datasets are available [here](https://huggingface.co/DiaVio/loras).

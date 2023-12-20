@@ -1,1 +1,0 @@
-The collision involved only Vehicle 1 (V1) and no other entities. V1 veered off the road, impacting various objects before coming to rest.

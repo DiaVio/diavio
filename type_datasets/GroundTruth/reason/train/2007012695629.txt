@@ -1,1 +1,0 @@
-This is because V1 was making a left turn and V2 collided with the left side of V1 in the intersection.

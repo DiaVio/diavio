@@ -1,1 +1,0 @@
-This is because the crash involved only one vehicle (Vehicle 1) and no other entities. Vehicle 1 traveled off the roadway, struck a pedestrian, and then collided with Vehicle 2 and a fence. There were no other vehicles involved in the collision.

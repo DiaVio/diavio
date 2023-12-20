@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 drifted into the northbound travel lane, causing a collision with Vehicle 3. This initial collision led to Vehicle 3 losing control and entering the southbound travel lane, resulting in the subsequent collision with Vehicle 1. Therefore, the actions of Vehicle 2 initiated the chain of events that led to the collision.

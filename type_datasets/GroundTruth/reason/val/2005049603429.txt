@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (V1) impacted the front of Vehicle 2 (V2) at an intersection, with V1 rotating clockwise and moving north, and V2 rotating counter clockwise and moving into the southbound lanes.

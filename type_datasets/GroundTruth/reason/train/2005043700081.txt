@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (Chrysler Lebaron) collided with the side of Vehicle 2 (Honda Civic) at the intersection ("T-bone" collision).

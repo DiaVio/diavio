@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to pass Vehicle 2 on the left, ignoring the double yellow line, while Vehicle 2 was making a left turn into a driveway. The right side of Vehicle 1 contacted the left front of Vehicle 2, resulting in a collision between the front of Vehicle 1 and the side of Vehicle 2.

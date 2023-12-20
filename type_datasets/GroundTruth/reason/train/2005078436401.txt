@@ -1,1 +1,0 @@
-This is because vehicle one (V1) struck the rear of vehicle two (V2), causing V1 to rotate counterclockwise and then strike the left side of vehicle three (V3).

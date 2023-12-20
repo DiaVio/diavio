@@ -1,1 +1,0 @@
-This is because Vehicle 1's front contacted Vehicle 2's right back, and then continued heading left into Vehicle 3's lane, with the front of Vehicle 1 contacting the front of Vehicle 3. This describes a collision where the front of one vehicle collides with the side of another, commonly known as a "T-bone" collision.

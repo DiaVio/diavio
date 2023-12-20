@@ -1,1 +1,0 @@
-The driver of V1 failed to yield the right of way to V2 when making a left turn from a designated straight travel lane. This illegal maneuver, combined with the driver's inattention and assumption that it was safe to turn based on observing another vehicle, led to the collision.

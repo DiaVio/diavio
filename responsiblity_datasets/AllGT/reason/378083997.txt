@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that the driver fell asleep at the wheel, causing V1 to veer to the left and subsequently collide with multiple trees.

@@ -1,8 +1,0 @@
-
-Justification: 
-- Vehicle one (V1) struck the back of vehicle two (V2).
-- V2 had stopped to make a left turn, and V1 failed to stop in time, resulting in a collision from behind.
-- The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped," indicating that V1 collided with a stationary vehicle in front of it.
-- The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in the same direction with higher speed," indicating that V1 was traveling at a higher speed than V2 before the collision.
-
-Therefore, based on these factors, the accident can be classified as a Rear-End Collision.

@@ -1,1 +1,0 @@
-Vehicle one (V1) impacted the right side of vehicle two (V2) at the intersection, where the front of V1 collided with the side of V2.

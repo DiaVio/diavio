@@ -1,1 +1,0 @@
-The reason for V2 being primarily responsible is that it impacted the right side of V1, causing V1 to rotate and subsequently rollover. This indicates that V2 failed to yield or violated the right of way, resulting in the collision and subsequent rollover of V1.

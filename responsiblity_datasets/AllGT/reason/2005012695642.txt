@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 made a performance error by overcompensating when trying to avoid another vehicle merging into her lane. This led to her losing control of the vehicle and ultimately contacting the guardrail.

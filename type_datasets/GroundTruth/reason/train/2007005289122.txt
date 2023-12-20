@@ -1,1 +1,0 @@
-This is because the crash involved only one vehicle (Vehicle 1) and there were no other entities involved. The vehicle drove off the right side of the roadway and struck trees before coming to a rest off the roadway.

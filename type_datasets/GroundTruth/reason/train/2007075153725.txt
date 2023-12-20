@@ -1,1 +1,0 @@
-Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) as V2 was turning left at the intersection. The impact caused V1 to rotate counterclockwise and both vehicles came to rest facing southeast.

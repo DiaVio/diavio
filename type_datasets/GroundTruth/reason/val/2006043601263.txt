@@ -1,1 +1,0 @@
-This is because vehicle V2 collided with the rear of vehicle V1 while both vehicles were traveling in the same direction.

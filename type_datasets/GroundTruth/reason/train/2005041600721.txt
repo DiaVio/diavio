@@ -1,1 +1,0 @@
-Vehicle #2 collided with the back right bumper of Vehicle #1 after trying to follow its evasive action.

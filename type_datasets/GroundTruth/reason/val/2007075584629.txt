@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the back of the impact attenuator attached to the rear of Vehicle 2 (V2) while V2 was stopped in lane three to close the traffic lane. V1's front impacted the back of the impact attenuator, resulting in a front-to-side collision.

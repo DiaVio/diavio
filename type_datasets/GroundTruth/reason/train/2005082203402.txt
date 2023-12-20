@@ -1,1 +1,0 @@
-ackover Collision - Vehicle one (V1) struck the back of vehicle two (V2), indicating that V1 reversed into the back of V2. The critical pre-crash event for V1 was coded as "other motor vehicle in lane, traveling in the same direction while decelerating," suggesting that V1 was backing up into V2 while V2 was slowing down.

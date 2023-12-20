@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 assumed that the driver of V2 would continue through the yellow light, leading to a false assumption of the other driver's actions. Additionally, an associated factor was that V1 was following too closely to V2, which limited the driver's ability to brake in time.

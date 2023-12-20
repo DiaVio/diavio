@@ -1,4 +1,0 @@
-
-
-Justification: 
-- Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) as V2 turned left into the path of V1. This indicates a collision between the front of V1 and the side of V2, which is characteristic of a front-to-side collision or a "T-bone" collision.

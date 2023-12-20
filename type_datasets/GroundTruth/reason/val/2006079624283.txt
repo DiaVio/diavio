@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) crossed lane one and then lane two, and the front of Vehicle 2 (V2) struck the left side of V1.

@@ -1,1 +1,0 @@
-Front-to-Side Collision (T-bone collision). This is because the front of vehicle 1 (V1) collided with the left side of vehicle 2 (V2) as they entered the intersection, resulting in a side-slapping motion between the two vehicles.

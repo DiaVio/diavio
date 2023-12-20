@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 entered the intersection in an attempt to execute a left turn when it was impacted on the right side by Vehicle 2 (the 2001 Dodge B3500 Ram Van). This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the collision.

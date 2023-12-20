@@ -1,1 +1,0 @@
-The reason for this is that V1 failed to stop for a red traffic signal, which is considered an illegal maneuver. V1 entered the intersection while the traffic signal was still red, resulting in the collision with V2 (the driver of the Acura Integra) who had the right of way after the traffic signal turned green.

@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 turned left at the intersection but entered the westbound lanes, traveling east. This indicates that the driver of Vehicle 1 made an improper left turn and entered the opposing lanes of traffic, resulting in a head-on collision with Vehicle 2.

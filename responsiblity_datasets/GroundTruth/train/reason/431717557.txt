@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 attempted to execute a left turn across the northbound travel lane, but failed to yield the right of way to Vehicle 2 (the 2013 Toyota Tacoma). As a result, Vehicle 1's front bumper impacted the left side of Vehicle 2, causing the collision.

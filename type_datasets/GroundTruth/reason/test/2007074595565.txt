@@ -1,1 +1,0 @@
-Vehicle 1 (V1) was turning left and its front struck the front of Vehicle 2 (V2), which was traveling in the opposite direction. The front of Vehicle 3 (V3) then struck the back of V1. This collision involves the front of one vehicle (V1) colliding with the side of another (V2), which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) impacted the rear of Vehicle 2 (V2), causing V2 to depart the roadway and roll over. The critical pre-crash event for V1 was coded as "other motor vehicle in lane, traveling in the same direction with lower steady speed," indicating that V1 was following V2 and failed to maintain a safe distance.

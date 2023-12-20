@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 was making a left turn across the path of Vehicle 2 (the 2008 Chevrolet Silverado) while Vehicle 2 was proceeding straight on the westbound lane. This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the collision.

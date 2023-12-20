@@ -1,1 +1,0 @@
-Vehicle one was attempting to turn left and was struck on its left side by the front of vehicle two. Additionally, after the initial collision, the right side of vehicle one was struck by the left side of vehicle three. This aligns with the definition of a Front-to-Side Collision, where the front of one vehicle collides with the side of another.

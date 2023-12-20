@@ -1,1 +1,0 @@
-This is because Vehicle one (V1) was passing a non-contact vehicle on its left, and just as V1 was passing, the non-contact vehicle made a U-turn, resulting in V1 colliding with the side of the non-contact vehicle.

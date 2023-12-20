@@ -1,1 +1,0 @@
-The reason for Vehicle 1's responsibility is that the driver panicked and swerved to the right, causing the vehicle to depart the right road edge and ultimately resulting in the crash.

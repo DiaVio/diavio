@@ -1,1 +1,0 @@
-Vehicle 1 struck the rear of Vehicle 2, forcing it forward into the rear of Vehicle 3. This aligns with the definition of a Rear-End Collision where one vehicle hits the back of another.

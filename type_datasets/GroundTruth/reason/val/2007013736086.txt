@@ -1,1 +1,0 @@
-This is because the crash involved only one vehicle (V1, a Dodge Ram pickup truck) and no other entities. V1 lost control due to the icy roads, rotated and skidded off the roadway, and eventually rolled over and landed on its top.

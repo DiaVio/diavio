@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 made a decision error by following too closely to respond to unexpected actions. This is evident from the fact that V1 attempted a lane change to avoid hitting the vehicle in front but was unable to do so, resulting in the collision with V2.

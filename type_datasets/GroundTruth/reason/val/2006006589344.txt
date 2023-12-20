@@ -1,1 +1,0 @@
-This is because vehicle 1 attempted to pass vehicle 2 and contacted vehicle 2's left side with its front right corner.

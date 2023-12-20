@@ -1,1 +1,0 @@
-This is because Vehicle #2 collided with the rear of Vehicle #1 when it abruptly stopped to avoid contact with the vehicle in front of it.

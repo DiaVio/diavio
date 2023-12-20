@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn across the path of V2, which had the right of way. V1 moved into the left turn only lane and failed to yield to oncoming traffic, resulting in the collision.

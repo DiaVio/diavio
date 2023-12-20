@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 2 lost control of his vehicle, resulting in a counterclockwise yaw/rotation and entering the number two eastbound travel lane where Vehicle 1 was traveling. This caused the frontal plane of Vehicle 2 to strike the left side plane of Vehicle 1, leading to the collision.

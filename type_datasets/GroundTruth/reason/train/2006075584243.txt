@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) changed lanes into lane two and started into lane three when the driver lost control. V1 then re-entered lane two where Vehicle two (V2) was traveling and impacted with its right side to V2's back. This collision describes a front of one vehicle (V1) colliding with the side of another vehicle (V2), which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-Vehicle one (V1) struck the right side of vehicle two (V2) as they entered the intersection at the same time. This collision occurred when the front of V1 collided with the side of V2.

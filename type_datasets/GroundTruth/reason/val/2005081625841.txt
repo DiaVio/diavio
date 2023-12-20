@@ -1,1 +1,0 @@
-This is because Vehicle #1 collided with the back of Vehicle #2, and as a result of the impact, Vehicle #2 moved forward and the front of Vehicle #1 struck the rear of Vehicle #3.

@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver failed to detect the red traffic light for his direction of travel and failed to detect V2 approaching from his right. This indicates a lack of adequate surveillance on the part of V1, which led to the collision with V2.

@@ -1,7 +1,0 @@
-This two-vehicle daytime collision occurred on a four-lane two-way arterial roadway intersected by a two-way city street. The roads are paved with concrete. The roadway for both vehicles is straight and level. The speed limit for the northbound travel is 40 kmph (25 mph) traffic flow controlled by stop sign and for eastbound travel the speed limit is 56 kmph (35 mph). At the time of the crash the sky was clear.
-
-Vehicle one (V1), a 2002 Ford Escort coupe driven by a forty nine (49) year old female, was traveling north in lane one, stopping at the stop sign. Vehicle two (V2), a 2008 Dodge Avenger driven by a eighteen (18) year old male, was traveling east in lane one merging into lane two just before impact. V1 began the left hand turn and V2 locked up the brakes and impacted the left passenger door of V1 with its front plane. V1 rotated approximately twenty degrees coming to rest, V2 came to rest just west of impact. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
-
-The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event assigned to this driver is a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).
-
-The critical pre-crash event for V2 was coded: other vehicle encroachment; from crossing street, turning into opposite direction. The critical reason for the critical event is not coded to this vehicle.

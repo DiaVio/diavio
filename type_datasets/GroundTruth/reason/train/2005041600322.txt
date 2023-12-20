@@ -1,1 +1,0 @@
-This is because it involves only one vehicle (Vehicle #1) and no other entities were involved in the collision. The vehicle lost control and impacted the concrete barrier due to a tire blowout or flat tire.

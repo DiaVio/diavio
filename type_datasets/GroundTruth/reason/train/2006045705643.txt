@@ -1,2 +1,0 @@
-
-Justification: Vehicle V2 hit the rear-end of vehicle V3, causing V3 to rear-end V2.

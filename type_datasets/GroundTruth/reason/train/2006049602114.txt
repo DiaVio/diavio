@@ -1,1 +1,0 @@
-The first vehicle (V1) turned left at the intersection and was struck on the right side by the front of the second vehicle (V2). This is a classic "T-bone" collision where the front of one vehicle collides with the side of another.

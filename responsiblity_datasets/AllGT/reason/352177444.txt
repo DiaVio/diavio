@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 entered the westbound travel lane, traveling east, which caused it to collide with Vehicle 3 and its trailer. Subsequently, Vehicle 2 struck Vehicle 1 in an offset manner, resulting in Vehicle 2 rolling onto its right side plane. This indicates that Vehicle 2 was in the wrong lane and caused the chain of events leading to the collision.

@@ -1,1 +1,0 @@
-The reason for this is that V2 was turning left at the intersection, and V1 had the right of way since it was traveling straight in its lane. V2 failed to yield the right-of-way to V1, resulting in the collision. Additionally, the driver-related factor for V2 is unknown, indicating a potential error on the part of the driver.

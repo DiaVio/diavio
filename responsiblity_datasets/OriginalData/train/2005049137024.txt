@@ -1,9 +1,0 @@
-This two vehicle crash occurred a little past noon. The roadway is a two-lane, one-way, concrete access road, servicing the southbound lanes of a major expressway. Conditions were dry during daylight hours. There were no adverse atmospheric conditions at that time, and there were no defects in the roadway. Posted speed limit 72 kmph (45 mph).
-
-Vehicle one (V1), a light vehicle of unknown make and model, was southbound in the second lane. Vehicle two (V2), a 1996 Ford Contour sedan driven by a 21 year-old female with one passenger was traveling southbound in the first lane, slightly ahead of V 1. V1 departed its lane to the right, entering the first southbound lane as it was overtaking V2. The right side of V1 struck the left front of V2. V1 continued on its path, leaving the scene without providing identification. The driver of V2 braked (without lockup) and steered right at the moment of impact. This action caused V2 to depart the roadway onto the raised curb, and across a paved sidewalk, where the front of V2 impacted the corner of a concrete storm sewer pad. V2 came to rest in contact with the concrete pad, partially in the roadway, facing generally southwest. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
-
-V2 was towed from the scene due to damage sustained in the collision.
-
-The pre-event movement for V1 coded changing lanes, category this vehicle traveling over the lane line on right side of travel lane. Critical reason for the critical event coded driver related factor "unknown critical non-performance". (driver fled the scene no additional information).
-
-The pre-event movement for V2 coded going straight, category other vehicle encroachment from adjacent lane same direction over left lane line. Critical reason not coded to this vehicle.

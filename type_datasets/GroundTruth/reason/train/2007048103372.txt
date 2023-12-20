@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) turned left in the intersection and was struck on the right side by the front of Vehicle 2 (V2). The front of Vehicle 1 also struck the left side of Vehicle 3 (V3). This collision involves the front of one vehicle (V1) colliding with the side of another (V2), which is characteristic of a front-to-side collision or a "T-bone" collision.

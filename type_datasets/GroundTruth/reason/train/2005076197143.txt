@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1), which was attempting to turn left, was struck on its front right side by the front of Vehicle 2 (V2). The impact occurred when V2 was traveling east in lane two, resulting in a collision between the front of V2 and the side of V1. This type of collision is commonly referred to as a "T-bone" collision.

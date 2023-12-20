@@ -1,1 +1,0 @@
-Vehicle 1 was making a U-turn and was struck on the left side by the front of Vehicle 2, indicating a collision between the front of one vehicle (V-2) and the side of another vehicle (V-1).

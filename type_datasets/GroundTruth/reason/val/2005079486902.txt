@@ -1,1 +1,0 @@
-This is because Vehicle 1 crossed the center lane and collided with the right side of Vehicle 2 in a sideswipe configuration. Then, Vehicle 1 continued forward and collided with the left side of Vehicle 3 in another sideswipe configuration.

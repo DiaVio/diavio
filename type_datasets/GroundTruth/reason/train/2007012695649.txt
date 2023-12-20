@@ -1,3 +1,0 @@
-
-
-Justification: The front of V1 collided with the left side of V2, resulting in both vehicles rotating and the right side of V2 then contacting the left side of V1. This type of collision, commonly known as a "T-bone" collision, occurs when the front of one vehicle collides with the side of another.

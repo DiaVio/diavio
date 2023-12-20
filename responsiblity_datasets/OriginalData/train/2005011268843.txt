@@ -1,9 +1,0 @@
-The crash occurred in an intersection of a roadway and a driveway from a shopping area. The two-way, two lane driveway was straight, level and bituminous, with a statutory speed limit of 40kmh (25mph). The roadway was two-way, 4 lanes divided by a paved flush median with a posted speed limit of 56kmh (35mph). The bituminous road was level and curved to the left. The conditions on the weekend afternoon were dry and clear.
-
-V1, a 2000 Mercury Sable driven by an 81 year old female, was stopped waiting in the driveway for >30 seconds, waiting for traffic to clear to turn left onto the roadway. The driver of v1 stated that she looked right and then left and thought it was clear and pulled fast out of the driveway. The driver of v1 never saw v2 and had no avoidance maneuvers. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
-
-V2, a 2000 Honda Accord was northbound in lane one on the roadway. The driver of v1 swerved to the left and braked, with lock-up, but the front of v2 struck the left front of v1 between lane one and lane two. The airbags deployed in v2 and the driver was transported to a local trauma center. Both vehicles were towed from the scene due to damage.
-
-The Critical Precrash Event coded to the driver of v1 was 'this vehicle traveling turning left at intersection'. The Critical Reason for the Critical Event was coded as 'driver related factor-inadequate surveillance-looked but did not see.' An Associated Factor was coded for the drivers prescribed medication taken for arthritis and cholesterol which include possible side effects of headache, weakness and nausea.
-
-The Critical Precrash Event coded for v2 is 'other motor vehicle encroachment from driveway turning into opposite direction.' The Critical Reason for the Critical Event was not coded to this vehicle.

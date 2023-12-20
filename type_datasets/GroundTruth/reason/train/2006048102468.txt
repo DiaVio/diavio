@@ -1,1 +1,0 @@
-The driver of V1 failed to notice that the other vehicles were stopped due to being distracted by a sneeze. As a result, V1's front struck the back of V2, which was pushed forward and collided with the back of V3. This sequence of events aligns with the characteristics of a Rear-End Collision.

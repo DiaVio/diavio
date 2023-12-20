@@ -1,1 +1,0 @@
-This is because V1, which was attempting a left turn, collided with the front of V2, which was traveling straight in the opposite direction.

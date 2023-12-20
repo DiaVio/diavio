@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 lost control of the vehicle while attempting to steer left and over-correcting, causing V2 to rotate counterclockwise and enter the lane of V1, the 2004 Honda CRV. This action by the driver of V2 resulted in the collision between the two vehicles.

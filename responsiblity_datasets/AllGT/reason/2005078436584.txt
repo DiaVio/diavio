@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver of V1 failed to yield the right-of-way to V2. Despite stopping at the stop sign, the driver of V1 did not look to his left before making the left turn. This failure to adequately survey the intersection and recognize the presence of V2 led to the collision.

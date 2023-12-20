@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 2 was attempting to turn left out of a parking lot and failed to adequately surveil the oncoming traffic before making the turn. This resulted in Vehicle 1 (the Chevrolet Camaro) colliding with the left side of Vehicle 2.

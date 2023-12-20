@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) swerved left and struck the right side front of Vehicle two (V2), indicating that the front of V1 collided with the side of V2.

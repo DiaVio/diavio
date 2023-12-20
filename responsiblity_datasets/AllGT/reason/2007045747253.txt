@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 overcompensated after successfully avoiding the first critical event of braking to avoid striking the vehicle ahead. This overcompensation caused V1 to skid sideways and roll over longitudinally to the left, ultimately resulting in the crash.

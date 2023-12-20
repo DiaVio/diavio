@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the rear of Vehicle 2 (V2), which then caused a chain reaction with V2 colliding with V3 and V3 colliding with V4. The primary impact occurred when V1 struck the rear of V2.

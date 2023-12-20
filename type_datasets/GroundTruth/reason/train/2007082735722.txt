@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) was traveling north in lane two and its front impacted with the right side of Vehicle 1 (V1) with V2's front. The front of V2 collided with the side of V1, resembling a "T-bone" collision.

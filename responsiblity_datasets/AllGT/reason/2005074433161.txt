@@ -1,1 +1,0 @@
-The reason for this is that V2 failed to yield the right-of-way to V1 (the 1995 Ford Windstar minivan) when V1 was making a left turn at the intersection. V2 made a false assumption that V1 would stop at the intersection, leading to the collision between the two vehicles.

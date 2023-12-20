@@ -1,1 +1,0 @@
-This is because the front of vehicle V1 collided with the side of vehicle V2 in a "T-bone" manner at the intersection. The impact caused V2 to be pushed back slightly before coming to final rest, while V1 continued forward before coming to final rest.

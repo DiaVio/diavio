@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) attempted to change lanes and its front impacted the left rear corner of Vehicle 2 (V2), and then entered the third lane where its front impacted the right side of Vehicle 3 (V3). This collision scenario fits the description of a front of one vehicle colliding with the side of another, also known as a "T-bone" collision.

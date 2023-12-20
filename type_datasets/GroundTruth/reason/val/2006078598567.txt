@@ -1,8 +1,0 @@
-
-
-Justification: 
-- Vehicle one (V1) attempted to make a left turn into the westbound lanes, and vehicle two (V2) struck the right front of V1 as it entered the intersection. 
-- The vehicles side slapped and the right side of V1 struck the left side of V2. 
-- V1 rotated counterclockwise and crossed two eastbound lanes, while V2 rotated clockwise, crossed the westbound lanes, and came to rest against a concrete curb. 
-
-This sequence of events indicates a collision between the front of V2 and the side of V1, which aligns with a front-to-side collision or a "T-bone" collision.

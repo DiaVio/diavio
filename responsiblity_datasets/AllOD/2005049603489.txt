@@ -1,9 +1,0 @@
-The crash happened during morning. Involved are three passenger cars. The location was a six lane undivided (one-way traffic) exit ramp of a highway leading to an intersection. The speed limit 64 kmph (40 mph).The weather was clear and the road surface is concrete and dry.
-
-Vehicle one (V1), a 1999 Mazda Protege, was driven by a 27 year-old male who was traveling north in the third lane of traffic. Vehicle two (V2), a 1999 Honda Accord, was driven by a 55 year-old female who was northbound and stopped at the intersection in lane 3. Vehicle three (V3) was a 1995 Honda Accord driven by a 21 year-old female who was stopped in front of V2. The front of V1 impacted the rear of V2. V2 rotated counter clockwise and moved forward. The front of V2 impacted the rear of V3. V3 was slightly pushed forward. All vehicles came to rest in lane three, south of the intersection. V1 & V2 were towed from the scene. The driver of V2 was transported to a local medical facility. V3 was driven from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
-
-The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate evasive action.
-
-The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
-
-V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.

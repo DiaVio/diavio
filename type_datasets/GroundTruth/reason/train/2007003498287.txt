@@ -1,1 +1,0 @@
-This is because the front of vehicle V1 impacted the right side of vehicle V2 at the intersection, resulting in V2 rotating counterclockwise and the front of vehicle V3 contacting the back of V2.

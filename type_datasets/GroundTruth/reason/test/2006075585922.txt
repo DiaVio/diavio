@@ -1,1 +1,0 @@
-This is because vehicle one (V1) was making a U-turn and almost completed the turn into lane one when it was impacted on its right side by vehicle two (V2) that was going through the intersection on the green light. The impact occurred with the front of V2 colliding with the right side of V1, which is indicative of a front-to-side collision.

@@ -1,1 +1,0 @@
-This is because the front of vehicle V1 contacted the back of vehicle V2, indicating that V1 hit the back of V2.

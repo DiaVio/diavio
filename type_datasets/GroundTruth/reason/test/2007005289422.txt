@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was heading north and crossed the path of Vehicle 2 (V2), which was heading west. The front of V2 contacted the right front of V1, resulting in a side collision. The impact occurred when V1 failed to stop at the stop sign and continued straight through the intersection.

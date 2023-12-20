@@ -1,1 +1,0 @@
-Vehicle 1 was making a left turn and Vehicle 2 collided with the right side of Vehicle 1. This collision involved the front of Vehicle 2 colliding with the side of Vehicle 1, which is characteristic of a front-to-side collision.

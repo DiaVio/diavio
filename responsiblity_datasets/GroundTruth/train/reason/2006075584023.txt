@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver failed to look far enough ahead while attempting to change lanes. This external distraction caused her to not notice that the vehicles in front of her were stopped, leading to her applying her brakes late and colliding with the back of V2.

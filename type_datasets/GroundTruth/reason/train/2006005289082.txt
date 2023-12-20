@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to make a left turn at the intersection and the front of Vehicle 2 made contact with the left front of Vehicle 1, resulting in a T-bone collision.

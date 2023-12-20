@@ -1,1 +1,0 @@
-The front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) in a "T-bone" fashion. This is evident from the description of the crash, where it mentions that "the front of V1 struck the front of V2" and "the left side of V1 struck the right side of V2." Therefore, the accident can be categorized as a Front-to-Side Collision.

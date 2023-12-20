@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver attempted a lane change to the right and then overcompensated, causing the vehicle to lose control and roll onto its left side. This indicates a driver-related factor and suggests that the driver's actions and overcompensation led to the collision.

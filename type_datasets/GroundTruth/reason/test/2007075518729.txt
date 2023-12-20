@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) changed lanes to the left and impacted the back of Vehicle 2 (V2) with its front, and then proceeded to impact the back of Vehicle 3 (V3) with its front as well. This sequence of events indicates that V1 collided with the rear ends of both V2 and V3.

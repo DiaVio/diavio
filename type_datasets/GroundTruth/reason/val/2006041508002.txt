@@ -1,1 +1,0 @@
-This is because the front of vehicle V2 (motorcycle) collided with the side of vehicle V1 (Nissan 350Z) as V1 attempted to make an illegal left turn in front of V2.

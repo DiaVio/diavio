@@ -1,6 +1,0 @@
-
-
-- V1 attempted to change lanes into lane five, in front of V2.
-- The front right of V2 made contact with the back left of V1.
-
-These statements indicate that V1 was hit from behind by V2, which is characteristic of a Rear-End Collision.

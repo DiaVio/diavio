@@ -1,1 +1,0 @@
-The driver of V1 failed to recognize that V2 was stopped ahead and collided with the rear of V2.

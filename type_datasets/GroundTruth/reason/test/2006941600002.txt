@@ -1,1 +1,0 @@
-This is because Vehicle 1 failed to stop at the stop sign and crossed the lanes of traffic, resulting in the front of Vehicle 2 colliding with the left side of Vehicle 1.

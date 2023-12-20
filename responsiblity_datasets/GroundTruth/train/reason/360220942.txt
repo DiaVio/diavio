@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 lost control of the vehicle while negotiating a left curve, resulting in a counterclockwise yaw. V1 then traveled across lanes and departed the roadway, ultimately impacting trees and causing the vehicle to roll over. The driver's loss of control and subsequent actions led to the accident.

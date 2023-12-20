@@ -1,1 +1,0 @@
-The driver of V1 was found to be at fault due to a driver-related factor, specifically falling asleep at the wheel. This major factor, combined with the fact that V1 rear-ended V2 without taking any avoidance actions, indicates that V1's driver was not alert and failed to maintain a safe distance from the vehicle in front.

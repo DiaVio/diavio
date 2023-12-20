@@ -1,1 +1,0 @@
-This is a classic scenario of a front of one vehicle colliding with the side of another vehicle, also known as a "T-bone" collision.

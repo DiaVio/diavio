@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the back of Vehicle 2 (V2), causing V2 to be propelled forward and collide with the front of Vehicle 3 (V3). This collision scenario involves the front of one vehicle (V2) colliding with the side of another (V3), which is a characteristic of a front-to-side collision.

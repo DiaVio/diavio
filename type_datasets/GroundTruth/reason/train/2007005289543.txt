@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) collided with the right front side of Vehicle 1 (V1) as V1 was making a left turn at the intersection. The impact caused V1 to rotate counterclockwise and both vehicles came to rest in different positions.

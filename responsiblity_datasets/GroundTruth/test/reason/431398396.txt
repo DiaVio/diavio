@@ -1,1 +1,0 @@
-The reason for this is that Vehicle #2 was attempting to execute a left turn across the westbound lanes, and it entered the intersection without yielding to oncoming traffic. Vehicle #1 (the Cadillac SRX) was traveling in the right straight lane and had the right of way. Vehicle #2's failure to yield and its impact with the front of Vehicle #1 caused the initial collision.

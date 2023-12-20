@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the front of Vehicle 2 (V2) at the intersection, and as a result, V2 moved backward and collided with the front of Vehicle 3 (V3).

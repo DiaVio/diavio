@@ -1,1 +1,0 @@
-The front of Vehicle 1 impacted the left plane of Vehicle 2, indicating a collision between the front of one vehicle (V1) and the side of another (V2), commonly referred to as a "T-bone" collision.

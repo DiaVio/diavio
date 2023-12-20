@@ -1,1 +1,0 @@
-This is because vehicle two crossed all lanes and collided with the rear plane of vehicle one, which indicates a collision between the front of one vehicle (vehicle two) and the side of another vehicle (vehicle one).

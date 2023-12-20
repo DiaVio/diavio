@@ -1,1 +1,0 @@
-This is because Vehicle One (V1) entered the intersection and struck the left side of Vehicle Two (V2) with its front plane, causing V2 to yaw counterclockwise and come to a rest facing southwest. V1 also yawed counterclockwise and overturned onto its passenger side, coming to a rest facing northwest.

@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) struck the right side of Vehicle 1 (V1), causing V1 to rotate clockwise and the back left side of V1 to strike the front of Vehicle 3 (V3). The front of one vehicle (V2) collided with the side of another vehicle (V1), resembling a "T-bone" collision.

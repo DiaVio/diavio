@@ -1,1 +1,0 @@
-The driver of Vehicle 1 approached the intersection and failed to yield the right of way to Vehicle 2, which was already in the intersection. This resulted in a right angle collision between the two vehicles.

@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 collided with the side of Vehicle 2 when Vehicle 1 attempted a left turn and Vehicle 2 was traveling straight in the opposite direction.

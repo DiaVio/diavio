@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) impacted the right side of Vehicle 2 (V2) after V2 changed lanes to the right.

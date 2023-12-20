@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the front of Vehicle 2 (V2) in a "T-bone" fashion, with V1 traveling westbound and V2 making a left turn from eastbound.

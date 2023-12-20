@@ -1,1 +1,0 @@
-The driver of V1 attempted to change lanes to the right without adequately surveilling the adjacent lane, resulting in a collision with V2. The critical reason for the critical pre-crash event for V1 was coded as "inadequate surveillance," indicating that the driver failed to look or looked but did not see V2 before changing lanes.

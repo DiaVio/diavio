@@ -1,1 +1,0 @@
-The reason for this is that V1 made a false assumption of the actions of the other vehicle (V2) and proceeded to make a left turn without ensuring that it was safe to do so. This false assumption led to V1's front plane being impacted by V2's front plane, resulting in the collision.

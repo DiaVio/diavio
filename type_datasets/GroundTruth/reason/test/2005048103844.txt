@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was impacted on its right side by the front plane of Vehicle 2 (V2) when V1 proceeded through the intersection. The collision occurred when the front of V2 collided with the side of V1, similar to a "T-bone" collision.

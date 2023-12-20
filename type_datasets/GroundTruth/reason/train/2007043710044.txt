@@ -1,1 +1,0 @@
-This is because Vehicle 2 collided with the right front of Vehicle 1, causing Vehicle 1 to cross the double yellow line and collide with the front of Vehicle 3.

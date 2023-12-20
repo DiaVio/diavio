@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) turned left at the intersection and collided with the left side of Vehicle 2 (V2). Additionally, V2 rotated slightly counterclockwise and the right back side struck the left side of Vehicle 3 (V3). This indicates a collision between the front of V1 and the side of V2, which is characteristic of a front-to-side collision or "T-bone" collision.

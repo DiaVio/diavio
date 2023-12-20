@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) collided with the right side of Vehicle 1 (V1) as V1 was traveling westbound and V2 was traveling southbound. The front of V2 made contact with the right side of V1, indicating a front-to-side collision.

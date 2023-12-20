@@ -1,1 +1,0 @@
-The driver of Vehicle 1 was traveling west in lane 2 and collided with the rear of Vehicle 2, which was a parked and unoccupied dump truck.

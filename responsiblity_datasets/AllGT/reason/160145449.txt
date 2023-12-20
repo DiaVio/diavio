@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to make a left turn at the intersection, which indicates that V1 was crossing the path of oncoming traffic. As a result, the front of Vehicle 2 (V2), the 2005 Dodge Grand Caravan, contacted the right side of V1. This suggests that V1 failed to yield the right of way to V2, leading to the collision.

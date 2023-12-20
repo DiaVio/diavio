@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was making a left turn across westbound lanes and its front collided with the front of Vehicle 2 (V2). V1's left front corner contacted the right front corner of V2, indicating a collision between the front of one vehicle and the side of another, also known as a "T-bone" collision.

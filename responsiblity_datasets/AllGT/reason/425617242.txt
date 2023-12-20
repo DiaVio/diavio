@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was making a left turn across the path of Vehicle 1, which had the right of way. Vehicle 1 was proceeding straight through the intersection, and Vehicle 2 failed to yield and turned in front of Vehicle 1, resulting in the collision.

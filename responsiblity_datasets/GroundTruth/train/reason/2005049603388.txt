@@ -1,1 +1,0 @@
-The reason for this is that V1 was attempting a left turn at an intersection with a protected left turn arrow. However, the driver had a limited view of V2 due to a vehicle stopped in the left turn lane of the northbound lanes. This obstruction of view contributed to the driver's failure to yield to oncoming traffic, resulting in the collision with V2.

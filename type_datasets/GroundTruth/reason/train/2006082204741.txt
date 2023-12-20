@@ -1,1 +1,0 @@
-This is because vehicle two (V2) entered the intersection and collided with the front of vehicle three (V3) with its front plane.

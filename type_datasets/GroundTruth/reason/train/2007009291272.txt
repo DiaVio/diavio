@@ -1,1 +1,0 @@
-This is because the front of V1 collides with the side of V2 ("T-bone" collision) when V1 pulls out from the driveway and V2 tries to avoid the crash but fails.

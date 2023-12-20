@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1's frontal plane struck the back plane of Vehicle 2, indicating that Vehicle 1 was the one that made contact with the other vehicle.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 made a false assumption of the actions of other vehicles, specifically failing to notice the approaching V2 (the 1998 Toyota Sienna mini van) before proceeding to turn left. This false assumption led to the collision between the two vehicles.

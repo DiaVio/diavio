@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (Jeep Liberty) collided with the right passenger side of Vehicle 2 (Ford Taurus) on an angle, resulting in rotation and subsequent side-slapping of the vehicles.

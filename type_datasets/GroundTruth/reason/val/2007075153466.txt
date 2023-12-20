@@ -1,1 +1,0 @@
-Vehicle one (V1) failed to stop for traffic and struck the rear of vehicle two (V2), which was stopped in front of it. This is a clear indication of a Rear-End Collision.

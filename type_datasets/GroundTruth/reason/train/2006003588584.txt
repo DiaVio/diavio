@@ -1,1 +1,0 @@
-This is because Vehicle # 3 (1999 International Bus) impacted the back of Vehicle # 2 (2001 Chevrolet Astrovan), which caused Vehicle # 2 to then impact the back of Vehicle # 1 (2003 Dodge Neon).

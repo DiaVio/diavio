@@ -1,7 +1,0 @@
-This crash occurred at the intersection of a four-lane asphalt roadway and a parking lot entrance. It was mid-afternoon on a weekend. The posted speed limit was 56 kph (35mph.)
-
-Vehicle 1 was a 2003 Buick Regal driven by an 80 year-old female. This vehicle was traveling east in the left turn lane. This lane was lane three of three eastbound lanes. Vehicle 2 was a 1997 Saturn SL2 driven by a 48 year-old male. This vehicle was traveling west in lane one. Vehicle 1 turned left at the intersection and the front of Vehicle 1 contacted the front of Vehicle 2. Police Reported Travel Speed is 16 kmph for V1 and 16 kmph for V2.
-
-The Critical Precrash Event for Vehicle 1 was this vehicle traveling turning left at the intersection. The Critical Reason for the Critical Precrash Event for Vehicle 1 was unknown reason for critical event. The driver of V1 refused to give an interview.
-
-The Critical Precrash Event for Vehicle 2 is other vehicle encroachment from opposite direction-over left lane line. The Critical Reason was not coded to this vehicle. The driver of V2 was taking medication for hypertension, high blood pressure and high cholesterol. The high blood pressure medicine had possible side effects of dizziness and light headedness. The driver of V2 refused to give an interview.

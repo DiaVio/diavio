@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 was unable to brake and steer right in order to avoid a collision with the slowing traffic ahead, resulting in the frontal impact with Vehicle 2 and subsequent impact with Vehicle 3.

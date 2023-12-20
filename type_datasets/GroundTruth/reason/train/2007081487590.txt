@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) impacted the front right corner of Vehicle 1 (V1) as V1 initiated a left turn in front of V2 without yielding.

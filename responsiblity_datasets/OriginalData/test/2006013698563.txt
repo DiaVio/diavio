@@ -1,7 +1,0 @@
-The crash occurred in the southbound lane of a two-lane, two-way, non-divided, asphalt roadway. This roadway had a curve to the left, with a positive grade with a posted speed of 89 kmph (55 mph). The crash occurred during daylight hours, and there were no adverse conditions present at the time of the crash.
-
-V1 a 1995 Chevy Lumina was traveling southwest negotiating a curve, when it went off the roadway to the right and struck a guardrail with the front left. It then rotated counterclockwise and hit the right rear with the guardrail. The vehicle then crossed both lanes of traffic and hit the guardrail on the left side of the road with its front. Police Reported Travel Speed is Not reported for V1.
-
-The driver of V1 a 53 year-old female diver stated that she went into a seizure, and does not remember the crash. She also stated that the last thing she remembers is the airbags going off.
-
-The Critical-Pre Crash Event Coded for V1 is "this vehicle traveling, off the edge of the road on the right side". The Critical Reason for the Critical Event Coded for V1 is "Heart attack or other physical impairment of the ability to act - seizure".

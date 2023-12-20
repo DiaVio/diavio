@@ -1,1 +1,0 @@
-The driver of V1 failed to adequately surveil the intersection before making the left turn. This is evident from the fact that V1 did not see V2 approaching before initiating the left turn. Inadequate surveillance is a driver-related factor that contributed to the collision.

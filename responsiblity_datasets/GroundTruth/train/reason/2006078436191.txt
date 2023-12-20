@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver failed to adequately survey the intersection before making a left turn. This is evident from the critical pre-crash event coded for V1, which states that the driver had inadequate surveillance and either failed to look or looked but did not see V2 approaching.

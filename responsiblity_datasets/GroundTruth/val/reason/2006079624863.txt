@@ -1,1 +1,0 @@
-The driver of V2 made a false assumption about the actions of V1 and proceeded with her left turn, encroaching upon V1's path of travel. This false assumption led to the collision between V1 and V2.

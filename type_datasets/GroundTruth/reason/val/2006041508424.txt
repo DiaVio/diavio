@@ -1,1 +1,0 @@
-This is because the driver of V1 was reversing the vehicle and collided with a fixed object (the concrete planter) while backing up.

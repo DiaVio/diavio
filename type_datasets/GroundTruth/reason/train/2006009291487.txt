@@ -1,1 +1,0 @@
-This is because V1 was turning left at the intersection and V2, traveling westbound, collided with the right front side of V1.

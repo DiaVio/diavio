@@ -1,1 +1,0 @@
-This is because Vehicle 1 turned left at an intersection and the front of Vehicle 1 contacted the front of Vehicle 2.

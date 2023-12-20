@@ -1,1 +1,0 @@
-The reason for this is that V2 changed lanes and struck V1 in a sideswiping impact. This indicates that V2 failed to properly check for other vehicles before changing lanes, resulting in the collision with V1.

@@ -1,1 +1,0 @@
-Vehicle one (V1) failed to stop and rear-ended vehicle two (V2), which was stopped in lane one. Vehicle two was then pushed into vehicle three (V3), resulting in a chain reaction of Rear-End Collisions.

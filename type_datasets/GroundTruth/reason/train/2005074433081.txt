@@ -1,1 +1,0 @@
-This is because Vehicle 2 collided into the rear of the heavy truck while both vehicles were traveling in the same direction.

@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) in the intersection, resulting in both vehicles rotating and coming to rest in the intersection. Additionally, Vehicle 2 (V2) also collided with the back left side of Vehicle 3 (V3) after the initial collision with V1.

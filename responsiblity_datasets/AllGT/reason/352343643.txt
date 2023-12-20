@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was traveling in the center left turn lane, intending to make a left turn into a parking lot area. However, Vehicle 2 entered the eastbound travel lane, which resulted in the offset head-on collision with Vehicle 1. This indicates that Vehicle 2 failed to yield the right of way to oncoming traffic, causing the collision.

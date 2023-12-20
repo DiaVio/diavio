@@ -1,1 +1,0 @@
-The reason for this is that V1 was turning left at the intersection and failed to adequately surveil the roadway before entering. This is indicated by the critical pre-crash event being coded as "inadequate surveillance." V1's failure to look or look but not see resulted in the collision with V2.

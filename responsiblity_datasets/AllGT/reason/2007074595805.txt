@@ -1,1 +1,0 @@
-The reason for this is that V2 was the one making a left turn at the intersection, and it is the responsibility of the turning vehicle to yield to oncoming traffic. V2 misjudged the speed of V1 and turned in front of it, resulting in the collision. Additionally, V2 was distracted internally, which likely contributed to her misjudgment and failure to yield.

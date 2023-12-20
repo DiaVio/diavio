@@ -1,1 +1,0 @@
-The driver of V1 was attempting to make a left turn into a convenience store parking lot, but failed to adequately surveil the oncoming traffic in lane two. This resulted in V1 turning in front of V2 (the Toyota Avalon), causing the collision. The critical reason for V1's actions was coded as a driver-related recognition error and inadequate surveillance.

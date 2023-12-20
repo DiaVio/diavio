@@ -1,7 +1,0 @@
-Vehicle one (V1) was heading south, and Vehicle two (V2) was traveling east on the concrete roadway, intending to turn left (northbound). The collision occurred when the front of V1 struck the left side of V2, indicating a front-to-side collision.
-
-The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, turning into opposite direction," which aligns with a front-to-side collision scenario where V2 was turning left, and V1 encountered the obstructed view of a large truck.
-
-The critical pre-crash event for V2 was coded as "this vehicle traveling, turning left at intersection," further confirming that V2 was attempting to make a left turn, which is consistent with a front-to-side collision scenario.
-
-The obstruction of view due to the large truck at the intersection contributed to the collision. This classification is based on the information provided and the specific circumstances of the accident.

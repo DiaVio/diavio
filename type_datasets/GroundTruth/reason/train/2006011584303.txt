@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (V1) contacted the rear of Vehicle 2 (V2), which caused a chain reaction where V2's front contacted the rear of Vehicle 3 (V3).

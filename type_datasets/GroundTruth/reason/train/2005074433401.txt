@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was making a left turn at the intersection and collided with the front of Vehicle 2 (V2) which was traveling straight. The impact occurred when V2's front contacted V1's front right corner in the intersection, resulting in V1 rotating counterclockwise and coming to rest in the southbound traffic lane, while V2 came to rest in the eastbound roadway.

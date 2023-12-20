@@ -1,1 +1,0 @@
-V1 failed to stop at the stop sign and entered the intersection, causing the collision with Vehicle two (V2).

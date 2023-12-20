@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was traveling west and collided with the right side of Vehicle 2 (V2) which was traveling north. The impact occurred when V1 entered the roadway to turn right, resulting in the front left of V1 impacting the right side of V2. This type of collision is commonly referred to as a "T-bone" collision.

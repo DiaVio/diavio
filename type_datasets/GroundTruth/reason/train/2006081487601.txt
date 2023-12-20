@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 1 (V1) impacted the right side of Vehicle 2 (V2) with its left side, and then the right front corner of V1 impacted the left side of Vehicle 3 (V3). This indicates a collision between the front of V1 and the side of V2, followed by a collision between the front of V1 and the side of V3, which aligns with the characteristics of a front-to-side collision.

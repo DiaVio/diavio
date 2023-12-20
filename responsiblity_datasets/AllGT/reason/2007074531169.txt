@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver made a false assumption of the actions of the driver of V2. V1 stated that she thought V2 would continue through the intersection when the signal turned yellow, but V2 actually stopped. This false assumption led to V1 not being able to stop in time and subsequently colliding with the back of V2.

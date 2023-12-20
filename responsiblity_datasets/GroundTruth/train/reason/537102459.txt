@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 attempted to make a left turn at the intersection, crossing the path of V1. V1 was traveling in the right eastbound lane and could not avoid the collision. Therefore, the driver of V2 failed to yield the right of way to V1, resulting in the accident.

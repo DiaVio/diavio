@@ -1,1 +1,0 @@
-The reason for this is that V1 made a left turn at the intersection with an obstructed view due to the presence of a large truck ahead of V2. V1 assumed that traffic behind the truck was clear and executed the turn without being able to see V2 approaching. This decision error by V1 led to the collision with V2.

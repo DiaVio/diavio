@@ -1,1 +1,0 @@
-This is because Vehicle 1 struck the rear of Vehicle 2, and the impact from Vehicle 1 propelled Vehicle 2 forward, causing it to collide with the back of Vehicle 3.

@@ -1,1 +1,0 @@
-This is because the collision involved only one vehicle, the 1991 Chevrolet Astro passenger van (V1), which departed the road and impacted a two-car garage. There were no other entities involved in the accident.

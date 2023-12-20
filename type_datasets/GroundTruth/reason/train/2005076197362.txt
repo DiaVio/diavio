@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was turning left at the intersection and Vehicle 2 (V2) was traveling straight when V1 turned in front of V2, resulting in the front bumper of V1 contacting the front of V2. This is a classic scenario of a front of one vehicle colliding with the side of another, resembling a T-bone collision.

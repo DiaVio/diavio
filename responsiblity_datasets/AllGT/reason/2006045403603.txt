@@ -1,1 +1,0 @@
-The reason for V2's responsibility is that the driver failed to recognize that V1 had stopped at the red light and swerved right without skidding, resulting in a collision with the back right corner of V1.

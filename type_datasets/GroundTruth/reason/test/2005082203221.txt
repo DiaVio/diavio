@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with the side of vehicle two (V2) after traveling into the parking lane.

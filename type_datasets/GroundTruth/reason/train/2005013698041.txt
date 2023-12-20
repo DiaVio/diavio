@@ -1,1 +1,0 @@
-This is because Vehicle 2 attempted to pass Vehicle 1 on the left, and the RF (right front) corner of Vehicle 2 contacted the left rear of Vehicle 1. This collision occurred when Vehicle 1 was making a left turn at the intersection, resulting in a collision between the front of Vehicle 2 and the side of Vehicle 1.

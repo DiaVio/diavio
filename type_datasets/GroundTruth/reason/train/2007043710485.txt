@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the left tire of Vehicle 2 (V2) with its right front, then swerved left and sideswiped the right side of Vehicle 3 (V3) with its left side.
