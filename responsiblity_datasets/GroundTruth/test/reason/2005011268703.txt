@@ -1,0 +1,1 @@
+The reason for V1's primary responsibility is that the driver of V1 lost control of the vehicle due to overcompensation after swerving to avoid a non-contact vehicle. This indicates that V1 was not able to maintain control of the vehicle while making evasive maneuvers, which ultimately led to the crash.

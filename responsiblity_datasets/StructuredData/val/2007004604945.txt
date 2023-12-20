@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "intersection",
+        "LaneType": "two-lane east/west roadway and one-way, single lane northbound exit ramp",
+        "RoadShape": "T",
+        "RoadSlope": "2.5% downhill grade for east/west roadway and 0.5% downhill grade for northbound exit ramp",
+        "SpeedLimit": "56 kmph (35 mph) for east/west roadway and 40 kmph (25 mph) for northbound exit ramp"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous, dry",
+        "Weather": "cloudy and overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "northbound exit ramp",
+        "Location after Crash": "past the intersection facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound in lane one",
+        "Location after Crash": "past the intersection facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

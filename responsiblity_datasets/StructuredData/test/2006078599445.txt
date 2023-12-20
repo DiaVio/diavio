@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "intersection",
+        "LaneType": "two-way",
+        "RoadShape": "T-Bone",
+        "RoadSlope": "level",
+        "SpeedLimit": {
+            "East/West Street": "56 kmph (35 mph)",
+            "North/South Avenue": "80 kmph (50 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "on a painted divider north of the #1 lane eastbound, and east of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "80 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "north",
+        "Location after Crash": "northeast quadrant of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "unmentioned",
+            "Vehicle Action": "crossing over (passing through) intersection",
+            "Travel Speed": "80 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

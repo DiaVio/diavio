@@ -1,0 +1,1 @@
+The reason for V1 being primarily responsible is that the driver of V1 failed to recognize that V2 was stopped in the northbound lane and was unable to avoid contact with V2. This indicates a lack of attention and awareness on the part of the driver of V1, leading to the collision.

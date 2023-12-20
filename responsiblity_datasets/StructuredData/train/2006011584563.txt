@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Urban highway",
+    "LaneType": "Three lanes in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": {
+      "Cars": "113 km/h (70 mph)",
+      "Trucks": "89 km/h (55 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Wet pavement",
+    "Weather": "Snowing"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Off the road, facing northwest",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Change lanes to the left, hit the median barrier, rotate counterclockwise, hit by the truck's wheel, rotate counterclockwise again, leave the road on the right side",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Pulled over to the shoulder and stopped",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Maintained position and speed",
+      "Travel Speed": "56-64 km/h (35-40 mph)",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

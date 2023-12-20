@@ -1,0 +1,7 @@
+This crash occurred in the mid-afternoon on the roadside of a two-lane undivided roadway, just past a 4-way controlled intersection. The west/east roadway had one lane in each direction. The bituminous roadway was wet (due to on and off rain all day), straight, and level with a posted speed limit of 48 kmph (30 mph). The traffic flow was slightly congested and there was some stop and go traffic activity.
+
+V1, a 1994 Buick Roadmaster 4-door sedan, was making a left at the intersection to travel east on the roadway. When the driver of V1 was making the left, he lost control of the vehicle and skidded counterclockwise off the roadway and struck a tree. V1 came to final rest at the original point of impact. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1.
+
+V1 was driven by a 17-year-old male who reported "B" injuries, but refused medical treatment on scene. The driver stated that he was driving to his friend's house from the store. He had just started his trip and lost control when he was making the turn. The driver attempted to regain control of the vehicle by braking but was unsuccessful and skidded off the roadway, striking the tree.
+
+The Critical Pre-crash Event was coded as this vehicle control loss due to traveling too fast for conditions. The Critical Reason for the Critical Pre-crash Event was coded as traveling too fast for conditions (the wet roadway). Associated factors that were coded to this driver include poor directional control, driver inexperience, the rain, and wet road conditions.

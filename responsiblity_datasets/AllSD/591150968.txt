@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four-lane, divided, trafficway",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "level with a significant crown in the median",
+        "RoadSlope": "level with the exception of the median",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "concrete roadway dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left plane (roofrail)",
+        "Moving on which Way": "north",
+        "Location after Crash": "facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

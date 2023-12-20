@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous",
+    "LaneType": "two-lane",
+    "RoadShape": "curve",
+    "RoadSlope": "level (V1), uphill 3% (V2)",
+    "SpeedLimit": "72 km/h (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "snow-covered",
+    "Weather": "snowing"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southeast",
+    "Location after Crash": "rest at impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "braked and steered right",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "northwest",
+    "Location after Crash": "struck guardrail face and came to rest",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "lost control and departed lane",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

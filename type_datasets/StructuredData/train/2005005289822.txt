@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Physically divided bridge",
+        "LaneType": "Two northbound lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "72 kph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "In contact with the back of V2",
+        "Objectivebehavior": {
+            "Whether to Brake": "Failed to stop",
+            "Direction": "Northbound",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "72 kph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Disabled",
+        "Location after Crash": "Contacted right concrete barrier",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A (disabled)",
+            "Direction": "N/A (disabled)",
+            "Vehicle Action": "N/A (disabled)",
+            "Travel Speed": "N/A (disabled)",
+            "is_against_rules": "N/A (disabled)",
+            "Attempted Avoidance Maneuvers": "N/A (disabled)",
+            "Attempted Lane Crossing": "N/A (disabled)"
+        }
+    }
+}

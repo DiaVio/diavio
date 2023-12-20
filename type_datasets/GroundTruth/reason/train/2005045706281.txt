@@ -1,0 +1,1 @@
+Vehicle 1 crossed the dashed line and impacted the left rear side of Vehicle 2, which indicates a collision between the front of Vehicle 1 and the side of Vehicle 2.

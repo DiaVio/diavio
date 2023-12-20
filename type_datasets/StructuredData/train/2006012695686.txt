@@ -1,0 +1,31 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Exit ramp",
+        "RoadShape": "Curved to the left",
+        "RoadSlope": "Uphill slope of 5%",
+        "SpeedLimit": {
+            "Interstate": "105 kmph (65 mph)",
+            "Exit ramp": "56 kmph (35 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Dry concrete",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "South on the interstate",
+        "Location after Crash": "Final rest along the guardrail",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Exit using the off-ramp",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

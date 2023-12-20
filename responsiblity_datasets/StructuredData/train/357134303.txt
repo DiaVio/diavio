@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane asphalt",
+        "LaneType": "unmentioned",
+        "RoadShape": "left-sweeping curve",
+        "RoadSlope": "2% down grade",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight and cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right-side leading",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "facing north on the south side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

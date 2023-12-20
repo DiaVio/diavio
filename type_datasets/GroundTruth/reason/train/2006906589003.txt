@@ -1,0 +1,1 @@
+Vehicle one attempted to make a left turn and contacted the right side of vehicle two, which was traveling in the adjacent lane. This collision involved the front of vehicle one and the side of vehicle two, resembling a "T-bone" collision.

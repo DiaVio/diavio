@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban highway",
+        "LaneType": "Straight",
+        "RoadShape": "Divided by positive cement barrier wall",
+        "RoadSlope": "Positive grade greater than 2%",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet with large puddles of standing water",
+        "Weather": "Heavy rain, dark, not lighted"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right front corner",
+        "Moving on which Way": "Eastbound in lane three",
+        "Location after Crash": "Struck median wall with front left and left side",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Overtaking V2",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left front corner",
+        "Moving on which Way": "Eastbound in lane two",
+        "Location after Crash": "Struck median wall with left front corner",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

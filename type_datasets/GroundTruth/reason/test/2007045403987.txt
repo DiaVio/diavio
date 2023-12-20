@@ -1,0 +1,1 @@
+This is because V1 was making a left turn and V2 was going straight, resulting in the front right of V1 striking the front left of V2.

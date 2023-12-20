@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban four-lane road",
+        "LaneType": "left turn lanes divided by a median and crossover",
+        "RoadShape": "curved to the south",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "sunny"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "attempting to cross from the private drive on the south side to the private drive on the north side",
+        "Location after Crash": "straddling the parking lot curb and a grassy area, facing west 22m northwest of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in the right lane of the four-lane road",
+        "Location after Crash": "facing north in the parking lot off the northwest corner of the intersection 21m northwest of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "80 kmph (50 mph)",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

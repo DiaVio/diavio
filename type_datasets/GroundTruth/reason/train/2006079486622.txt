@@ -1,0 +1,1 @@
+Vehicle 2 (V2) collided with the right side of Vehicle 1 (V1) with its front, indicating a collision between the front of one vehicle (V2) and the side of another vehicle (V1).

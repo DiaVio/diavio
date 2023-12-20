@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "freeway",
+        "LaneType": "two eastbound lanes",
+        "RoadShape": "curve to the left",
+        "RoadSlope": "grassy sloped median",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "clear",
+        "Weather": "dry"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "grassy median near the shoulder edge of the westbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northwest",
+            "Vehicle Action": "rotated counterclockwise across both eastbound lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

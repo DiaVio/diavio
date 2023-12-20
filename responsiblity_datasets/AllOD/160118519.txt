@@ -1,0 +1,9 @@
+Vehicle 1 (V1) is a 2003 Mazda Protégé, four-door (case study vehicle). Vehicle 2 (V2) is a 1998 Nissan Sentra, four-door. V1 was occupied by a male, age 16 (study participant) as its driver, and lone occupant. The study participant was wearing the available lap and shoulder belt. The frontal air bags did deploy as a result of impact.
+
+The crash occurred during the hours of daylight. The weather at the time of the crash was clear and dry. The roadway surface was dry. The posted speed limit is 35 mph (56 kmph).
+
+The crash occurred on a two lane roadway. The roadway is divided by a double yellow line. The roadway travels in a north-south direction. The northbound direction consists of one through lane. The southbound direction consists of one through lane. The roadway has a positive grade in the southbound direction and a negative grade in the northbound direction. The crash occurred on a curve in the road, with the northbound direction being a right hand curve.
+
+V1 was traveling northbound and V2 was traveling southbound. V2 crossed into the northbound lane. V2's front end struck the front of V1.
+
+The study participant was transported by air to a trauma center.

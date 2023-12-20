@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "rural roadway",
+    "LaneType": "two-lane",
+    "RoadShape": "curve",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "right",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "private yard",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "southeast",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

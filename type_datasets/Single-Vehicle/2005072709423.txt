@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "East/West roadway",
+        "LaneType": "Two eastbound lanes and five westbound lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "58 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Clear dusk conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Across the number one travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes (pre-crash braking skid marks)",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Changed lanes to the right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes (driver's license had a suspended status)",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Unmentioned",
+        "Moving on which Way": "Unmentioned",
+        "Location after Crash": "Unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

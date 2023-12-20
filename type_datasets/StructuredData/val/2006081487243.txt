@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate highway",
+        "LaneType": "Divided",
+        "RoadShape": "Slight curve to the left",
+        "RoadSlope": "Downhill grade",
+        "SpeedLimit": "112 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Standing water",
+        "Weather": "Heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "West",
+        "Location after Crash": "Off adjacent to left shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Northeast",
+            "Vehicle Action": "Counter-clockwise rotation, hydroplaned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

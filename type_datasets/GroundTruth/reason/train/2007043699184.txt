@@ -1,0 +1,1 @@
+Vehicle 1 (Toyota Camry) attempted a U-turn and turned left across the roadway into the path of Vehicle 2 (Ford F150), resulting in a collision between the front of Vehicle 2 and the left side of Vehicle 1.

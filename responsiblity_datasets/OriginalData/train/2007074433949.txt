@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west roadway is straight and consists of two lanes in each direction with left turn lanes at the intersection. The eastbound lanes have a downhill grade. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1999 Nissan Altima, was westbound in lane three. Vehicle two (V2), a 1994 Honda Accord, was eastbound in lane two. V1 turned left in the intersection and the right side was struck by the front of V2. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a forty-year-old male, was on his way from a business lunch to a meeting with three passengers. This driver was healthy, well rested and comfortable with his vehicle and passengers. This was the first time he traveled this route. This driver stated that he was having a work-related conversation with his passengers, thinking about the meeting and looking at his turn destination. He further stated that he did not see V2 prior to the crash.
+
+The driver of V2, a thirty-three-year-old male, had left his home to run an errand. He was well rested, healthy and familiar with his vehicle. He travels this route daily. This driver stated that he was looking straight ahead and did not see V1 until it was immediately in front of him.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as " driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." This driver's inattention was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's inadequate surveillance was an associated factor in this crash.

@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left rear of Vehicle 2 (V2) as V2 was traveling east through the intersection. V1's front made contact with the left rear of V2, resulting in a T-bone collision.

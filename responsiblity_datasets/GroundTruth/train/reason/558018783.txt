@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 made a left turn and entered the path of Vehicle 2 (the 2004 Dodge Sprinter cargo van). This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the collision.

@@ -1,0 +1,3 @@
+
+
+Vehicle 1 was traveling west and made a left turn across the path of Vehicle 2, which was traveling east. Vehicle 2 struck the right side of Vehicle 1, indicating a collision between the front of Vehicle 2 and the side of Vehicle 1. This collision pattern matches the characteristics of a front-to-side collision.

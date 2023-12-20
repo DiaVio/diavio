@@ -1,0 +1,3 @@
+This crash happened on a 4 lane highway in the intersection. Weather was clear with no adverse conditions.
+Vehicle 1 was a Chevy Caprice driven by a male. Vehicle 1 was in lane four which was a left turn lane. Vehicle 1 was attempting to turn left into the shouthbound lanes. As a result of that it struck Vehicle 2 with its front. Police Reported Travel Speed is No PAR obtained (created) for V1 and No PAR obtained (created) for V2.
+Vehicle 2 was a Sante Fe driven by a female. Vehicle 2 was traveling in lane 3 of the highway going straight. When Vehicle 2 entered the intersection, V1 was turning left and was struck head on. Both Vehicles were pulled to the side by police officers to prevent traffic delay.

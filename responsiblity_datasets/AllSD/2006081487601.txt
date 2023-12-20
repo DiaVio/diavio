@@ -1,0 +1,55 @@
+{
+   "RoadNetWork":{
+      "RoadType":"Divided Highway",
+      "LaneType":"Collector Distributor",
+      "RoadShape":"Curve to the right",
+      "RoadSlope":"Uphill",
+      "SpeedLimit":96
+   },
+   "Environment":{
+      "RoadCondition":"Bituminous",
+      "Weather":"Unmentioned"
+   },
+   "Vehicle1":{
+      "Impact Side":"Left",
+      "Moving on which Way":"South",
+      "Location after Crash":"Right",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"South",
+         "Vehicle Action":"Change lanes",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"No",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   },
+   "Vehicle2":{
+      "Impact Side":"Right",
+      "Moving on which Way":"South",
+      "Location after Crash":"Unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"South",
+         "Vehicle Action":"Unmentioned",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"Unmentioned",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   },
+   "Vehicle3":{
+      "Impact Side":"Left",
+      "Moving on which Way":"South",
+      "Location after Crash":"Unmentioned",
+      "Objectivebehavior":{
+         "Whether to Brake":"Unmentioned",
+         "Direction":"South",
+         "Vehicle Action":"Change lanes",
+         "Travel Speed":"Unmentioned",
+         "is_against_rules":"Unmentioned",
+         "Attempted Avoidance Maneuvers":"Unmentioned",
+         "Attempted Lane Crossing":"Unmentioned"
+      }
+   }
+}

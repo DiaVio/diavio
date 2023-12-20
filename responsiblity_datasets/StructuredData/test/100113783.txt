@@ -1,0 +1,27 @@
+{
+   "RoadNetWork":{
+      "RoadType":"interstate",
+      "LaneType":"multi-lane",
+      "RoadShape":"straight",
+      "RoadSlope":"slight grade decline",
+      "SpeedLimit":"unmentioned"
+   },
+   "Environment":{
+      "RoadCondition":"dry",
+      "Weather":"clear"
+   },
+   "Vehicle1":{
+      "Impact Side":"front-left",
+      "Moving on which Way":"north",
+      "Location after Crash":"number four-lane facing north",
+      "Objectivebehavior":{
+         "Whether to Brake":"unmentioned",
+         "Direction":"north",
+         "Vehicle Action":"lane change to the left, then to the right and left again",
+         "Travel Speed":"unmentioned",
+         "is_against_rules":"unmentioned",
+         "Attempted Avoidance Maneuvers":"unmentioned",
+         "Attempted Lane Crossing":"unmentioned"
+      }
+   }
+}

@@ -1,0 +1,1 @@
+This is because Vehicle 1 collided head-on with Vehicle 3 after being pushed into the intersection by Vehicle 2. The description of the vehicles colliding head-on supports this classification.

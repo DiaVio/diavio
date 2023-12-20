@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban trafficway",
+        "LaneType": "multi-lane",
+        "RoadShape": "curved left",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": 45
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left and front right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "off the south pavement edge of the east/west roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

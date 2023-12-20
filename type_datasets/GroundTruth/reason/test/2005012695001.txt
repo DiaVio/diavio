@@ -1,0 +1,9 @@
+
+
+V1, the 2002 Chevy Malibu, lost control and rotated into the oncoming lanes, causing V3, the 1999 Sterling tractor-trailer, to collide with the right front side of V1. This collision can be classified as a Rear-End Collision.
+
+After the collision with V3, V1 rotated back into the southbound lane and was subsequently struck on the right side by V2, the 2001 Dodge Ram. This collision between the front of V2 and the right side of V1 can be classified as a Front-to-Side Collision.
+
+Since V2 was not involved in the initial collision between V1 and V3, it can be considered a Single-Vehicle Accident.
+
+Therefore, the accident involved a Single-Vehicle Accident (Type 1), a Rear-End Collision (Type 3), and a Front-to-Side Collision (Type 5).

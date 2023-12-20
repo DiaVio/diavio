@@ -1,0 +1,1 @@
+This is because Vehicle #1 crossed the intersection in the path of Vehicle #2, resulting in a collision between the front of Vehicle #1 and the side of Vehicle #2.

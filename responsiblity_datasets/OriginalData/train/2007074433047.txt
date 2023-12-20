@@ -1,0 +1,17 @@
+This four-vehicle crash occurred near an intersection on an undivided, straight, roadway that consists of one lane in each direction. The northbound lane has an uphill grade. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1995 Buick LeSabre, was northbound in lane one. Vehicle two (V2), a 1998 Chevrolet S10 Blazer, was stopped northbound in lane one in front of V1. Vehicle three (V3), a 1981 Ford Mustang, was stopped northbound in lane one in front of V2. Vehicle four (V4), a 2005 Chevrolet Cavalier, was stopped northbound in lane one in front of V3, waiting to turn left at the intersection. The front of V1 struck the back of V2. V2 moved forward and the front struck the back of V3. V3 moved forward and the front struck the back of V4. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a sixteen-year-old female, was on her way home from a babysitting job. She was healthy, well rested and familiar with her vehicle. She travels this route weekly. She had four months of driving experience at the time of the crash. This driver stated that she was looking at a building to the right and did not notice that the other vehicles had stopped.
+
+The driver of V2, a seventy-four-year-old male, was on his way home from a bank. He was healthy, well rested and familiar with his vehicle and route. He has high blood pressure and takes the medication Lotrel. This driver stated that he did not see V1 prior to the crash.
+
+The driver of V3, a twenty-seven-year-old male, was on his way from a friend's house to his girlfriend's house. He was well rested, healthy and familiar with his vehicle. He travels this route daily.
+
+The driver of V4 was a thirty-three-year-old female traveling with two passengers.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; external distraction." This driver's inexperience was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

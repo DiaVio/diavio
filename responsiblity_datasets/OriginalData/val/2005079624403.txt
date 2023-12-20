@@ -1,0 +1,7 @@
+This two vehicle daytime collision occurred mid-morning at a four-leg intersection comprised by an east/west roadway and a north/south roadway. The east/west roadway is undivided, dry, level, asphalt and consists of five lanes including a left turn pocket. The north/south roadway is undivided, dry, level, asphalt and consists of two lanes. The east/west roadway is designated 56 kph (35 mph). The intersection is controlled by a tri-light signal that was working properly at the time of the collision.
+
+Vehicle one (V1) a 1998 Ford Aero star mini van driven by a 25 year-old female with three passengers was traveling east in the number three lane. Vehicle two (V2) a 2004 Audi A4 Quattro 4-door sedan driven by a 35 year-old male was traveling west in the number two lane. As V1 made its left turn its front plane impacted left plane of V2. V2 continued northwest to impact the tri-light signal pole where it came to rest. V1 came to rest at impact in the intersection. Both V1 and V2 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The pre-event movement for V1 coded going straight, category this vehicle traveling turning left at intersection. Critical reason for the critical event driver related factor "Misjudgment of gap or other's speed".
+
+The pre-event movement for V2 coded going straight, category other vehicle encroachment from opposite direction-over left lane line. Critical reason not coded to this vehicle.

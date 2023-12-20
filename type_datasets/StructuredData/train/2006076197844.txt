@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "4-lane asphalt roadway",
+        "LaneType": "Two southbound lanes and two northbound lanes",
+        "RoadShape": "Continuous right curve",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "No adverse road conditions",
+        "Weather": "Daylight with no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "Rear left side",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Rest in a dirt pullout on the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Southbound",
+            "Vehicle Action": "Negotiating the right hand curve",
+            "Travel Speed": "137 kmph (85 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Not applicable",
+        "Moving on which Way": "Not applicable",
+        "Location after Crash": "Not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "Not applicable",
+            "Direction": "Not applicable",
+            "Vehicle Action": "Not applicable",
+            "Travel Speed": "Not applicable",
+            "is_against_rules": "Not applicable",
+            "Attempted Avoidance Maneuvers": "Not applicable",
+            "Attempted Lane Crossing": "Not applicable"
+        }
+    }
+}

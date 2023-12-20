@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "concrete",
+        "RoadShape": "slight curve to the right",
+        "RoadSlope": "level",
+        "SpeedLimit": "60 mph (97kmph)"
+    },
+    "Environment": {
+        "RoadCondition": "improved asphalt shoulders on both sides",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left corner",
+        "Moving on which Way": "veered into lane 3",
+        "Location after Crash": "left the roadway and entered the sod roadside sliding sideway, left side leading",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "rear right corner",
+        "Moving on which Way": "traveling in lane 3 at a slower rate of speed",
+        "Location after Crash": "came to a controlled stop on the right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

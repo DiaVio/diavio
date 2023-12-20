@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "undivided four-lane U.S. highway",
+    "LaneType": "two lanes of travel",
+    "RoadShape": "straight",
+    "RoadSlope": "downhill grade of 3 percent if northbound and uphill grade of 3 percent if southbound",
+    "SpeedLimit": "80 kmph/50 mph"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front to Vehicle #2's left side",
+    "Moving on which Way": "south",
+    "Location after Crash": "straddling the double yellow center lines facing southeast about 28 meters south of its point of impact with V3",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "left side",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "off the left (west) side of the roadway backwards and struck a tree with its rear, coming to rest facing southeast about 12 meters west of the road",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "head-on",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "about 12 meters north of point of impact with Vehicle #3 facing south in the right northbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

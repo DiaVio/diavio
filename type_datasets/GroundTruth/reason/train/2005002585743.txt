@@ -1,0 +1,1 @@
+This is because the crash involved only one vehicle (Vehicle 1) and no other entities. The vehicle crossed into the southbound lane, went off the left side of the roadway, hit several objects, and came to rest facing in a northerly direction. There were no indications of any other vehicles involved in the collision.

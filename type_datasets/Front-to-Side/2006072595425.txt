@@ -1,0 +1,88 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "multiple lanes",
+    "RoadShape": "curved to the left",
+    "RoadSlope": "level",
+    "SpeedLimit": {
+      "northbound": "48 kmph",
+      "southbound": "48 kmph",
+      "eastbound": "40 kmph",
+      "westbound": "40 kmph"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "normal",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "continuing southbound",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left side",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "stopped at the traffic light",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "moved backwards",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "left front corner",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "stopped at the traffic light",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "stopped",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle5": {
+    "Impact Side": "rear",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

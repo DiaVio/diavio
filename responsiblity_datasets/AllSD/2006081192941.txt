@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban arterial",
+        "LaneType": "curb lane",
+        "RoadShape": "curved to the left",
+        "RoadSlope": "slight negative grade",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear and dry",
+        "Weather": "clear and dry"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "flipped onto its left side",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "approximately 48 kmph (30 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {}
+}

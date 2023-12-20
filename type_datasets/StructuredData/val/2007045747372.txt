@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane undivided",
+        "LaneType": "one lane in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "4% downhill to the east",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing north east against a tree approximately 10 meters east of the roadway departure",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north east",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+This crash occurred in the evening of a weekday on a southbound exit ramp off of a limited access highway. Yield signs controlled the single lane exit ramp as it merged onto a multi-lane divided roadway. The exit was bituminous, dry and level, with a left curve. The posted speed limit on the ramp was 40 kmph (25 mph). The traffic flow was normal at the time of the crash.
+
+V1, a 2005 Chrysler Sebring with one occupant was exiting off the ramp preparing to merge onto the roadway. V2, a 1999 Toyota Camry with three occupants, was stopped ahead of V1 on the ramp. V2 had stopped to wait for an opening in the traffic so it could enter the roadway. V1 failed to stop behind V2 and its front struck V2 in the right rear. V2 lunged forward and came to a rest on the shoulder on the left side of the highway. V1, after striking V2, skidded off to the left and struck the guardrail before coming to final rest. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a 23-year-old female, reported no injuries. She stated that she was coming off the ramp with V2 and assumed it would continue forward as it merged onto the roadway. She did not expect V2 to stop in front of her. She said she slammed on the brakes but struck V2 anyway and then hit the guardrail.
+
+The Critical Precrash Event for V1 was coded other motor vehicle in lane, other vehicle stopped. The Critical Reason was a driver related error, a false assumption of others actions. She assumed that V2 would merge without stopping.
+
+The driver of V2, a 28-year-old female, was transported due to minor injuries. The driver also had her two children, in the front seat. She had just picked her infant up from the babysitter. She stated that the buckles in her rear seat were not working properly. She said that there was traffic approaching so she stopped in the merge lane to wait for an opening. The next thing she remembers was she was struck hard and her children screaming.
+
+The Critical Precrash Event for V2 was coded other motor vehicle in lane, traveling in same direction with higher speed. The Critical Reason was not coded to this vehicle. An internal distraction was coded as an associated factor as the driver of V2 was engaged in conversation with her children.

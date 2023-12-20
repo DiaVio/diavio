@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Two-lane one-way",
+    "LaneType": "Westbound",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left front",
+    "Moving on which Way": "Entering westbound roadway",
+    "Location after Crash": "Wedge between V3 and V4",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Right",
+      "Vehicle Action": "Turn right",
+      "Travel Speed": "145 kmph (90 mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left front",
+    "Moving on which Way": "Parked",
+    "Location after Crash": "South side of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "N/A",
+      "Direction": "N/A",
+      "Vehicle Action": "N/A",
+      "Travel Speed": "N/A",
+      "is_against_rules": "N/A",
+      "Attempted Avoidance Maneuvers": "N/A",
+      "Attempted Lane Crossing": "N/A"
+    }
+  }
+}

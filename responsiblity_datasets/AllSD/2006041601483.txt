@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "High-occupancy",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "105 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "Bituminous",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Across four lanes of traffic",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Steer left",
+            "Travel Speed": "105 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Not Applicable",
+        "Moving on which Way": "Not Applicable",
+        "Location after Crash": "Not Applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "Not Applicable",
+            "Direction": "Not Applicable",
+            "Vehicle Action": "Not Applicable",
+            "Travel Speed": "Not Applicable",
+            "is_against_rules": "Not Applicable",
+            "Attempted Avoidance Maneuvers": "Not Applicable",
+            "Attempted Lane Crossing": "Not Applicable"
+        }
+    }
+}

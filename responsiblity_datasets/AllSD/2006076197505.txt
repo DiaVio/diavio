@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban intersection",
+        "LaneType": "6-lane asphalt state highway with a two-way center left-turn lane",
+        "RoadShape": "Straight and slightly downhill",
+        "RoadSlope": "Unmentioned",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Fairly heavy congestion, low sun in the western sky"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Exiting a business drive turning left (west) onto the roadway",
+        "Location after Crash": "Partially on the westbound roadside and partially in the #3 right turn only westbound lane facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "8 kmph",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front plane",
+        "Moving on which Way": "Eastbound in the number two lane",
+        "Location after Crash": "Pulled off into the business parking lot on the eastbound side",
+        "Objectivebehavior": {
+            "Whether to Brake": "Braked suddenly",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "8 kmph",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

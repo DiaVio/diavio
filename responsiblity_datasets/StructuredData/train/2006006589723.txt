@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "asphalt",
+    "LaneType": "undivided",
+    "RoadShape": "four-way",
+    "RoadSlope": "level",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "icy with snow patches",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "front right, left side",
+    "Moving on which Way": "north, eastward",
+    "Location after Crash": "straddling the curb",
+    "Objectivebehavior": {
+      "Whether to Brake": "brakes snapped",
+      "Direction": "north",
+      "Vehicle Action": "turn right",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

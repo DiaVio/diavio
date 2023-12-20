@@ -1,0 +1,1 @@
+Vehicle one (V1) was making a left turn and crossed in front of vehicle two (V2), resulting in the front of V1 colliding with the side of V2. This is commonly referred to as a "T-bone" collision.

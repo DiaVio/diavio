@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "undivided",
+    "LaneType": "two-way",
+    "RoadShape": "straight",
+    "RoadSlope": "3% slope for southbound traffic, -3% slope for northbound traffic",
+    "SpeedLimit": "64 kmph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "bituminous",
+    "Weather": "no adverse weather present"
+  },
+  "Vehicle1": {
+    "Impact Side": "right rear bumper corner",
+    "Moving on which Way": "southbound in the second lane",
+    "Location after Crash": "deflected into the southwest and came to rest against some small diameter trees",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front bumper",
+    "Moving on which Way": "northbound in the second lane",
+    "Location after Crash": "drove home three blocks with disabling damage",
+    "Objectivebehavior": {
+      "Whether to Brake": "almost came to a complete stop",
+      "Direction": "north",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "left front bumper corner",
+    "Moving on which Way": "northbound behind V2",
+    "Location after Crash": "came to rest in northwest corner of intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

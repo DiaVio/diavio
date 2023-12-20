@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "five lane southbound roadway",
+        "LaneType": "right southbound travel lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 55
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "frontal",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "at or near the area of impact, facing a southwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

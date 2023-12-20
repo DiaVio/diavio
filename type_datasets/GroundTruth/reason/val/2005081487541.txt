@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left side of Vehicle 3 (V3), forward of the left front axle, after being hit by an unknown hit and run vehicle (Vehicle 2) on the left side of V1.

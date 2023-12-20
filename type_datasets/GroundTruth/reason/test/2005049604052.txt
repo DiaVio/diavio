@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the front of Vehicle 2 (V2) at an intersection, with V1 traveling south in lane two and V2 attempting a left turn from the fourth lane of traffic.

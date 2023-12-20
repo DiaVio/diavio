@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the right side of Vehicle 1 (V1) at the intersection, and as a result, V1 rotated clockwise and struck the left side of Vehicle 3 (V3).

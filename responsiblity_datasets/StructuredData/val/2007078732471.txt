@@ -1,0 +1,28 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Two-way, four-lane",
+    "RoadShape": "Curved road to the right",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "105 kmph (65 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry with blowing dust",
+    "Weather": "Severe cross winds in excess of 80 kmph (50 mph)"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "On its top, facing in a southerly direction",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": "unmentioned"
+}

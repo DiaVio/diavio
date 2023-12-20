@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Divided",
+        "RoadShape": "Straight",
+        "RoadSlope": "-4%",
+        "SpeedLimit": "113 KMPH (70 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "North",
+        "Location after Crash": "In the drainage ditch, facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Swerved to the right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Not applicable",
+        "Moving on which Way": "Not applicable",
+        "Location after Crash": "Not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "Not applicable",
+            "Direction": "Not applicable",
+            "Vehicle Action": "Not applicable",
+            "Travel Speed": "Not applicable",
+            "is_against_rules": "Not applicable",
+            "Attempted Avoidance Maneuvers": "Not applicable",
+            "Attempted Lane Crossing": "Not applicable"
+        }
+    }
+}

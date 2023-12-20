@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "intersection",
+        "LaneType": "one-way lanes for V1, two lanes (one in each direction) for V2",
+        "RoadShape": "four-way",
+        "RoadSlope": "level",
+        "SpeedLimit": {
+            "V1": "40 kmph (25 mph)",
+            "V2": "56 kmph (35 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "heavy rainstorm"
+    },
+    "Vehicle1": {
+        "Impact Side": "left tire well area",
+        "Moving on which Way": "east",
+        "Location after Crash": "uncontrolled final rest facing north, blocking westbound lane and partially blocking eastbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "crossing intersection",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "back end",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "uncontrolled final rest position in northbound curb lane facing southeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

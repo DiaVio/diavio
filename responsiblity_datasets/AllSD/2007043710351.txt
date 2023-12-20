@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Two-way road",
+    "LaneType": "Divided by grass median",
+    "RoadShape": "Curved right",
+    "RoadSlope": "Downhill-sloped with 2% super-elevation",
+    "SpeedLimit": "72 kph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry and clear",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front, left plane",
+    "Moving on which Way": "Westbound in lane two",
+    "Location after Crash": "South roadside facing east, 85.0 meters (279 feet) from original impact point",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "97 kmph (60 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Back, right plane",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Southwest, 78.1 meters (256 feet) from original contact point",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "97 kmph (60 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "highway",
+        "LaneType": "divided",
+        "RoadShape": "curve to the right",
+        "RoadSlope": "4 percent",
+        "SpeedLimit": "113 kmph (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "icy",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "north",
+        "Location after Crash": "off the left side of the northbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "approximately 113 kmph (70 mph)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {}
+}

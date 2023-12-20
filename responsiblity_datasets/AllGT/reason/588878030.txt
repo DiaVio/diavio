@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 drifted into the westbound travel lane, causing the offset frontal collision with Vehicle 1.

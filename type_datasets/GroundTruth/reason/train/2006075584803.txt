@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the back of Vehicle 2 (V2), causing a chain reaction where V2 struck the back of V3, which then struck the back of V4.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Highway",
+        "LaneType": "Divided",
+        "RoadShape": "Curve",
+        "RoadSlope": "Variable",
+        "SpeedLimit": "89 kmph/55 mph"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Rainy and overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Partially in the drainage ditch approximately 40 meters south of roadway departure",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Skidded across all lanes of traffic and off of the right shoulder",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "N/A",
+        "Moving on which Way": "N/A",
+        "Location after Crash": "N/A",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "N/A",
+            "Vehicle Action": "N/A",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    }
+}

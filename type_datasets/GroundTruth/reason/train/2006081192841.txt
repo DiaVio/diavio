@@ -1,0 +1,1 @@
+This is because Vehicle 1, which was attempting to turn left, struck the front of Vehicle 2, which was traveling southbound. The impact occurred when the front of Vehicle 1 collided with the side of Vehicle 2.

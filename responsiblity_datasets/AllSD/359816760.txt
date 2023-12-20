@@ -1,0 +1,83 @@
+{
+  "RoadNetWork": {
+    "RoadType": "intersection",
+    "LaneType": "multi-lane",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "rainy"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "west",
+    "Location after Crash": "facing southwest, next to V4",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "northwest",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "right",
+    "Moving on which Way": "north",
+    "Location after Crash": "final rest in the median, facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "southwest",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "right rear",
+    "Moving on which Way": "north",
+    "Location after Crash": "redirected onto the grassy median adjacent to the freeway off-ramp, final rest in the median, facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "east",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "Impact Side": "rear",
+    "Moving on which Way": "east",
+    "Location after Crash": "still in original travel lane, facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "stopped for a traffic light",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle5": {
+    "Impact Side": "front",
+    "Moving on which Way": "east",
+    "Location after Crash": "still in original travel lane, facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "stopped for a traffic light",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

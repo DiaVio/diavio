@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "undivided",
+        "RoadShape": "straight with a short curve to the left",
+        "RoadSlope": "8% downhill slope for eastbound traffic, 8% uphill slope for westbound traffic",
+        "SpeedLimit": "48kmph/30mph"
+    },
+    "Environment": {
+        "RoadCondition": "dry asphalt",
+        "Weather": "clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "off the road on the left side, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing southwest on the grass on the south edge of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

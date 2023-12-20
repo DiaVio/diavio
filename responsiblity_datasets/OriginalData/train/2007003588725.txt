@@ -1,0 +1,11 @@
+The crash occurred in the intersection of two roadways. The north/south roadway was two-way with two lanes in each direction. The east/west roadway was two-way with one lane in each direction. The intersection was controlled by a traffic signal in all directions. It was daylight and clear, and the roadways were straight, level, bituminous, and had a speed limit of 48kmph (30mph).
+
+V1, a 2004 Ford Freestar minivan with one occupant, was traveling northbound in lane two. V2, a 2006 Honda Accord four door with one occupant, was traveling westbound in lane one. At the intersection, the front of V2 impacted the right front side of V1. Both vehicles came to final rest in the intersection. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Ford Freestar, was driven by a 43 year-old male who reported minor injuries and was transported to a medical facility. He advised that he was coming from home and going to his son's mother's house. He stated that he was going straight through the intersection with a green light, and the driver of V2 ran through the red light, and did not realize it.
+
+The Critical Pre-crash Event for V1 was "other vehicle encroachment, from crossing street, across path." The Critical Reason for the Critical event was not coded to this vehicle. No associated factors were coded to the driver.
+
+V2, the Honda Accord, was driven by a 52 year-old male who reported minor injuries and transported to a medical facility. He stated to the police that he was traveling straight through the intersection with a green light when he was impacted by V1.
+
+The Critical Pre-crash Event for V2 was "this vehicle traveling, crossing over (passing through) intersection." The Critical Reason for the Critical Event was coded as unknown. Associated factors coded to the driver include use of a prescription medication to treat hypertension and an illegal maneuver for failing to stop for a traffic control device. No other factors could be coded because no interview was obtained.

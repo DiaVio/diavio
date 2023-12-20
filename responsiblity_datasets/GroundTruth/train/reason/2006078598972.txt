@@ -1,0 +1,1 @@
+The driver of V1 failed to stop and struck the rear of Vehicle 2 (V2), which was making a right turn into the driveway. This indicates that V1 was following too closely to respond to unexpected actions, which is a critical driver-related factor.

@@ -1,0 +1,1 @@
+The driver of V1 was attempting to make a left turn across the path of V2 (the 2002 Chrysler Grand Voyager) while V2 was going straight. V1 misjudged the gap or the speed of V2, resulting in the collision.

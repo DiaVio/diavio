@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "bituminous",
+    "LaneType": "2 lane",
+    "RoadShape": "curving left",
+    "RoadSlope": "level",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "ice covered",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "rear",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "north shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "counterclockwise",
+      "Vehicle Action": "rotate counterclockwise",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "north shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "rest",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "left",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "south shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "clockwise",
+      "Vehicle Action": "hit V1's left back",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

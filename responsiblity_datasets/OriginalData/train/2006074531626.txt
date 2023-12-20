@@ -1,0 +1,15 @@
+This three-vehicle crash occurred in a four-leg, traffic signal-controlled intersection. Both roadways are divided by a curbed median. All travel lanes approaching the intersection consist of five lanes, with two through lanes, one right-turn lane and two left-turn lanes. The northbound lanes are straight with a 9% downgrade. The eastbound lanes are level with a left curve that has a radius of 76 meters. The speed limit for all roadways is 64 kmph (40 mph). This crash occurred during daylight hours on dry roads under a cloudy sky.
+
+Vehicle one (V1), a 2006 Ford Fusion, was stopped eastbound in lane two. V2, a 2003 Cadillac DeVille, was northbound in lane three. V3, a 2005 Chrysler Town and Country, was stopped eastbound in lane three. The traffic signal for V1 and V3 turned green and both vehicles proceeded into the intersection. The driver of V2 did not notice that her traffic signal turned red and continued through the intersection. The front of V2 struck the right side of V1. V1 moved north and the left side struck the right side of V3. All three vehicles came to rest in the intersection. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-year-old female, was traveling from her home to pick up her children from school. She was well rested, healthy and very familiar with her vehicle. She drives this roadway daily.
+
+The driver of V2, a sixty-nine-year-old female, had just left a store and was taking her seventy-eight-year-old male passenger to a hospital for a test. This driver was well rested and healthy. She rarely drives on this roadway, but was very comfortable with her vehicle and passenger. She was talking to her passenger just prior to the crash and had looked to the right at him. When she returned her gaze to the roadway, she realized that the traffic signal had turned red. This driver applied the brakes in an attempt to avoid the crash.
+
+The driver of V3, a thirty-five-year-old female, was running a work-related errand. She was well-rested, healthy, comfortable with her vehicle and drives on this road occasionally.
+
+The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical pre-crash event for V1 was not coded to this vehicle.
+
+The critical pre-crash event for V2 was coded: this vehicle traveling; crossing over (passing through) intersection. The critical reason for the critical pre-crash event for V2 was coded as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see).
+
+V3 was not involved in first harmful event. The critical reason for the critical pre-crash event for V3 was coded was not coded to this vehicle.

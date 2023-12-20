@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) entered the intersection and collided with the front of Vehicle 2 (V2), causing them to deflect in a north/east direction.

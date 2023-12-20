@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "T-intersection",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": {
+      "Seven-lane roadway": "72 kmph (45 mph)",
+      "Three-lane roadway": "40 kmph (25 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Bituminous asphalt",
+    "Weather": "Clear with no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Against the east curb in the number one northbound lane, facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "24 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right side",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "In the number two lane of eastbound traffic, facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "East",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "72 kmph",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

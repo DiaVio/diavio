@@ -1,0 +1,1 @@
+The reason for this is that V1 failed to maintain a safe distance from the vehicle ahead (V2) and made false assumptions about the actions of other road users. This resulted in V1 colliding with the back of V2, causing a chain reaction that involved V3.

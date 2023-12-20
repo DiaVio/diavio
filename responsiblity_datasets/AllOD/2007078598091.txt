@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a straight and level roadway. This roadway consists of two lanes in each direction with a center left turn lane. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. Traffic was congested at the time of the crash.
+
+Vehicle one (V1), a 2002 Mercedes Benz E430, was eastbound in lane one. Vehicle two (V2), a 1996 Geo Prizm, was eastbound in lane one in front of V1. V2 slowed due to traffic. The front of V1 struck the back of V2. V1 was towed due to damage. Police Reported Travel Speed is 32 kmph for V1 and 32 kmph for V2.
+
+The driver of V1, a fifty-nine-year-old female, was on her way home from a doctor's office. She was healthy, well rested and familiar with her vehicle. She travels this route weekly. She takes the medication Prozac. This driver stated that she applied the brakes when she realized that V2 was decelerating but was unable to avoid the crash.
+
+The driver of V2, an eighteen-year-old male, was traveling from a store to his home. He was well rested, healthy and familiar with his vehicle. He drives on this roadway daily. This driver stated that he was slowing for the vehicles slowing down in front of him and did not see V1 until just prior to the crash.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, traveling in same direction while decelerating. The critical reason for the critical pre-crash event was coded to V1 as a driver related factor; following to close to respond to unexpected actions. The congested traffic was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event was not coded to this vehicle.

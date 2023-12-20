@@ -1,0 +1,1 @@
+This is because vehicle 2 was stopped in lane 2 and then accelerated into the intersection, resulting in the front of vehicle 2 striking the right rear plane of vehicle 1.

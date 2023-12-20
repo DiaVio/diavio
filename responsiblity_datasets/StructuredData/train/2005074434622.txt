@@ -1,0 +1,48 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-lane controlled intersection",
+        "LaneType": "Bituminous",
+        "RoadShape": "Straight",
+        "RoadSlope": {
+            "Eastbound": -15,
+            "Northbound": -7,
+            "Southbound": 7
+        },
+        "SpeedLimit": {
+            "Main Road": 56,
+            "Intersecting Road": 48
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Lightly covered in snow",
+        "Weather": "Cloudy with snow falling"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Towed",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Turn left",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Towed",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

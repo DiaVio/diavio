@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "collector",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": 113
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing east-southeast in the gore",
+        "Objectivebehavior": {
+            "Whether to Brake": "true",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "between 50-60mph",
+            "is_against_rules": "false",
+            "Attempted Avoidance Maneuvers": "false",
+            "Attempted Lane Crossing": "false"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing east-northeast in the eastbound collector lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "false",
+            "Direction": "south",
+            "Vehicle Action": "stopped partially on the right shoulder",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "true",
+            "Attempted Avoidance Maneuvers": "false",
+            "Attempted Lane Crossing": "false"
+        }
+    }
+}

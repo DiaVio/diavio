@@ -1,0 +1,69 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "56kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "Towed",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "South",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "40 kmph",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Stopped",
+        "Location after Crash": "Towed",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "Stopped",
+            "Vehicle Action": "Stopped",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Stopped",
+        "Location after Crash": "Not involved in first harmful event",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "Stopped",
+            "Vehicle Action": "Stopped",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    },
+    "Vehicle4": {
+        "Impact Side": "Corner",
+        "Moving on which Way": "Stopped",
+        "Location after Crash": "Not involved in first harmful event",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "Stopped",
+            "Vehicle Action": "Stopped",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    }
+}

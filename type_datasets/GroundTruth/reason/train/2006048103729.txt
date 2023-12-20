@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted to turn left into a private drive, and as it began its turn, the left side of V1 was struck by the front of Vehicle 2 (V2). This collision involves the front of V2 colliding with the side of V1, also known as a "T-bone" collision.

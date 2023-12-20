@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "2-lane",
+        "LaneType": "2-way",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "88 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "non-divided",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right tire and side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "pulled off the left side of the roadway and came to rest facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side near the front bumper",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "moved into the private drive facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

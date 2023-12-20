@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate",
+        "LaneType": "Northbound",
+        "RoadShape": "Curved slightly to the left",
+        "RoadSlope": "Negative 3.6% grade on the roadway, negative 8% side-slope on the west/left median",
+        "SpeedLimit": "89kph/55mph"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "North",
+        "Location after Crash": "Resting in the grass of the median, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Departed the left side of the road",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

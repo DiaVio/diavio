@@ -1,0 +1,7 @@
+This crash occurred off the right side of the roadway. The roadway was curved to the left and was a two-lane, two-way, non-divided rural roadway with a posted speed limit of 48 Kmph (30 Mph). The crash occurred during daylight hours, it was raining at the time of the crash.
+
+V1 a 2002 Mercury Mountaineer was traveling westbound in the right curb lane negotiating a curve. V1 lost control and departed the roadway to the right side where it impacted a tree. The driver and the two passengers were all transported to the hospital with minor injuries. V1 was towed from the scene with moderate damage. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1 stated that he was negotiating curve to the left when the vehicle started to hydroplane. He applied full ABS but it was too late and he struck the tree.
+
+The Critical Pre-Crash Event coded for V1 is "this vehicle control loss". The Critical Reason for the Critical Event is "too fast for curve/turn".

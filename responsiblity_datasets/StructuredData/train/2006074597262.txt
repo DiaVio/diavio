@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Four-lane concrete divided roadway and two-lane undivided roadway",
+    "LaneType": "Right lane for Vehicle1, first lane for Vehicle2",
+    "RoadShape": "Intersection",
+    "RoadSlope": "+2% grade for four-lane road, -1.5% grade for two-lane road",
+    "SpeedLimit": "64 kmph (40 mph) for four-lane road, 40 kmph (25 mph) for two-lane road"
+  },
+  "Environment": {
+    "RoadCondition": "Daylight hours with no adverse atmospheric conditions",
+    "Weather": "Unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "East",
+    "Location after Crash": "Near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Changed lanes to the second lane",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left",
+    "Moving on which Way": "North",
+    "Location after Crash": "Near the point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Left",
+      "Vehicle Action": "Turned left at the intersection",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

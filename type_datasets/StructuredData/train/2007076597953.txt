@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "asphalt",
+        "LaneType": "two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "+6%",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "good",
+        "Weather": "no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "front bumper plane, right rear quarter panel, front plane, left front corner",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rested against the railing",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "straight",
+            "Travel Speed": "105 kmph (65 mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

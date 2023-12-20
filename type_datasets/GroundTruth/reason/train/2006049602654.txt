@@ -1,0 +1,3 @@
+Front-to-Side Collision (T-bone collision)
+
+Justification: The front of vehicle one (V1) impacted the right side of vehicle two (V2) at the intersection, which is indicative of a front-to-side collision.

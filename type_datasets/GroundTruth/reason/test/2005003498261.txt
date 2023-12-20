@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle #1 attempted to make a U-turn from a parked position and collided with the right side of Vehicle #2, which was traveling straight in the second lane of travel. This collision between the front of Vehicle #1 and the side of Vehicle #2 is a classic example of a front-to-side collision, also known as a "T-bone" collision.

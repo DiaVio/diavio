@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential",
+        "LaneType": "single",
+        "RoadShape": "straight with a slight left turning curve",
+        "RoadSlope": "downhill",
+        "SpeedLimit": 25
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front",
+        "Moving on which Way": "south",
+        "Location after Crash": "front tires at the west roadside edge, rear tires in the roadway, facing a southwesterly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

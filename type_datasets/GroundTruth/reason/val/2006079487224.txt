@@ -1,0 +1,1 @@
+The front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) as V1 was making a left turn. The description of the crash indicates that the front plane of V2 impacted the front plane of V1, resulting in V1 rotating clockwise and both vehicles coming to rest in the intersection.

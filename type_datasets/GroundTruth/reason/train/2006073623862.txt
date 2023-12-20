@@ -1,0 +1,3 @@
+Backover Collision - Vehicle reverses into an object, person, or another vehicle.
+
+Justification: Although the accident involved only one vehicle, the description states that the vehicle (V 1) went out of control and off the roadway left. It rolled down an embankment and came to rest facing north on its wheels. This indicates that the vehicle reversed or backed over the embankment, resulting in a backover collision.

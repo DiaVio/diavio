@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Four lane undivided",
+    "LaneType": "Two lanes in each direction",
+    "RoadShape": "Straight",
+    "RoadSlope": "4% uphill slope",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "East",
+    "LocationAfterCrash": "Rest across lanes one and two facing northeast",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Straight",
+      "TravelSpeed": "97 kmph (60 mph)",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Right rear",
+    "MovingOnWhichWay": "East",
+    "LocationAfterCrash": "Rest facing northeast",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Turn left",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "North",
+    "LocationAfterCrash": "Rest 5 meters back",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Turn right",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "AttemptedAvoidanceManeuvers": "Unmentioned",
+      "AttemptedLaneCrossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+The crash occurred on a two lane undivided roadway with a posted speed limit of 72 KPH (45 MPH). The roadway curved to the left with a radius of curvature of 1,408 meters and a superelevation of 3.7%. The roadway had a -2.2% grade. The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash. Traffic flow was normal for that time of day.
+
+V1, a 1994 Honda Civic, was traveling south on the roadway negotiating the curve to the left. V2, a 2007 Chrysler 300, was traveling on the same roadway several cars ahead of V1. V2 stopped to make a left hand turn onto a side roadway. Non-contact vehicles ahead of V1 went onto the right shoulder and went around V2. V1 struck the rear of V2 with its front. V1 continued off the right side of the roadway and came to rest facing south on the west shoulder. V2 drove onto the side road after the collision. V1 was towed due to damage. V2 was driven from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Honda Civic, was driven by an unbelted 27-year-old female who was transported, treated and released for minor injuries. No additional information was obtained as the driver could not be contacted or located. Driver stated to hospital personnel that she had rear-ended another car.
+
+The Critical Precrash Event for V1 was other motor vehicle in lane, stopped. The Reason for the Critical Event was an unknown driver error. This was chosen because it could not be determined if driver was inattentive or looked, but did not see. The police indicated that there was driver inattention and that the operator failed to observe V2. It is also possible that the operator of V1 misjudged the gap or V1's speed.
+
+V2, the Chrysler 300, was driven by a belted 62-year-old male who was not injured. The driver stated that he was stopped to make a left hand turn with his blinker activated. Several cars went around to his right as he waited for traffic to clear and then he was hit from behind. No additional information was obtained.
+
+The Critical Precrash Event for V2 was other motor vehicle in lane, traveling in same direction with higher speed. The Reason for the Critical Event was not coded to this vehicle.

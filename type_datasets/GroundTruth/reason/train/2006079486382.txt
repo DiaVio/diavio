@@ -1,0 +1,1 @@
+This is because vehicle one (V1) veered right and impacted the left side of vehicle two (V2), causing V2 to veer right and impact the left side of vehicle three (V3). This collision involves the front of V1 colliding with the side of V2, creating a "T-bone" collision.

@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "state highway",
+    "LaneType": "undivided",
+    "RoadShape": "curves to the east",
+    "RoadSlope": "level",
+    "SpeedLimit": "48 kmph (30 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "northbound",
+      "Vehicle Action": "straight",
+      "Travel Speed": "48 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "rear",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "point of impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "northbound",
+      "Vehicle Action": "stopped",
+      "Travel Speed": "48 kmph",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The reason for this is that the driver of V1 failed to negotiate the left curve at the top of the hill, causing the vehicle to drive off the right roadside and collide with a tree. This indicates a failure to maintain control of the vehicle and adapt to the road conditions, ultimately resulting in the accident.

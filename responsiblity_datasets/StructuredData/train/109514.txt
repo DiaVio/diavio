@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "five-lane, two-way roadway",
+        "LaneType": "two lanes eastbound, center turn lane, two lanes westbound",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "bituminous road was dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "ImpactSide": "right fender",
+        "Moving on which Way": "stopped facing west",
+        "Location after Crash": "south side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "right-rear quarter panel",
+        "Moving on which Way": "traveling east in the left eastbound lane",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

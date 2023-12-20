@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was traveling north and attempted to cross the eastbound lanes of traffic, resulting in the front of V1 impacting the right side of Vehicle 2 (V2).

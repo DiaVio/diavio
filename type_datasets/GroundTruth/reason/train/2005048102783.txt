@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (Honda Accord) changed lanes from three to four and the front of vehicle one (Honda Accord) impacted the rear of vehicle two (Chevrolet Impala). This indicates that the front of one vehicle (Honda Accord) collided with the side of another vehicle (Chevrolet Impala), which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

@@ -1,0 +1,2 @@
+
+Justification: Vehicle one (V1) was exiting the west edge driveway and its front plane contacted the right plane of Vehicle two (V2). The front of V2 then contacted the left plane of Vehicle three (V3), resulting in a collision between the front of one vehicle (V2) and the side of another (V3).

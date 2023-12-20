@@ -1,0 +1,5 @@
+
+
+Justification: 
+- Vehicle 1 (V1) was making a left turn at the intersection, indicating a front-to-side collision.
+- Vehicle 2 (V2) struck the right side of V1 with its front, further supporting a front-to-side collision.

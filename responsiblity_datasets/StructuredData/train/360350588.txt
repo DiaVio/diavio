@@ -1,0 +1,27 @@
+{
+  "RoadNetwork": {
+    "RoadType": "freeway",
+    "LaneType": "five lane",
+    "RoadShape": "curve to the right",
+    "RoadSlope": "downhill grade",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "overcast"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front left, left rear, front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "southbound lanes",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "lost control",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  }
+}

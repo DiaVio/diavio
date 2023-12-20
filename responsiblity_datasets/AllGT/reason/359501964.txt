@@ -1,0 +1,1 @@
+The reason for V1 being primarily responsible is that the driver fell asleep while negotiating a curve on a wet roadway. This resulted in V1 departing the roadway and colliding with a large tree stump, causing serious injuries to the driver.

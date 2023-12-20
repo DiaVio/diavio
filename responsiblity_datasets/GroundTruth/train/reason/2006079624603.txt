@@ -1,0 +1,1 @@
+The driver of V2 failed to adequately surveil the intersection, resulting in a recognition error. This means that the driver either failed to look or looked but did not see V1 approaching, leading to the collision.

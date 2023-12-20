@@ -1,0 +1,1 @@
+This classification is based on the description that Vehicle 1 (V1) was turning left at the intersection and the front of V1 struck the front of Vehicle 2 (V2), which was traveling in the opposite direction. This scenario aligns with the definition of a front-to-side collision, where the front of one vehicle collides with the side of another ("T-bone" collision).

@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The north/south roadway is straight and consists of one lane in the northbound direction, two lanes in the southbound direction, a center left turn lane and a parking lane on the east side. The northbound approach has a 2.5 percent downhill grade. The east/west roadway is straight, undivided and consists of one lane in each direction. The westbound approach has a 12 percent downhill grade. The speed limit on these roadways is 48 kmph (30 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1992 Mazda MPV, was northbound in lane one. Vehicle two (V2), a 1992 Ford Explorer, was westbound in lane one. V2 entered the intersection, turning left and the left side was struck by the front of V1. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-three-year-old male, was traveling from home to work. He was healthy, well rested and familiar with his vehicle. He travels this route weekly. This driver stated that he applied the brakes when he realized that V2 was entering the intersection, but it was too late to avoid a crash.
+
+The driver of V2, a fifty-one-year-old female, was traveling with a forty-four-year-old female passenger, from the park-and-ride facility to work. This driver was well rested and comfortable with her vehicle and passenger. She has high blood pressure and takes Hydrochlorothiazide and Atenolol. This driver stated that she was looking at her turn destination just prior to the crash.
+
+The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other vehicle encroachment; from crossing street, turning into opposite direction." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."

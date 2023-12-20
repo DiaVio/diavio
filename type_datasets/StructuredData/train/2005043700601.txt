@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "rural",
+    "LaneType": "two-way, two-lane",
+    "RoadShape": "curved left before straightening out",
+    "RoadSlope": "uphill grade of 2% in the eastbound direction",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "dark with clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "rear",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rested in the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "backing into a driveway on the right",
+      "Travel Speed": "8 kmph (5 mph)",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rested in the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "braked with lockup",
+      "Direction": "unmentioned",
+      "Vehicle Action": "collided with the rear of V1",
+      "Travel Speed": "64 kmph (40 mph)",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

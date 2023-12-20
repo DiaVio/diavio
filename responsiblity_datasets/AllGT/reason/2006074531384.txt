@@ -1,0 +1,1 @@
+The reason for this is that the driver of V2 attempted to cross the intersection when the signal was yellow, indicating that they were trying to beat the red light. This is considered an illegal maneuver and a driver-related factor that led to the collision.

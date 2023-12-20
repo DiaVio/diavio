@@ -1,0 +1,1 @@
+The driver of V1 failed to adequately surveil the intersection and recognize that V2 (the Geo Metro) was traveling through the intersection in the through lane. This recognition error led to V1 initiating a left turn, resulting in the collision with V2.

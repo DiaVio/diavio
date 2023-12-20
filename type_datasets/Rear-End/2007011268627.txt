@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural highway",
+        "LaneType": "divided",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "70 mph"
+    },
+    "Environment": {
+        "RoadCondition": "slick surface due to water",
+        "Weather": "heavy rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "east",
+            "Vehicle Action": "straight",
+            "Travel Speed": "40 mph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "back",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "down an embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "east",
+            "Vehicle Action": "straight",
+            "Travel Speed": "50 mph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "back left",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "grassy embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "east",
+            "Vehicle Action": "pull off onto shoulder",
+            "Travel Speed": "less than 10 mph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

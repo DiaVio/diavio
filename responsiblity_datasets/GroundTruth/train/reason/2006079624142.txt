@@ -1,0 +1,1 @@
+The reason for this is that V1 made a false assumption of V2's actions. V1 assumed that V2 would stop and allow her to execute the left turn when the traffic light turned yellow. However, V2 did not slow down or stop and entered the intersection during the green phase of the traffic light. V1's false assumption led to her turning in front of V2, resulting in the collision.

@@ -1,0 +1,1 @@
+This is because V1 was turning left and was hit on the right side by the front of V2, which indicates a collision between the front of one vehicle (V2) and the side of another vehicle (V1).

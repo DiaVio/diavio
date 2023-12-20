@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "asphalt",
+        "LaneType": "two-way left turn center lane",
+        "RoadShape": "curved",
+        "RoadSlope": "downgrade of 6%",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no obvious defects",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side of the trailer",
+        "Moving on which Way": "exiting a business driveway, intending to turn left to go east",
+        "Location after Crash": "eastbound lanes east of the impact point",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "32 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound in lane three",
+        "Location after Crash": "center median, facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "locked up the brakes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "32 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

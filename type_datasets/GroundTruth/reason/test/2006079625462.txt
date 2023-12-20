@@ -1,0 +1,8 @@
+
+
+Justification:
+- Vehicle two (1998 Mazda MPV) was making a left turn at the intersection.
+- Vehicle three (2001 Volkswagen Passat) was traveling in the opposite direction and collided with the right side (front plane) of vehicle two.
+- The front plane of vehicle two then contacted the front plane of vehicle one (1992 Honda Accord). 
+
+This sequence of events indicates a front-to-side collision, where the front of one vehicle (vehicle two) collides with the side of another vehicle (vehicle three).

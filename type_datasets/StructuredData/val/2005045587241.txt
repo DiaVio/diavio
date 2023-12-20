@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban",
+        "LaneType": "four-lane",
+        "RoadShape": "interchange",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": {
+            "Four-lane road": "72 kph (45 mph)",
+            "Exit ramp": "40 kph (25 mph)"
+        }
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "south on the interstate exit ramp",
+        "Location after Crash": "facing southeast in the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "westbound on the four-lane road",
+        "Location after Crash": "facing southwest against Vehicle #1",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

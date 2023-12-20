@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "residential",
+        "LaneType": "two-lane",
+        "RoadShape": "straight followed by a sweeping right curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "ImpactSide": "front",
+        "MovingOnWhichWay": "westbound",
+        "LocationAfterCrash": "within the perimeter of the house (a bedroom) facing northwest",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "yes",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    }
+}

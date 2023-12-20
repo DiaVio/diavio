@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "multi-lane state trafficway",
+    "LaneType": "outboard travel lane",
+    "RoadShape": "4-leg intersection",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": {
+      "north/south trafficway": "97 km/h (60 mph)",
+      "east/west roadway": "48 km/h (30 mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "right rear side",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "northeast corner of the intersection, facing northeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "straight",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "frontal area",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "northeast sector of the intersection, facing west",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

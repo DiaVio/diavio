@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban expressway",
+        "LaneType": "divided",
+        "RoadShape": "curved",
+        "RoadSlope": "downhill",
+        "SpeedLimit": "45 mph"
+    },
+    "Environment": {
+        "RoadCondition": "snow covered",
+        "Weather": "daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "straddling the center median facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northwest",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front right",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "eastbound (inboard) travel lane facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "southwesterly",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

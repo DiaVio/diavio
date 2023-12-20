@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) failed to stop for a red light and its right front corner was struck by the front of Vehicle 2 (V2), which was attempting to make a left turn. The collision occurred between the front of V1 and the side of V2, similar to a "T-bone" collision.

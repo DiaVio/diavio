@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two lane",
+        "RoadShape": "curve to the left",
+        "RoadSlope": "4.4%",
+        "SpeedLimit": "72KMPH (45MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "dry with patches of water",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "south",
+        "Location after Crash": "off the southbound lane, facing a northerly direction with its front right in a ditch impacting with the embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "unable to stop",
+            "Direction": "north",
+            "Vehicle Action": "went over the left lane double yellow line around the left side of the truck and impacted with two guardrail posts, overcorrected spinning clockwise 180 degrees back across the roadway",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

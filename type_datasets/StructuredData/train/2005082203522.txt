@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "2 lane undivided roadway",
+        "LaneType": "unmarked",
+        "RoadShape": "straight",
+        "RoadSlope": "uphill grade of 11%",
+        "SpeedLimit": "48 Kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "concrete paving",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front corner",
+        "Moving on which Way": "stopped at stop sign, waiting to turn left",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "heading east towards the intersection up the hill",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "going straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

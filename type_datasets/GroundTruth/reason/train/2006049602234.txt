@@ -1,0 +1,3 @@
+Single-Vehicle Accident
+
+Justification: The accident involved only one vehicle (Vehicle one) and no other entities.

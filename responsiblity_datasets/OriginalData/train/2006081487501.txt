@@ -1,0 +1,7 @@
+This two-vehicle collision occurred mid-afternoon during daylight hours. The crash occurred at a tri-color traffic signal controlled intersection of a five lane undivided state route highway. The pre-crash roadway westbound is a -5% grade, straight, with bituminous paving. The pre-crash roadway eastbound is a +5% grade, and was just coming out of a curve to the right. The posted speed limit for the roadway is 56 kmph (35 mph).
+
+Vehicle one (V1), a 2000 Chevy Cavalier sedan driven by a 35 year-old female, was traveling west in lane three. Vehicle two (V2), a 1999 Volkswagen Passat station wagon driven by a 47 year-old male with three passengers, was traveling east in lane two. As V2 entered the intersection on a green light, V1 turned left into the path of V2, the front of V2 impacted the right side of V1. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event was assigned to this driver as a driver related factor: unknown recognition error. An associative factor for the driver of V1, she was cited by the investigating officer for failure to yield while making a left turn.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment, from opposite direction - over left lane line. The critical reason for the critical event was not coded to this vehicle.

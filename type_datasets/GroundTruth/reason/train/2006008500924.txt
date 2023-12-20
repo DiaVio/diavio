@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) failed to notice that Vehicle 2 (V2) and the bus in front were stopped, resulting in V1 colliding with the back of V2.

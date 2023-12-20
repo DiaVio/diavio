@@ -1,0 +1,1 @@
+The driver of Vehicle 1 entered the intersection to proceed eastbound, across the path of the northbound Ford pickup (Vehicle 2). This indicates that the driver of Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the collision.

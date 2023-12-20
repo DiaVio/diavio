@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "State highway",
+    "LaneType": "Three lanes",
+    "RoadShape": "Curve left before straight portion",
+    "RoadSlope": "Level",
+    "SpeedLimit": "50mph/80kph"
+  },
+  "Environment": {
+    "RoadCondition": "Unmentioned",
+    "Weather": "No adverse weather conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left front",
+    "Moving on which Way": "East",
+    "Location after Crash": "Facing northwest in the center turn lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Crossed left into the center turn only lane and then crossed into the westbound travel lane",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left front",
+    "Moving on which Way": "West",
+    "Location after Crash": "Cab facing southwest with right side of the rear two axles hanging off the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Pulling an empty forty-eight foot flatbed trailer",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

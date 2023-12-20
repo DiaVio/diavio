@@ -1,0 +1,1 @@
+This is because Vehicle #3 (Ford Focus) collided with the back of Vehicle #2 (Hyundai Azera), which then pushed Vehicle #2 into the back of Vehicle #1 (Honda Accord).

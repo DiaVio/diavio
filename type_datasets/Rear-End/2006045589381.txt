@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "urban business undivided roadway",
+    "LaneType": "two lanes in each direction",
+    "RoadShape": "straight and level",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "72kph (45mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "daylight"
+  },
+  "Vehicle1": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "east",
+    "Location after Crash": "facing east in the right lane near impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "straight",
+      "Travel Speed": "56kph (35mph) five seconds prior to algorithm enable, 51kph (32mph) one second before",
+      "is_against_rules": "yes",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "east",
+    "Location after Crash": "facing east in the right lane near impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "east",
+    "Location after Crash": "facing east in the right lane near impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

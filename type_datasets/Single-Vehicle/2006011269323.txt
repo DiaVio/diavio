@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban highway",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "curve to the right",
+        "RoadSlope": "down a slope and then up a slope",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "icy",
+        "Weather": "sleeting"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rested on its right side on the roadway, straddling both lanes facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "not applicable",
+        "Moving on which Way": "not applicable",
+        "Location after Crash": "not applicable",
+        "Objectivebehavior": {
+            "Whether to Brake": "not applicable",
+            "Direction": "not applicable",
+            "Vehicle Action": "not applicable",
+            "Travel Speed": "not applicable",
+            "is_against_rules": "not applicable",
+            "Attempted Avoidance Maneuvers": "not applicable",
+            "Attempted Lane Crossing": "not applicable"
+        }
+    }
+}

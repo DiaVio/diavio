@@ -1,0 +1,1 @@
+The driver of Vehicle 1 allowed the vehicle to depart from the right pavement edge and continue in a forward tracking mode, resulting in the front right area of the vehicle impacting a large diameter tree. This indicates that the driver lost control of the vehicle and failed to maintain proper lane position, leading to the collision.

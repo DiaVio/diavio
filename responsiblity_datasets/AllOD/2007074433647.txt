@@ -1,0 +1,15 @@
+This three-vehicle crash occurred near a traffic signal-controlled intersection on a straight and level trafficway that is divided by a curbed median. The westbound lanes consist of two through lanes in the precrash area. The speed limit for this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1990 Nissan Pathfinder, was westbound in lane two. Vehicle two (V2), a 2002 Pontiac Grand Prix, was stopped westbound in lane two in front of V1 and vehicle three (V3), a 2000 Chevrolet Suburban, was in front of V2. The front of V1 struck the back of V2 and the front of V2 struck the back of V3. V1 and V2 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a fifty-seven-year-old female, was traveling with a seventeen-year-old female passenger. According to this driver's medical record, this driver has a history of mental health issues and hydrocephalus and takes the medications Requip and Lithium. This driver was not interviewed. No further information is available for this driver.
+
+The driver of V2, a sixty-five-year-old female, was running a work-related errand. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver stated that she was stopped and getting ready to proceed since the traffic signal turned green. She further stated that she did not see V1 prior to the crash.
+
+The driver of V3, a thirty-three-year-old female, was traveling with three female passengers. They were on their way from a friend's house to a relative's house. This driver was well rested, healthy and comfortable with her vehicle and passengers. She travels this route daily.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

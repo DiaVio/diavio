@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "divided",
+        "RoadShape": "left curved",
+        "RoadSlope": "+6% super-elevation",
+        "SpeedLimit": "64 kph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet from rain earlier in the night, covered by wet leaves",
+        "Weather": "no adverse atmospheric conditions, dark with no artificial overhead lighting"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "northbound in lane one",
+        "Location after Crash": "against a tree facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

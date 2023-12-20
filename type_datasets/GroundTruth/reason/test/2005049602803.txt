@@ -1,0 +1,1 @@
+This is because Vehicle 2's front impacted the left side of Vehicle 1, resulting in a collision between the front of one vehicle (V2) and the side of another vehicle (V1).

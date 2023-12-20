@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Four-legged intersection",
+        "LaneType": "Divided by a non-positive concrete median",
+        "RoadShape": "Curved left",
+        "RoadSlope": "2.3% super-elevation, -2.5% downhill profile",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Clear and dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right front",
+        "Moving on which Way": "Left curve in lane three",
+        "Location after Crash": "Dragged into the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left rear trailer tires",
+        "Moving on which Way": "Left curve in lane two",
+        "Location after Crash": "Final rest on the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Accelerating",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "Right side",
+        "Moving on which Way": "Westbound in lane three",
+        "Location after Crash": "Minor sideswipe damage, driven from the scene",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Westbound",
+            "Vehicle Action": "Struck by V1",
+            "Travel Speed": "32 kmph (20 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

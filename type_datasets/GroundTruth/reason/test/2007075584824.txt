@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 (V1) collided with the rear of Vehicle 2 (V2) while both vehicles were moving in the same direction. V1 was stopped behind V2 at a red light, and when the light turned green, V1 failed to notice that V2 had stopped again. This resulted in V1 impacting the rear of V2.

@@ -1,0 +1,5 @@
+This crash occurred on a straight two-lane asphalt roadway with a -3%grade.
+The speed limit was 45 mph (72kph). It was raining at the time. Police Reported Travel Speed is 64 kmph for V1 and 64 kmph for V2.
+Vehicle 1 was a 2005 Chevrolet Venture, vehicle 2 was a 2000 Audi A6, and vehicle 3 was a 2005 Chrysler 300.
+All vehicles were heading south in the southbound lane. Vehicle 3 was stopped behind a vehicle that was waiting to turn left. Vehicle 2 was decelerating behind vehicle 3. Vehicle 1 was traveling behind vehicle 2.
+The driver of vehicle 1 stated that she glanced to the right for an unknown reason, when she looked forward she noticed traffic stopped in front of her and was unable to stop in time. The front of vehicle 1 contacted the back of vehicle 2. Vehicle 2 was pushed forward into vehicle 3. The driver of vehicle three stated that the vehicle in front of her turned left just as the crash occurred and was not contacted. The driver of vehicle 2 refused to be interviewed.

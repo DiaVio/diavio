@@ -1,0 +1,7 @@
+It was dark with streetlights on at the time of this single-vehicle crash. The precrash roadway is straight, level and consists of one lane in each direction. In the crash area, this roadway curves to the left with a radius of curvature of 60 meters. This roadway was covered in ice and snow at the time of the crash. The speed limit for this roadway is 48 kmph (30 mph). There were no adverse atmospheric conditions at the time of the crash.
+
+Vehicle one (V1), a 1996 Cadillac Deville, was northbound in lane one. As the road curved, V1 slid off the right side of the road. The front of V1 struck a railroad tie fence. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1, a twenty-five-year-old female, was not interviewed. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded as "this vehicle control loss due to traveling too fast for conditions." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast for conditions - snow/ice on roadway."

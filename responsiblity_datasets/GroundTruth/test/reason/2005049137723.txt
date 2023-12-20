@@ -1,0 +1,1 @@
+The critical pre-crash event for V1 was coded as the vehicle loss of control due to traveling too fast for conditions, specifically too fast for the curve. The critical reason for this critical event was attributed to V1 as a driver-related factor, specifically driving too fast for the curve/turn. Additionally, an associative factor was overcompensation.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-lane",
+        "RoadShape": "curved",
+        "RoadSlope": "level",
+        "SpeedLimit": "reasonable and prudent"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse conditions",
+        "Weather": "daylight, no adverse weather"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "westbound shoulder, facing northwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "departed left road edge, steered right and returned to roadway, departed right road edge, steered left and overcompensated, tripped, flipped, rolled right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "claimed to steer left to avoid a rock in the road",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "N/A",
+        "Moving on which Way": "N/A",
+        "Location after Crash": "N/A",
+        "Objectivebehavior": {
+            "Whether to Brake": "N/A",
+            "Direction": "N/A",
+            "Vehicle Action": "N/A",
+            "Travel Speed": "N/A",
+            "is_against_rules": "N/A",
+            "Attempted Avoidance Maneuvers": "N/A",
+            "Attempted Lane Crossing": "N/A"
+        }
+    }
+}

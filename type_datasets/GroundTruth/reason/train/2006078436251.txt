@@ -1,0 +1,1 @@
+Rear-End Collision - Vehicle two (V2) was stopped in the number one southbound lane behind Vehicle three (V3). V1 attempted to change lanes and struck the rear of V2, which in turn forced V2 into the rear of V3. This sequence of events indicates a Rear-End Collision.

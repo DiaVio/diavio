@@ -1,0 +1,17 @@
+This four-vehicle crash occurred on a jersey barrier-divided, straight trafficway. The westbound lanes are level and consist of four through lanes with shoulders on both sides. The speed limit for this roadway is 89 kmph (55 mph). It was dark with streetlights on at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1998 Nissan Pathfinder, was westbound in lane three. Vehicle two (V2), a 2002 Infiniti G20, was westbound in lane three in front of V1. Vehicle three (V3), a 1991 Ford Explorer, was in front of V2 and vehicle four (V4), a 2005 Jeep Wrangler, was in front of V3. V3 and V4 stopped due to traffic. V2 decelerated to avoid V3. The front of V1 struck the back of V2, the front of V2 struck the back of V3 and the front of V3 struck the back of V4. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-four-year-old female, was on her way home from having dinner with her brother. She was healthy, well rested and familiar with her vehicle. She rarely travels this route. She is currently taking the medications Lexapro and Omnicef. This driver stated that she was looking to the right to see if it was clear to change lanes. When she looked forward and realized that V2 was slowing, she applied the brakes. This driver also stated that she had her purse stolen that evening and that a job interview earlier in the day had not gone well.
+
+The driver of V2, a fifty-year-old female, was not interviewed. No further information is available for this driver.
+
+The driver of V3, an eighteen-year-old male, was on his way home from his cousin's house. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he came to a stop to avoid V4.
+
+The driver of V4, a nineteen-year-old female, was not interviewed.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in same direction while decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; following too closely to respond to unexpected actions."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

@@ -1,0 +1,15 @@
+This three-vehicle crash occurred on a straight, level, east/west roadway that consists of two lanes in each direction and a two-way left turn lane. There is a driveway on the south side of this roadway. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1990 Chevrolet Celebrity, was northbound in the driveway, intending to turn left (westbound). Vehicle two (V2), a 1993 Toyota Celica, was eastbound in lane two and vehicle three (V3), a 1994 Mercury Cougar, was directly behind V2. A large pickup truck was in lane one intending to turn right into the driveway. V1 entered the roadway, turning left. The driver of V2 applied the brakes but skidded and the front struck the left side of V1. The driver of V3 also applied the brakes but skidded and the front struck the left side of V2. V2 then rotated further and the right side struck the left side of V1. V1 and V2 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an eighteen-year-old male, was traveling with a nineteen-year-old male, from a restaurant to a friend's house. He was well rested and comfortable with his vehicle and his passenger. This driver was taking an unknown antibiotic at the time of the crash. He stated that he was "creeping out" of the driveway because he could not see due to the truck in lane one. He drives on this roadway monthly.
+
+The driver of V2, a forty-six-year-old male, was traveling from work to his home. He was healthy, well rested and familiar with his vehicle. He travels this route daily.
+
+The driver of V3, a thirty-five-year-old female, was traveling from a friend's house to her home. She was well rested, in good health and comfortable with her vehicle. This driver drives on this roadway monthly.
+
+The critical pre-crash event for V1 was coded as "other; turning left from driveway." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; other decision error (turned with obstructed view/without ensuring clear lane)."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other vehicle encroachment; from driveway, turning into opposite direction." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Highway",
+        "LaneType": "Four-lane",
+        "RoadShape": "Straight",
+        "RoadSlope": "2% uphill slope",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Bituminous road",
+        "Weather": "Dark and clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "West",
+        "Location after Crash": "Lane one, ten meters west of the crash site, facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unable to steer left or right",
+            "Vehicle Action": "Skidded into the rear of V2",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "West",
+        "Location after Crash": "Lane three, facing southwest",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Out-of-control",
+            "Vehicle Action": "Continued forward and left, crashing into the rear of V3",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

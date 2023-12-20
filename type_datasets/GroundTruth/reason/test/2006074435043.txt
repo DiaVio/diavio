@@ -1,0 +1,1 @@
+This is because Vehicle one (V1) impacted Vehicle two (V2) on its right plane with V1's front plane at a four-way intersection.

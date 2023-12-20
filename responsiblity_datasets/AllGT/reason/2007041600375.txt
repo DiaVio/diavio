@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver failed to yield the right of way while making a left turn. The driver of V1 assumed that V2 would yield to him, but V2 was unable to avoid the collision. V1's failure to yield the right of way led to the accident.

@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) was traveling east and vehicle two (V2) was traveling south. V1 was struck on the left side by the front of V2, indicating a collision where the front of one vehicle collides with the side of another ("T-bone" collision).

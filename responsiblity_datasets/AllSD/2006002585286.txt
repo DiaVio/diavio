@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "two-lane two-way undivided",
+        "LaneType": "two",
+        "RoadShape": "curved to the right",
+        "RoadSlope": "-6.7%",
+        "SpeedLimit": "72 KMPH (45 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "cloudy, daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "north",
+        "Location after Crash": "off the left side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "rotated clockwise across the southbound lane and off the left side of the roadway",
+            "Travel Speed": "64-72 KMPH (40-45 MPH)",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

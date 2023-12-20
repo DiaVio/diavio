@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Divided",
+        "LaneType": "Five-lane",
+        "RoadShape": "Slight curve to the left",
+        "RoadSlope": "Level",
+        "SpeedLimit": "56 Kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Stopped, attempting to turn westbound",
+        "Location after Crash": "Facing south, struck a cement pillar",
+        "Objectivebehavior": {
+            "Whether to Brake": "Thought foot was on brake pedal but was on accelerator",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Turned with obstructed view",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound, preparing to change into lane three",
+        "Location after Crash": "Facing east in private drive and parking lot",
+        "Objectivebehavior": {
+            "Whether to Brake": "Brake pedal broke",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Other vehicle encroachment",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

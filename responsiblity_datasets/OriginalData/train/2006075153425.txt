@@ -1,0 +1,17 @@
+This four-vehicle crash occurred on the approach to a four-legged, traffic signal-controlled intersection. The north/south trafficway is divided by a raised median. The northbound approach lanes are level, straight and consist of three through lanes and a right turn lane. The speed limit on this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1993 Ford Bronco, was northbound in lane four. Vehicle two (V2), a 1992 Plymouth Acclaim, was in front of V1. Vehicle three (V3), a 2005 Ford Explorer, was in front of V2 and vehicle four (V4), a 2003 Chevrolet Malibu, was in front of V3. V2, V3 and V4 stopped for the traffic signal. The front of V1 struck the back of V2, the front of V2 struck the back of V3 and the front of V3 struck the back of V4. V2 was towed due to damage. Police Reported Travel Speed is 56 kmph for V1 and 56 kmph for V2.
+
+The driver of V1, an eighteen-year-old male, was traveling from a store to another store. He was well rested, healthy and familiar with his vehicle. This driver travels this route monthly. This driver stated that when he realized that traffic in front of him was stopping, he applied the brakes in an attempt to avoid a crash.
+
+The driver of V2, a twenty-nine-year-old male, was traveling with three passengers. This driver was not interviewed; no further information is available for the driver.
+
+The driver of V3, a fifty-seven-year-old male, was traveling with a fifty-five-year-old female passenger on a shopping trip. This driver was in fairly good health, well rested and comfortable with his vehicle and passenger. This driver has high blood pressure, diabetes and high cholesterol and takes the medications Metformin and Lipitor. He travels this route weekly.
+
+The driver of V4, a thirty-eight-year-old male, was traveling with two male passengers.
+
+The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The pre-event movement for V3 was coded as "going straight." The critical pre-crash event for V3 was coded as "other; not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

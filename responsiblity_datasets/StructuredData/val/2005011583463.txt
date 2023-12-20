@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interchange area",
+        "LaneType": "One-way, two-lane",
+        "RoadShape": "Intersection",
+        "RoadSlope": "Downhill",
+        "SpeedLimit": "64kmh (40mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Clear, dry",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northeast",
+        "Location after Crash": "Partially in lane one, with the right rear on the right shoulder",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "North",
+            "Vehicle Action": "Change lanes",
+            "Travel Speed": "40-48kmh (25-30mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Rear",
+        "Moving on which Way": "Northeast",
+        "Location after Crash": "Partially under V3",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

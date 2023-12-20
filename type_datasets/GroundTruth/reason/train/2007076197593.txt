@@ -1,0 +1,1 @@
+The accident involved only one vehicle (Vehicle 1) and there was no collision with any other entities. Vehicle 1 steered right and applied brakes to avoid an oncoming vehicle passing another vehicle in a no-passing zone, causing it to depart the roadway, roll over, and come to rest on its top.

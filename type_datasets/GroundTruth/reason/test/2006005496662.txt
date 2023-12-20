@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted to enter lane one and collided with the left rear corner of Vehicle 2 (V2). After the initial impact, V1 swerved left and collided with Vehicle 3 (V3) on the right rear side. The description of the collision between the front of V1 and the side of V3 indicates a front-to-side collision.

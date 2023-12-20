@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "limited access expressway",
+        "LaneType": "bituminous",
+        "RoadShape": "straight",
+        "RoadSlope": "sloping",
+        "SpeedLimit": "112 km/h (70 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "foggy and drizzling"
+    },
+    "Vehicle1": {
+        "Impact Side": "frontal",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "off the right shoulder, against a small tree",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "frontal",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "in the median, pointed in a southerly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Primary arterial road",
+    "LaneType": "Not physically divided",
+    "RoadShape": "Straight",
+    "RoadSlope": "+3.9% grade (westbound approach), -3.9% grade (eastbound approach)",
+    "SpeedLimit": "72kph (45mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Dark, unlit"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "West",
+    "Location after Crash": "5.5 meters west of impact #2",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "West",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left side",
+    "Moving on which Way": "West",
+    "Location after Crash": "Sidewalk west of the crash location",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Front",
+    "Moving on which Way": "East",
+    "Location after Crash": "Right (south) shoulder, 45 meters east of impact #2",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Northeast",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

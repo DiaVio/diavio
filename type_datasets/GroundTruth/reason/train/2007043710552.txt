@@ -1,0 +1,1 @@
+This is because the front of V1 collides with the side of V2 ("T-bone" collision) in Event 2, and V1 also contacts the left side of V3 with its right side in Event 4.

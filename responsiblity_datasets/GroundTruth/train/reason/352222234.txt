@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 struck the right side plane of Vehicle 2 during the collision. This indicates that Vehicle 1 failed to yield the right of way to Vehicle 2, which was traveling straight through the intersection.

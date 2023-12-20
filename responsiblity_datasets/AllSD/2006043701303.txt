@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Suburban roadway",
+        "LaneType": "Four-lane",
+        "RoadShape": "Interchange intersection",
+        "RoadSlope": "Level grade",
+        "SpeedLimit": "72 kmph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Clear skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Stopped facing south",
+        "Location after Crash": "Partially off the roadway in the southeast corner",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Proceeded through the intersection",
+            "Travel Speed": "40 kmph (25 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Eastbound in lane two",
+        "Location after Crash": "Collided into a medium-sized tree with its right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "Braked with lockup",
+            "Direction": "Right",
+            "Vehicle Action": "Attempted to avoid the crash",
+            "Travel Speed": "40 kmph (25 mph)",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+The reason for this is that the driver of V3 failed to recognize the slower speed of vehicle two (V2) and subsequently struck the rear of V2, causing V2 to lose control and cross the centerline into the path of vehicle one (V1). This initial collision between V3 and V2 set off a chain reaction that ultimately led to V1 striking V2.

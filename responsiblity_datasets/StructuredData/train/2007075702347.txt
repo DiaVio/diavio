@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Interstate bypass highway",
+        "LaneType": "Divided",
+        "RoadShape": "Curves right",
+        "RoadSlope": "Uphill",
+        "SpeedLimit": "105 kmph (65 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Black ice",
+        "Weather": "Light snow"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Paved shoulder on the right side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

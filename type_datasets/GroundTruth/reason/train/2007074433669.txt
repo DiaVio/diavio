@@ -1,0 +1,1 @@
+Vehicle 1 (V1) was turning left at the intersection and was struck on the left side by the front of Vehicle 2 (V2). Additionally, the front of V1 struck the right side of Vehicle 3 (V3). This collision involves the front of one vehicle colliding with the side of another, which fits the description of a Front-to-Side Collision.

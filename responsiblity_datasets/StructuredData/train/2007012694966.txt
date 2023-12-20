@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided six lane roadway",
+        "LaneType": "multiple lanes",
+        "RoadShape": "curved to the left",
+        "RoadSlope": "downhill slope of 4 percent in the eastbound direction",
+        "SpeedLimit": "56 KMPH (35 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "black ice",
+        "Weather": "clear but below freezing"
+    },
+    "Vehicle1": {
+        "Impact Side": "left rear side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "came to final rest in a locked lot",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "change lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front left and side",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "came to final rest straddling the lane line between lane 1 and lane 2 of the westbound lanes",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+The crash occurred in the intersection of two roadways. The north/south roadway was two-way with one lane in each direction. The east/west roadway was two-way with one lane in each direction. This was a straight, level, bituminous roadway with a speed limit of 48kmph (30mph). It was the afternoon hours of a weekday and the road was dry and clear with no adverse conditions.
+
+V1, a 2007 Toyota Rav-4 sport utility vehicle with one occupant was traveling southbound in lane one and attempted to make a left turn at the intersection. V2, a 1999 Lincoln Town Car four door with one occupant was traveling northbound in lane one. At the intersection, the front of V1 impacted the left side of V2. Both vehicles came to a final rest shortly after impact. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Toyota Rav-4 was driven by a 61 year-old female who reported no injuries. She advised that she was coming from work and going home. She stated that she was making a left turn and did not see V2.
+
+The Critical Pre-crash event for V1 was "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical event was a Driver related factor, "inadequate surveillance (looked, but did not see)". She did not have the right of way, and an Associated factor coded to her was an inadequate surveillance, looked, but did not see.
+
+V2, the Lincoln Town Car, was driven by a 62 year-old male who reported minor injuries and was transported to a medical facility.
+
+The Critical Pre-crash event for V2 was "other vehicle encroachment, from opposite direction - over left lane line". The Critical Reason for the Critical event was not coded to this vehicle. The driver had the right of way, and the possible Associated factors were coded unknown because no interview was obtained.

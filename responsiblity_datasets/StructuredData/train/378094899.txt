@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided urban trafficway",
+        "LaneType": "4 travel lanes southbound, 3 travel lanes northbound",
+        "RoadShape": "north to south configuration",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left rear fender, left front suspension, left side of the vehicle",
+        "Moving on which Way": "north",
+        "Location after Crash": "alongside a palm tree facing in a northerly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

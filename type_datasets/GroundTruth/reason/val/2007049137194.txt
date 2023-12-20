@@ -1,0 +1,1 @@
+This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 1 (V1) in the intersection, resulting in V1 rotating clockwise and V2 rotating clockwise as well.

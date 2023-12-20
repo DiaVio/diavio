@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Chevrolet 2500 pickup) collided with the back right corner of Vehicle 2 (Jeep Grand Cherokee Laredo) after Vehicle 2 began decelerating and attempting to avoid a collision with Vehicle 3 (Jeep Comanche pickup) that was pulling into lane three at a slow rate of speed.

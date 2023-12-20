@@ -1,0 +1,11 @@
+This three-vehicle collision occurred in the evening hours on a dark street that was lit with overhead street lights. The collision occurred on a five-lane undivided roadway. The pre-crash roadway is a slight curve to the right with an 8% uphill grade just approaching a busy intersection that is controlled by on-color traffic lights with pedestrian crossing. The posted speed limit for the roadway is 56 kmph (35 mph). Access to the roadway is not controlled. The pavement was dry bituminous..
+
+Vehicle one (V1), a 1995 Plymouth Neon sedan driven by a fifty four (54) year old male, was headed east in lane one approaching stopped traffic. Vehicle two (V2), a 2006 Subaru Legacy 5-door station wagon driven by a thirty (30) year old female, was stopped facing east in lane one, ahead of V1. Vehicle three (V3), a 1990 Ford Taurus station wagon driven by a thirty three (33) year old female, was stopped facing east in lane one ahead of V2. The front of V1 impacted the rear of V2, pushing V2 forward into the rear of V3. V1 was towed due to damage. V2 and V3 were both driven from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 was not interviewed. The driver of V2 was a 30 year-old female was not interviewed. The driver of V3 was a not interviewed.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason was coded to V1 as a driver related factor: type of driver error unknown, due to lack of driver interview. It could not be determined if the driver made a recognition or decision error.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle.
+
+The critical pre-crash event for V3 was coded other "not involved in the first harmful event".

@@ -1,0 +1,11 @@
+This two-vehicle crash occurred at a three-legged intersection on a straight, level, undivided, two-lane roadway. The speed limit for this roadway is 32 kmph (20 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1998 Pontiac MPV, was eastbound in lane one. Vehicle two (V2), a 2006 Chevrolet HHR, was eastbound in lane one behind V1. V1 moved to the right and then attempted to make a U-turn. The front of V2 struck the left side of V1. V1 then rolled over onto the right side. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a twenty-seven-year-old male, was not interviewed. No further information is available for this driver.
+
+The driver of V2, a thirty-seven-year-old female, was healthy and familiar with her vehicle. She travels this route weekly. This driver stated that she did not know what V1 was going to do when it slowed down and moved to the right. When she realized that V1 was making a U-turn, this driver steered to the left and applied the brakes in an attempt to avoid the crash.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction while decelerating." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

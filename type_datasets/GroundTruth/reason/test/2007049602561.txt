@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) entered the intersection and collided with a non-contact vehicle approaching from the west in lane three.

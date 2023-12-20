@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "residential",
+        "LaneType": "two lanes",
+        "RoadShape": "curved left",
+        "RoadSlope": "super elevated",
+        "SpeedLimit": "56kph/35mph"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "light mist rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "south",
+        "Location after Crash": "facing north in the southbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

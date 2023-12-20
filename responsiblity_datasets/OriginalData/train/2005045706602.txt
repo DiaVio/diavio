@@ -1,0 +1,7 @@
+The crash occurred on a two way, two-lane secondary arterial road that runs southwest to northeast along the portion where the crash occurred. Traveling northeast the road curved left (west) with a measured radius of 281.25 meters at its apex. Conditions were daylight and dry on a weekday in the late morning hours. The posted speed limit was 64kph / 40mph.
+
+Vehicle #1, a 1998 Nissan Frontier, was traveling northeast on the arterial road when it departed the right side of the road at the beginning of the curve left. It then returned to the road in a counterclockwise yaw and departed the left side of the road. It then rolled forward/right one-quarter turn into a small creek and struck a tree with its top plane as it rolled coming to rest against the struck tree. Vehicle 1 was towed due to damage. Police Reported Travel Speed is Not reported for V1.
+
+The unrestrained driver of the vehicle was killed in the crash (declared on scene) with no airbags deployed.
+
+The critical pre-crash event for Vehicle #1 was this vehicle traveling off the edge of the road on the right side (from which he never regained control). The critical reason for the critical precrash event was coded as an unknown driver error, the driver of V1 was the sole occupant of the vehicle. His family could not be contacted for a surrogate interview. Scene evidence indicates that there may have been high speed involved. A performance error, overcompensation, was coded as in the drivers attempt to regain control he apparently steered too far left.

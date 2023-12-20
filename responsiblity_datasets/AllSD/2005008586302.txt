@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate highway",
+        "LaneType": "westbound",
+        "RoadShape": "straight",
+        "RoadSlope": -1.6,
+        "SpeedLimit": 89
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "rain"
+    },
+    "Vehicle1": {
+        "Impact Side": "back left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "straddling lane 1",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "rotate clockwise, swipe concrete barrier, cross travel lanes and right shoulder, contact other concrete barrier",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

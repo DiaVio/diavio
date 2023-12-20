@@ -1,0 +1,1 @@
+This is because V2's front bumper hit V1's right side, indicating that the front of one vehicle (V2) collided with the side of another vehicle (V1), forming a "T-bone" collision.

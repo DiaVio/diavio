@@ -1,0 +1,3 @@
+Rear-End Collision - One vehicle hits the back of another.
+
+Justification: Although the accident involved only one vehicle, the vehicle collided with the guardrail on the opposite side of the intersection, which can be considered as hitting the "back" of another object.

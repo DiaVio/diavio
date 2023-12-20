@@ -1,0 +1,1 @@
+This is justified by the fact that the front of Vehicle 2 collided with the right side of Vehicle 1 at the uncontrolled intersection, resulting in V1 spinning clockwise and scraping along the right side of V2.

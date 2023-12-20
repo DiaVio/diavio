@@ -1,0 +1,55 @@
+{
+    "RoadNetwork": {
+        "RoadType": "Intersection",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Uphill and downhill",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Unmentioned",
+        "Weather": "Daylight with no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "ImpactSide": "Right side",
+        "MovingOnWhichWay": "Southbound",
+        "LocationAfterCrash": "Stopped in intersection",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "Unmentioned",
+            "Direction": "South",
+            "VehicleAction": "Turn left",
+            "TravelSpeed": 32,
+            "is_against_rules": "No",
+            "AttemptedAvoidanceManeuvers": "No",
+            "AttemptedLaneCrossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "Front",
+        "MovingOnWhichWay": "Northbound",
+        "LocationAfterCrash": "Stopped in intersection",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "Yes",
+            "Direction": "North",
+            "VehicleAction": "Straight",
+            "TravelSpeed": 32,
+            "is_against_rules": "No",
+            "AttemptedAvoidanceManeuvers": "No",
+            "AttemptedLaneCrossing": "No"
+        }
+    },
+    "Vehicle3": {
+        "ImpactSide": "Left side",
+        "MovingOnWhichWay": "Westbound",
+        "LocationAfterCrash": "Stopped in intersection",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "Unmentioned",
+            "Direction": "West",
+            "VehicleAction": "Turn right",
+            "TravelSpeed": "Unmentioned",
+            "is_against_rules": "No",
+            "AttemptedAvoidanceManeuvers": "No",
+            "AttemptedLaneCrossing": "No"
+        }
+    }
+}

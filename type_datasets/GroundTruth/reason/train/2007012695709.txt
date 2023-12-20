@@ -1,0 +1,3 @@
+
+
+Justification: The front of vehicle 1 (V1) collided with the side of vehicle 2 (V2) as V1 attempted to turn left in front of V2, resulting in a collision. This type of collision is commonly known as a "T-bone" collision, which falls under the category of front-to-side collisions.

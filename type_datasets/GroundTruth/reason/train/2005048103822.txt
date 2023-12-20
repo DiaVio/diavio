@@ -1,0 +1,6 @@
+
+
+Justification:
+- Vehicle 1 (V1) was attempting to turn left at the intersection, and it was impacted on its left rear by Vehicle 2 (V2).
+- V1 rotated and its front plane impacted the front plane of Vehicle 3 (V3).
+- V1's front colliding with the side of V3 is indicative of a front-to-side collision, also known as a "T-bone" collision.

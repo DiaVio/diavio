@@ -1,0 +1,50 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two-way, two-lane undivided roadway",
+        "LaneType": "Bituminous",
+        "RoadShape": "Curve to the right",
+        "RoadSlope": "4.5% uphill grade",
+        "SpeedLimit": {
+            "Northbound": {
+                "Start": "89kmph (55mph)",
+                "End": "64kmph (40mph)"
+            },
+            "Southbound": {
+                "Start": "64kmph (40mph)",
+                "End": "89kmph (55mph)"
+            }
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Clear",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left corner",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Off the roadway on the left side facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Northbound",
+            "Vehicle Action": "Attempted to pass the tractor-trailer",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Southbound",
+        "Location after Crash": "On the east side of the roadway facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Southbound",
+            "Vehicle Action": "Attempted to avoid V1 by braking and steering to the right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

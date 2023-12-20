@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided into the rear of Vehicle 2 (V2) while V2 was disabled in lane one due to an engine stall. The critical pre-crash event for V1 is coded as "other motor vehicle in lane, other vehicle stopped," which indicates that V1 struck the rear of V2.

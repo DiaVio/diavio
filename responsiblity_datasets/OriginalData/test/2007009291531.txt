@@ -1,0 +1,15 @@
+The crash occurred in lane three of a 3-lane westbound roadway. The road was straight and level with three lanes in each direction, divided by a raised curb and grass island. The posted speed was 56 kmph (35 mph). This was a bituminous, dry roadway. The sky was bright and clear. It was early evening on a weekday. The traffic was moderate on this well-traveled roadway.
+
+V1, a 2000 Ford Crown Victoria sedan taxi, was driven by a 47 year-old male. The driver stated that he had started his shift 26 minutes prior to the crash and was driving around waiting for a fare. He stated that he was driving in lane three, traveling at a rate of 48 kmph (30 mph), when he saw vehicles ahead stopped in lane three, behind a left turning vehicle. The driver checked his right side mirror, intending to change lanes to the right, but vehicles in lane two were blocking the path. When the driver returned his attention forward, he braked unsuccessfully, crashing into the rear of V2 with the front of V1, propelling the front of V2 into the rear of V3. The front of V3 was then propelled into the rear of another vehicle. The driver was uninjured. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V2, a 2000 Isuzu Rodeo 4-door SUV, was driven by a 46 year-old female traveling with her 6 and 12 year-old daughters. She stated that she had been stopped behind V3 a few seconds when she used her rear view mirror and tracked V1's approach. When she realized that V1 was neither slowing nor turning, she braced herself for the crash. All occupants were uninjured.
+
+V3, a 2002 Chevrolet S10 4-door crew cab pick-up truck, was driven by a 54 year-old male. The driver stated that he was on his way home from work when he tracked V1 with his left-side mirror. He said the driver of V1 didn't brake prior to the crash because the nose of V1 would have dipped down and he would have heard skidding and that there was no skid marks evident. The driver was uninjured.
+
+V4, 2004 Chevrolet 4-door Trailblazer SUV with two occupants, was stopped in lane three. The driver stated that he had been stopped behind a left-turning vehicle, blocking the lane, when the front of V3 struck the rear of his vehicle. He had not seen anything prior to the crash. Both occupants were transported for unknown injuries.
+
+The Critical Pre-Crash Event for V1 was "Other motor vehicle in lane stopped." The Critical Reason for the Critical Pre-Crash Event was "Incorrect evasive action." Associated factors include an exterior factor because the driver was looking at approaching traffic on the right and low tire tread on all tires.
+
+The Critical Pre-Crash Event for V2 was "Other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. No associated factors were coded to the driver.
+
+No Critical Pre-Crash Event and no Critical Reason were coded for V3 because V3 was not involved in the first harmful event. No associated factors were coded to the driver of V3.

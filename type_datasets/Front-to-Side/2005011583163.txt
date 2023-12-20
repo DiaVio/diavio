@@ -1,0 +1,55 @@
+{
+    "RoadNetWork": {
+        "RoadType": "urban roadway",
+        "LaneType": "three-lane, two-way",
+        "RoadShape": "straight",
+        "RoadSlope": "flat",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "no adverse weather conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "rear",
+        "Moving on which Way": "east",
+        "Location after Crash": "lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "decelerated",
+            "Direction": "east",
+            "Vehicle Action": "changed lanes to the right",
+            "Travel Speed": "had just started accelerating",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front and rear",
+        "Moving on which Way": "east",
+        "Location after Crash": "lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "decelerated",
+            "Direction": "east",
+            "Vehicle Action": "preparing to change lanes to the right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "preparing"
+        }
+    },
+    "Vehicle3": {
+        "Impact Side": "front",
+        "Moving on which Way": "east",
+        "Location after Crash": "lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "east",
+            "Vehicle Action": "accelerated",
+            "Travel Speed": "began to accelerate",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

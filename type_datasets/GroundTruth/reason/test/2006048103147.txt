@@ -1,0 +1,1 @@
+This is because Vehicle 1, while attempting to change lanes to the left, struck the right side of Vehicle 2, causing the impact to occur between the front of Vehicle 1 and the side of Vehicle 2.

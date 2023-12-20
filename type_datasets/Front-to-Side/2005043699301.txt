@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural highway",
+        "LaneType": "two-lane",
+        "RoadShape": "divided",
+        "RoadSlope": "flat",
+        "SpeedLimit": "105 KMPH (65 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front corner",
+        "Moving on which Way": "first lane",
+        "Location after Crash": "against the barrier wall facing west",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "merging left into V2's lane",
+            "Travel Speed": "105 KMPH (65 MPH)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "right rear",
+        "Moving on which Way": "second lane",
+        "Location after Crash": "overturned on its undercarriage",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "steered left to avoid the crash",
+            "Travel Speed": "105 KMPH (65 MPH)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

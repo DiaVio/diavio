@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Undivided",
+    "LaneType": "Five lanes",
+    "RoadShape": "Curved to the left",
+    "RoadSlope": "4% downhill to the north",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Level and dry",
+    "Weather": "Clear skies"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left rear",
+    "Moving on which Way": "Eastbound in lane one",
+    "Location after Crash": "Resting in lane one, facing west, about 40m east of the first impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Counter-clockwise",
+      "Vehicle Action": "Rotate clockwise and yaw toward the center of the road",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left front side",
+    "Moving on which Way": "Eastbound in lane one",
+    "Location after Crash": "Resting on the shoulder, facing east, about 50m east of the first impact",
+    "Objectivebehavior": {
+      "Whether to Brake": "No",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Struck by V1",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

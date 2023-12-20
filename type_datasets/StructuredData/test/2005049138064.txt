@@ -1,0 +1,97 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Divided highway",
+    "LaneType": "Three-lane",
+    "RoadShape": "Straight",
+    "RoadSlope": "Negative grade",
+    "SpeedLimit": "97 kmph (60 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No adverse weather conditions"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Front",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Merged right into the third lane",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Merging right",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Stopped in the third westbound travel lane",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Pushed forward into the rear of V4 and onto the concrete traffic barrier",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "ImpactSide": "Right side",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Rotated counterclockwise and struck the rear of V5",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle5": {
+    "ImpactSide": "Rear",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Stalled in the third travel lane",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stalled",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle6": {
+    "ImpactSide": "Left side",
+    "Moving on which Way": "Westbound",
+    "Location after Crash": "Merged from the first travel lane into the third lane",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Merging",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

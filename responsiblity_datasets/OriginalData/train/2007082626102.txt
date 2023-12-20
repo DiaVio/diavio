@@ -1,0 +1,9 @@
+This two vehicle daytime collision occurred in the intersection of a two lane arterial road. The road is paved with asphalt and is straight with an downhill grade of 9% for V1 and a uphill grade of 9% for V2. Traffic flow is controlled by on-color traffic signal. The speed limit for both vehicles is 48 kmph (30 mph). At the time of the crash the sky was clear.
+
+Vehicle one (V1), a 1990 Cadillac Deville sedan driven by a seventeen (17) year old female with three passengers, was traveling south in lane one. Vehicle two (V2), a 1994 Kia Sephia sedan driven by a twenty five (25) year old female, was traveling north in lane one. V1 entered the intersection and began a left hand turn. V2 then entered the intersection and the front of V2 impacted the front of V1. V1 came to rest facing south/east and V2 came to rest facing north/east. Both vehicles were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 was unable to be located and interviewed after numerous attempts. The driver of V2 refused to be interviewed and or take part in the study.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling turning left at intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: type of driver error unknown. Without interview information it could not be determined if the critical reason was a recognition or decision factor.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction - over left lane line.

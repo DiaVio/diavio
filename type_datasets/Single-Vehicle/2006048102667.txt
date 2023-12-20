@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "bituminous",
+    "LaneType": "divided",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": 113
+  },
+  "Environment": {
+    "RoadCondition": "wet",
+    "Weather": "no adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "left front plane, left rear plane",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "facing the median with the front half of the vehicle in the first lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "changing lanes to the right",
+      "Travel Speed": 113,
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

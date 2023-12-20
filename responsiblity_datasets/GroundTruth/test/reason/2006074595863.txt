@@ -1,0 +1,1 @@
+The reason for this is that V2 failed to yield the right of way to V1, which was already in the intersection. V2 noticed V1 in the intersection but was unable to stop in time, resulting in the collision.

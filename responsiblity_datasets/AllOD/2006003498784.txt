@@ -1,0 +1,7 @@
+The crash occurred in the left parking lane of a one-way, one lane roadway. The roadway was straight, level, and wet. The time of the crash it was daylight and raining. The speed limit was 48kmph (30mph).
+
+Vehicle # 1 was a 1999 Toyota Corolla that was traveling eastbound on the one-way roadway. Vehicle # 1 lost control and the front impacted the right side of Vehicle # 2, 1993 Volkswagen Golf which was parked on the left side of the road. The front of Vehicle # 2 then impacted a light pole. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The Toyota Corolla (Vehicle # 1) was driven by a 32 year-old male who did not sustain any injuries. The driver stated to the Police that his left/front tire blew out and he lost control and impacted Vehicle # 2. The damage on the left/front tire appeared to be caused by the impact with Vehicle # 2. The driver declined to participate in the study and the Toyota was towed due to damage.
+
+The Critical Pre-crash Event for Vehicle # 1 was coded as: This vehicle traveling, over the lane line on left side of travel lane. The Critical Reason for the Critical Precrash Event was coded as an unknown reason. Two associated factors coded to Vehicle # 1 was a Weather related factor, rain, and a Highway related factor, wet roads.

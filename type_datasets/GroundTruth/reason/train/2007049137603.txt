@@ -1,0 +1,1 @@
+The front of Vehicle 1 (V1) collided with the right side of Vehicle 2 (V2) when V1 attempted a left turn into the eastbound lane and departed the roadway.

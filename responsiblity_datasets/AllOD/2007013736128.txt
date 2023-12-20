@@ -1,0 +1,15 @@
+This crash occurred in on an undivided three-lane level, straight, asphalt roadway with a posted speed limit of 40 kmph (25 mph). The crash occurred during the afternoon hours and there were no adverse conditions at the time of the crash.
+
+V1, a 1994 Oldsmobile Cutlass 2-door coupe, was traveling eastbound in the first lane. V2, a 1994 Lincoln Town Car 4-door sedan, was stopped at a red light in the first lane, in front of V1. V3, a 2005 Chevrolet Colorado pickup truck, was stopped at a red light in front of V2. V2 was stopped at the light when it was struck from behind by V1. V3 had just started moving forward when it was struck from behind by V2. V2 was pushed into V3 by the impact from V1. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an 86-year-old female, stated she was on her way home from grocery shopping when she approached the intersection. She reported that there were multiple cars ahead of her at the intersection, and claimed that she attempted to brake but the brakes seemed to fail and she could not avoid colliding with V2. There was no mention on the police report of a brake failure and the brakes were never inspected.
+
+The Critical Pre-Crash Event coded for V1 was "Other motor vehicle in lane; other vehicle stopped." The Critical Reason for the Critical Event was coded as driver inattention. Associated factors coded to the driver of V1 include fatigue and the use of prescription medications for diabetes and arthritis.
+
+The driver of V2, a 46-year-old female, stated she was on her way home from holiday shopping with family. The driver stated she was stopped at the red light at the intersection when she was struck from behind by V1.
+
+The Critical Pre-Crash Event coded for V2 was "Other motor vehicle in lane; traveling in same direction with higher speed." V2 was not assigned a Critical Reason. An associated factor coded to the driver of V2 was conversation with the passengers.
+
+The driver of V3, a 22-year-old male, stated he was on a work-related errand at the time of the collision. He stated he was stopped at a red light and had just taken his foot off the brake to go straight after the light turned green when he was struck from behind by V2.
+
+No Critical Pre-Crash Event and no Critical Reason were coded for V3 because V3 was not involved in the first harmful event. No associated factors were coded to the driver of V3.

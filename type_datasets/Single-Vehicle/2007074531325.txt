@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "48 kmph (30 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "ice-covered",
+        "Weather": "dark with streetlights on, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southwest",
+        "Location after Crash": "struck a sign post with a concrete base",
+        "Objectivebehavior": {
+            "Whether to Brake": "unable to apply the brakes",
+            "Direction": "right",
+            "Vehicle Action": "turning right",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous",
+        "LaneType": "five-lane",
+        "RoadShape": "intersection",
+        "RoadSlope": "+2% upgrade",
+        "SpeedLimit": "64 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side",
+        "Moving on which Way": "south",
+        "Location after Crash": "center turn lane, facing north",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "straight",
+            "Vehicle Action": "collided with left side of V2",
+            "Travel Speed": "64 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "east",
+        "Location after Crash": "partially in turn lane and partially in northbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "left turn",
+            "Vehicle Action": "struck in left side by V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

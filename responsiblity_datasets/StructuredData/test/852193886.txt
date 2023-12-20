@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two lane",
+    "LaneType": "two way",
+    "RoadShape": "curve",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "clear, dry",
+    "Weather": "cloudy daylight"
+  },
+  "Vehicle1": {
+    "Impact Side": "front left",
+    "Moving on which Way": "northbound",
+    "Location after Crash": {
+      "Front Half": "northbound lane",
+      "Back Third": "on top of east side bordering guardrail"
+    },
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "over 100 meters south of the point of impact in the southbound lane with the left tires on the double dividing yellow line",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

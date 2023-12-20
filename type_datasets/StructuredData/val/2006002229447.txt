@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "rural",
+    "LaneType": "undivided",
+    "RoadShape": "curving to the right",
+    "RoadSlope": "uphill",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "no adverse atmospheric conditions, sun glare"
+  },
+  "Vehicle1": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "eastbound in lane one",
+    "Location after Crash": "unmentioned",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "turn left",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "front",
+    "Moving on which Way": "eastbound in lane one",
+    "Location after Crash": "unmentioned",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "no",
+      "Direction": "unmentioned",
+      "Vehicle Action": "failed to decelerate",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "rear",
+    "Moving on which Way": "eastbound in lane one",
+    "Location after Crash": "unmentioned",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unable to slow down",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

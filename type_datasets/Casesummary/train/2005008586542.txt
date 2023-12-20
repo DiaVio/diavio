@@ -1,0 +1,3 @@
+This crash occurred on a five-lane asphalt roadway at the entrance to a mall. The road was straight and the speed limit was 35mph (56kph).
+Vehicle 1 was a 1996 Ford Windstar with two occupants. Vehicle 2 was a 2001 GMC Yukon with one occupant. Police Reported Travel Speed is 48 kmph for V1 and 48 kmph for V2.
+Vehicle 1 was traveling west in lane 1 approaching the intersection and vehicle 2 was turning left (north) from the eastbound lane 2. Vehicle 2 turned left across the path of vehicle 1 and the front of vehicle 1 contacted the front right of vehicle 2. Both vehicles came to rest in the intersection.

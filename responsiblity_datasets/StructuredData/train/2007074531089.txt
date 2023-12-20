@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "curbed median-divided",
+        "LaneType": "two through lanes",
+        "RoadShape": "straight",
+        "RoadSlope": "downhill for southbound, uphill for northbound",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no adverse atmospheric conditions",
+        "Weather": "daylight hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "struck a wooden pole",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "south",
+            "Vehicle Action": "traveling in lane two, lost control, crossed the median",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "left side",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rolled over to the right two quarter-turns",
+        "Objectivebehavior": {
+            "Whether to Brake": "applied the brakes",
+            "Direction": "north",
+            "Vehicle Action": "traveling in lane two, steered to the right",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "dirt",
+        "LaneType": "two way",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "unspecified"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "multiple",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "final rest on wheels facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unspecified",
+            "Vehicle Action": "lost control, rotated counterclockwise, hit brakes, steered right",
+            "Travel Speed": "72-80 KPH (45-50 MPH)",
+            "is_against_rules": "unspecified",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

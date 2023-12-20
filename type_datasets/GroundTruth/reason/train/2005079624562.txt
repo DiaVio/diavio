@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was stopped in the middle of the intersection waiting to turn left, and Vehicle 2 (V2) entered the intersection and collided with the left side of V1. V2 then deflected right and collided with the left side of Vehicle 3 (V3). This sequence of events indicates a front-to-side collision between V1 and V2, and subsequently between V2 and V3.

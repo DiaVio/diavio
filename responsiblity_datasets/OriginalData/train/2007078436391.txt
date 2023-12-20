@@ -1,0 +1,7 @@
+This single-vehicle crash occurred in the median of a divided, straight trafficway. The eastbound lanes are level and consist of two through lanes. The speed limit for this roadway is 121 kmph (75 mph). It was dark at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2001 Dodge Neon, was eastbound in lane two. The right rear tire blew out due to tread separation. V1 rotated slightly clockwise and then abruptly counterclockwise. V1 traveled off the left side of the road and rolled over six quarter-turns. V1 was towed due to damage. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1, a twenty-year-old male, was not interviewed. No further information is available for this driver.
+
+The critical pre-crash event for V1 was coded: this vehicle control loss due to - blow out/flat tire (right rear tire sidewall separation). The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: overcompensation.

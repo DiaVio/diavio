@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "entrance ramp",
+    "LaneType": "single lane",
+    "RoadShape": "straight",
+    "RoadSlope": "uphill",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "unmentioned",
+    "Weather": "clear skies"
+  },
+  "Vehicle1": {
+    "ImpactSide": "rear",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "unmentioned",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "yes",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "rear",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "unmentioned",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "unmentioned",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

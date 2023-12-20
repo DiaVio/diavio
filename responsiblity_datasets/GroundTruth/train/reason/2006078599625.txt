@@ -1,0 +1,1 @@
+The reason for this is that V2 was attempting to turn left at an intersection, but made a driver-related decision error by turning with an obstructed view. The driver of V2 did not observe the presence of V1 due to the view being obstructed by non-contact vehicles. This decision error ultimately led to the collision between V1 and V2.

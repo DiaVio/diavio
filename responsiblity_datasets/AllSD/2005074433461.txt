@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "interstate",
+        "LaneType": "four-lane",
+        "RoadShape": "level",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "wet",
+        "Weather": "light rainfall"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front side",
+        "Moving on which Way": "north",
+        "Location after Crash": "rolled over down embankment",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "lane change",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

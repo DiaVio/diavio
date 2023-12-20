@@ -1,0 +1,27 @@
+{
+    "RoadNetwork": {
+        "RoadType": "interchange-area ramp",
+        "LaneType": "one-lane",
+        "RoadShape": "curves to the right",
+        "RoadSlope": "uphill",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "icy",
+        "Weather": "dark with streetlights on, no adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "right",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rolled over to the right one quarter-turn into the ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "rotated clockwise, then counterclockwise",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

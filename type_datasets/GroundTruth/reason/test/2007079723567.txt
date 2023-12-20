@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) crossed over the center lane and collided with the side of Vehicle 2 (V2). The impact occurred when V1's left plane contacted V2's left plane.

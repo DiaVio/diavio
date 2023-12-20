@@ -1,0 +1,1 @@
+The driver of V1 failed to look to his left and detect V2 approaching the intersection. Additionally, the driver of V1 did not attempt any evasive maneuvers to avoid the collision. These factors indicate that the driver of V1 was negligent in their actions, leading to the collision with V2.

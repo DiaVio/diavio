@@ -1,0 +1,9 @@
+This two-vehicle crash occurred shortly before noon in daylight hours on dry, straight, three-leg intersection. North and southbound lanes consists of one lane in each direction with bike lanes on each side with no controls. It is a bituminous roadway, an uphill slope with the posted speed limit of 48 kph (30 mph). East and westbound lanes consists of one lane in each direction with a stop sign for controls for eastbound traffic. It is a bituminous roadway a downhill slope with the speed limit of 48 kph (30 mph).
+
+Vehicle one, a 2004 Chrysler Town and Country, driven by a 15 year-old female with two passengers was eastbound in lane one, stopped at a stop sign. Vehicle two, a 2004 Ford Expedition, driven by a 30 year-old female was southbound in lane one, going straight. Vehicle one entered the intersection to make a left turn in front of vehicle two. The front of vehicle one impacted the right side by vehicle two. Vehicle one then rotated clockwise and came to rest on its wheels facing southeast in lane one in the northbound lane on the south side of the intersection, Vehicle two rotated counterclockwise and came to rest on its wheels facing southeast in the northbound bike lane on the south side of the intersection. Both vehicle's were towed from the scene. Police Reported Travel Speed is Unknown for V1 and Unknown for V2.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling turning left at intersection. Critical reason driver related factor "inadequate surveillance".
+
+The critical pre-crash event for V2 was coded: this vehicle traveling crossing over passing through intersection. Critical reason not coded to this vehicle.
+
+Associated factor for vehicle one the driver being a fifteen year-old may not have had enough experience.

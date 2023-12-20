@@ -1,0 +1,1 @@
+The driver of V1 made an unsafe lane change without properly checking for other vehicles in the intended lane. This resulted in the driver oversteering and losing control of the vehicle, ultimately causing a chain reaction collision involving V2 and V3. The driver of V1 was cited for careless driving, indicating their responsibility for the crash.

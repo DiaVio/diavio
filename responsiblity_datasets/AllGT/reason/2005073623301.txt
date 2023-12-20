@@ -1,0 +1,1 @@
+The reason for this is that V2 made a wide right turn in front of V1, causing V1 to collide with the rear of V2. This indicates that V2 failed to yield the right of way to V1 and did not properly judge the gap or speed of V1. As a result, V1 was unable to avoid the collision.

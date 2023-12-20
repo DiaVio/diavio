@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 1 was making a left turn and crossed the path of Vehicle 2 (V2), resulting in a collision. When making a left turn, it is the responsibility of the turning vehicle to yield to oncoming traffic. In this case, Vehicle 1 failed to yield to Vehicle 2, causing the collision.

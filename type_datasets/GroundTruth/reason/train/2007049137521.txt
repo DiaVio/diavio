@@ -1,0 +1,1 @@
+Vehicle one (V1) attempted to merge left from the first lane into the second lane and struck the right side of vehicle two (V2). The front of V2 then struck the concrete wall on the east side of the roadway. This collision involves the front of one vehicle (V1) colliding with the side of another (V2), which is characteristic of a Front-to-Side Collision.

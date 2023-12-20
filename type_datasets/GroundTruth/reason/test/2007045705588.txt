@@ -1,0 +1,6 @@
+
+
+Justification:
+- V1, a Dodge Durango, was traveling north in lane two of the south leg of the intersection and attempted to turn left through the intersection.
+- V2, a Honda Civic, was traveling south through the intersection from lane one of the north leg.
+- The front right corner of V1 (Durango) contacted the front of V2 (Civic), indicating a collision between the front of one vehicle and the side of another, which is characteristic of a front-to-side collision or T-bone collision.

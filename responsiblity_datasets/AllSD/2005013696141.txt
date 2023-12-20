@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Two-way",
+    "LaneType": "Non-divided",
+    "RoadShape": "Straight",
+    "RoadSlope": "+2.5% grade",
+    "SpeedLimit": "64 kph (40 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Clear",
+    "Weather": "Daylight, clear sky"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front right corner",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Just short of the turning lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Attempted to turn left",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front left corner",
+    "Moving on which Way": "Exiting gas station",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Turning left",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

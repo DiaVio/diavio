@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "signal-controlled four-legged intersection",
+        "LaneType": "multiple lanes",
+        "RoadShape": "curved left (northbound approach), straight (southbound approach)",
+        "RoadSlope": "positive +3% uphill grade (northbound approach), negative -3% downhill grade (southbound approach)",
+        "SpeedLimit": "72 kph (45 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "clear, dry",
+        "Weather": "dark with overhead white and amber street lighting"
+    },
+    "Vehicle1": {
+        "Impact Side": "front-plane",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "southbound lane one",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "turn left",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front-plane",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "eastbound lane two",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "24 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Residential",
+        "LaneType": "Multiple lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Slight downhill grade for eastbound traffic"
+        "SpeedLimit": {
+            "V1": 72,
+            "V2": 64
+        }
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "East",
+        "Location after Crash": "Middle of residential lawn, facing east",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Continue through intersection",
+            "Travel Speed": 40,
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "Yes",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right",
+        "Moving on which Way": "South",
+        "Location after Crash": "Eastbound roadway, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Straight",
+            "Vehicle Action": "Continue through intersection",
+            "Travel Speed": 64,
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

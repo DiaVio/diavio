@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. The east/west trafficway is straight and divided by a curbed median. Both approaches consist of two through lanes, one left turn lane and a right turn lane. The eastbound approach has a downhill grade and the westbound approach has an uphill grade. The speed limit for this trafficway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2005 Honda Civic, was eastbound in lane four. Vehicle two (V2), a 2006 Ford Escape, was westbound in lane two. V1 turned left in the intersection and the right side was struck by the front of V2. Both vehicles were towed due to damage. Police Reported Travel Speed is Unknown for V1 and Unknown for V2.
+
+The driver of V1, a sixteen-year-old female, was on her way from a mall to another store. She was well rested, healthy and familiar with her vehicle. She travels this route weekly. This driver stated that she was looking left at her turn destination and did not see V2 prior to the crash. She had eight months of driving experience at the time of the crash.
+
+The driver of V2, a twenty-one-year-old male, was on his way home (in another city) with his wife and child. He was healthy at the time of the crash and comfortable with his vehicle and passengers. He travels this route monthly. This driver was talking with his wife but saw V1 approaching the intersection and assumed that she would stop. When he realized that V1 was turning in front of him, he applied the brakes in an attempt to avoid the crash.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; inadequate surveillance (e.g. failed to look, looked but did not see)." This driver's inexperience was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."

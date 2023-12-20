@@ -1,0 +1,1 @@
+The reason for V2 being primarily responsible is that it failed to yield the right of way at the stop sign. V1 was already passing through the intersection when V2 entered, resulting in the collision.

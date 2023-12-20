@@ -1,0 +1,1 @@
+Vehicle 1 (V1) impacted the back end of Vehicle 2 (V2), pushing it into a dirt embankment on the right side of the roadway. This collision scenario corresponds to the front of V1 colliding with the side of V2, which is characteristic of a T-bone collision.

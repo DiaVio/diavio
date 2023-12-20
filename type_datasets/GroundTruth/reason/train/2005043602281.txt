@@ -1,0 +1,3 @@
+Rear-End Collision. 
+
+Justification: The accident involved V1 (a 2004 Jeep Cherokee) striking the back of V2 (a 1994 Nissan Sentra) when V2 came to a stop due to a large truck decelerating in its lane. This indicates that V1 hit the back of V2, which is characteristic of a Rear-End Collision.

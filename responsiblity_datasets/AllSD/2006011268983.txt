@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-way, two lane",
+        "RoadShape": "straight",
+        "RoadSlope": ">2% +slope",
+        "SpeedLimit": "89 kmh (55mph)"
+    },
+    "Environment": {
+        "RoadCondition": "good",
+        "Weather": "clear, daylight and dry"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "westbound",
+        "Location after Crash": "facing east against a tree",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "estimated 96 kmh (60mph)",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

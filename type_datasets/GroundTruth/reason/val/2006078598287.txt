@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) and Vehicle 2 (V2) collided at the intersection, with the front of V1 colliding with the side of V2. This is commonly referred to as a "T-bone" collision.

@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left side trailer of Vehicle 2 (V2) as the front of V1 under rode the trailer and trailer frame. The collision occurred when V1 departed from lane two (front) and encroached into lane one (side) where V2 was traveling.

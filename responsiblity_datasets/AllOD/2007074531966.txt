@@ -1,0 +1,17 @@
+This four-vehicle crash occurred in a four-legged, traffic signal-controlled intersection. Both roadways are divided by a curbed median. The westbound approach lanes curve to the right, have an uphill grade and consist of three through lanes and a left turn lane at the intersection. The eastbound approach lanes curve to the left, have a downhill grade and consist of three through lanes and a left turn lane at the intersection. The southbound approach lanes are straight, level and consist of two through lanes and a left turn lane at the intersection. The speed limit for these roadways is 56 kmph (35 mph). It was dawn (with streetlights on) and raining at the time of the crash.
+
+Vehicle one (V1), a 1991 Plymouth Sundance, was westbound in lane two. Vehicle two (V2), a 1990 Toyota Celica, was southbound in lane two. Vehicle three (V3), a 2005 Hyundai Tiburon, was stopped eastbound in lane three and vehicle four (V4), a 2000 Chevrolet K1500 pickup, was stopped eastbound in lane two. In the intersection, the front of V1 struck the left side of V2. V2 traveled to the southwest and the left side struck the left side of V3. V3 moved to the right and the right side struck the left side of V4. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a seventeen-year-old female, was not interviewed. No further information is available for this driver.
+
+The driver of V2, a twenty-one-year-old male, was traveling from his home to work. He was healthy, well rested and familiar with his vehicle. He travels this route daily. This driver stated that he did not see V1 prior to the crash.
+
+The driver of V3, a forty-year-old female, was traveling from her home to work. She was healthy, well rested and familiar with her vehicle. She travels this route daily. This driver takes an unspecified medication for high blood pressure.
+
+The driver of V4 was a thirty-year-old male.
+
+The critical pre-crash event for V1 was coded as "this vehicle traveling; crossing over (passing through) intersection." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; type of driver error unknown."
+
+The critical pre-crash event for V2 was coded as "other vehicle encroachment; from crossing street, across path." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle." This driver's inadequate surveillance was an associated factor in this crash.
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

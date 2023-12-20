@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural highway",
+        "LaneType": "four-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "uphill",
+        "SpeedLimit": "105 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "east",
+        "Location after Crash": "off the roadway on the right side",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "lost control",
+            "Travel Speed": "109 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

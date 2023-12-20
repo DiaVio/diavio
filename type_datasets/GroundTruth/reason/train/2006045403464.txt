@@ -1,0 +1,1 @@
+This is because the front of Vehicle 1 (V1) collided with the side of Vehicle 3 (V3) at impact 2, which is consistent with a "T-bone" collision.

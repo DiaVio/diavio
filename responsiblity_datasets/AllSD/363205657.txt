@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "level three lane roadway",
+    "LaneType": "two southbound lanes divided by a double yellow line",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "positive 3 % grade",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "wet and rainy",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "left side",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "middle of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "proceed through the intersection",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "front",
+    "Moving on which Way": "westbound",
+    "Location after Crash": "middle of the intersection",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

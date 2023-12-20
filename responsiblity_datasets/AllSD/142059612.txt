@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "unmentioned",
+        "LaneType": "unmentioned",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": 40
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "ImpactSide": "left",
+        "MovingOnWhichWay": "south",
+        "LocationAfterCrash": "sidewalk of the southwest corner of the intersection",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "isAgainstRules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "front",
+        "MovingOnWhichWay": "west",
+        "LocationAfterCrash": "southwest quadrant of the intersection after impacting an iron fence",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "isAgainstRules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    }
+}

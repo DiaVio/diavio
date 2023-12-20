@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Undivided",
+    "LaneType": "Two lanes",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "56 kmph"
+  },
+  "Environment": {
+    "RoadCondition": "Icy with light covering of snow",
+    "Weather": "Dark with unlighted conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Over trench, facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "East",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "56 kmph",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

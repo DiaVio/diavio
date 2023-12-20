@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Mountain state highway",
+        "LaneType": "Undivided with one lane in each direction",
+        "RoadShape": "Right curve for westbound traffic",
+        "RoadSlope": "Uphill grade for westbound traffic",
+        "SpeedLimit": "64 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Wet",
+        "Weather": "Mid-afternoon daylight hours with light traffic flow"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "Partially on the side of the road and shoulder on the north side of the road",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Steered left into westbound traffic",
+            "Travel Speed": "64 kmph (40 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Front",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "In the westbound lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Tapped brakes and tried to slow down",
+            "Travel Speed": "64 kmph (40 mph)",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

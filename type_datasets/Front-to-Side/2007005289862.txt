@@ -1,0 +1,58 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Residential",
+    "LaneType": "Two-lane",
+    "RoadShape": "Intersection",
+    "RoadSlope": "Positive grade for both directions",
+    "SpeedLimit": {
+      "North/South Roadway": "72kmph (45mph)",
+      "East/West Roadway": "40kmph (25mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right front",
+    "Moving on which Way": "East",
+    "Location after Crash": "Spun counter clockwise approximately 90 degrees and struck Vehicle 3",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front",
+    "Moving on which Way": "North",
+    "Location after Crash": "Off the north side of the roadway against a tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Stopped in the southbound lane",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

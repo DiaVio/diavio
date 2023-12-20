@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "dirt",
+        "LaneType": "two lane",
+        "RoadShape": "curved",
+        "RoadSlope": "steep dirt and grass slope",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "daylight hours"
+    },
+    "Vehicle1": {
+        "Impact Side": "back",
+        "Moving on which Way": "east",
+        "Location after Crash": "final rest on its tires, partially submerged in the water",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

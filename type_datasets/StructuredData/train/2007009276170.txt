@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided north/south roadway",
+        "LaneType": "two lanes in each direction",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "56 kmph (35 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "cloudy and overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "head-on",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rested in lane 2 of the southbound lanes at the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "traveling at a high rate of speed, lost control, crossed over into lane 2, departed the roadway onto the median, entered the southbound lanes",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "head-on",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "rested in lane 2 of the southbound lanes at the point of impact",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

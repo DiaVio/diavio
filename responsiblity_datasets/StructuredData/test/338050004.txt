@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "rural",
+    "LaneType": "two-lane",
+    "RoadShape": "right curve",
+    "RoadSlope": "slight uphill",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "no adverse conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "front center and front right",
+    "Moving on which Way": "northeasterly",
+    "Location after Crash": "off the north pavement edge facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "forward tracking",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided state highway",
+        "LaneType": "two through lanes in each direction",
+        "RoadShape": "straight and level",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "89 kmph (55 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "ice spots on the roadway, snow-covered shoulder",
+        "Weather": "very cold temperatures (-15 degrees Celsius, or 5 °Fahrenheit)"
+    },
+    "Vehicle1": {
+        "Impact Side": "right side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "facing south in the median",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "yaw counterclockwise, slide through median, roll onto right side and then onto top",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

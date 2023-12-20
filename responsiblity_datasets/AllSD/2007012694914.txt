@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "neighborhood roadway",
+    "LaneType": "two lanes of travel",
+    "RoadShape": "straight",
+    "RoadSlope": "level",
+    "SpeedLimit": "40 kmph (25 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry bituminous",
+    "Weather": "sunny and clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "right side",
+    "Moving on which Way": "south",
+    "Location after Crash": "on top of a large maple tree",
+    "Objectivebehavior": {
+      "Whether to Brake": "yes",
+      "Direction": "south",
+      "Vehicle Action": "steered up onto the grass area on the right side of the roadway, then steered back onto the roadway and traveled off the left side to hit a large tree",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "not applicable",
+    "Moving on which Way": "not applicable",
+    "Location after Crash": "not applicable",
+    "Objectivebehavior": {
+      "Whether to Brake": "not applicable",
+      "Direction": "not applicable",
+      "Vehicle Action": "not applicable",
+      "Travel Speed": "not applicable",
+      "is_against_rules": "not applicable",
+      "Attempted Avoidance Maneuvers": "not applicable",
+      "Attempted Lane Crossing": "not applicable"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The reason for V1 being primarily responsible is that the driver fell asleep, causing the vehicle to depart its travel lane multiple times, cross over the paved shoulder, and ultimately leave the roadway. The driver's lack of attention and control led to the collision with trees and the subsequent rollover event.

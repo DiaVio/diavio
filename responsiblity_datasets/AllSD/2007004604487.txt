@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Two-lane north/southbound roadway",
+    "LaneType": "Single northbound lane",
+    "RoadShape": "Curve",
+    "RoadSlope": "5% downhill grade",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Night on a weekday"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Pulled over in a nearby parking lot",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Northbound",
+      "Vehicle Action": "Attempting to pass another vehicle over a double yellow centerline",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Driver's door",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Impacted a mailbox and tree before coming to rest",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Northbound",
+      "Vehicle Action": "Not allowing the other vehicle to merge into the northbound lane of travel",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

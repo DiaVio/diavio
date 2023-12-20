@@ -1,0 +1,8 @@
+
+
+- V1 (Cadillac Escalade) impacted the left front side of V2 (Ford Explorer) at the intersection.
+- The Critical Pre-crash event for V1 was "Other vehicle encroachment, from crossing street, across path," indicating that V1 and V2 collided at the intersection.
+- The Critical Pre-crash event for V2 was "This vehicle traveling, crossing over (passing through) intersection," further indicating that V2 was involved in a collision at the intersection.
+- V1 impacted V2 from the front, while V2 impacted V1 from the side, resembling a T-bone collision.
+
+Therefore, the accident is classified as a Type 5: Front-to-Side Collision.

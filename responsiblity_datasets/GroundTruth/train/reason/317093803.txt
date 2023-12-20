@@ -1,0 +1,1 @@
+The reason for this is that V1 was attempting to make a left turn onto the intersecting roadway, and it failed to yield the right of way to Vehicle 2 (V2), the 2005 BMW M3 coupe, which was traveling straight in the right travel lane. V1's failure to yield and properly judge the distance and speed of V2 resulted in the collision.

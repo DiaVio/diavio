@@ -1,0 +1,41 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Multi-lane divided highway",
+    "LaneType": "Outboard and inboard lanes",
+    "RoadShape": "Straight with hillcrest",
+    "RoadSlope": "Downhill slope",
+    "SpeedLimit": "Unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "Wet",
+    "Weather": "Dark (road not lighted), rainy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Southbound, straight",
+    "Location after Crash": "On its left side along the west shoulder, facing west",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Counterclockwise rotation",
+      "Vehicle Action": "Rolled over, struck guardrail",
+      "Travel Speed": "Unmentioned",
+      "Is Against Rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front right",
+    "Moving on which Way": "Southbound, just behind Vehicle 1",
+    "Location after Crash": "In southbound outboard lane, facing southwest",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Clockwise rotation",
+      "Vehicle Action": "Rotated clockwise, struck guardrail three times, came to rest in outboard lane",
+      "Travel Speed": "Unmentioned",
+      "Is Against Rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+This is because V1 was making a left turn and V2, traveling straight through the intersection, collided with the right side of V1.

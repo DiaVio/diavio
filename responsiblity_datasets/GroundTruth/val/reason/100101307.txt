@@ -1,0 +1,1 @@
+The reason for this is that V2 lost control and swerved into the right lane, causing a collision with V1. V2's clockwise yaw and subsequent airborne impact with V1 resulted in significant damage to both vehicles. Additionally, V2's actions led to the deployment of the driver's side impact airbags in V1.

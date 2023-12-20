@@ -1,0 +1,1 @@
+Vehicle one (V1) impacted the left side of vehicle two (V2) within the intersection, with the front of V1 colliding with the side of V2. This is commonly referred to as a "T-bone" collision.

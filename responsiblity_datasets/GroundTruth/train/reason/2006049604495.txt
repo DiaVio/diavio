@@ -1,0 +1,1 @@
+The critical precrash event for V2 was coded as "other vehicle encroachment, from opposite direction - over left lane line." This indicates that V2 crossed over the left lane line, encroaching into the path of V1 while attempting to pass straight through the intersection. This action by V2 resulted in the collision with V1.

@@ -1,0 +1,1 @@
+This is because V1, traveling south, collided with V2, traveling west, at the intersection. The collision occurred when V1 struck the right side of V2.

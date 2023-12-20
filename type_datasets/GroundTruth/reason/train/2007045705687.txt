@@ -1,0 +1,3 @@
+
+
+Justification: The accident occurred when V1, traveling north on the arterial road, struck V2, which was traveling east and crossing the arterial road. V2 was struck on its right side, causing it to rotate clockwise and collide with a utility pole. This collision between the front of V1 and the side of V2 corresponds to a Front-to-Side Collision.

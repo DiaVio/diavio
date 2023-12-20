@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Expressway",
+    "LaneType": "Divided",
+    "RoadShape": "Straight",
+    "RoadSlope": "Level",
+    "SpeedLimit": "105 kmph"
+  },
+  "Environment": {
+    "RoadCondition": "Dry",
+    "Weather": "Normal"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right front corner",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "South shoulder facing eastbound",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Lane change to the right",
+      "Travel Speed": "105 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left rear corner",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Rest area facing eastbound",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "105 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The reason for V1's primary responsibility is that the driver made an incorrect evasive action by oversteering to the right when attempting to avoid the non-contact vehicle that drifted into its lane. This inappropriate evasive action caused V1 to exit the roadway and ultimately collide with a structure on the roadside.

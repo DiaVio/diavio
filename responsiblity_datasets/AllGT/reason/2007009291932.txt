@@ -1,0 +1,1 @@
+The reason for this is that V2 was attempting to make a left turn across the eastbound lanes, but failed to properly assess the oncoming traffic due to sight restrictions caused by the vehicle turning left in lane two and the downhill slope of the hill. V2 proceeded to turn without ensuring that it was safe to do so, resulting in a collision with V1.

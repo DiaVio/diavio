@@ -1,0 +1,11 @@
+The crash occurred in the intersection of two roadways. The east/west roadway was two-way with one lane in each direction. The north/south roadway was a two-way roadway with two lanes in each direction, a turning lane, and a divided service road. This was a straight, level, bituminous roadway with a posted speed limit of 48 kmph (30 mph). It was the evening hours of a weekday.
+
+V1, a 2006 Dodge Caravan minivan with two occupants was traveling southbound in lane one. V2, a 2007 Toyota Corolla four door with two occupants was traveling southbound in the divided service lane. At the intersection, V2 attempted to merge from the southbound service lane and into the southbound main road. The right side of V1 impacted the left side of V2. V1 and V2 came to a final rest on the main roadway. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Dodge Caravan was driven by a 33 year-old male who reported no injuries. The 33 year-old female occupant also reported no injuries. The driver advised that he was traveling from his in-laws house and going to his friend's house, and while going southbound on the main roadway the other vehicle attempted to merge from the service lane.
+
+The Critical Pre-crash event was "other vehicle encroachment, from adjacent lane (same direction) - over right lane line". The Critical Reason for the Critical event was not coded to this vehicle. This vehicle had the right-of-way, and no associated factors were coded to the driver.
+
+V2, the Toyota Corolla, was driven by a 22 year-old female who reported no injuries. A 24 year-old female occupant also reported no injuries. The driver advised that she was coming from her home and going to her cousin's house. She stated that she was attempting to merge into the main road from the service lane and did not see V1.
+
+The Critical Reason for the Critical event was "this vehicle traveling, turning left at intersection". The Critical Reason for the Critical event was coded as a Driver related factor, "illegal maneuver". The driver did not have the right-of-way, and an associated factor was a recognition factor, inadequate surveillance, failed to look to side. A Decision factor was an illegal maneuver; she made an illegal merge from the service lane to the main road. No other Associated factors were coded to the driver.

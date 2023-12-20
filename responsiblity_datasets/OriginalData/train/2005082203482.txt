@@ -1,0 +1,7 @@
+This two vehicle daytime collision occurred shortly after noon. The collision occurred at the uncontrolled intersection of a north-south roadway and an east-west roadway. The roadway is level worn concrete paving. Both roads are non-divided with two lanes, and have non-posted speed limits of 40 kmph (25 mph).
+
+Vehicle one (V1), a 2003 Volkswagen Jetta driven by a 27 year-old female, was traveling northbound on the roadway in lane 1. Vehicle two (V2), a 1989 Ford Ranger p/u driven by a 21 year-old male, was traveling westbound in lane 1. Both vehicles approached the intersection at roughly the same time, and the front of V1 collided with the left side of V2. Both vehicles deflected from the contacted corners and came to rest facing west. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, crossing over (passing through) intersection. The critical reason for the critical event was attributed to V1 as a driver related factor: inadequate surveillance (e.g. failed to look, looked but did not see). The driver stated that she didn't see anyone coming.
+
+The critical pre-crash event for V1 was coded: other vehicle encroachment; from crossing street, across path. The critical reason for the critical event was not assigned to this vehicle.

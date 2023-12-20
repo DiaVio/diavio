@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Urban expressway",
+        "LaneType": "One-way center positive barrier divided",
+        "RoadShape": "180-degree turn to the right",
+        "RoadSlope": "5% downhill grade",
+        "SpeedLimit": "89 KPH (55 MPH)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Cloudy but clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "On its left side",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Unmentioned",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

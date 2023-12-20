@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the right rear side of Vehicle 1 (V1) and then proceeded to strike Vehicle 4 (V4) with its left front bumper. This indicates that the front of V2 collided with the side of V1, resulting in a "T-bone" collision.

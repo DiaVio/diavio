@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "divided",
+    "LaneType": "one-way",
+    "RoadShape": "undivided",
+    "RoadSlope": "level",
+    "SpeedLimit": 48
+  },
+  "Environment": {
+    "RoadCondition": "dry asphalt",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "west",
+    "LocationAfterCrash": "rear of V3",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "crossing through intersection",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "yes",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "left",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "immediately stopped",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "left",
+    "MovingOnWhichWay": "south",
+    "LocationAfterCrash": "rear by V1",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

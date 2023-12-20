@@ -1,0 +1,1 @@
+This is because the front of vehicle V1 collided with the left side of vehicle V2, as V1 drifted over the centerline and into the oncoming travel lane while negotiating the curve.

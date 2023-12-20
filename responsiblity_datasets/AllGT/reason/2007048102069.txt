@@ -1,0 +1,1 @@
+The driver of V2 failed to adequately surveil the intersection before making a left turn, which resulted in the collision with V1 (the Chevrolet Cavalier). V2's critical reason for the critical pre-crash event was coded as "inadequate surveillance (e.g. failed to look, looked but did not see)."

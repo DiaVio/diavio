@@ -1,0 +1,1 @@
+The driver of V1 was making a left turn without a protected left turn signal, across the path of V2 (the Pontiac Firebird). V1 failed to adequately surveil the intersection and did not see V2 approaching, resulting in the collision.

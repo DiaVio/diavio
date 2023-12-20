@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Dodge Ram pickup) impacted the left plane of Vehicle 2 (Isuzu Rodeo) at the intersection, with the front of Vehicle 1 colliding with the side of Vehicle 2.

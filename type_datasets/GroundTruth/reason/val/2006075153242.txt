@@ -1,0 +1,1 @@
+Vehicle one collided with the left side of vehicle two, causing it to rotate counterclockwise and making the back right side of vehicle two collide with the back end of vehicle three.

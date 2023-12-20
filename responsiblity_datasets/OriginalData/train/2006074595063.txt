@@ -1,0 +1,11 @@
+This two-vehicle crash occurred in a traffic signal-controlled intersection. The north/south roadways are divided by curbed medians and are straight and level. The northbound and southbound lanes consist of two through lanes and a dedicated left turn lane. The speed limit for this roadway is 64 kmph (40 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1994 Lincoln Continental, was southbound in lane one, approaching the intersection. V2, a 2005 Jeep Liberty, was northbound, stopped in lane three, waiting to turn left at the intersection. V2 turned left and the front struck the left side of V1. V1 came to rest on the southwest corner island facing southwest and was towed due to damage. V2 came to rest in the intersection facing northwest. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a forty-three-year-old male, was traveling from his home to work. He was well rested and familiar with his vehicle and his route. This driver noticed V2 and assumed the driver would wait to turn until the intersection was clear. He realized that V2 was turning and attempted to steer right but was unable to do so due to other traffic.
+
+The driver of vehicle two, a thirty-seven-year-old female, was driving from her home to work. She was very familiar with her vehicle and her route. This driver stated that she slept for over seven hours prior to this trip but she "did not sleep good" due to "bad" dreams about her family. While enroute to work, she felt fatigued and was still thinking about these dreams.
+
+The critical pre-crash event for V1 was coded as "other vehicle encroachment; from opposite direction - over left lane line." The critical reason for the critical pre-crash event for V1 was coded as "not coded to this vehicle." This driver's assumption that V2 would yield the right-of-way was an associated factor in this crash.
+
+The critical pre-crash event for V2 was coded as "this vehicle traveling; turning left at intersection." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; inattention (i.e. daydreaming)."

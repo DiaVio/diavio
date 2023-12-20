@@ -1,0 +1,1 @@
+Vehicle 1 was attempting to turn left and the front of Vehicle 1 collided with the left front of Vehicle 2. This collision is commonly referred to as a "T-bone" collision, which is classified as a front-to-side collision.

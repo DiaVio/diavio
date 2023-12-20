@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) struck the rear of Vehicle 2 (V2) after swerving to avoid a large semi-truck. The critical pre-crash event for V1 was coded as "this vehicle traveling over the lane line on the right side of the travel lane" indicating the impact from behind.

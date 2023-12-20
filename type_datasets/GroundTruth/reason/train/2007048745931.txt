@@ -1,0 +1,1 @@
+This is because the accident involved only one vehicle (Vehicle one - V1) and there was no collision with any other entity. V1 swerved to avoid a raccoon, traveled off the road, and rolled over multiple times.

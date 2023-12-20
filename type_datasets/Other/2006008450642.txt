@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two lane",
+        "RoadShape": "curved",
+        "RoadSlope": "level",
+        "SpeedLimit": "56kmph (35mph)"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "dark and cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front",
+        "Moving on which Way": "west",
+        "Location after Crash": "facing north, straddling the centerline",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "excessive (reported to be around 96-113kmph or 60-70mph)",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

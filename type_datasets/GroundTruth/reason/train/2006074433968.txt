@@ -1,0 +1,1 @@
+The front of Vehicle 1 (V1) collided with the side of Vehicle 3 (V3) as V3 attempted a left turn at the intersection.

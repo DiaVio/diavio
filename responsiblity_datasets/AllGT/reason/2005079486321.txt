@@ -1,0 +1,1 @@
+The reason for this is that V1 attempted a left turn at the intersection without properly judging the gap distance or the speed of V2 (the Ford F800 truck). V1 accelerated through the intersection as an avoidance maneuver, indicating a misjudgment of the situation. This decision error by the driver of V1 led to the collision with V2.

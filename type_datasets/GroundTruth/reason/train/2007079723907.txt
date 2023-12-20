@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) entered the intersection on a red light and its front plane impacted Vehicle 2's (V2) left plane, indicating a collision between the front of V1 and the side of V2.

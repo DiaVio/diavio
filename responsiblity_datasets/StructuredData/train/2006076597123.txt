@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided asphalt constructed roadway",
+        "LaneType": "two-way, two-lane",
+        "RoadShape": "right hand curve",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "light rain",
+        "Weather": "cloudy skies"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right",
+        "Moving on which Way": "south",
+        "Location after Crash": "against the embankment, straddling the southbound travel lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "around the speed limit",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

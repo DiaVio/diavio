@@ -1,0 +1,7 @@
+This single vehicle crash occurred on a straight, icy, six-lane, undivided, four-leg intersection with lights for controls with pedestrian signals. The intersection runs east and west and north and south at the location. Eastbound traffic has one right turn lane, two through lanes and one left turn lane. The speed limit on the roadway is 64 kph (40 mph) and it was cloudy at the time. At the time of the crash there was ice on the roadway.
+
+Vehicle one is a 2005 Buick Lacrosse that was eastbound in lane one. Vehicle one started to turn right at the intersection and lost control. Vehicle one slid to the left and the left front wheel impacted the curb and rolled the wheel under. Vehicle one was towed due to damage. Police Reported Travel Speed is 0 kmph for V1.
+
+The driver of vehicle one, a forty-eight year old male was driving to work and had been driving for ten minutes at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis. This driver stated that he felt the car lose its grip. This driver braked, then released the brakes and at the last second steered hard right to avoid the pole. He missed the pole but hit the curb.
+
+The critical pre-crash event for vehicle one was coded as “this vehicle control loss due to: poor road conditions [puddle, pot hole, ice, etc.] [Specify]: icy roads”. The critical reason for the critical pre-crash event for vehicle one was coded as “environment related factor: slick roads [low friction road surface due to ice, loose debris, any other cause]”.

@@ -1,0 +1,15 @@
+This three-vehicle collision occurred on a three-way intersection controlled by traffic control signals. The roadway for east and west traffic is two-way, four-lane, bituminous, level and has a posted speed limit of 56 kmph (35 mph). Roadway for southbound traffic is two-way, two-lane, bituminous, level and has a posted speed limit of 40 kmph (25 mph). This crash occurred during daylight hours. No adverse weather conditions present at the time of collision though thunderstorms were developing.
+
+Vehicle one (V1), a 2003 Jeep Cherokee was traveling east in lane two with the intention of turning left. Vehicle two (V2), a 2002 Nissan Sentra sedan was traveling west in lane two. Vehicle three (V3), a 2001 Mitsubishi Mirage was stopped in lane one of the southbound traffic lane waiting to turn right. V1 turned left at the light and was impacted on the right side by the front of V2. V1 rotated clockwise and the rear of V1 impacted the front of V3. V1 came to rest facing southbound in the first lane of the southbound road. V2 came to rest facing north in lane two. V3 came to rest facing south. V1 and V2 were towed due to damage. V3 was not towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-four year old female, was coming from purchasing maternity clothing. This driver is thirty-two weeks pregnant. There was a second occupant in this vehicle in the second row. This driver as she was driving she was thinking about the weather (possible thunderstorms) and whether or not to purchase gas. This driver then decided to purchase gas and turned left. The driver indicated that she saw the red car and it was between the lights. The driver of V1 indicated that she hesitated before turning and was then impacted. This driver had only been driving for about five minutes at the time of the crash. This driver is taking pre-natal vitamins, Zoloft and Synthroid. This driver drives this vehicle daily and over this road on a daily basis.
+
+The driver of V2, a twenty-four year old male, was heading to a friend's house from home at the time of the crash. This driver had only been driving for about five minutes at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis.
+
+The driver of V3, a forty-seven year old female, had just left the convenience store and was heading home. This driver had been driving for only a few minutes at the time of the crash. This driver was stopped at the stop light at the time of the crash. This driver drives this vehicle daily and over this road on a daily basis.
+
+The critical pre-crash event for V1 is coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event for V1 was coded as a driver related factor: misjudgment of gap or other's speed.
+
+The critical pre-crash event for V2 is coded: other vehicle encroachment; from opposite direction, over left lane line. The critical reason for the critical pre-crash event for was not coded to this vehicle.
+
+V3 was not involved in first harmful event and the critical reason was not coded to this vehicle.

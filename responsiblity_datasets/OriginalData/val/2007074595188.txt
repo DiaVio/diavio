@@ -1,0 +1,17 @@
+This five-vehicle crash occurred on a divided trafficway near a four-legged, traffic signal-controlled intersection. The westbound approach lanes are straight, have a downhill grade and consist of two through lanes and a left turn lane. The speed limit for this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1995 Pontiac Grand Am, was westbound in lane one. Vehicle two (V2), a 2000 Chevrolet Tracker, was decelerating in westbound lane one, in front of V1. Vehicle three (V3), a 2003 Honda Civic, was stopped westbound in lane one in front of V2. Vehicle four (V4), a 2001 Chevrolet S10 pickup, was stopped westbound in lane one in front of V3. Vehicle five (V5), a 2007 Chevrolet Suburban, was stopped westbound in lane three. The front of V1 struck the back of V2 and V1 traveled off the right side of the roadway. V1 reentered the roadway and the front struck the right side of V2. V1 continued westbound and the front struck the back of V3. V3 moved forward and the front struck the back of V4, the right side of V3 struck the back of V4 and the front of V3 struck the right side of V5. The front of V1 then struck the back of V3 again. V1, V2 and V3 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-seven-year-old male, was traveling from his home to his parents' home. He was familiar with his vehicle and travels this route daily. This driver has epilepsy and takes the medications Keppra, Dilantin, Motrin and vitamins. He stated that he had done yard work for the previous three days for five hours each day and felt fatigued. He further stated that he had a seizure just before the crash and did not remember any of the details of the crash.
+
+The driver of V2, a twenty-seven-year-old female, was traveling with a thirty-year-old female passenger, from her home to a restaurant. This driver was well rested, healthy and comfortable with her vehicle and passenger. She travels this route daily. This driver stated that she was slowing for the traffic in front of her and did not see V1 prior to the crash.
+
+The driver of V3, a twenty-nine-year-old male, was on his way from his home to a store. He was healthy and familiar with his vehicle and the roadway. This driver stated that he heard the initial crash and turned the steering wheel sharply to the left but was unable to make any other avoidance maneuvers due to traffic in front of him.
+
+The driver of V4 was a thirty-year-old male and the driver of V5 was a forty-four-year-old male.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in same direction while decelerating." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; heart attack or other physical impairment of the ability to act."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

@@ -1,0 +1,1 @@
+V1's front impacted with the left side of V2, indicating a collision between the front of one vehicle (V1) and the side of another (V2).

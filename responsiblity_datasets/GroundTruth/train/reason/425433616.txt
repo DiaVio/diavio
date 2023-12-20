@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 was stopped and began turning left at the interchange, which indicates that it failed to yield the right of way to Vehicle 1. As a result, Vehicle 1 collided with the left front of Vehicle 2, causing the subsequent rotation and damage to both vehicles.
