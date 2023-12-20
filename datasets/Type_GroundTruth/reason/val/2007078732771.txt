@@ -1,0 +1,1 @@
+This classification is based on the fact that Vehicle 1 struck the rear of Vehicle 2, causing a chain reaction where Vehicle 2 was pushed into the rear of Vehicle 3.

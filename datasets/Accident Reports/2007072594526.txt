@@ -1,0 +1,17 @@
+This four-vehicle crash occurred on a jersey barrier-divided, straight trafficway. The northbound lanes are level and consist of four through lanes with narrow shoulders on both sides. The speed limit for this roadway is 72 kmph (45 mph). It was dark with streetlights on at the time of the crash with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2001 Chevrolet Tahoe, was northbound in lane four. Vehicle two (V2), a 1997 Jeep Cherokee, was northbound in lane four in front of V1 and vehicle three (V3), a 2005 Chevrolet Malibu, was in front of V2. Vehicle four (V4), a 2006 Pontiac Grand Prix, was stopped in lane four with hazard lights on due to a previous crash. V2 and V3 stopped behind V4. The front of V1 struck the back of V2. The front of V2 struck the back of V3 and then V2 rotated slightly and the left side struck the jersey barrier. V3 moved forward and the front struck the back of V4. V2 and V3 were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a thirty-year-old male, was not interviewed. Based on physical evidence, he steered to the right prior to the first impact.
+
+The driver of V2, a twenty-one-year-old female, was driving from one area of the city to another. She was healthy, well rested and familiar with her vehicle. She travels this route weekly. This driver stated that she noticed V4 stopped and V3 stopping and was able to stop prior to the first impact.
+
+The driver of V3, a thirty-four-year-old female, was on her way home from work. She was well rested, healthy and familiar with her vehicle. She travels this route daily. This driver stated that she stopped when she realized that V4 was stopped due to her previous crash.
+
+The driver of V4 was a twenty-four-year-old female.
+
+The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V1 was coded as "driver related factor; too fast to be able to respond to unexpected actions of others - vehicles stopping in front."
+
+The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V2 was "not coded to this vehicle."
+
+The critical pre-crash event for V3 was coded as "not involved first harmful event." The critical reason for the critical pre-crash event for V3 was "not coded to this vehicle."

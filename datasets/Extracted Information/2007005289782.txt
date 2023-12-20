@@ -1,0 +1,44 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Residential",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Four-way intersection",
+    "RoadSlope": "Slight uphill grade for northbound traffic",
+    "SpeedLimit": {
+      "East/West Roadway": "64 kmph (40mph)",
+      "North/South Roadway": "56 kmph (35mph)"
+    }
+  },
+  "Environment": {
+    "RoadCondition": "Bituminous, dry",
+    "Weather": "No adverse atmospheric conditions"
+  },
+  "Vehicle1": {
+    "Impact Side": "Right rear",
+    "Moving on which Way": "Eastbound",
+    "Location after Crash": "Off the right side of the roadway, facing south against the building",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "72 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Front",
+    "Moving on which Way": "Stopped facing north",
+    "Location after Crash": "Original lane of travel",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "72 kmph",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

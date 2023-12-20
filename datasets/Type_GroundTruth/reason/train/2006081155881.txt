@@ -1,0 +1,1 @@
+This is because the collision involved only one vehicle (Vehicle 1) and no other entities. The vehicle departed the roadway and collided with a power pole, resulting in damage to the vehicle and causing it to come to a rest in the woods.

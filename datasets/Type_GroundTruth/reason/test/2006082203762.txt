@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) impacted the rear of Vehicle 2 (V2), and then V2 subsequently impacted the rear of Vehicle 3 (V3).

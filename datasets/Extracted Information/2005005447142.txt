@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Parking lot drive-through roadway",
+        "LaneType": "Undivided 2-lane roadway",
+        "RoadShape": "Unmarked",
+        "RoadSlope": "Level",
+        "SpeedLimit": "Not posted"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front left",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Departed roadway to the right and struck bushes and trees",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Continued westbound on the roadway",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right side front",
+        "Moving on which Way": "Pulled out of a parking space to turn left onto the roadway",
+        "Location after Crash": "Rotated counterclockwise and struck a parked vehicle to its left",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Attempted to turn left onto the roadway",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

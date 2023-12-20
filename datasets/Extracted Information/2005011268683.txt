@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided two-lane bituminous roads",
+        "LaneType": "two-lane",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "89 kmph/55 mph"
+    },
+    "Environment": {
+        "RoadCondition": "clear and dry",
+        "Weather": "summer evening"
+    },
+    "Vehicle1": {
+        "Impact Side": "right front",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "front lawn of his home",
+        "Objectivebehavior": {
+            "Whether to Brake": "no",
+            "Direction": "straight",
+            "Vehicle Action": "crossing over intersection",
+            "Travel Speed": "45 mph",
+            "is_against_rules": "yes",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "front",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "eastbound lane of the east leg of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "left",
+            "Vehicle Action": "encroachment from crossing street across path",
+            "Travel Speed": "89 kmph",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+This single vehicle collision occurred on a two-way street with three lanes, before the intersection with another arterial road. The pre-crash roadway is straight, level and paved with bituminous asphalt. The collision occurred at the driveway to a gas station on the west side of the road. The roadway has a posted speed limit of 48 kmph (30 mph). This crash occurred during nighttime hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1995 Hyundai Elantra was southbound in the first lane. A non-contact vehicle turned left in front of V1. V1 veered to the right to avoid a collision, locked up the brakes and skidded into a decorative wooden pole and a power pole. The vehicle was disabled and was towed from the scene. Police Reported Travel Speed is Not reported for V1.
+
+The driver of V1 stated that a large SUV turned left in front of him, and his first reaction was to steer right. After steering right, he realized a collision with the pole was imminent. The police were able to track down the driver of the non-contact vehicle, and that driver admitted to turning left in front of V1.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, off the road to the right. The critical reason for the critical pre-crash event was assigned to this driver as a driver related factor: too fast to be able to respond to unexpected actions of others. This driver was going too fast to be able to react to the left turn of the non-contact vehicle.

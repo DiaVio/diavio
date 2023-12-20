@@ -1,0 +1,27 @@
+{
+  "RoadNetWork": {
+    "RoadType": "four lane roadway",
+    "LaneType": "divided by a raised grass median",
+    "RoadShape": "left hand curve",
+    "RoadSlope": "level",
+    "SpeedLimit": 35
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "left",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "off the right side of the roadway",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "north",
+      "Vehicle Action": "attempted to negotiate a left hand curve",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

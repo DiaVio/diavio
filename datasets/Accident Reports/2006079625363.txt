@@ -1,0 +1,15 @@
+This three-vehicle crash occurred at the intersection of five-lane roadway and a six-lane roadway. The intersection is controlled by a traffic signal. Both roads are straight and level with no defects. The six-lane road has a speed limit of 56 kmph (35 mph). The five-lane roadway has a speed limit of 40 kmph (25 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 2002 Honda Civic was southbound in the third lane. Vehicle two (V2), a 1999 Ford Explorer was northbound in the third lane. Vehicle three (V3), a 2004 Jeep Grand Cherokee was stopped westbound in the second lane. As V1 made its left turn at the intersection, its right plane was contacted by the front plane of V2. V1 then rotated clockwise as it headed towards V3. The rear plane of V1 contacted the front plane of V3. V1 came to rest facing southwest blocking the westbound number two and three lanes. V2 came to rest facing eastbound blocking the westbound lanes. V3 came to rest facing westbound in the number two lane. V1 received major damage and was towed from the scene. V2 received moderate damage and was towed from the scene. V3 received moderate damage and was towed from the scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a seventy-four year old male, was not interviewed.
+
+The driver of V2, a twenty-seven year old male was traveling to a work related location from another work related location. The driver has asthma and takes an unspecified inhaler for his condition. The driver has been driving for approximately ten years. The driver has an international driver's license from the country of Israel. The driver stated he had a green light when vehicle one suddenly turned in front of him. This driver drives this vehicle daily and over this road on a daily basis.
+
+The driver of V3, a fifty-year-old male, was traveling to work from a donut shop. The driver had his radio on while he waited for the light. He had his left hand on the steering wheel and his right hand on his cup of coffee. The driver has high cholesterol and takes an unspecified pill twice a day. This driver drives this vehicle daily and over this road on a weekly basis.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical pre-crash event was attributed to vehicle one and was coded as a driver related factor: type of driver error unknown.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment; from opposite direction- over left lane line. The critical reason for the critical pre-crash event was not coded to this vehicle.
+
+V3 was not involved in first harmful event. The critical reason was not coded to this vehicle.

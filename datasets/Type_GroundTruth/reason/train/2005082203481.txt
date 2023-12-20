@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) veered into vehicle two (V2), striking it with the left front corner of V1, and then continued sliding along the right side of V2. This describes a collision where the front of one vehicle (V1) collides with the side of another vehicle (V2), which is characteristic of a front-to-side collision or "T-bone" collision.

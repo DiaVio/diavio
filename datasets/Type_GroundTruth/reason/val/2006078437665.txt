@@ -1,0 +1,1 @@
+Front-to-Side Collision (T-bone collision). This is because Vehicle 2 (V2) struck the left side of the trailer of Vehicle 1 (V1) as V1 was making a left turn, resulting in a collision between the front of V2 and the side of V1.

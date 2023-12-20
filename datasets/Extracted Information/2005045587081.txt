@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "urban",
+    "LaneType": "two-lane",
+    "RoadShape": "straight with a slight curve to the left",
+    "RoadSlope": "level",
+    "SpeedLimit": "64 kmph (40mph)"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "dark"
+  },
+  "Vehicle1": {
+    "Impact Side": "front left corner",
+    "Moving on which Way": "south",
+    "Location after Crash": "on its top facing west, 5m off the road and 54m south of initial impact with the pole",
+    "Objectivebehavior": {
+      "Whether to Brake": "brakes were released at 3 seconds prior to airbag deployment event",
+      "Direction": "south",
+      "Vehicle Action": "traveling too fast to negotiate the curve, lost control, crossed over into the northbound lane, departed the left (east) side of the road",
+      "Travel Speed": "speed data extracted from EDR: 94mph (151kph) 5 seconds prior to algorithm enable, 88mph (142kph) 3 seconds prior to airbag deployment event, 80mph (129kph) 2 seconds prior to AE, 71mph (114kph) 1 second prior to AE",
+      "is_against_rules": "yes, traveling at excessive speed",
+      "Attempted Avoidance Maneuvers": "no",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "N/A",
+    "Moving on which Way": "N/A",
+    "Location after Crash": "N/A",
+    "Objectivebehavior": {
+      "Whether to Brake": "N/A",
+      "Direction": "N/A",
+      "Vehicle Action": "N/A",
+      "Travel Speed": "N/A",
+      "is_against_rules": "N/A",
+      "Attempted Avoidance Maneuvers": "N/A",
+      "Attempted Lane Crossing": "N/A"
+    }
+  }
+}

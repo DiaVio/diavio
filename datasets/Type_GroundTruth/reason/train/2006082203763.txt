@@ -1,0 +1,3 @@
+Non-Motorized Vehicle or Pedestrian Crash
+
+Justification: The accident involved a vehicle (V1) and a pedestrian (V2) on an urban arterial road. V1 was stopped and waiting to turn left into a parking lot when V2, a pedestrian, collided with the right side of V1. The critical pre-crash event for V2 was coded as "Other Vehicle Encroachment from opposite direction over left lane line," indicating that V2 was not paying attention to the road ahead.

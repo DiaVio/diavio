@@ -1,0 +1,1 @@
+This is because Vehicle 1 swerved to avoid another vehicle and ended up colliding with the rear of Vehicle 2.

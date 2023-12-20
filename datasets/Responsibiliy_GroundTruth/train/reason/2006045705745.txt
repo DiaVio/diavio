@@ -1,0 +1,1 @@
+The reason for V1's primary responsibility is that the driver failed to stop for the traffic control device (TCD), which was functioning correctly. The driver's inattention and failure to look far enough ahead contributed to the collision. Additionally, V1 passed through a red light, indicating a clear violation of traffic laws.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "undivided two-lane",
+        "LaneType": "one lane in each direction",
+        "RoadShape": "multiple curves first right and then left",
+        "RoadSlope": "downhill slope of approximately 25%",
+        "SpeedLimit": "48kmph/30mph"
+    },
+    "Environment": {
+        "RoadCondition": "wet from earlier rainfall",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "Impact Side": "front and right side",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "about 7m north of the road facing west at the bottom of the embankment against two 30cm trees",
+        "Objectivebehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "unmentioned",
+            "Vehicle Action": "traveling off the edge of the road on the left side",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "unmentioned",
+        "Location after Crash": "unmentioned",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

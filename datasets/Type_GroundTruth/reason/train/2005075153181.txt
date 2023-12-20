@@ -1,0 +1,1 @@
+This is because vehicle one (V1) was intending to turn left at the intersection and vehicle two (V2) was going straight through the intersection. The right side of V1 was contacted by the front of V2, indicating a collision between the front of one vehicle and the side of another (also known as a "T-bone" collision).

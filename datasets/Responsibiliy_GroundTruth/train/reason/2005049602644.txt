@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the critical pre-crash event for V1 was coded as "this vehicle traveling, crossing over (passing through) intersection" and the critical reason was coded as "illegal maneuver." This indicates that V1 was making an illegal maneuver while crossing the intersection, which resulted in the collision with V2.

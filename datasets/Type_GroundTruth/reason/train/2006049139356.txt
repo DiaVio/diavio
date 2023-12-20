@@ -1,0 +1,1 @@
+This is because Vehicle 1 attempted to make a left turn across two lanes and across the path of Vehicle 2, resulting in V1 being struck on the left side by the right side of V2. This type of collision involves the front of one vehicle (V2) colliding with the side of another vehicle (V1).

@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "bituminous arterial",
+        "LaneType": "two-lane, two-way, undivided",
+        "RoadShape": "straight",
+        "RoadSlope": "level",
+        "SpeedLimit": "64 kmph"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "dark with street lights"
+    },
+    "Vehicle1": {
+        "Impact Side": "left",
+        "Moving on which Way": "northbound",
+        "Location after Crash": "rested on the embankment with the left side against the ditch",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "north",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

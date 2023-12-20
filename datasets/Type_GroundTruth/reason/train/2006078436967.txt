@@ -1,0 +1,1 @@
+This is because Vehicle 1 was making a left turn and collided with the front of Vehicle 2, which was traveling in the #2 lane. The impact occurred between the front side of Vehicle 1 and the front of Vehicle 2, resulting in both vehicles rotating and coming to rest in different lanes.

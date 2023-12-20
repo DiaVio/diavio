@@ -1,0 +1,11 @@
+This crash occurred on a 3 lane highway. The weather condition were dry, daylight and clear.
+
+Vehicle one was a 1996 International Eagle heavy truck with a 1986 Strick Trailer. Vehicle one was in lane two and drifted into lane one where Vehicle two a 2000 Saturn was driving. Vehicle ones wheels contact Vehicle twos left side and caused him to loose control and swerve off the road to the right striking a tree. Police Reported Travel Speed is No PAR obtained (created) for V1 and No PAR obtained (created) for V2.
+
+The driver of vehicle one was a 63 year old male, he stated that he was driving at a constant speed on the highway when vehicle two ran into him on his right side. He claimed that the driver of vehicle two wasn't paying attention and hit him, thus runninig off the road and striking the tree.
+
+The Critical Pre-crash Event was this vehicle traveling over the lane line on the right side of travel lane. The Critical Reason for the Critical Pre-crash Event was coded unknown performance error.
+
+The driver of vehicle two was a 54 year old male, he claimed that the driver of vehicle one drifted into his lane which was lane one, causing him to lose control of his vehicle, thus swerving off the road and striking the tree. The driver and passenger of vehicle two sustained serious injuries and was transported. Vehicle two was towed due to damage.
+
+The Critical Pre-crash Event was coded other vehicle encroachment from adjacent lane (same direction) - over left lane line..

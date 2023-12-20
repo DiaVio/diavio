@@ -1,0 +1,1 @@
+This is because Vehicle 1, traveling westbound, collided with Vehicle 2, traveling northbound, at a right angle. The left front of Vehicle 1 contacted the right front of Vehicle 2.

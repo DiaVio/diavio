@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "2-lane undivided rural trafficway",
+        "LaneType": "1 travel lane in each direction",
+        "RoadShape": "north to south configuration",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "wet road surface",
+        "Weather": "cloudy"
+    },
+    "Vehicle1": {
+        "ImpactSide": "left side",
+        "Moving on which Way": "southerly direction",
+        "Location after Crash": "northbound lane facing in a southerly direction",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "yes",
+            "Direction": "south",
+            "Vehicle Action": "straight",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "no",
+            "Attempted Avoidance Maneuvers": "yes",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "unmentioned",
+        "Moving on which Way": "stopped in the grass facing in a southerly direction",
+        "Location after Crash": "final rest position across the trafficway facing in an easterly direction",
+        "ObjectiveBehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northerly",
+            "Vehicle Action": "making a U-turn",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

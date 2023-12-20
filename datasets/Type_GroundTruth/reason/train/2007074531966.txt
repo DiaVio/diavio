@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 (V1) traveling westbound struck the left side of Vehicle 2 (V2), which was southbound. This collision occurred at the intersection where the front of V1 collided with the side of V2. Therefore, it fits the criteria of a front-to-side collision.

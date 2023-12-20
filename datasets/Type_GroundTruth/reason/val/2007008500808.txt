@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (V1) and no other entities were involved in the collision. The vehicle lost traction on a patch of ice, rotated, and made contact with a concrete barrier and a guardrail before coming to a final rest.

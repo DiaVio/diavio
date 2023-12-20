@@ -1,0 +1,11 @@
+This three-vehicle crash occurred on a seven-lane arterial road, composed of two-way traffic and a two-way turn lane for the seventh lane. The crash occurred heading west in lane three of the road. The road is paved with asphalt and is straight and level at the location of the crash, although the road was wet due to rain at the time of the crash. The speed limit for the road is 48 kmph (30 mph). This crash occurred during evening hours with rain.
+
+Vehicle one (V1), a 2001 Dodge Durango SUV was westbound in the third lane. Vehicle two (V2), a 2004 Ford Ranger was stopped westbound in the third lane. Vehicle three (V3), a 1984 Porsche 911 was stopped in the westbound third lane in front of V2. The front of V1 impacted the rear of V2. This impact pushed V2 into V3. All vehicles were towed due to disabling damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, a sixty-four year old male stated that it was dark and raining the night of the crash, and before reaching the stopped vehicles he was looking to his left at a dog kennel. He was trying to read the phone number for the dog kennel, for future reference. When he looked forward, he saw the stopped cars and slammed on the brakes, fully activating the ABS. His braking action was too late however, and he collided with V2. This driver had been driving for about eleven minutes at the time of the crash. This driver was taking the medications Atenolol and Prinivil. This driver has been moving himself for the last three days and fatigue is considered a factor for this driver. This driver drives this vehicle daily and over this road on a daily basis.
+
+The critical pre-crash event for V1 was coded: other vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event was attributed to V1 and was coded as a driver related factor: external distraction.
+
+The critical pre-crash event for V2 was coded: other vehicle in lane, traveling in same direction with higher speed. The critical reason was not coded to this vehicle.
+
+V3 was not involved in the first harmful event. The critical reason was not coded to this vehicle.

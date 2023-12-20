@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Intersection",
+    "LaneType": "Undivided",
+    "RoadShape": "Cross",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "56 kmph (35 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Wet",
+    "Weather": "Dark and cloudy with light snow flurries"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Right side",
+    "MovingOnWhichWay": "Westbound",
+    "LocationAfterCrash": "Across the eastbound lanes 7.4 meters west of the intersection",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "Yes",
+      "Direction": "South",
+      "VehicleAction": "Straight",
+      "TravelSpeed": "56 kmph (35 mph)",
+      "is_against_rules": "No",
+      "AttemptedAvoidanceManeuvers": "Yes",
+      "AttemptedLaneCrossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Front",
+    "MovingOnWhichWay": "Southbound",
+    "LocationAfterCrash": "Unmentioned",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "No",
+      "Direction": "West",
+      "VehicleAction": "Turn left",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "No",
+      "AttemptedAvoidanceManeuvers": "No",
+      "AttemptedLaneCrossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Front left corner",
+    "MovingOnWhichWay": "Eastbound",
+    "LocationAfterCrash": "Unmentioned",
+    "ObjectiveBehavior": {
+      "WhetherToBrake": "No",
+      "Direction": "Unmentioned",
+      "VehicleAction": "Unmentioned",
+      "TravelSpeed": "Unmentioned",
+      "is_against_rules": "No",
+      "AttemptedAvoidanceManeuvers": "No",
+      "AttemptedLaneCrossing": "No"
+    }
+  }
+}

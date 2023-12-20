@@ -1,0 +1,15 @@
+This crash occurred on a level bituminous four-lane undivided roadway with a posted speed limit of 48KMPH (30MPH). The weather was cloudy and the roadway was dry. This crash occurred on a week day morning.
+
+Vehicle # 1, a 1197 Jeep Cherokee, was traveling west, in the passing lane, on the four-lane roadway when it impacted with the rear of Vehicle #2, a 1993 Saturn SL, with its front. Vehicle #2 had been stopped in the passing lane, awaiting passing eastbound before making a left turn into a retail lot traffic. Vehicle #1 was towed due to damage by the owner of the vehicle after the scene was cleared. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The 1997 Jeep Cherokee, (Vehicle #1) was driven by a belted 43 year old male who was not injured This driver stated he had been keeping up with traffic when all of a sudden a car was stopped in his lane. He stated he had no choice but to hit Vehicle #2 as there were uninvolved vehicles in lane one.
+
+The Critical Precrash Event was coded to Vehicle #1 as: Other Motor Vehicle in Lane, Other Vehicle Stopped. The Critical Reason for the Critical Precrash Event was coded as: Driver related Factor,
+
+Inadequate Surveillance (failed to look, looked but did not see) This was chosen because a police officer at the scene stated the driver of the other vehicle stated he had been stopped for "a while" awaiting passing traffic.
+
+The 1993 Saturn SL (Vehicle #2) was driven by a belted 35-year-old male who was transported to an area hospital, treated and released. This driver was not interviewed as he refused to answer messages left on his phone and at his door.
+
+The Critical Precrash Event was coded to Vehicle #2 as: Other Motor Vehicle in Lane, Traveling in Same Direction with Higher Speed. The Critical Reason for the Critical Precrash Event was not coded to Vehicle #2.
+
+The Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no tests for either driver. No summonses were issued.

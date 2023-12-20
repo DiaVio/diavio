@@ -1,0 +1,1 @@
+This is because vehicle V1 hit the back of vehicle V2, pushing it forward to rear-end vehicle V3. All three vehicles were in lane three at the time of the impacts, with V2 and V3 stopped.

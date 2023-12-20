@@ -1,0 +1,1 @@
+This is because vehicle one (V1) collided with the side of vehicle three (V3), causing the front of V3 to move backwards and contact the front of vehicle five (V5).

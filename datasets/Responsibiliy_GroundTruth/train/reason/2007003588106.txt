@@ -1,0 +1,1 @@
+The driver of V1 was attempting to make a left turn at the intersection and failed to adequately surveil the oncoming traffic, specifically V2 (the Lincoln Town Car). This inadequate surveillance resulted in V1 colliding with the left side of V2, indicating that V1 failed to yield the right of way to V2.

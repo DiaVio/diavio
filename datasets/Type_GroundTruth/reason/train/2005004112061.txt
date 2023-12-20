@@ -1,0 +1,1 @@
+Vehicle 1 (Ford F350) collided with the left side of Vehicle 2 (Honda Civic) as Vehicle 2 attempted to make an illegal left-handed U-turn in front of Vehicle 1.

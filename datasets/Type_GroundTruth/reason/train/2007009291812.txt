@@ -1,0 +1,1 @@
+This is because the front left portion of V1 crashed into the rear right portion of V2, indicating a collision between the front of one vehicle (V1) and the side of another vehicle (V2).

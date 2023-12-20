@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "signal-controlled four-legged intersection with pedestrian crosswalks",
+    "LaneType": "multiple lanes",
+    "RoadShape": "straight with a 3.5% uphill profile (southbound approach), curve right profile with a 2.6% downhill grade (eastbound approach)",
+    "RoadSlope": "3.5% uphill (southbound approach), 2.6% downhill (eastbound approach)",
+    "SpeedLimit": "72 kph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "bituminous asphalt",
+    "Weather": "cloudy and dry"
+  },
+  "Vehicle1": {
+    "Impact Side": "front",
+    "Moving on which Way": "southbound",
+    "Location after Crash": "facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "claimed to have braked",
+      "Direction": "straight",
+      "Vehicle Action": "straight ahead",
+      "Travel Speed": "64 kph (40 mph)",
+      "is_against_rules": "no",
+      "Attempted Avoidance Maneuvers": "yes",
+      "Attempted Lane Crossing": "no"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "left side",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

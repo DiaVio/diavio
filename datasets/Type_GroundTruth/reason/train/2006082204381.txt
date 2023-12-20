@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one (V1) impacted the left side of vehicle two (V2) with the front of V1. This indicates a collision where the front of one vehicle collides with the side of another, commonly known as a "T-bone" collision.

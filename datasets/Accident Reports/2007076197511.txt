@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a straight, level, undivided roadway, at a four-way stop intersection. This roadway consists of one lane in each direction and the speed limit on this roadway is 40 kmph (25 mph). This crash occurred during daylight hours with no adverse atmospheric conditions.
+
+Vehicle one (V1), a 1994 Nissan Quest, was southbound in lane one, approaching the intersection. Vehicle two (V2), a 2001 Ford F150 pickup, was southbound in lane one in front of V1. V2 stopped at the stop sign. The front of V1 struck the back of V2. V1 was towed due to damage. Police Reported Travel Speed is 16 kmph for V1 and 16 kmph for V2.
+
+The driver of V1, a forty-three-year-old male, was traveling from a store to his home. He was well rested, familiar with his vehicle and drives this route daily. This driver has chronic stenosis, bipolar disorder, anxiety and depression and takes the medications Risperdal, Lamictal, Xanax, Elavil and vitamins. This driver stated that he noticed V2 stopped for the stop sign and thought that V2 would proceed. He applied the brakes at the last minute in an attempt to avoid a crash.
+
+The driver of V2, a fifty-one-year-old male, was not interviewed; no further information is available for this driver.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane, other vehicle stopped. The critical reason for the critical pre-crash event for V1 was coded to V1 as a driver related factor: false assumption of other's actions.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane, traveling in same direction with higher speed. The critical reason for the critical pre-crash event for V2 was not coded to this vehicle.

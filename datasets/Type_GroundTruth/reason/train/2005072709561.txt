@@ -1,0 +1,2 @@
+
+Justification: Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) and Vehicle 3 (V3) at an intersection.

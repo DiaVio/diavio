@@ -1,0 +1,1 @@
+V1, while turning left, collided with the left side of V2, which was traveling straight from the opposite direction. This collision occurred at a four-legged, traffic signal-controlled intersection, where the front of V1 collided with the side of V2, resembling a "T-bone" collision.

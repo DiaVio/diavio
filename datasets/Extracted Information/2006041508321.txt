@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Residential",
+        "LaneType": "Two-way, two-lane undivided",
+        "RoadShape": "Four-way intersection",
+        "RoadSlope": "Level",
+        "SpeedLimit": "40 kmph (25 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Bituminous, dry",
+        "Weather": "No adverse atmospheric conditions"
+    },
+    "Vehicle1": {
+        "Impact Side": "Front and left side",
+        "Moving on which Way": "Westbound",
+        "Location after Crash": "Grass area northwest of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Northwest",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "72 kmph (45 mph)",
+            "is_against_rules": "Yes",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Right front corner",
+        "Moving on which Way": "Northbound",
+        "Location after Crash": "Grass area northwest of the intersection",
+        "Objectivebehavior": {
+            "Whether to Brake": "No",
+            "Direction": "Unmentioned",
+            "Vehicle Action": "Straight",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    }
+}

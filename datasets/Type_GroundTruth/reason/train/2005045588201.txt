@@ -1,0 +1,1 @@
+Vehicle #1 rear-ended Vehicle #2, which then pushed Vehicle #2 into the rear of Vehicle #3. This sequence of events indicates a Rear-End Collision.

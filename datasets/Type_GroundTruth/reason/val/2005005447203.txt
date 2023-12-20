@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) struck Vehicle 1 (V1) on the right front door and the right rear door, indicating that the front of V2 collided with the side of V1.

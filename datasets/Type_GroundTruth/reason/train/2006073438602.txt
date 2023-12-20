@@ -1,0 +1,1 @@
+This classification is based on the fact that Vehicle 1 (V1) changed lanes to the left and the left rear of V1 impacted the right front of Vehicle 2 (V2). This indicates a collision between the front of V1 and the side of V2, which is characteristic of a front-to-side collision or "T-bone" collision.

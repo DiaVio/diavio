@@ -1,0 +1,1 @@
+This is because the accident involved only one vehicle (V1) and no other entities. V1 attempted to avoid a collision and ultimately collided with a tree, indicating that no other vehicle was involved in the accident.

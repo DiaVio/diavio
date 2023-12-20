@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle one, while making a left turn, was impacted by the front plane of vehicle two, causing a collision between the front of one vehicle and the side of another. This aligns with the definition of a front-to-side collision or a "T-bone" collision.

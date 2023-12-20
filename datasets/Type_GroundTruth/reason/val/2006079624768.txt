@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) was attempting to turn left into westbound traffic and the front of V2 impacted the front of Vehicle 1 (V1) which was stopped in the two-way left turn lane facing eastbound.

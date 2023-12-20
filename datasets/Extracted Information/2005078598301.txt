@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "divided",
+        "LaneType": "2-lane",
+        "RoadShape": "curve left and curve right",
+        "RoadSlope": "downgrade",
+        "SpeedLimit": "120 kmph (75 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "no deficiencies",
+        "Weather": "clear daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "left front",
+        "Moving on which Way": "west",
+        "Location after Crash": "swerved into the #2 lane",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "121 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "west",
+        "Location after Crash": "forced into the guard rail on the south side of the roadway",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "121 kmph",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

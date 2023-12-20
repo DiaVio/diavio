@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 struck the left side of Vehicle 1, indicating that Vehicle 2 failed to yield the right of way to Vehicle 1, which was already in the intersection. This suggests that Vehicle 2 may have failed to stop or yield at the intersection, causing the collision.

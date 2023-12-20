@@ -1,0 +1,11 @@
+This two-vehicle crash occurred on a straight, five-lane roadway that has an eight percent downhill grade and consists of two lanes in each direction and a center left turn lane. The speed limit on this roadway is 56 kmph (35 mph). This crash occurred during daylight hours with no adverse atmospheric conditions. The traffic was congested at the time of the crash.
+
+Vehicle one (V1), a 1995 Lincoln Continental, was eastbound in lane two. Vehicle two (V2), a 2002 Chevrolet Malibu, was eastbound in lane two behind V1. V1 came to a stop due to traffic. The front of V2 struck the back of V1. V2 was towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1, an eighteen-year-old male, was traveling from a store to his home. He was well rested and healthy. He was comfortable with his vehicle even though he had just purchased it the previous week. This driver travels this route daily.
+
+The driver of V2, a seventy-seven-year-old female, was traveling with her eighty-year-old husband, from a medical appointment to their home ninety miles away. She was well rested, in fairly good health and comfortable with her vehicle and passenger. This driver has high blood pressure and takes the medications Tiazac, Lipitor and Hytrin. This driver stated that she was not comfortable with the density of the traffic. Additionally, she had taken a wrong turn and this was the first time she drove on this road. She and her husband were trying to find the interstate highway. This driver stated that she was talking to her passenger and then looked at him. When she looked back at the roadway, V1 was stopped and she was unable to avoid the crash.
+
+The pre-event movement for V1 was coded as "going straight." The critical pre-crash event for V1 was coded as "other motor vehicle in lane; traveling in same direction with higher speed." The critical reason for the critical pre-crash event for V1 was "not coded to this vehicle."
+
+The pre-event movement for V2 was coded as "going straight." The critical pre-crash event for V2 was coded as "other motor vehicle in lane; other vehicle stopped." The critical reason for the critical pre-crash event for V2 was coded as "driver related factor; internal distraction."

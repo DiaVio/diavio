@@ -1,0 +1,3 @@
+
+
+Justification: The accident involved V1, a 2005 Toyota Corolla, hitting the back bumper of V2, a 2002 Chevy Express Van, while both vehicles were traveling in the same direction. V2 had come to a stop in the exit lane due to morning rush hour traffic. The Critical Precrash Event for V1 was coded as "other motor vehicle in lane, other vehicle stopped." The associated factor for V1 was "following too closely," indicating that V1 was not able to stop in time and rear-ended V2.

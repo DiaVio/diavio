@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that they made a false assumption of the actions of the driver of V2. V1 assumed that V2 would yield the right-of-way, but V2 continued through the intersection, resulting in the collision. V1 did not make any avoidance maneuver to prevent the accident.

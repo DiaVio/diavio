@@ -1,0 +1,1 @@
+This is because V1, the northbound vehicle, was turning left at the intersection and V2, the southbound vehicle, collided with the right front of V1. The collision occurred when the front of V2 struck the right front of V1.

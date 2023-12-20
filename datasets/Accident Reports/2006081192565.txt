@@ -1,0 +1,11 @@
+This two-vehicle crash occurred mid-morning during daylight hours. The location was an industrial / residential area with driveways and side street along both sides. The roadway was a four lane, undivided, two way, bituminous, level arterial with curbs and sidewalks on both sides of the street. There are two northbound lanes, one southbound lane and a fourth center turn lane. The weather was light rain, the roadway was wet and it was daylight. The posted speed limit is 48 kmph (30 mph).
+
+Vehicle one (V1), a 1999 Chrysler Cirrus LXI sedan driven by a 30 year-old female, was stopped westbound in a driveway on the east side of the arterial waiting to turn left. The driver of V1 stated she saw a car in the outside curb lane approaching northbound and the vehicle slowed rapidly and signaled to turn right. The driver of V1 pulled into the roadway across both northbound lanes to turn left to southbound. As V1 reached the inside lane it was struck on the left side front corner by Vehicle two (V2). V2 was a 1997 Honda MPV CRV driven by a 39 year-old female. On impact V1 rotated approximately 90 degrees and came to rest facing north in the inside northbound lane. V2 continued northbound into the southbound lanes and came to a controlled stop. Both vehicle's were towed due to damage. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V2 admitted she was running late for a meeting at her office and was driving approximately 13 kmph (8 mph) over the speed limit. She saw the vehicle on her right in the outside lane slow rapidly, but did not see a turn signal on. As V2 caught up with the slowing vehicle, V1 pulled across in front of V2. The driver of V2 did not have time for any evasive action.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection. The critical reason for the critical event for V1 was coded as a driver related factor: other decision error (specified as: turned with obstructed view.
+
+The critical pre-crash event for V2 was coded: this vehicle traveling crossing over passing through intersection. Critical event not coded to this vehicle.
+
+The non-contact vehicle turning into the driveway was considered a sight line obstruction for both vehicle's.

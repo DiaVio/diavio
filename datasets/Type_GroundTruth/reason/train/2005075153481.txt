@@ -1,0 +1,1 @@
+This is because vehicle one (V1) was intending to turn left, while vehicle two (V2) was going straight, and the front of V1 contacted the front of V2. This type of collision is also commonly known as a "T-bone" collision.

@@ -1,0 +1,1 @@
+Vehicle 1 changed lanes and struck the left side of Vehicle 2, causing a chain reaction where Vehicle 2 then struck the back of Vehicle 3. This sequence of events indicates a Rear-End Collision.

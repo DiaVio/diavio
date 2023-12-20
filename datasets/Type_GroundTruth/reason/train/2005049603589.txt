@@ -1,0 +1,3 @@
+
+
+Justification: The collision occurred at a controlled intersection where the front of Vehicle #2 impacted the right side of Vehicle #1. This aligns with the characteristics of a front-to-side collision, also known as a T-bone collision.

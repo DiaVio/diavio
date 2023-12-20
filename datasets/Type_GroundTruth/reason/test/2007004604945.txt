@@ -1,0 +1,1 @@
+This is because V1, while making a left turn, was struck on the left front corner by the front of V2, and then V2's left side was struck by the front of V1. This collision involves the front of one vehicle colliding with the side of another, which is characteristic of a "T-bone" collision.

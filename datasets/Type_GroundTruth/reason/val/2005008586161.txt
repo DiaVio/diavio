@@ -1,0 +1,1 @@
+This is because it involves only one vehicle (Vehicle 1) and no other entities were involved in the collision. Vehicle 1 departed the road and collided with a utility pole, resulting in the single-vehicle accident.

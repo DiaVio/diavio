@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "interstate highway",
+    "LaneType": "three-lane",
+    "RoadShape": "left curve",
+    "RoadSlope": "3% downhill grade",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear skies, dark"
+  },
+  "Vehicle1": {
+    "Impact Side": "front center (Event 1), front right (Event 2), front (Event 3), undercarriage (Event 4)",
+    "Moving on which Way": "south",
+    "Location after Crash": "rested on opposite side embankment",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "crossed left across lanes of travel, departed left side of road",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "unmentioned",
+    "Moving on which Way": "unmentioned",
+    "Location after Crash": "unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+
+Justification: Vehicle 1 attempted to make a U-turn and the front of Vehicle 2 (V2) struck the left side of Vehicle 1 (V1). This indicates a collision between the front of one vehicle (V2) and the side of another vehicle (V1), which is characteristic of a front-to-side collision.

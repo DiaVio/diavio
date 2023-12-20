@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was turning left and impacted the front of Vehicle 2 (V2), which was going straight. The impact occurred between the front of V1 and the front of V2, which is characteristic of a front-to-side collision.

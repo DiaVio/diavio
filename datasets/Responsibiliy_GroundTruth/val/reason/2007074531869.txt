@@ -1,0 +1,1 @@
+The reason for V2's primary responsibility is that the driver falsely assumed that V1 would stop for its flashing red signal. This false assumption of other's actions led to V2 crossing over the intersection and ultimately colliding with V1.

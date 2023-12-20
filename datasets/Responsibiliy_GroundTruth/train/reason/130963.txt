@@ -1,0 +1,1 @@
+The reason for this is that the driver of V2 moved into the northbound lane in an attempt to turn left, which resulted in a collision with Vehicle one (V1). V1 was traveling in the correct lane and was unable to avoid the collision. Therefore, the driver of V2's improper lane change and failure to yield to oncoming traffic led to the accident.

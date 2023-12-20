@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was turning left and was impacted in the front by the front of Vehicle 2 (V2) which was going straight. The collision occurred when V2 encroached into the left turn lane of V1.

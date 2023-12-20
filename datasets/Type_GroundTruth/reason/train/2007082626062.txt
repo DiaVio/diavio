@@ -1,0 +1,1 @@
+Vehicle two (V2) impacted the right side of vehicle one (V1), causing it to deflect counter clockwise and ultimately collide with a utility pole. This collision occurred when V2 was traveling north and V1 was traveling east, resulting in the front of V2 colliding with the side of V1 at the intersection.

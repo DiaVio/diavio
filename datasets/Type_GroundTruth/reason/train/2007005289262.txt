@@ -1,0 +1,1 @@
+This is because Vehicle one (V1) collided with the left front of Vehicle two (V2), resulting in the vehicles striking each other again.

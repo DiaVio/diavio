@@ -1,0 +1,1 @@
+This is because the frontal plane of V1 collided with the left side plane of V2 at the intersection, which is a typical scenario for a "T-bone" collision.

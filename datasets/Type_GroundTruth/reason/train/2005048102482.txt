@@ -1,0 +1,1 @@
+Vehicle one (V1) collided with the back of vehicle two (V2), and then V2 collided with the rear of vehicle three (V3). Rear-end collisions involve one vehicle hitting the back of another vehicle, which is exactly what occurred in this case.

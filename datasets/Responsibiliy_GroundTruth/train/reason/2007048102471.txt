@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver lost control of the vehicle due to engine failure. This is evident from the critical pre-crash event and critical reason codes, which indicate that the control loss was caused by a disabling vehicle failure related to the transmission/engine. As a result, V1 skidded off the roadway and struck a guardrail, leading to the crash.

@@ -1,0 +1,1 @@
+This is because Vehicle 1, while attempting a left turn, was struck by Vehicle 2 in the front-right side of the vehicle. The impact occurred when the front plane of Vehicle 2 contacted the right plane of Vehicle 1.

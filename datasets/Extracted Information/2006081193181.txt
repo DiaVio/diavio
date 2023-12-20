@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Divided freeway",
+    "LaneType": "Four-lanes",
+    "RoadShape": "Level and straight",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "97 kmph (60-mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Dry concrete surface",
+    "Weather": "Clear"
+  },
+  "Vehicle1": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "North",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "North",
+      "Vehicle Action": "Stopped behind V3",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Rear",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Right shoulder",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Stopped for traffic ahead",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

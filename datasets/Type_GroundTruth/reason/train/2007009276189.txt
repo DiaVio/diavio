@@ -1,0 +1,1 @@
+This is because V1, which was intending to turn left, failed to yield the right of way and collided with V2, which was going straight through the intersection. The point of impact was the right front corner of V1 and the front of V2 in the middle of the intersection, indicating a front-to-side collision.

@@ -1,0 +1,1 @@
+The driver of Vehicle 1 lost control of the vehicle and sideswiped Vehicle 2 before colliding with the front end of Vehicle 3. This indicates that the front of Vehicle 1 collided with the side of Vehicle 2 and the front of Vehicle 3, which aligns with a front-to-side collision.

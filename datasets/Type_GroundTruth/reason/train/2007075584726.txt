@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) impacted with its front to Vehicle 2's (V2) left side, which is consistent with a T-bone collision where the front of one vehicle collides with the side of another.

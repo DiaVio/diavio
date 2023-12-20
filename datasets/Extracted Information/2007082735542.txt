@@ -1,0 +1,55 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate highway",
+    "LaneType": "Multiple lanes",
+    "RoadShape": "Interchange",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": 97
+  },
+  "Environment": {
+    "RoadCondition": "Wet",
+    "Weather": "Cloudy"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front left",
+    "Moving on which Way": "Entering the southbound highway",
+    "Location after Crash": "Facing north in lane two",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Attempting to make a lane change to the left while merging",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Yes"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Right",
+    "Moving on which Way": "Southbound in lane one",
+    "Location after Crash": "Coming to rest facing south",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle3": {
+    "Impact Side": "Right",
+    "Moving on which Way": "Southbound in lane 3",
+    "Location after Crash": "Coming to final rest facing north",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

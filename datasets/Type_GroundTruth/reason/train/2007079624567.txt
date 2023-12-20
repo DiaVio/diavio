@@ -1,0 +1,1 @@
+This is because the collision only involves one vehicle (V1) and there are no other entities involved. The vehicle veered off the road, contacted various objects, and eventually came to rest on its right plane.

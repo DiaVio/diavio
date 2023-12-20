@@ -1,0 +1,9 @@
+This two-vehicle mid-afternoon daylight sideswipe type collision occurred on a four lane arterial road with a center turn lane. The road is paved with concrete and is straight with an uphill grade of 6% for both vehicles. The speed limit for both vehicles is 48 kmph (30 mph). At the time of the crash the sky was partly cloudy.
+
+Vehicle one (V1), a 2002 Toyota Camry sedan driven by a forty nine (49) year old male with one passenger, was parked in a parking lane facing east. Vehicle two (V2), a 2001 Hyundai Accent coupe driven by a seventeen (17) year old female with one passenger, was traveling east in lane two. V1 began from the parking lane position to make a u-turn to go west. As V1 crossed lane one and entered lane two, the left side impacted the front right corner of V2. V1 came to rest facing east in the center turn lane and V2 pulled over into the parking lane facing east. V1 was towed due to damage and V2 was driven from scene. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+The driver of V1 refused the interview on scene and researcher was unable to contact after numerous attempts.
+
+The critical pre-crash event for V1 was coded: this vehicle traveling, over lane line on left side of travel lane. The critical reason for the critical event was assigned to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see). The driver's statement to police was that he never saw the other vehicle.
+
+The critical pre-crash event for V2 was coded: other vehicle encroachment, from adjacent lane (same direction) - over right lane line. The critical reason for the critical event is not coded to this vehicle.

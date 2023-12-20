@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) entered the intersection with a red light and was impacted by the front left corner of Vehicle 2 (V2). The impact occurred between the front of V1 and the side of V2, resembling a "T-bone" collision.

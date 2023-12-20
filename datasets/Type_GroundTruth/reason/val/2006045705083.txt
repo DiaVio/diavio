@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle #1 swerved to its left and struck Vehicle #2 with its front to Vehicle #2's left side in the eastbound lane. This indicates a collision where the front of one vehicle (Vehicle #1) collides with the side of another (Vehicle #2), which is characteristic of a front-to-side collision.

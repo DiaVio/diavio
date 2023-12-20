@@ -1,0 +1,6 @@
+
+
+Justification: 
+- Vehicle one (V1) was turning right from the driveway, entering the main roadway.
+- Vehicle two (V2) changed lanes to lane one and collided with the front left side of V1.
+- The collision occurred between the front of V2 and the side of V1, which is characteristic of a front-to-side collision.

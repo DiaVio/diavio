@@ -1,0 +1,1 @@
+The reason for V1's responsibility is that the driver made a driver error by overcompensating when trying to avoid hitting the phantom vehicle. This overcompensation caused V1 to lose control of the vehicle and ultimately collide with the left concrete wall.

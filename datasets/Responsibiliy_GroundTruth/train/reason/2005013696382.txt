@@ -1,0 +1,1 @@
+The driver of V2 made a false assumption about the intentions of V1 and attempted to pass on the left without ensuring that V1 was actually turning right. This action led to the collision between the two vehicles. If the driver of V2 had waited to confirm V1's intended turn, the crash could have been avoided.

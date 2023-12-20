@@ -1,0 +1,13 @@
+The crash occurred in the intersection of two roadways. The northbound roadway was one-way with two lanes of travel and had an uphill grade measurement of -2/61. The east/west roadway was two-way with two lanes of travel in each direction and level. The roadways were straight, bituminous and had a speed limit of 48kmph (30mph). It was raining and wet, and it was during the afternoon hours of a weekday.
+
+V1, an unknown fire truck with four occupants, was traveling eastbound in lane two. V2, a 2000 Honda Accord four door, with one occupant was traveling northbound in lane one. At the intersection, the front of V2 impacted the right side of V1. V1 came to a final rest in lane two of the westbound lane, and V2 came to a final rest in the middle of the intersection. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the fire truck was driven by a 49 year-old male who reported no injuries. The occupants, a 45 year-old male, 38 year-old male, and a 40 year-old male, all reported no injuries. The driver stated to the Police that he was crossing the intersection with a green light, and had its emergency lights and sirens on. He advised that he attempted to avoid V2 by steering to the left. The Police noted that the driver was unlicensed.
+
+The Critical Pre-crash event for V1 was "Other vehicle encroachment, from crossing street, across path". The Critical Reason for the Critical event was not coded to the driver. The possible associated factors were coded unknown because no interview was obtained.
+
+V2, the Honda Accord, was driven by a 40 year-old female who reported minor injuries and was transported to a medical facility. The driver stated to the Police that while traveling through the intersection with a green light, she was impacted by V1.
+
+The Critical Pre-crash event for V2 was "This vehicle traveling, crossing over (passing through) intersection". The Critical Reason for the Critical event was coded as a driver related factor, inadequate surveillance. An associated factor coded to the driver was that she did not have the right of way. The other possible associated factors were coded unknown because no interview was obtained.
+
+The witness, a crossing guard who was standing on the southwest corner of the intersection, stated that V1 the fire truck with emergency lights and sirens had the red light, and V2 had the green light but did not see or hear V1's lights and sirens.

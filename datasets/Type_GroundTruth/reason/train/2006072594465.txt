@@ -1,0 +1,1 @@
+Vehicle one (V1) attempted to change lanes and the front right corner of V1 struck the left side of Vehicle two (V2), resulting in a collision between the front of one vehicle and the side of another ("T-bone" collision).

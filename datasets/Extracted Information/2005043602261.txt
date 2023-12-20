@@ -1,0 +1,83 @@
+{
+  "RoadNetwork": {
+    "RoadType": "Intersection",
+    "LaneType": "Multi-lane",
+    "RoadShape": "Four-way",
+    "RoadSlope": "Unmentioned",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Clear",
+    "Weather": "Dry, daylight"
+  },
+  "Vehicle1": {
+    "ImpactSide": "Right side",
+    "Moving on which Way": "North",
+    "Location after Crash": "Southwest roadside of the intersection",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Turn left",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "Yes",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "Front",
+    "Moving on which Way": "South",
+    "Location after Crash": "Southwest corner of the intersection",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Straight",
+      "Travel Speed": "56 kmph (35 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Intersection",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle4": {
+    "ImpactSide": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Southwest corner of the intersection",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Stopped for red signal",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  },
+  "Vehicle5": {
+    "ImpactSide": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Debris from previous events",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

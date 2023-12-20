@@ -1,0 +1,1 @@
+The reason for V1's primary responsibility is that the driver made a false assumption of V2's actions. V1 assumed that V2 would continue straight through the intersection, rather than making a right turn. This false assumption led to V1 following too closely and at too high of a speed, resulting in the rear-end collision.

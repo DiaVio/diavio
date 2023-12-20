@@ -1,0 +1,1 @@
+The reason for this is that the driver of V2 lost control and suddenly veered to the right, resulting in the right side of V2 striking the left side of V1. This indicates that V2 initiated the collision by veering into the lane of V1.

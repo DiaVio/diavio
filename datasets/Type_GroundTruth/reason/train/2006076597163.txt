@@ -1,0 +1,1 @@
+Front-to-Side Collision (T-bone collision). This is because the front of vehicle one (V1) collided with the right side of vehicle two (V2) in the number two eastbound lane.

@@ -1,0 +1,1 @@
+Vehicle #1 skidded into the back of Vehicle #2, pushing it into the rear of Vehicle #3. This indicates that the collision occurred when Vehicle #1 hit the back of another vehicle.

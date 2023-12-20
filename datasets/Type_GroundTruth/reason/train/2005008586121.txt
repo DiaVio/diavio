@@ -1,0 +1,1 @@
+Vehicle 1 hit the back of Vehicle 2, pushing it forward into Vehicle 3.

@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) turned left and crossed directly into the path of Vehicle 2 (V2), resulting in a collision between the front left corners of both vehicles in the eastbound lane.

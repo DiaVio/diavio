@@ -1,0 +1,1 @@
+V2 changed lanes in front of V1, and the front of V1 struck the back left of V2. This corresponds to the classic scenario of a Rear-End Collision where one vehicle hits the back of another.

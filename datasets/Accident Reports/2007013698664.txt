@@ -1,0 +1,7 @@
+This crash occurred on a rural two-lane undivided, ice covered asphalt roadway with a posted speed limit of 72 kmph (45 mph). The crash occurred during the mid-evening hours while dark out. While the road was icy, there were no adverse weather conditions at the time of the crash.
+
+V1, a 2000 Chevrolet Silverado pickup, was traveling northbound in the right curb lane. The driver of V1 lost control of the vehicle for unknown reasons, went off the roadway to the right and overturned in a ditch. V1 was towed from the scene with moderate damage and the driver fled the scene on foot. Police Reported Travel Speed is No PAR obtained (created) for V1.
+
+The driver of V1 stated to the police that he had a passenger in the vehicle who was trapped in the truck. When the officer checked the truck he found no passenger. The officer then went back to speak with the driver, but the driver had fled the scene on foot.
+
+The Critical Pre-crash Event coded for V1 was "This vehicle control loss, for unknown reasons." The Critical Reason for the Critical Pr-crash Event was coded as "Unknown reason for critical event." Without an interview, the only associated factor that could be coded was the icy roadway.

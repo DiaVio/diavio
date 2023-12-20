@@ -1,0 +1,6 @@
+
+
+Justification:
+- Vehicle one (V1) was preparing to turn left into the private driveway, while vehicle two (V2) was southbound in lane one, the right turn lane.
+- V1 pulled across lane one of southbound traffic, and the front of V2 struck the right side of V1. 
+- This indicates that the front of V1 (front of one vehicle) collided with the side of V2 (side of another vehicle), which is characteristic of a front-to-side collision.

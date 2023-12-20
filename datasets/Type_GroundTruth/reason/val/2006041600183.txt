@@ -1,0 +1,1 @@
+This is because Vehicle 1 (Chevy Malibu) changed lanes into Vehicle 2 (Toyota Avalon), resulting in the front of Vehicle 1 colliding with the side of Vehicle 2.

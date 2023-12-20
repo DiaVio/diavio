@@ -1,0 +1,1 @@
+This is because the left side of Vehicle 1 (V1) contacted the right side of Vehicle 2 (V2) as V1 changed lanes before completing the pass of V2. The collision occurred between the front of V1 and the side of V2, resembling a "T-bone" collision.

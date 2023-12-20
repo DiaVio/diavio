@@ -1,0 +1,15 @@
+The crash occurred in the westbound lanes of a two-way roadway with one lane in each direction. The roadway was straight and level; it was daylight and clear with no adverse conditions. The speed limit was 48kmph (30 mph) and it was on the morning of a weekend.
+
+V1, a 1997 Mercury Grand Marquis four door with one occupant was traveling westbound. V2, a 2005 Nissan Murano sport utility vehicle, with one occupant was traveling westbound behind V1. V3, a 1997 Buick Regal four door with one occupant was traveling westbound behind V2. A non-contact vehicle in front of V1 was making an U-turn. Both V1 and V2 stopped when the front of V3 contacted the back of V2, and then the front of V2 contacted the back of V1. All vehicles came to a final rest shortly after the impact. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Mercury Grand Marquis, was driven by a 68 year-old male reported no injuries. The driver stated to the Police that he stopped because a non-contact vehicle ahead of him was making a U-turn.
+
+The Critical Pre-crash event for V1 was not coded because he was not involved in the first harmful event. The Critical Reason for the Critical event was also not coded to this vehicle. The possible associated factors were coded unknown because no interview was obtained.
+
+V2, the Nissan Murano, was driven by a 36 year-old male who reported no injuries. The driver stated to the Police that he stopped behind V1, and V3 rear-ended him.
+
+The Critical Pre-crash event for V1 was “other motor vehicle in lane, traveling in same direction with higher speed”. The Critical Reason for the Critical event was not coded to this vehicle. The possible associated factors were coded unknown because no interview was obtained.
+
+V3, the Buick Regal, was driven by a 54-year -old male who reported no injuries. The driver advised that he was traveling to the train station to pick up his daughter. He stated that car in front of him stopped, but there was no time for him to stop or avoid hitting him. He attempted to brake without lockup but was unable to avoid V2.
+
+The Critical Reason for the Critical event was “other motor vehicle in lane, other vehicle stopped”. The Critical Reason for the Critical event was “inattention.". An associated factor coded to the driver was a decision factor, following too closely, did not realize that he was too close to forward vehicle.

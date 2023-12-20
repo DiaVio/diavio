@@ -1,0 +1,1 @@
+The reason for this is that V1 disobeyed the signal and violated the red signal phase, causing the collision with V2.

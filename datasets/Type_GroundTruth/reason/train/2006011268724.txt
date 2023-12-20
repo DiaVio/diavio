@@ -1,0 +1,9 @@
+Non-Motorized Vehicle or Pedestrian Crash
+- This classification is not applicable to the given scenario as it involves only vehicles and does not mention any involvement of non-motorized entities or pedestrians.
+
+7. Other
+- This classification is not applicable as it is a catch-all category for accidents not covered in the above classifications, but the given scenario falls into one of the defined classifications.
+
+Therefore, based on the information provided, the accident belongs to:
+1. Single-Vehicle Accident
+- The accident involves only one vehicle (V1) and no other entities. The driver of V1 steered left to avoid a non-contact truck and ended up crashing into the median guardrail.

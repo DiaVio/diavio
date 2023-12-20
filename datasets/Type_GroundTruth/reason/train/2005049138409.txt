@@ -1,0 +1,6 @@
+
+
+Justification:
+- Vehicle 1 (V1) attempted a left turn without the right of way, which means the front of V1 collided with the side of Vehicle 2 (V2).
+- The description of the collision, where V1 was struck on the right side by the front of V2, and V2 was struck on the left side by the right side of V1, aligns with a front-to-side collision commonly known as a "T-bone" collision.
+- This type of accident involves the front of one vehicle colliding with the side of another, as described in the case summary.

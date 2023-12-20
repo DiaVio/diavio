@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) attempted a left turn and the front plane of Vehicle 2 (V2) collided with the left plane of V1.

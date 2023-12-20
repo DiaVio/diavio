@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was turning left at the T-intersection and the front of Vehicle 2 (V2) struck the front-right of V1 in the northbound lane, which is a classic "T-bone" collision.

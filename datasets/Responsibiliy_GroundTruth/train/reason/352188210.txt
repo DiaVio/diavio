@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2's frontal plane struck the right side plane of Vehicle 1, initiating the collision sequence.

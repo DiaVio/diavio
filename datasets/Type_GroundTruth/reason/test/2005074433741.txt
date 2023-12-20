@@ -1,0 +1,1 @@
+This is because Vehicle 1 collided with the left side of Vehicle 2 in a sideswipe impact and then continued south colliding with the left side of Vehicle 3.

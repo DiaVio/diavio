@@ -1,0 +1,1 @@
+This is because V1 (Ford Thunderbird) was attempting to make a left turn at the intersection and V2 (Toyota Prius) was traveling straight in the northbound lane. V1 failed to properly check for oncoming traffic and initiated the turn when V2 was already approaching the intersection, resulting in a collision between the front of V2 and the left rear quarter panel of V1.

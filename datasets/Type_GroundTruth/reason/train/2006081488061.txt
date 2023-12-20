@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was traveling southbound and turned left to head southbound, while Vehicle 2 (V2) was traveling eastbound and was impacted on the front plane near the left corner with the front plane of V1 as it turned left. The collision occurred between the front of V1 and the side of V2, resembling a "T-bone" collision.

@@ -1,0 +1,27 @@
+{
+    "RoadNetWork": {
+        "RoadType": "four-lane",
+        "LaneType": "two travel lanes with an additional passing lane",
+        "RoadShape": "slightly curved",
+        "RoadSlope": "slight uphill grade",
+        "SpeedLimit": 50
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "front right corner area extending down the right side plane",
+        "Moving on which Way": "eastbound",
+        "Location after Crash": "near the stone wall, facing a southerly direction",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "unmentioned",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+The crash occurred in the northbound lanes of an undivided roadway with three lanes of travel in each direction. This was a straight, level, bituminous roadway with a posted speed limit of 48kmph (30mph). It was the early evening hours of a weekday and the road was dry and the sky was clear. Traffic flow was congested with stop-and-go activity.
+
+V1, a 1999 Hyundai Accent four door sedan with two occupants, was traveling northbound in lane three. V2, a 2007 Pontiac G6 four door sedan with one occupant, was traveling northbound in lane three in front of V1. V3, a 1999 Toyota Camry four door sedan with one occupant, was traveling northbound in lane three in front of V2. The front of V1 impacted the back of V2, pushing the front of V2 into the back of V3. All vehicles came to final rest near impact. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+V1, the Hyundai Accent, was driven by a 25 year-old female who reported no injuries. A 23 year-old male occupant also reported no injuries. The driver stated to the police that while traveling northbound on the roadway, she struck V2 in the rear.
+
+The Critical Pre-crash Event for V1 was "Other motor vehicle in lane traveling in same direction with lower steady speed." The Critical Reason for the Critical event was coded as an unknown driver error. An associated factor coded to the driver was a traffic flow interruption in the form of congestion with a stop-and-go traffic pattern. Other possible associated factors were unknown because no interview was obtained.
+
+V2, the Pontiac G6, was driven by a 31 year-old male who reported no injuries. He advised that he was driving in traffic at a slow pace when all of a sudden the car behind slammed into him, and pushed him into the back of V3.
+
+The Critical Pre-crash Event for V2 was "Other motor vehicle in lane traveling in same direction with higher speed." The Critical Reason for the Critical Event was not coded to this vehicle. An associated factor coded to this driver was a traffic flow interruption in the form of the congestion with a stop-and-go traffic pattern. Other possible associated factors were unknown because only a partial interview was obtained.
+
+V3, the Toyota Camry, was driven by a 39 year-old male who reported no injuries. He advised that he was commuting from work to home, and while moving very slow in traffic he was struck by V2 very lightly.
+
+The Critical Pre-crash Event for V3 was "Not involved in first harmful event." The Critical Reason for the Critical event was not coded to this vehicle. An associated factor coded to all three vehicles was the traffic flow interruption in the form of the congestion with a stop-and-go traffic pattern. No other factors were coded to this driver.
+
+The crash occurred in the northbound lanes of a two-way roadway with three lanes of travel in each direction. This was a straight, level, bituminous roadway with a posted speed limit of 48kmph (30mph). It was the early evening hours of a weekday and the road was dry and sky was clear. Traffic flow was congested with stop-and-go activity.
+
+V1, a 1999 Hyundai Accent four door with two occupants was traveling northbound in lane three. V2, a 2007 Pontiac G6 four door with one occupant was traveling northbound in lane three in front of V1. V3, a 1999 Toyota Camry four door with one occupant was traveling northbound in lane three in front of V2. The front of V1 impacted the back of V2, and then the front of V2 impacted the back of V3. All vehicles came to a final rest shortly after impact.
+
+V1, the Hyundai Accent, was driven by a 25 year-old female who reported no injuries. A 23 year-old male occupant also reported no injuries. The driver stated to the Police that while traveling northbound on the roadway, she struck V2 in the rear.
+
+The Critical Pre-crash event for V1 was "Other motor vehicle in lane, traveling in same direction with lower steady speed". The Critical Reason for the Critical event was coded as an unknown reason. An Associated factor coded to the driver was a Decision factor, following too closely due to the congested traffic. An associated factor coded to all three vehicles was the traffic flow interruption in the form of the congestion with a stop-and-go traffic pattern. The other possible Associated factors were unknown because no interviews were obtained.
+
+V2, the Pontiac G6, was driven by a 32 year-old male who reported no injuries. He advised that he was driving in traffic at a slow pace, when all of a sudden the car behind slammed into him, and then tapping V3.
+
+The Critical Pre-crash event for V2 was "Other motor vehicle in lane, traveling in same direction with higher speed". The Critical Reason for the Critical event was not coded to this vehicle. An associated factor coded to this driver was a Decision factor, following too closely due to the congested traffic. An Associated factor coded to all three vehicles was the traffic flow interruption in the form of the congestion with a stop-and-go traffic pattern. The other possible Associated factors were unknown because a partial interview was obtained.
+
+V3, the Toyota Camry, was driven by a 39 year-old male who reported no injuries. He advised that he was commuting from work to home, and while moving very slow in traffic, he was touched by V2 very lightly.
+
+The Critical Pre-crash event for V3 was "Other, not involved in first harmful event". The Critical Reason for the Critical event was not coded to this vehicle. The Associated factor coded to all three vehicles was the traffic flow interruption in the form of the congestion with a stop-and-go traffic pattern. No other factors were coded to this driver.

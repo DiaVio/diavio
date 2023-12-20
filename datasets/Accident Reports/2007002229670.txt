@@ -1,0 +1,9 @@
+This crash occurred in the soughtbound lanes of a four-lane thruway divided by a grass median. There were two southbound and two northbound lanes. This was a straight, level, bituminous raodway with a posted speed limit of 105 kmph (65 mph). The weather was cloudy and the roadway was dry. Traffic flow was normal for that time of day.
+
+Vehicle 1 a 2000 Suzuki Grand Vitara, was traveling south in lane one when it went off the roadway to the right, impacted with a mile marker sign, continued on for 182 meters, rolled over 8 one quarter turns to the left and impacted the right front corner and a tree with its left side at final rest. This vehicle was towed due to damage. Police Reported Travel Speed is No PAR obtained (created) for V1.
+
+The Suzuki Vitara (Vehicle 1) was driven by a belted 28 year-old female who was transported to an area hospital. This vehicle was being followed by a male friend who was interviewed at the scene. He stated the female driver told him she fell asleep, had been awaken by first impact and had braked, steer to try to get back on the roadway but was unsuccessful. He stated he saw the vehicle roll over '2 complete times'. It should be noted here this driver had been engaged in skiing for several hours prior to the crash.
+
+The Critical Precrash Event for this Vehicle was coded as: This Vehicle Traveling, Off the Edge of the Roadway to the Right. The Critical Reason for the Critical Precrash Event was coded as: Driver Related Factor, Sleeping.
+
+There was no Police Accident Report available for this crash.

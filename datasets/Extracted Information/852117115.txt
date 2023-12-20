@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "two way",
+    "LaneType": "two lane",
+    "RoadShape": "unmentioned",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "50mph/80kmph"
+  },
+  "Environment": {
+    "RoadCondition": "clear, dry",
+    "Weather": "unmentioned"
+  },
+  "Vehicle1": {
+    "Impact Side": "head-on",
+    "Moving on which Way": "eastbound",
+    "Location after Crash": "rearward and to the south down a steep embankment and ditch",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "head-on",
+    "Moving on which Way": "westbound in the eastbound lane passing V3",
+    "Location after Crash": "rest in the westbound lane facing southeast",
+    "Objectivebehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  }
+}

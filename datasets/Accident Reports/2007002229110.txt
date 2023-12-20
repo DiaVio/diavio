@@ -1,0 +1,19 @@
+This crash occurred on a two-lane undivided straight roadway with a posted speed limit of 89KMPH (55MPH). The weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.
+
+Vehicle # 2, a 2003 Toyota Echo, was southbound on the two-lane roadway, decelerating in traffic, waiting for an uninvolved vehicle in front of it to make a left turn. Vehicle #1, a 1995 Ford Probe, was traveling south on the same roadway and impacted with the rear of Vehicle #2 with its front. Both vehicles came to final rest on the roadway facing south. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
+
+Vehicle #1 was towed due to damage. Vehicle #2 was not towed. There was 23.5 meters of tire marks, on the roadway, prior to impact.
+
+The Ford Probe (Vehicle #1) was driven by a belted 17 year old female who was not injured. There was a belted 15-year-old male passenger in the right front seat who was transported to an area hospital, treated and released. The driver of Vehicle #1 stated she noticed that papers on her back seat where flying around due to an open window. She was closing the window and putting on the air conditioner when her brother (passenger) yelled, "Hit the brakes". The driver stated she hit the brakes and 'sort of' steered right. It should be noted here that this driver only had 11 months driving experience.
+
+The Critical Precrash Event coded to Vehicle #1 was: Other Motor Vehicle in Lane, Traveling in Same Direction While Decelerating.
+
+The Critical Reason for the Critical Precrash Event was coded as: Driver Related Error, Internal Distraction.
+
+The Toyota Echo (Vehicle #2) was driven by a belted 18-year-old female who was not injured. There was a belted 18-year-old female passenger, in the right front seat, who was not injured. This driver stated she did not see or have time to react to the impacting vehicle.
+
+The Critical Precrash Event coded to Vehicle #2 was: Other Motor Vehicle in Lane, Traveling in Same Direction, With Higher Speed.
+
+The Critical Reason for the Critical Precrash Event was not coded to Vehicle#2.
+
+The Police did not consider alcohol of illegal drugs to be a factor in this crash and ordered no tests for either driver. No summonses were issued in this crash.

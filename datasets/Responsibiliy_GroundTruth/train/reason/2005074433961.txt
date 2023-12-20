@@ -1,0 +1,1 @@
+The driver of V1 failed to notice that traffic ahead had come to a stop and was distracted by engaging in conversation with the front passenger and looking at businesses on the left side of the roadway. This distraction caused the driver of V1 to not recognize the imminent collision and attempt to avoid it by locking up the brakes, but ultimately colliding with the rear of V2.

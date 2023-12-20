@@ -1,0 +1,1 @@
+This is because Vehicle 2 (V2) collided with the left side of Vehicle 1 (V1) as V1 was attempting to turn left across the eastbound lanes.

@@ -1,0 +1,5 @@
+
+
+Justification: 
+- Vehicle 1 (V1) struck the left side of Vehicle 2 (V2) near the gas tank, indicating a side collision.
+- V1 then rotated clockwise, and the front of V2 struck V1 near the right rear cargo area, further confirming a front-to-side collision.

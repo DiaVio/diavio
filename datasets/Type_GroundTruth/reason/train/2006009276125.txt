@@ -1,0 +1,1 @@
+The collision occurred when V1, which was turning left, was struck on the front right corner by the front left corner of V2, which was traveling straight in the opposite direction.

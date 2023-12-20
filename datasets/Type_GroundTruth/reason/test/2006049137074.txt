@@ -1,0 +1,3 @@
+
+
+Justification: The front of vehicle 1 (V1) collided with the front of vehicle 2 (V2). V1 departed the travel lane on the left side and struck the front of V2 while V2 was legally parked. This scenario fits the description of a front of one vehicle colliding with the side of another, commonly known as a "T-bone" collision.

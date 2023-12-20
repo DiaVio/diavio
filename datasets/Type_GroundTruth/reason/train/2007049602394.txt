@@ -1,0 +1,1 @@
+Vehicle 1 (V1) traveled off the right side of the roadway and struck the back of Vehicle 2 (V2), causing V2 to rotate counterclockwise and subsequently collide with the front of Vehicle 3 (V3). This sequence of events indicates that V2 was struck from behind by V1, which aligns with the characteristics of a Rear-End Collision.

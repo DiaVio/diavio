@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle 1 was attempting to make a left turn and was struck on the right side by Vehicle 2, which was traveling straight in lane one. This collision involves the front of one vehicle (Vehicle 2) colliding with the side of another vehicle (Vehicle 1), which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

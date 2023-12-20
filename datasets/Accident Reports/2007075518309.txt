@@ -1,0 +1,15 @@
+This three-vehicle crash occurred on an urban roadway. This roadway is divided by a curbed median and the eastbound traffic lanes consist of three through lanes and a left-turn lane. This roadway is straight and level, and has a posted speed limit of 56 kmph (35 mph). This crash occurred in the early morning hours on a weekday with rush hour congestion. The morning sun was low in the horizon.
+
+Vehicle one (V1), a 2004 Dodge Ram with two occupants, was traveling eastbound in lane one. Vehicle two (V2), a 1999 Jeep Wrangler with one occupant, was stopped in lane one in front of V1. Vehicle three (V3), a 2000 Orion transit bus with ten occupants, was stopped in lane one in front of V2. V1 had just begun traveling eastbound and the driver of V1 was not prepared for the sun glare that faced him. He went to pull down his visor, but not in time to see V2 or V3 stopped in lane one. He applied the brakes at the last second to avoid a collision, but the front of V1 impacted the back of V2. V2 was pushed forward and the front of V2 impacted the back of V3. All three vehicles came to final rest facing east in lane one at the approximate points of impact. V2 was towed due to damage. The driver of V2 was transported. Police Reported Travel Speed is 48 kmph for V1 and 48 kmph for V2.
+
+The driver of V1, a twenty-three-year-old male, was driving from picking up a friend and going to a courthouse. He was well rested and very comfortable with his vehicle, but drives this route rarely. He is in good health and takes no medications. The driver had made a U-turn at the intersection west of the crash site. As he headed eastbound and moved to lane one, he was in the process of turning down the sun visor. His passenger was also commenting that V2 and V3 were stopped. The driver also felt that the dirty windshield on V1 contributed to the sun glare problem.
+
+The critical pre-crash event for V1 was coded: other motor vehicle in lane; other vehicle stopped. The critical reason for the critical event for V1 was coded as an environment related factor: glare.
+
+The driver of V2, a forty-five-year-old female, was driving from a bowling alley to her residence. She was well rested, very comfortable with her vehicle, and drives this route daily. She is in good health and takes no medications.
+
+The critical pre-crash event for V2 was coded: other motor vehicle in lane: traveling in same direction with higher speed. The critical reason for the critical event was not coded to this vehicle.
+
+The driver of V3, a thirty-five-year-old male, was driving his regular route on a city bus. He was well rested, very comfortable with his vehicle and passenger load, and drives this route daily. He is in good health and takes no medications. He was in the process of loading passengers when V3 was struck in the back by V2.
+
+V3 was not involved first harmful event. The critical reason for the critical event was not coded to this vehicle.

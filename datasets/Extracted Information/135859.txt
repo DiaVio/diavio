@@ -1,0 +1,41 @@
+{
+    "RoadNetwork": {
+        "RoadType": "divided limited access freeway",
+        "LaneType": "six-lane",
+        "RoadShape": "unmentioned",
+        "RoadSlope": "unmentioned",
+        "SpeedLimit": "unmentioned"
+    },
+    "Environment": {
+        "RoadCondition": "dry",
+        "Weather": "clear daylight"
+    },
+    "Vehicle1": {
+        "ImpactSide": "frontal",
+        "MovingOnWhichWay": "south",
+        "LocationAfterCrash": "right shoulder in front of V2, facing south-southwest",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "ImpactSide": "left-rear corner",
+        "MovingOnWhichWay": "unmentioned",
+        "LocationAfterCrash": "unmentioned",
+        "ObjectiveBehavior": {
+            "WhetherToBrake": "unmentioned",
+            "Direction": "unmentioned",
+            "VehicleAction": "unmentioned",
+            "TravelSpeed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "AttemptedAvoidanceManeuvers": "unmentioned",
+            "AttemptedLaneCrossing": "unmentioned"
+        }
+    }
+}

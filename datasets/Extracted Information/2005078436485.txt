@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Divided interstate roadway",
+        "LaneType": "Two eastbound lanes",
+        "RoadShape": "Straight",
+        "RoadSlope": "Level",
+        "SpeedLimit": "120 kmph (75 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Dry",
+        "Weather": "Daylight"
+    },
+    "Vehicle1": {
+        "Impact Side": "Left side",
+        "Moving on which Way": "Eastbound",
+        "Location after Crash": "North shoulder, facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "Yes",
+            "Direction": "Not specified",
+            "Vehicle Action": "Rotated clockwise, departed roadway",
+            "Travel Speed": "121 kmph",
+            "is_against_rules": "No",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "No"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

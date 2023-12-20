@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V 1) collided with the left side of Vehicle 2 (V 2) when V 2 attempted to turn left from lane two, resulting in the front of V 1 impacting the left side of V 2.

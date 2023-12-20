@@ -1,0 +1,1 @@
+This is because the front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) within the intersection, resulting in a "T-bone" collision. Additionally, Vehicle 3 (V3) also impacted the left side of V2 in a sideswipe type collision.

@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "Two lane roadway",
+        "LaneType": "Travel lanes",
+        "RoadShape": "Curved",
+        "RoadSlope": "Positive grade",
+        "SpeedLimit": "56 kmph (40 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "Icy in spots (black ice)",
+        "Weather": "Clear"
+    },
+    "Vehicle1": {
+        "Impact Side": "Right side (front/center section)",
+        "Moving on which Way": "South",
+        "Location after Crash": "Off the east side of the roadway, facing south",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "South",
+            "Vehicle Action": "Continue traveling south",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "No",
+            "Attempted Lane Crossing": "Yes"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "Frontal plane",
+        "Moving on which Way": "North",
+        "Location after Crash": "Between Vehicle 1 and the northbound travel lane, facing northeast",
+        "Objectivebehavior": {
+            "Whether to Brake": "Unmentioned",
+            "Direction": "North",
+            "Vehicle Action": "Continue traveling north",
+            "Travel Speed": "Unmentioned",
+            "is_against_rules": "Unmentioned",
+            "Attempted Avoidance Maneuvers": "Unmentioned",
+            "Attempted Lane Crossing": "Unmentioned"
+        }
+    }
+}

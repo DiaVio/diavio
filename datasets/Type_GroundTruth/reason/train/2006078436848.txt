@@ -1,0 +1,1 @@
+Single-Vehicle Accident - The accident involves only one vehicle, with no other entities involved. The description indicates that the vehicle (V-1) traveled off the roadway, rotated, and rolled before coming to rest on its roof.

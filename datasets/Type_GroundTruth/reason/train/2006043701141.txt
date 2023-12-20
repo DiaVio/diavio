@@ -1,0 +1,1 @@
+This is because it only involves one vehicle, with no other entities involved in the collision.

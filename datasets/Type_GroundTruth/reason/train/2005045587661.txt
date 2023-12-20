@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle #1 was attempting to make a left turn onto the intersecting side street and was struck on its front by the front left corner of Vehicle #2. This indicates a collision between the front of one vehicle (V1) and the side of another vehicle (V2), which is characteristic of a front-to-side collision.

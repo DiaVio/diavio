@@ -1,0 +1,1 @@
+This is because the front of vehicle two (V2) collided with the left side of vehicle one (V1) as V1 executed a U-turn from a parked position.

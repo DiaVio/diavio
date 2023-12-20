@@ -1,0 +1,29 @@
+{
+  "RoadNetwork":{
+    "RoadType": "two lane",
+    "LaneType": "two way",
+    "RoadShape": "curve to the right",
+    "RoadSlope": "unmentioned",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment":{
+    "RoadCondition": "clear",
+    "Weather": "dusk"
+  },
+  "Vehicle1":{
+    "Impact Side": "front",
+    "Moving on which Way": "northbound",
+    "Location after Crash": "into a large tree",
+    "Objectivebehavior":{
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "Vehicle Action": "unmentioned",
+      "Travel Speed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "Attempted Avoidance Maneuvers": "unmentioned",
+      "Attempted Lane Crossing": "unmentioned"
+    }
+  },
+  "Vehicle2": "unmentioned",
+  "VehicleN": "unmentioned"
+}

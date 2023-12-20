@@ -1,0 +1,55 @@
+{
+  "RoadNetwork": {
+    "RoadType": "interstate freeway",
+    "LaneType": "divided",
+    "RoadShape": "curved",
+    "RoadSlope": "level for eastbound vehicles, uphill grade for westbound vehicles",
+    "SpeedLimit": "unmentioned"
+  },
+  "Environment": {
+    "RoadCondition": "dry",
+    "Weather": "clear"
+  },
+  "Vehicle1": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "east",
+    "LocationAfterCrash": "grassy area just north of the freeway lanes, facing southeast",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle2": {
+    "ImpactSide": "front",
+    "MovingOnWhichWay": "west",
+    "LocationAfterCrash": "near the south shoulder, facing northeast",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  },
+  "Vehicle3": {
+    "ImpactSide": "rear",
+    "MovingOnWhichWay": "west",
+    "LocationAfterCrash": "south shoulder, facing southeast",
+    "ObjectiveBehavior": {
+      "Whether to Brake": "unmentioned",
+      "Direction": "unmentioned",
+      "VehicleAction": "unmentioned",
+      "TravelSpeed": "unmentioned",
+      "is_against_rules": "unmentioned",
+      "AttemptedAvoidanceManeuvers": "unmentioned",
+      "AttemptedLaneCrossing": "unmentioned"
+    }
+  }
+}

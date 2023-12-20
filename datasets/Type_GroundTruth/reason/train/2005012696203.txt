@@ -1,0 +1,1 @@
+This is because V1 attempted to make a lane change into lane one and failed to see V2 traveling in lane one, resulting in a collision between the front of V1 and the side of V2.

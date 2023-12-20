@@ -1,0 +1,1 @@
+Reason: Vehicle 2 was unable to negotiate the right turning curve and entered the southbound travel lane, heading north. This action caused Vehicle 2 to collide with Vehicle 3, which subsequently led to the off-set frontal impact with Vehicle 1.

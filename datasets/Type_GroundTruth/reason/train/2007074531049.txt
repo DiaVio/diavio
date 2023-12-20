@@ -1,0 +1,7 @@
+
+
+Justification:
+- Vehicle 1 (V1) was northbound and Vehicle 2 (V2) was southbound.
+- V1 steered left to avoid a non-contact vehicle and the front of V1 struck the front of V2.
+- V2 rotated counterclockwise and the right side struck a pole off the west side of the road.
+- This indicates that the front of V1 collided with the side of V2, resembling a "T-bone" collision.

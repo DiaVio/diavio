@@ -1,0 +1,41 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural State Route highway",
+        "LaneType": "bituminous two lane",
+        "RoadShape": "slight curve to the left",
+        "RoadSlope": "slight negative grade",
+        "SpeedLimit": "80 kmph (50 mph)"
+    },
+    "Environment": {
+        "RoadCondition": "unmentioned",
+        "Weather": "overcast"
+    },
+    "Vehicle1": {
+        "Impact Side": "left side near the front",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "facing west with the front of the vehicle in the ditch on the west roadside",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "pulled forward and into the path of V2",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    },
+    "Vehicle2": {
+        "Impact Side": "unmentioned",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "on its top in the ditch on the east roadside",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "unmentioned",
+            "Vehicle Action": "struck the left side near the front of V1",
+            "Travel Speed": "unmentioned",
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "unmentioned",
+            "Attempted Lane Crossing": "unmentioned"
+        }
+    }
+}

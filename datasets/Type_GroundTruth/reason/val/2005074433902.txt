@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the left front of Vehicle 2 (V2) when V1 attempted to steer left to avoid a collision. The impact occurred at the front of V1 and the side of V2, resembling a "T-bone" collision.

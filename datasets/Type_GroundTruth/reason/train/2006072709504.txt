@@ -1,0 +1,1 @@
+This is because vehicle two (V2) was attempting to make a left turn and collided with the back end of vehicle one (V1), resulting in the tearing off of V1's bumper cover.

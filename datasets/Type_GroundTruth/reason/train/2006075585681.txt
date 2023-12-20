@@ -1,0 +1,1 @@
+This is indicated by the fact that Vehicle 1 made a left turn and impacted head-on with Vehicle 2, with Vehicle 1's front colliding with the side of Vehicle 2.

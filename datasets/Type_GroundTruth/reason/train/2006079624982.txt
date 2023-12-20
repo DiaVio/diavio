@@ -1,0 +1,1 @@
+This is because vehicle one (V1) was traveling eastbound and its front plane collided with the side of vehicle two (V2), which was traveling southbound.

@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) hit the back of Vehicle 2 (V2) when V2 made a sudden lane change in front of V1 and hit the brakes, causing the collision.

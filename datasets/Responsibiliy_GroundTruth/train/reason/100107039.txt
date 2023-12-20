@@ -1,0 +1,1 @@
+The reason for V1 being primarily responsible is that the driver failed to negotiate the left curve in the roadway, causing the vehicle to drive off the right roadside and collide with a large, non-yielding boulder. This indicates a failure to maintain control of the vehicle and stay within the designated lane, resulting in the crash.

@@ -1,0 +1,1 @@
+Vehicle one impacted the back of vehicle two, indicating a Rear-End Collision.

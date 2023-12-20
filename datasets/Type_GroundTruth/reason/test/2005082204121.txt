@@ -1,0 +1,3 @@
+
+
+Justification: Vehicle #1 (V1) collided with the back of Vehicle #2 (V2), which then collided with the back of Vehicle #3 (V3). This sequence of events indicates that V1 hit the back of V2, resulting in a Rear-End Collision.

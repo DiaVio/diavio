@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Interstate",
+    "LaneType": "Divided",
+    "RoadShape": "Sweeping left curve",
+    "RoadSlope": "Soft median slope",
+    "SpeedLimit": "113 kmph (70 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Clear",
+    "Weather": "Sunny"
+  },
+  "Vehicle1": {
+    "Impact Side": "Left",
+    "Moving on which Way": "North",
+    "Location after Crash": "Final rest on the vehicle's roof facing south in lane 4 and the west shoulder area",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "North",
+      "Vehicle Action": "Change lanes",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Unmentioned",
+    "Moving on which Way": "Unmentioned",
+    "Location after Crash": "Unmentioned",
+    "Objectivebehavior": {
+      "Whether to Brake": "Unmentioned",
+      "Direction": "Unmentioned",
+      "Vehicle Action": "Unmentioned",
+      "Travel Speed": "Unmentioned",
+      "is_against_rules": "Unmentioned",
+      "Attempted Avoidance Maneuvers": "Unmentioned",
+      "Attempted Lane Crossing": "Unmentioned"
+    }
+  }
+}

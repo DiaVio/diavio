@@ -1,0 +1,1 @@
+Vehicle 1 (V1) was traveling south in the third lane when an unidentified truck changed lanes ahead of V1, causing V1 to steer to the left to avoid a collision. As a result, V1 rotated counter clockwise and crossed lanes 4 and 5, impacting the left side of Vehicle 2 (V2). This collision between the front of V1 and the side of V2 fits the description of a front-to-side collision.

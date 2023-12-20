@@ -1,0 +1,2 @@
+
+Justification: Vehicle 1 crashed into the back of Vehicle 2 while Vehicle 2 was stopped at a red light, indicating a Rear-End Collision.

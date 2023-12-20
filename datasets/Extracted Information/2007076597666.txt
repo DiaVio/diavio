@@ -1,0 +1,28 @@
+{
+    "RoadNetWork": {
+        "RoadType": "rural",
+        "LaneType": "two-lane",
+        "RoadShape": "curved",
+        "RoadSlope": "uphill",
+        "SpeedLimit": 89
+    },
+    "Environment": {
+        "RoadCondition": "dark",
+        "Weather": "unmentioned"
+    },
+    "Vehicle1": {
+        "Impact Side": "right rear quarter panel",
+        "Moving on which Way": "southbound",
+        "Location after Crash": "northbound guardrail",
+        "Objectivebehavior": {
+            "Whether to Brake": "unmentioned",
+            "Direction": "northwest",
+            "Vehicle Action": "slide sideways into railing, roll over",
+            "Travel Speed": 89,
+            "is_against_rules": "unmentioned",
+            "Attempted Avoidance Maneuvers": "no",
+            "Attempted Lane Crossing": "no"
+        }
+    },
+    "Vehicle2": "unmentioned"
+}

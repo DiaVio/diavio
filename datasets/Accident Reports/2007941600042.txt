@@ -1,0 +1,19 @@
+The crash occurred in the eastbound lanes of a three-lane roadway. There were three lanes running eastbound and three lanes running westbound with a grassy median separating the roadways. There was the entrance to the mall in the right turn lane. The conditions were wet and rainy on a weekend evening. The posted speed was 56 KPH (35 mph). The roadway was straight/level.
+
+V1 was a 1999 Jeep Grand Cherokee that was traveling in lane one heading eastbound. The roads were wet and slick due to the heavy rain. V2, a 2006 Kia SUV had slowed in lane one for backed up traffic when he was hit from behind by V1 thus pushing him into V3, a 1993 Honda accord who had come to a stop due to a red light. After this first harmful event V4, a 2005 Audi had just come to a stop when she was hit from behind by V3. V1 and V2 were both towed due to damages and no one was injured. Police Reported Travel Speed is Unknown for V1 and Unknown for V2.
+
+V1 was driven by an 18-year-old male who was on his way to the mall. He stated that he was in the one lane of travel when the traffic came to a crawl due to a red light. The driver stated that he tried to stop in time but was not able to as his brakes went out. He was not injured but his car was towed due to damages.
+
+The Critical Pre-crash Event for V1 was "other vehicle traveling in same lane decelerating in the lane". The Critical Reason was a driver error, "following too closely to respond to others actions". The rain was an associative factor related to this driver as he claimed that the roads were wet and slick and he wasn't able to stop due to wet brakes. The driver was cited for the crash and driving with a suspended license.
+
+V2 was driven by a 62-year-old male who was on his way to the mall. He stated that he was slowing down for the red light in lane one when he was hit from behind by V1 and was then pushed into V3 who was stopped. An associative factor related to this driver was wet roads due to rain.
+
+The Critical Pre-crash Event for V2 was "other vehicle in lane traveling at a higher rate of speed". The Critical Reason was not coded to this vehicle, as he was not thought to have contributed to the crash.
+
+V3 was driven by a 43-year-old male who was going to the mall when he stated that the roads were wet and the traffic was getting congested due to the rain. The driver stated that he was stopped when he was hit by V2 from behind.
+
+The Critical Pre-crash Event for V3 was not coded, as he was not involved in the first harmful event. This driver was not thought to have contributed to the crash.
+
+V4 was driven by a 24-year-old woman on her way to a dinner date. The driver was stopped at the intersection in lane one when she was hit from behind. She was not injured and her vehicle was not towed.
+
+The Critical Pre-crash Event for V4 was not coded, as she was not part of the first harmful event. An associative factor was weather as it was wet and rainy.

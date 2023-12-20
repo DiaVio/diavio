@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) was making a left turn from a private driveway and its left plane was impacted by the front plane of Vehicle 2 (V2) which was traveling south in the number two lane. This collision between the front of V2 and the side of V1 is a classic "T-bone" collision, which is categorized as a front-to-side collision.

@@ -1,0 +1,2 @@
+
+This is because Vehicle one (V1) impacted Vehicle two (V2) from behind, which is a characteristic of a Rear-End Collision.

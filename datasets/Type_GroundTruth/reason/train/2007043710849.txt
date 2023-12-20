@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) collided with the right, front of Vehicle 2 (V2) at a right angle, with the front of V1 contacting the right, front of V2.

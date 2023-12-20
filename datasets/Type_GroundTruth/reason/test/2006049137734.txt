@@ -1,0 +1,4 @@
+Vehicle one (V1) was westbound, attempting to turn into the southbound lanes, which indicates a front-to-side collision where the front of V2 impacted the left side of V1.
+The critical pre-crash event for V1 was coded as "this vehicle traveling: turning left at intersection," which aligns with a front-to-side collision scenario where V1 was turning left.
+The critical pre-crash event for V2 was coded as "other vehicle encroachment: from crossing street turning into opposite direction," indicating that V2 was involved in a collision with a vehicle turning into the opposite direction (V1).
+This classification is based on the information provided and the specific circumstances of the accident.

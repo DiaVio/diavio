@@ -1,0 +1,1 @@
+Single-Vehicle Accident - This is because the accident involved only one vehicle (V1) and no other entities were mentioned in the description. The vehicle departed the roadway and struck a utility pole, resulting in the driver fleeing the scene on foot.

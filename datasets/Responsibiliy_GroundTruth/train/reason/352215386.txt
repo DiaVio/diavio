@@ -1,0 +1,1 @@
+The reason for this is that Vehicle 2 changed lanes and struck the back left corner of Vehicle 1, causing Vehicle 1 to lose control and eventually collide with the guardrail. This indicates that Vehicle 2's lane change was not executed safely, resulting in the collision and subsequent loss of control by Vehicle 1.

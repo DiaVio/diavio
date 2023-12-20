@@ -1,0 +1,3 @@
+
+
+Justification: The front of Vehicle 1 collided with the side of Vehicle 2, resulting in a "T-bone" collision. This type of collision involves the front of one vehicle colliding with the side of another, which matches the description provided in the case summary.

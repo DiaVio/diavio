@@ -1,0 +1,1 @@
+This is because Vehicle 1 (V1) ran a red light and impacted the left side of Vehicle 2 (V2), which was turning left. The description of the collision indicates that the front of V1 collided with the side of V2, which is characteristic of a front-to-side collision.

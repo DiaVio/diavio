@@ -1,0 +1,1 @@
+This is because the front of Vehicle 1 (V1) collided with the left side of Vehicle 2 (V2) at the signalized intersection, resulting in V2 rotating counter clockwise and coming to rest within the intersection, facing north, while V1 also rotated counter clockwise and came to rest within the intersection facing south.

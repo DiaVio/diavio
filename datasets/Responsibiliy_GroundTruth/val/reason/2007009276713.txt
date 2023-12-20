@@ -1,0 +1,1 @@
+The driver of V2 misjudged the speed and velocity of V1 when entering the intersection, resulting in V1's front contacting V2's left side. This indicates that V2 failed to yield the right of way to V1, causing the collision.

@@ -1,0 +1,1 @@
+This is because Vehicle 2, traveling south, collided with the left side of Vehicle 1, which was traveling east. The impact occurred when Vehicle 2 crossed the path of Vehicle 1 at the intersection.

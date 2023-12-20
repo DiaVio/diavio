@@ -1,0 +1,41 @@
+{
+  "RoadNetWork": {
+    "RoadType": "Undivided road",
+    "LaneType": "One north lane, two south lanes",
+    "RoadShape": "Curve",
+    "RoadSlope": "Negative 4 percent",
+    "SpeedLimit": "72 kmph (45 mph)"
+  },
+  "Environment": {
+    "RoadCondition": "Wet",
+    "Weather": "Cloudy with heavy rain"
+  },
+  "Vehicle1": {
+    "Impact Side": "Front left corner",
+    "Moving on which Way": "Southbound",
+    "Location after Crash": "Rotated and came to final rest in the northbound lane facing east",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "South",
+      "Vehicle Action": "Negotiating a right curve",
+      "Travel Speed": "72 kmph (45 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "No",
+      "Attempted Lane Crossing": "No"
+    }
+  },
+  "Vehicle2": {
+    "Impact Side": "Left front side",
+    "Moving on which Way": "Northbound",
+    "Location after Crash": "Final rest on the sidewalk",
+    "Objectivebehavior": {
+      "Whether to Brake": "Yes",
+      "Direction": "North",
+      "Vehicle Action": "Negotiating a right curve",
+      "Travel Speed": "72 kmph (45 mph)",
+      "is_against_rules": "No",
+      "Attempted Avoidance Maneuvers": "Yes",
+      "Attempted Lane Crossing": "No"
+    }
+  }
+}
