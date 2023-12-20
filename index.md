@@ -10,6 +10,4 @@ The paper has been submitted to ISSTA 2024.
 
 ## The prototype of DiaVio and the LoRA models are available [here](https://github.com/DiaVio/diavio).
 
-### Testing environment
 
-The following environment was used to fine-tune and use the LoRA models:
