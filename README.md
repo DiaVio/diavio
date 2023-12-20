@@ -8,7 +8,9 @@ We bridge DiaVio with two state-of-the-art open source scenario-based testing ap
 ## Catalog Description
 
 *code* directory contains the source code of DiaVio
+
 *training_format* contains the data format for fine-tuning.
+
 LoRA models and dataset available at [here](https://huggingface.co/DiaVio/loras).
 
 ## Experiment Environment
