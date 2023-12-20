@@ -1,5 +1,3 @@
-# DiaVio: LLM-Empowered Diagnosis of Safety Violations in ADS Simulation Testing
-
 ## Abstract
 
 Simulation testing has been widely adopted by leading companies to ensure the safety of autonomous driving systems (ADSs). A number of scenario-based testing approaches have been developed to generate diverse driving scenarios for simulation testing, and demonstrated to be capable of finding safety violations. However, there is no automated way to diagnose whether these violations are caused by the ADS under test and which category these violations belong to. As a result, great effort is required to manually diagnose violations.
