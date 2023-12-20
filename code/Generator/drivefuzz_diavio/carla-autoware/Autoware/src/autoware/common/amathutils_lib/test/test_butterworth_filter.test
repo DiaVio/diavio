@@ -1,5 +1,0 @@
-  <launch>
-
-  <test test-name="test-butterworth_filter" pkg="amathutils_lib" type="test-butterworth_filter" name="test"/>
-
-</launch>

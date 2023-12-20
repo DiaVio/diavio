@@ -25,10 +25,114 @@ We bridge DiaVio with two state-of-the-art open source scenario-based testing ap
     - RAM:  64GB
 - OS & SW
     - Ubuntu 18.04.6 (strictly required)
-    - Python3
+    - Python3.6
 
 ## Installation & Run
+### Setting up docker and nvidia driver
+
+1. Install `docker-ce`
+* Remove existing installation, add GPG key, and install `docker-ce`
+```sh
+$ sudo apt remove docker docker-engine docker.io
+$ sudo apt update
+$ sudo apt install apt-transport-https ca-certificates curl software-properties-common
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ sudo apt-key fingerprint 0EBFCD88
+$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+$ sudo apt update
+$ sudo apt install docker-ce
+```
+
+* Check installation. The following should print a message starting with
+  "Hello from Docker!"
+```sh
+$ sudo docker run hello-world
+```
+
+2. Set up permissions
+* Create group `docker` and add yourself to it
+```sh
+$ sudo groupadd docker
+$ sudo usermod -aG docker ${USER}
+```
+
+* Log out and log back in
+```sh
+$ sudo su - ${USER}
+```
+
+* Try running docker without root permission this time
+```sh
+$ docker run hello-world
+```
+
+3. Make sure you have nvidia driver on Host
+* Search for available drivers
+```sh
+$ sudo add-apt-repository ppa:graphics-drivers
+$ sudo apt update
+$ ubuntu-drivers devices
+```
+
+* Install one of the compatible drivers. `nvidia-driver-415` worked for me.
+```sh
+$ sudo apt install nvidia-driver-415
+$ sudo reboot now
+$ nvidia-smi
+```
+
+4. Install `nvidia-docker2`
+* Install
+```sh
+$ distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
+$ curl -s -L https://nvidia.github.io/libnvidia-container/gpgkey | sudo apt-key add -
+$ curl -s -L https://nvidia.github.io/libnvidia-container/$distribution/libnvidia-container.list | sudo tee /etc/apt/sources.list.d/nvidia-container-toolkit.list
+
+$ sudo apt update
+$ sudo apt install nvidia-docker2
+$ sudo systemctl restart docker
+```
+
+* Test the installation
+```sh
+$ docker run --runtime=nvidia --rm nvidia/cuda:10.0-base nvidia-smi
+```
 ### AV-Fuzzer
 #### 1. install LGSVL
+LGSVL simulator can be installed from https://github.com/lgsvl/simulator .We are using the latest version,2021.3.\
+LGSVL has made the difficult decision to suspend active development of SVL Simulator, as of January 1, 2022. The cloud had stopped running on June 30, 2022.Therefore, we use SORA-SVL to build our own server as a replacement.SORA-SVL can be installed from https://github.com/YuqiHuai/SORA-SVL
 #### 2. install Apollo8.0
-
+clone source code
+```sh
+$ git clone https://github.com/ApolloAuto/apollo.git
+```
+pull docker image and enter the container(This step may take a long time)
+```sh
+$ sudo bash ./docker/scripts/dev_start.sh
+$ sudo bash ./docker/scripts/dev_into.sh
+```
+build Apollo
+```sh
+sudo ./apollo.sh build
+```
+start dreamviewer
+```sh
+sudo bash scripts/bootstrap.sh
+```
+After completion, open localhost:8888 and you can see the Dreamviewer Interface.\
+bridge Apollo with LGSVL
+```sh
+bash scripts/bridge.sh
+``` 
+#### 3. run AV-Fuzzer-diavio
+Install necessary Python packages using pip
+```sh
+pip3 install -r requirements.txt
+```
+edit config/\_\_init__.py,modify SIMULATOR_HOST,SIMULATOR_PORT,BRIDGE_HOST and BRIDGE_PORT(If both Apollo and LGSVL are installed locally, no modifications are required) 
+\
+\
+start AV-Fuzzer-diavio
+```sh
+python3 drive_experiment.py
+``` 

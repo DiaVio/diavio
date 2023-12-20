@@ -1,5 +1,0 @@
-<launch>
-
-  <node name="run" pkg="runtime_manager" type="run" />
-
-</launch>
