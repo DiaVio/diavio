@@ -28,3 +28,7 @@ We bridge DiaVio with two state-of-the-art open source scenario-based testing ap
     - Python3
 
 ## Installation & Run
+### AV-Fuzzer
+#### 1. install LGSVL
+#### 2. install Apollo8.0
+

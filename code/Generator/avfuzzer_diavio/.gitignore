@@ -1,0 +1,12 @@
+src/GaCheckpoints
+output.log
+scenario.obj
+result.obj
+src/AccidentScenario/*
+src/scenario.obj
+src/output.log
+src/Progress.log
+src/data/*
+src/reports/*
+__pycache__/
+*.pyc
