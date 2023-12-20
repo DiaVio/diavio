@@ -136,3 +136,51 @@ start AV-Fuzzer-diavio
 ```sh
 python3 drive_experiment.py
 ``` 
+
+### drivefuzz-diavio
+#### 1. Install Carla 0.9.10.1 docker
+Choose either of the two methods to install Carla.
+* Pull docker image
+```sh
+$ docker pull carlasim/carla:0.9.10.1
+```
+
+* Quick-running Carla
+Carla can be run using a wrapper script `run_carla.sh`.
+
+To run carla simulator, execute the script:
+```sh
+$ ./run_carla.sh
+```
+It will run carla simulator container, and name it carla-${USER} .
+
+To stop the container, do:
+```sh
+$ docker rm -f carla-${USER}
+```
+
+#### 2. Install Carla 0.9.10.1 Releases
+```sh
+wget https://carla-releases.s3.eu-west-3.amazonaws.com/Linux/CARLA_0.9.10.1.tar.gz
+mkdir carla_0.9.10.1
+tar -zxvf CARLA_0.9.10.1.tar.gz -C ./carla_0.9.10.1/
+```
+run Carla
+```sh
+cd carla_0.9.10.1
+./CarlaUE4.sh -quality-level=Low -windowed -ResX=640 -ResY=480
+```
+
+#### 3. run drivefuzz-diavio
+Initialize the runtime environment
+```sh
+sudo ./init.sh
+```
+Before running drivefuzz-diavio each time, it is necessary to delete or move the output file from the last run
+```sh
+rm -rf out-artifact
+```
+start drivefuzz-diavio
+```sh
+./fuzzer.py -o out-artifact -s seed-artifact -c 5 -m 5 -t behavior --timeout 60 --town 1 --strategy all
+```
