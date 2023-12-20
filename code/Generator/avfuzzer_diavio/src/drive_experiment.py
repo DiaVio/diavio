@@ -8,7 +8,7 @@ crossoverProb = 0.4                             # crossover rate
 popSize = 4
 numOfNpc = 2
 numOfTimeSlice = 5
-maxGen = 2000
+maxGen = 200
 ####################################################################################
 
 ge = GeneticAlgorithm.GeneticAlgorithm(bounds, mutationProb, crossoverProb, popSize, numOfNpc, numOfTimeSlice, maxGen)
