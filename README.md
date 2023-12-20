@@ -97,7 +97,7 @@ $ sudo systemctl restart docker
 ```sh
 $ docker run --runtime=nvidia --rm nvidia/cuda:10.0-base nvidia-smi
 ```
-### AV-Fuzzer
+### AV-Fuzzer-DiaVio
 #### 1. install LGSVL
 LGSVL simulator can be installed from https://github.com/lgsvl/simulator .We are using the latest version,2021.3.\
 LGSVL has made the difficult decision to suspend active development of SVL Simulator, as of January 1, 2022. The cloud had stopped running on June 30, 2022.Therefore, we use SORA-SVL to build our own server as a replacement.SORA-SVL can be installed from https://github.com/YuqiHuai/SORA-SVL
@@ -124,7 +124,10 @@ bridge Apollo with LGSVL
 ```sh
 bash scripts/bridge.sh
 ``` 
-#### 3. run AV-Fuzzer-diavio
+#### 3. run AV-Fuzzer-DiaVio
+```sh
+cd code/avfuzzer_diavio
+```
 Install necessary Python packages using pip
 ```sh
 pip3 install -r requirements.txt
@@ -132,12 +135,15 @@ pip3 install -r requirements.txt
 edit config/\_\_init__.py,modify SIMULATOR_HOST,SIMULATOR_PORT,BRIDGE_HOST and BRIDGE_PORT(If both Apollo and LGSVL are installed locally, no modifications are required) 
 \
 \
-start AV-Fuzzer-diavio
+start AV-Fuzzer-DiaVio
 ```sh
 python3 drive_experiment.py
 ``` 
 
-### drivefuzz-diavio
+### DriveFuzz-DiaVio
+```sh
+cd code/drivefuzz_diavio
+```
 #### 1. Install Carla 0.9.10.1 docker
 Choose either of the two methods to install Carla.
 * Pull docker image
@@ -171,7 +177,7 @@ cd carla_0.9.10.1
 ./CarlaUE4.sh -quality-level=Low -windowed -ResX=640 -ResY=480
 ```
 
-#### 3. run drivefuzz-diavio
+#### 3. run DriveFuzz-DiaVio
 Initialize the runtime environment
 ```sh
 sudo ./init.sh
