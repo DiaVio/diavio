@@ -12,7 +12,7 @@ The paper has been submitted to ISSTA 2024.
 
 We propose a DSL to describe crashes. The DSL serves as an intermediate representation to align crashes in accident reports in natural language and crashes in violation scenarios in simulation testing. The syntax of our proposed Crash DSL is illustrated as follows.
 
-![](/img/DSL.pdf)
+![](/img/DSL.png)
 
 ## Accident Reports --- Violation Reports --- Model Output
 
