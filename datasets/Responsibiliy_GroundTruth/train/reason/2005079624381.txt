@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted a left turn from a parked position without yielding to oncoming traffic. This is considered an illegal maneuver and a decision error. V2 (the driver of vehicle two) was traveling straight and had the right of way. V2 attempted to brake when V1 pulled out, indicating that V2 was taking appropriate action to avoid the collision.

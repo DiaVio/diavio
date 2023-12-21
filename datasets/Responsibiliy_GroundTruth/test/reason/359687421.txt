@@ -1,1 +1,0 @@
-The reason for this is that V2 lost control while negotiating the curve, causing it to rotate counterclockwise and cross over into the eastbound lanes, directly into the path of V1. The impact occurred when V1 collided with the right side of V2. Therefore, V2's loss of control and subsequent crossing into oncoming traffic caused the accident.

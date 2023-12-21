@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) collided with the left side of vehicle two (V2) as V2 was turning left at the intersection. This collision occurred when V1's front bumper plane contacted the left side plane of V2. This aligns with the description of a front-to-side collision, also known as a "T-bone" collision.

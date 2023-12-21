@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the front of Vehicle 2 (V2) after V1 spun laterally in a counterclockwise direction. The impact caused V1 to spin in a clockwise direction before coming to final rest off of the roadway. V2 also spun clockwise before coming to rest partially off of the roadway.

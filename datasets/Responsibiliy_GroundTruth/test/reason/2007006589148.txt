@@ -1,1 +1,0 @@
-The driver of V2 made a false assumption that V1 would yield the right-of-way and proceeded with her left turn without sufficient clearance. This decision error led to the collision with V1.

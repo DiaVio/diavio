@@ -1,1 +1,0 @@
-This is because Vehicle 1 and Vehicle 2 collided head-on, with the fronts of both vehicles colliding with each other.

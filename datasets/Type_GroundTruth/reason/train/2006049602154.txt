@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) impacted the rear of Vehicle 1 (V1), and subsequently, Vehicle 3 (V3) impacted the rear of V2, and Vehicle 4 (V4) impacted the rear of V3. The sequence of impacts from behind indicates a Rear-End Collision.

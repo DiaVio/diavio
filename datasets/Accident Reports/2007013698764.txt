@@ -1,7 +1,0 @@
-This crash occurred off the right side of a two-lane asphalt US highway that did not have a positive barrier. The posted speed limit on the roadway was 113 kmph (70 mph). The crash occurred during daylight hours at midday, and it was raining very hard at the time.
-
-V1, a 2000 Chevrolet Cavalier coupe, was traveling southbound in the right lane negotiating a curve to the left when it began to hydroplane on the roadway. The driver applied the brakes and the vehicle went into a clockwise rotation. V1 skidded off the roadway to the right with its left side leading. On the roadside, the left tires of V1 dug into the soft ground and V1 rolled two quarter turns to the left. V1 came to rest on its top. It was towed due to damage and the lone occupant was transported to the hospital with minor injuries. Police Reported Travel Speed is Not reported for V1.
-
-The driver of V1, a 19 year-old female, stated that she was negotiating the curve when the back of her vehicle started to fishtail. She then stated that she hit the brakes but the car would not regain control.
-
-The Critical Pre-Crash Event coded for V1 was "this vehicle traveling off the edge of the road on the right side." The Critical Reason for the Critical Event was "too fast for conditions." The driver was going too fast on a curve, in heavy rain. A contributing factor was the fact that the rear tires of V1 were almost bald. The driver took medication for depression. The weather (heavy rain) and the wet roadway were also coded as associated factors.

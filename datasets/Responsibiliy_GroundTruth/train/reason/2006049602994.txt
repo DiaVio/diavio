@@ -1,1 +1,0 @@
-The critical pre-crash event for V1 was coded as "other motor vehicle in lane; other vehicle stopped." This indicates that V1 struck the back of V2, which was stopped in lane one. Therefore, V1 is responsible for the initial collision, which set off the chain reaction involving V2, V3, and V4.

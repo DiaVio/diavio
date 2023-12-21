@@ -1,5 +1,0 @@
-
-
-Justification:
-- Vehicle one struck the left side of vehicle two, indicating a collision between the front of one vehicle and the side of another.
-- Vehicle two was preparing to turn right, which aligns with the critical pre-crash event of "this vehicle traveling: turning right at intersection."

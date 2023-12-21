@@ -1,1 +1,0 @@
-The reason for this is that the driver of V1 attempted to make a left turn at the T-intersection, which would require yielding to oncoming traffic. However, V1 failed to yield to Vehicle two (V2), the 2003 Ford Taurus, which was traveling in the opposite direction. As a result, V2 was unable to avoid colliding with V1.

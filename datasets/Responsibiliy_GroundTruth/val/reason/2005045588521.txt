@@ -1,1 +1,0 @@
-The driver of Vehicle #3 made a false assumption of the actions of Vehicle #2, assuming that it was turning right on the entrance ramp because its turn signal was activated. This false assumption led to Vehicle #3 attempting to turn left and subsequently being struck by Vehicle #2.

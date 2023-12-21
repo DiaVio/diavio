@@ -1,1 +1,0 @@
-The reason for this is that V2 attempted to pass V1 on the left side without realizing that there was a double-parked vehicle in the path of V1. This indicates a failure to adequately surveil the road ahead and make a safe decision to proceed with sufficient clearance. V2's inadequate surveillance and decision error led to the collision with V1 and subsequently with V3.

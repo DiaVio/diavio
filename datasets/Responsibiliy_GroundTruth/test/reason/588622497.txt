@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 attempted to avoid a collision with Vehicle 2 by steering left, but was unsuccessful in doing so. This resulted in the frontal plane of Vehicle 1 striking the left side plane of Vehicle 2.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was traveling westbound and was impacted on its right plane by Vehicle 2 (V2), which was southbound. The front of V1 collided with the side of V2, resulting in a "T-bone" collision.

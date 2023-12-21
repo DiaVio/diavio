@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 1 (V1) was northbound and entered the intersection, and the left side of V1 impacted the front of Vehicle 2 (V2), which was southbound in the left turn only lane. This indicates a collision between the front of V1 and the side of V2, which is characteristic of a front-to-side collision or T-bone collision.

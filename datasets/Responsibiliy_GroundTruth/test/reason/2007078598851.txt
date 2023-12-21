@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 made a false assumption about the actions of V1. The driver of V2 saw V1 swing into the center turn lane and assumed that V1 was going to turn left. However, V1 actually made a right turn, causing V2 to brake and collide with the right side of V1. This false assumption by the driver of V2 led to the collision.

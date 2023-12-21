@@ -1,1 +1,0 @@
-This is because V1, while merging into the northbound lane, made an illegal maneuver by failing to yield to V2, resulting in a collision between the two vehicles.

@@ -1,1 +1,0 @@
-Vehicle one, traveling straight, collided with the left-turning vehicle two at the intersection.

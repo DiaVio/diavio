@@ -1,1 +1,0 @@
-This is because Vehicle #1 (Ford Ranger) collided with the rear of Vehicle #2 (ambulance) after Vehicle #2 backed up and re-entered the number two lane.

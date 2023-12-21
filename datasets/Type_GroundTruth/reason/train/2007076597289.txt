@@ -1,1 +1,0 @@
-This is because the fronts of the two vehicles (V1 and V2) collide head-on when V1 crosses the centerline and impacts V2 with its front plane.

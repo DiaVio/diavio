@@ -1,1 +1,0 @@
-This is because Vehicle #1, which was traveling east and turning left, collided with the front of Vehicle #2, which was traveling west. Vehicle #1 was struck on its right side by Vehicle #2, causing both vehicles to come to rest in their respective travel lanes.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) impacted the back of Vehicle 2 (V2), and then V2 moved ahead and struck the back of Vehicle 3 (V3). Rear-End Collisions involve one vehicle hitting the back of another, which is consistent with the sequence of events described in the case.

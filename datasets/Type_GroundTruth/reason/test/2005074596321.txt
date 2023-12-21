@@ -1,3 +1,0 @@
-
-
-This is because Vehicle one (V1) collided with the right side of Vehicle two (V2) as V2 was making a left turn at the intersection. The impact occurred between the front of V1 and the right side of V2. Additionally, after the initial impact, V2 struck a traffic signal on the southeast corner before being struck again by the front of V1.

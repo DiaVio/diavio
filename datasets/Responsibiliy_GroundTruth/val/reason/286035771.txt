@@ -1,1 +1,0 @@
-The reason for this is that Vehicle #2 was attempting to execute a left turn at the intersection, which requires yielding to oncoming traffic. Vehicle #1 (2000 Chevrolet Malibu) was traveling straight in the right lane and had the right of way. Vehicle #2 failed to yield and collided with Vehicle #1, causing the accident.

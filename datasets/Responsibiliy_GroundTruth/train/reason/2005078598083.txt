@@ -1,1 +1,0 @@
-The reason for this is that V2 failed to adequately surveil the intersection before making a right turn. V2 did not look far enough ahead to notice that V1 was approaching in their path of travel. As a result, V2 encroached into the side of V1's trailer, causing the collision.

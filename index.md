@@ -12,6 +12,8 @@ The paper has been submitted to ISSTA 2024.
 
 We propose a DSL to describe crashes. The DSL serves as an intermediate representation to align crashes in accident reports in natural language and crashes in violation scenarios in simulation testing. The syntax of our proposed Crash DSL is illustrated as follows.
 
+![](/img/DSL.pdf)
+
 ## Accident Reports --- Violation Reports --- Model Output
 
 Here we will introduce the format of the accident reports, the style of the violation reports and the results of the model diagnosis.
@@ -34,4 +36,4 @@ By running DiaVio with AV-Fuzzer and DriveFuzz, we diagnose cases caused by NPC 
 
 ## The prototype of DiaVio and documents are available [here](https://github.com/DiaVio/diavio).
 
-## The LoRA models and datasets are available [here](https://huggingface.co/DiaVio/loras).
+## The LoRA models and datasets are available [here](https://huggingface.co/DiaVio).

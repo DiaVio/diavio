@@ -1,1 +1,0 @@
-This is because Vehicle one (V1) collided with the back of Vehicle two (V2) while both vehicles were traveling in the same direction. The driver of V1 failed to notice that the traffic ahead had stopped, leading to the collision.

@@ -1,1 +1,0 @@
-Vehicle one (V1) collided with the left front fender area of vehicle two (V2) while V2 was crossing through the intersection.

@@ -1,1 +1,0 @@
-The driver of Vehicle 1 allowed the vehicle to cross the centerline into the path of Vehicle 2, resulting in a frontal collision. This indicates that the driver of Vehicle 1 failed to maintain their lane and caused the accident.

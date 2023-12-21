@@ -1,1 +1,0 @@
-The driver of V1 failed to stop for the recently changed red light and collided with V2, which was making a left turn with a green light. This indicates that V1 violated a traffic control device, resulting in the collision.

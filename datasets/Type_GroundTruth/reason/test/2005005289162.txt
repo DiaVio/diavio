@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) collided with the left rear of Vehicle 1 (V1) as V1 was attempting to make a left turn onto the westbound roadway from a parking lot. The impact occurred between the front left of V2 and the left rear of V1, indicating a collision between the front of one vehicle (V2) and the side of another (V1).

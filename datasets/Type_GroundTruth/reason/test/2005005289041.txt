@@ -1,1 +1,0 @@
-This is because V1 was struck by V2 in the left front, indicating that the front of V2 collided with the side of V1, resembling a "T-bone" collision.

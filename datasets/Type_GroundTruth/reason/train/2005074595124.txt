@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to stop at the stop sign and was attempting a left turn at the intersection. Vehicle 2 (V2) was traveling south and struck the right front of V1, resulting in a collision between the front of V2 and the side of V1.

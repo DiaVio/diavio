@@ -1,1 +1,0 @@
-This is because the front of vehicle one (V1) collided with the side of vehicle two (V2) as V1 was turning left onto the city street and V2 was heading east in lane two.

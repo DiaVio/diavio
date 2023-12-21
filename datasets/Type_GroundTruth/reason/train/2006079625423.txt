@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) made a U-turn across the path of Vehicle 2 (V2), resulting in the front of V2 colliding with the left rear bumper corner of V1.

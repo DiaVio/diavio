@@ -1,1 +1,0 @@
-Vehicle 1 (V1) changed lanes to the right and struck the left rear of Vehicle 2 (V2) with its right front. This caused V2 to rotate and cross in front of V1, resulting in a collision.

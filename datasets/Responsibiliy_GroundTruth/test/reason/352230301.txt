@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 experienced a control loss and entered the southbound travel lane while in a right side leading yaw/slide, resulting in the collision with Vehicle 2. This indicates that the driver of Vehicle 1 lost control of their vehicle, which ultimately led to the accident.

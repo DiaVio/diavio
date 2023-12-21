@@ -1,1 +1,0 @@
-This is because V1 failed to slow down with traffic and subsequently struck the back of V2 with its front, causing a chain reaction that pushed V2 into the back of V3.

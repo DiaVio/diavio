@@ -1,1 +1,0 @@
-This is because V1, which was intending to turn left, entered the path of V2, causing V2 to strike V1 on the right side.

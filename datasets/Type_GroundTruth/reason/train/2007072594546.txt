@@ -1,1 +1,0 @@
-Vehicle 1 struck the back of Vehicle 2, Vehicle 2 struck the back of Vehicle 3, and Vehicle 3 struck the back of Vehicle 4. This sequence of events indicates a chain reaction of vehicles colliding with the back of the vehicle in front of them.

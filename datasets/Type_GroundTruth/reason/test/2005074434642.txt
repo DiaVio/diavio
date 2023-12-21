@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with the side of vehicle two (V2) after V2 almost came to a complete stop while attempting to turn left at the intersection. The front of V1 collided with the front of V2, resulting in a collision between the front of one vehicle and the side of another.

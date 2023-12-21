@@ -1,1 +1,0 @@
-Vehicle #1 failed to stop at the stop sign and attempted to turn right, crossing into the southbound lane and striking Vehicle #2 head-on. This describes a collision where the front of one vehicle (Vehicle #1) collides with the side of another vehicle (Vehicle #2).

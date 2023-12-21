@@ -1,1 +1,0 @@
-This is because Vehicle #1 and Vehicle #2 collided in an offset frontal manner, with the front of Vehicle #1 hitting the left side of Vehicle #2.

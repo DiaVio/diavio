@@ -1,1 +1,0 @@
-This is because the front of vehicle one (V1) collided with the side of vehicle two (V2) at the intersection, resulting in V2 rotating and coming to rest in the northbound lanes facing west, while V1 came to rest within the intersection facing west.

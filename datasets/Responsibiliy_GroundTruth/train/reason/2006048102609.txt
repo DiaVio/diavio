@@ -1,1 +1,0 @@
-The reason for V2's responsibility is that the driver assumed the flashing yellow light was about to turn red and did not realize that V1 would stop. This assumption led to V2 not being able to respond appropriately to the unexpected action of V1 stopping, resulting in the collision.

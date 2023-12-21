@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with vehicle two (V2) in a front-to-front manner at the intersection, with V1 pulling forward into the westbound lane and contacting the front of V2.

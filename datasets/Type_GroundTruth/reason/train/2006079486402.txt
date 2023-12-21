@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) attempted to turn left and crossed the third lane, resulting in the front of Vehicle 2 (V2) impacting the left side of V1.

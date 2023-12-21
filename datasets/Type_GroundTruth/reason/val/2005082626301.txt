@@ -1,1 +1,0 @@
-Vehicle one (V1) skidded into the left rear of vehicle two (V2), causing V2 to spin in a counter-clockwise direction. This indicates that the front of V1 collided with the side of V2, which is characteristic of a front-to-side collision.

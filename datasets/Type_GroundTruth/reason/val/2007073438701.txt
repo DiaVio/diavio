@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 1 (V1) was stopped and then turned left in the intersection, while Vehicle 2 (V2) was traveling eastbound and struck the right side of V1's vehicle. This configuration indicates a collision between the front of V2 and the side of V1, which is characteristic of a front-to-side collision.

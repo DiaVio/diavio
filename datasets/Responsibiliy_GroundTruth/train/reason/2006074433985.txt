@@ -1,1 +1,0 @@
-The reason for this is that V2 failed to see that V1 was not stopping for their red light and proceeded to accelerate through the intersection. This indicates a failure to yield the right of way and a lack of attention to the traffic signal.

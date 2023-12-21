@@ -1,1 +1,0 @@
-This is because Vehicle 1 was contacted in the left driver's side door by the right front of Vehicle 2, indicating a collision between the front of one vehicle (Vehicle 2) and the side of another (Vehicle 1).

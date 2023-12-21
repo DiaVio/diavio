@@ -1,1 +1,0 @@
-This is because Vehicle 1 (unknown sedan) hit the rear of Vehicle 2 (Ford Mustang), and then the front of Vehicle 2 hit the rear of Vehicle 3 (Toyota Highlander).

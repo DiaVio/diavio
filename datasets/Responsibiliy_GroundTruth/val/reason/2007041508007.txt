@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver made an incorrect evasive action by swerving to the right to avoid the phantom vehicle. This decision led to V1's right front tire hitting the curb, causing V1 to depart the roadway and subsequently collide with multiple objects.

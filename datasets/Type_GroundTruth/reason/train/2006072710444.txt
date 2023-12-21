@@ -1,1 +1,0 @@
-The critical pre-crash event for vehicle one indicates that it hit the back of vehicle two, and the critical pre-crash event for vehicle two indicates that it was hit from behind by vehicle one. This aligns with the definition of a Rear-End Collision where one vehicle hits the back of another.

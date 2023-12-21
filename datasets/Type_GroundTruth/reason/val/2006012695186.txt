@@ -1,1 +1,0 @@
-This is because V3 attempted to pass V1 on the right side and made contact with the front of V1, causing V1 to veer off the road and then collide with the front of V2. This collision between the front of V1 and the side of V2 is characteristic of a Front-to-Side Collision.

@@ -1,1 +1,0 @@
-This is because vehicle one (V1) was making a left-hand turn at an intersection, and vehicle two (V2) collided with the left passenger door of V1 with its front plane.

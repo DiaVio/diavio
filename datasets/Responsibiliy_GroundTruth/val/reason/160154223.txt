@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that it was attempting a left turn from the dedicated left turn lane, but turned into the path of Vehicle 2 (V2), which had been traveling south in the left through lane. This indicates that V1 failed to yield the right of way to oncoming traffic, resulting in the collision.

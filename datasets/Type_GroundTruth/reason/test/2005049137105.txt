@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2), while attempting a left turn, was struck on the left front by the front of Vehicle 1 (V1). The impact caused V2 to rotate clockwise, with the left side of V2 striking the right side of V1. This collision is commonly referred to as a "T-bone" collision, which falls under the category of Front-to-Side Collisions.

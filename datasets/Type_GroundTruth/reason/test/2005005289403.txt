@@ -1,1 +1,0 @@
-Rear-End Collision - Vehicle one (V1) collided with the back of vehicle two (V2), causing a chain reaction where V2 collided with the back of vehicle three (V3) and V3 collided with the back of vehicle four (V4).

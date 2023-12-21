@@ -1,1 +1,0 @@
-Vehicle 1 (V1) struck the back of Vehicle 2 (V2) when V2 slowed down for traffic ahead. This indicates that V1 failed to maintain a safe distance and collided with the rear of the vehicle in front.

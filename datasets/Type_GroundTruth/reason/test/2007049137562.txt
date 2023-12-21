@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was traveling on the wrong side of the road and the front of V1 struck the front of Vehicle 2 (V2). V2 was traveling in the correct lane, and the collision occurred when the front of V1 collided with the side of V2.

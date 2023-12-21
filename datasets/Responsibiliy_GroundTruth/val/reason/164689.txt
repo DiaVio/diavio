@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 attempted to pass through the intersection on the right shoulder, which is not a designated lane for passing. This maneuver caused V2 to drop off the paved surface and lose control, resulting in a sharp left turn that caused it to enter the eastbound lane and collide with Vehicle one (V1).

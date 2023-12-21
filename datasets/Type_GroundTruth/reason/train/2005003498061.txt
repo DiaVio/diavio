@@ -1,1 +1,0 @@
-This is because Vehicle #2, traveling northbound, collided with the left side of Vehicle #1, which was traveling westbound.

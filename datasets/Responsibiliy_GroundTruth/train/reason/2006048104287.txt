@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted a left turn without yielding the right of way to V2. The driver of V1 falsely assumed that V2 would yield, which led to the collision.

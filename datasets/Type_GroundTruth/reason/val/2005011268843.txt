@@ -1,1 +1,0 @@
-This is because the front of vehicle V2 collided with the left front of vehicle V1 when V1 pulled out of the driveway and crossed the path of V2, resulting in a collision between the front of one vehicle and the side of the other.

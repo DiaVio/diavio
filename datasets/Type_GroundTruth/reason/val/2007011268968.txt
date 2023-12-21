@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) struck the back of Vehicle 2 (V2) after V2 came to a complete stop due to the vehicle ahead making a turn. This type of collision involves one vehicle hitting the back of another.

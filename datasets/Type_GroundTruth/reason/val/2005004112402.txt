@@ -1,3 +1,0 @@
-
-
-Justification: The front of V1 collided with the left side of V2 in the intersection, which is a classic "T-bone" collision.

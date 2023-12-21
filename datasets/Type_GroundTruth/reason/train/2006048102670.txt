@@ -1,1 +1,0 @@
-The driver of Vehicle 1 noticed that Vehicle 2 was stopped and applied the brakes, but Vehicle 1 slid and the front struck the back of Vehicle 2. This aligns with the characteristics of a Rear-End Collision, where one vehicle hits the back of another.

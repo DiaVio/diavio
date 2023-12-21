@@ -1,1 +1,0 @@
-The reason for holding V2 primarily responsible is that the driver of V2 observed V1's intention to turn left and attempted to brake and steer left to avoid a collision. However, this maneuver caused V2 to cross into the number-three lane where it struck the left side of V1. Therefore, V2's actions directly led to the collision with V1.

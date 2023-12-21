@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) was impacted on the front left corner by Vehicle two (V2) while V1 was entering the roadway. This indicates that the front of V1 collided with the side of V2, resulting in a front-to-side collision.

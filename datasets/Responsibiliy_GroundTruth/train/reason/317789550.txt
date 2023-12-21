@@ -1,1 +1,0 @@
-The reason for this is that V2 was negotiating a right curve while traveling north in the northbound lane and attempted to turn left onto the intersecting road, crossing into the path of V1. This indicates that V2 failed to yield the right of way to V1, resulting in the collision.

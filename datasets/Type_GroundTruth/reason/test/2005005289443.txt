@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to make a left turn at the intersection but contacted the left front corner of Vehicle 2, which was traveling straight through the intersection. The impact occurred between the front of Vehicle 1 and the side of Vehicle 2, resembling a "T-bone" collision.

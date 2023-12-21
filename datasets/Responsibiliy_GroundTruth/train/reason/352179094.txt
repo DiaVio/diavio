@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 attempted to change lanes to the right in order to access the southbound deceleration lane, but entered the painted area of the gore and subsequently struck the end of the guardrail. This action by the driver of Vehicle 1 initiated the collision sequence and caused the subsequent impact with Vehicle 2.

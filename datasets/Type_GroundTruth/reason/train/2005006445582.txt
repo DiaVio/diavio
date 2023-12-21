@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) contacted the rear of Vehicle 2 (V2) with its front, indicating that V1 hit the back of V2. The Critical Pre-Crash Event for V1 was following too closely to the forward vehicle, further supporting the classification of a Rear-End Collision.

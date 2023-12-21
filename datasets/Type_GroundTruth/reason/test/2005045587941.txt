@@ -1,1 +1,0 @@
-Vehicle #1 (Ford Taurus) collided with the back of Vehicle #2 (Chevrolet Cavalier) as Vehicle #1 attempted to change lanes and return to the far left lane. This collision caused Vehicle #1 to rotate counterclockwise and strike the left inside concrete retaining wall.

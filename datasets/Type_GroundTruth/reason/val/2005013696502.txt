@@ -1,3 +1,0 @@
-
-
-Justification: The driver of V1 was attempting to turn left into the westbound lanes of traffic, and V2, the motorcycle, was traveling in the second eastbound lane. V1 pulled out from the intersection and was struck in the left side by the front of V2. This indicates a collision between the front of one vehicle (V2) and the side of another vehicle (V1), which is characteristic of a front-to-side collision.

@@ -1,3 +1,0 @@
-
-
-Justification: The front of V1 struck the left side of V2, which indicates a collision between the front of one vehicle (V1) and the side of another vehicle (V2). This is commonly known as a "T-bone" collision, which falls under the category of a Front-to-Side Collision.

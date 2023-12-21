@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was stopped at a stop sign, intending to turn left, and Vehicle 2 (V2) was traveling northbound in lane two when the front of V1 struck the front of V2. This indicates that the front of one vehicle (V1) collided with the side of another vehicle (V2) at the intersection, resembling a T-bone collision.

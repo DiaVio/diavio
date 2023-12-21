@@ -1,1 +1,0 @@
-This is because the front of Vehicle 2 (V2) collided with the side of Vehicle 3 (V3) as V2 continued forward after sideswiping Vehicle 1 (V1).

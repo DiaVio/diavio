@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 entered the intersection across the path of Vehicle 1, resulting in the impact between the two vehicles. Vehicle 2 failed to yield the right of way to Vehicle 1, causing the collision.

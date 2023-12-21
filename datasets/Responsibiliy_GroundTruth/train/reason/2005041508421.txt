@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to turn left through an opening left by the stopped vehicles without having a clear view of the moving traffic in lanes beyond the stopped vehicle. This decision error, combined with the sight line restriction caused by the congestion of vehicles, led to V1 colliding with V2.

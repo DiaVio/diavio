@@ -1,1 +1,0 @@
-Vehicle 1 (V1) impacted the rear of Vehicle 2 (V2), causing a chain reaction that pushed V2 into the rear of Vehicle 3 (V3). This indicates that V1 hit the back of V2, which is characteristic of a Rear-End Collision.

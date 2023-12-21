@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Honda Accord) was attempting to merge back into lane two after encountering traffic cones blocking lane one, and the front of Vehicle 1 collided with the side of Vehicle 2 (Freightliner tractor).

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was making a left turn and was impacted by Vehicle 2 (V2) in the front, resulting in V1 rotating counter clockwise and being pushed in a southerly direction. This is consistent with a "T-bone" collision where the front of one vehicle collides with the side of another.

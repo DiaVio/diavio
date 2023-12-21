@@ -1,1 +1,0 @@
-Vehicle one (V1) drifted over the centerline and the front struck the left side of Vehicle two (V2) and Vehicle three (V3). This indicates that the front of V1 collided with the side of V2 and V3, which aligns with a Front-to-Side Collision.

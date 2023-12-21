@@ -1,1 +1,0 @@
-This is because Vehicle 1 struck the back of Vehicle 2, causing it to rotate and subsequently collide with the right side of Vehicle 3.

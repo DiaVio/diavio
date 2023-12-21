@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to stop and struck Vehicle 2 (V2) in the rear, and the force of the impact pushed V2 into the rear of Vehicle 3 (V3).

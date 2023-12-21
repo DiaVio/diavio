@@ -1,1 +1,0 @@
-Vehicle one collided with the rear of vehicle two, causing it to subsequently collide with the rear of vehicle three.

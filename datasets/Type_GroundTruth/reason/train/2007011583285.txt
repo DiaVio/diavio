@@ -1,1 +1,0 @@
-This is because the front of V1 (the turning vehicle) collided with the side of V2 (the vehicle traveling straight), resulting in the vehicles rotating in opposite directions.

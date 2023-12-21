@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 attempted to make a left turn across the path of V1, which was traveling straight in the left eastbound lane. This indicates that V2 failed to yield the right of way to V1, resulting in the collision.

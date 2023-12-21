@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) went through the intersection against the control signal and impacted the left plane of Vehicle 2 (V2), which was headed north in lane four. This indicates that the front of V1 collided with the side of V2, resulting in a T-bone collision.

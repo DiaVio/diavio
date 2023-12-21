@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Nissan Maxima) collided with the side of Vehicle 2 (Mercedes E-350) while Vehicle 2 was making a left turn in the intersection.

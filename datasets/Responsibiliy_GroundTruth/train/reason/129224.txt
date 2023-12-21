@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that the driver of V1 reported that their brakes failed, indicating a mechanical failure on their part. This failure led to V1 entering the intersection at the same time as V2, resulting in the collision.

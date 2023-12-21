@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 drifted left as it passed through the intersection, subsequently striking the frontal plane of Vehicle 1 in an offset manner. This indicates that Vehicle 2 crossed into the lane of Vehicle 1, causing the collision.

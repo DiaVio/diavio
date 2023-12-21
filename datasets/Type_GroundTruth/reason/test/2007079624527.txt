@@ -1,1 +1,0 @@
-This is because Vehicle 1 collided with the right side of Vehicle 2 as Vehicle 2 entered the intersection, resulting in both vehicles rotating clockwise towards the southwest corner.

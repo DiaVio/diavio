@@ -1,1 +1,0 @@
-The driver of Vehicle 3 failed to notice the stopped traffic ahead and collided with the rear of Vehicle 2, causing a chain reaction that resulted in Vehicle 2 striking the rear of Vehicle 1.

@@ -1,1 +1,0 @@
-This is because vehicle one (V1) was stopped and waiting to turn left, and vehicle two (V2) was traveling east and impacted the front of V1. The impact occurred between the front of V2 and the side of V1, which is characteristic of a front-to-side collision (also known as a "T-bone" collision).

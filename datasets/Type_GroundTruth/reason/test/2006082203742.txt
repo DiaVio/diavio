@@ -1,3 +1,0 @@
-Backover Collision - Vehicle reverses into an object, person, or another vehicle.
-
-Justification: Although the description mentions that the driver of V1 steered to the right to avoid stopped vehicles, the vehicle ended up reversing and striking a building and a low concrete wall. This indicates that the vehicle was in a backward motion and collided with objects, which aligns with a backover collision.

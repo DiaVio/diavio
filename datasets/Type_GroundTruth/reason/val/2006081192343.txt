@@ -1,1 +1,0 @@
-This is because the front of vehicle one (V1) collided with the side of vehicle two (V2) in the intersection, resulting in both vehicles rotating and coming to rest in the southeast corner of the intersection.

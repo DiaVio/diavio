@@ -1,1 +1,0 @@
-This is because V1 contacted the right side of V2 with its front, indicating a collision between the front of one vehicle (V1) and the side of another vehicle (V2).

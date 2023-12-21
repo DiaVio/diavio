@@ -1,8 +1,0 @@
-
-Justification:
-- Vehicle one impacted with its front to vehicle two's right side, indicating a collision between the front of one vehicle (vehicle one) and the side of another vehicle (vehicle two).
-- The description of the accident mentions that "vehicle one impacted with its left to vehicle two's right side" after the initial impact, further supporting a front-to-side collision.
-- The critical pre-crash event for vehicle one is coded as "this vehicle traveling: crossing over [passing through] intersection", which aligns with a front-to-side collision at an intersection.
-- The critical pre-crash event for vehicle two is coded as "other vehicle encroachment: from crossing street, across path", which also suggests a collision involving the front of one vehicle and the side of another.
-
-Therefore, based on the given information, the accident is classified as a Type 5 - Front-to-Side Collision.

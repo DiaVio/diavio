@@ -1,1 +1,0 @@
-This is because Vehicle 1 struck the back of Vehicle 2 while it was making a right turn, indicating that Vehicle 1 was following too closely and unable to react to the actions of Vehicle 2.

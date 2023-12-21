@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one was traveling northbound in the third lane, while vehicle two was southbound in the left turn lane. As vehicle two made its left turn, its front plane contacted the left plane of vehicle one. This indicates that the front of vehicle one collided with the side of vehicle two, which is characteristic of a front-to-side collision.

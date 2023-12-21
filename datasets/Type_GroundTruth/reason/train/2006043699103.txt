@@ -1,1 +1,0 @@
-Vehicle 2 (Isuzu NPR) collided with the right side of Vehicle 1 (Lexus ES-300) as Vehicle 1 was turning right at the intersection.

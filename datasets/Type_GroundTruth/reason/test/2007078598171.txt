@@ -1,1 +1,0 @@
-Vehicle one (V1) collided with the right side of vehicle two (V2) as V2 was attempting to make a u-turn and encroached into the westbound lane. This collision involved the front of V1 colliding with the side of V2, which is characteristic of a front-to-side collision.

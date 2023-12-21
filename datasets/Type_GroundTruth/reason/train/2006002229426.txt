@@ -1,9 +1,0 @@
-
-
-Justification:
-- Vehicle #1 impacted the front of Vehicle #2 with its right front.
-- Vehicle #2 was turning left at the intersection when the collision occurred.
-- The Critical Precrash Event coded to Vehicle #2 was "This Vehicle Traveling, Turning Left at Intersection."
-- The Critical Reason for the Critical Precrash Event was "Driver Related Factor, Inadequate Surveillance."
-
-This indicates that the front of one vehicle (Vehicle #1) collided with the side of another vehicle (Vehicle #2) at the intersection, which aligns with a Front-to-Side Collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) impacted the back of Vehicle 2 (V2) while both vehicles were in lane three approaching a left turn lane. The critical pre-crash event for V1 was coded as "other motor vehicle in lane, other vehicle stopped" and the critical reason was a recognition error and inadequate surveillance.

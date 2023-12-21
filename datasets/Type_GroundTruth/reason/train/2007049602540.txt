@@ -1,1 +1,0 @@
-Vehicle 1 (V1) impacted the left side of Vehicle 2 (V2) at the intersection, with the impact occurring in lane three. This collision involved the front of V1 colliding with the side of V2, which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

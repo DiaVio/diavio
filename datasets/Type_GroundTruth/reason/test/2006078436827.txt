@@ -1,3 +1,0 @@
-Rear-End Collision
-
-Justification: Vehicle 1 (V1) struck the rear of Vehicle 2 (V2), causing V2 to rotate and collide with another parked vehicle. This sequence of events indicates a Rear-End Collision between V1 and V2.

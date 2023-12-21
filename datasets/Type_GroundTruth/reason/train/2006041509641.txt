@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) ran into the back of Vehicle 2 (V2), pushing V2 into the back of Vehicle 3 (V3). Rear-End Collision occurs when one vehicle hits the back of another, which is exactly what happened in this case.

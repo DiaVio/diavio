@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) changed lanes to the left and the left side of V1 struck the right side of Vehicle 2 (V2). V2 then rotated and collided with the right side concrete barrier before coming to rest against the front of V1.

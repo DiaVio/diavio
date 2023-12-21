@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 made a left turn and entered the path of the case vehicle, which was already in the intersection. This indicates that V2 failed to yield the right of way to the case vehicle, resulting in the collision.

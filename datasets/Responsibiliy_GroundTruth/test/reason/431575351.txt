@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 failed to observe Vehicle 2 (the 2005 GMC C6500 dump truck) traveling at a slower steady speed in the same lane ahead. This failure to observe and react to the slower vehicle resulted in the frontal impact between Vehicle 1 and Vehicle 2.

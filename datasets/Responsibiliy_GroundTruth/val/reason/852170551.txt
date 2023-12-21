@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn from lane three, which is a left turn only lane, while Vehicle 2 (V2), the 2006 Ford F150, was crossing straight through the intersection. V1 failed to yield the right of way to V2, resulting in the front of V2 impacting the left side of V1.

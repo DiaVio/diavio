@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the left rear of Vehicle 2 (V2) as V2 was in the left turn lane, resulting in V2 rotating counterclockwise and coming to rest in the southeast corner of the intersection.

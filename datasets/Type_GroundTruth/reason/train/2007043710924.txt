@@ -1,1 +1,0 @@
-This is because the front of vehicle VI collided with the side of vehicle V2, resulting in damage to the left front of V2 and causing it to spin out.

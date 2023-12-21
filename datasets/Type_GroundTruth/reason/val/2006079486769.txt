@@ -1,1 +1,0 @@
-V1 attempted a left turn and its right plane was impacted by the front plane of V2. This collision occurred when the vehicles' fronts collided, forming a "T-bone" collision.

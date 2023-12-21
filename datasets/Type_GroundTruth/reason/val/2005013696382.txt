@@ -1,1 +1,0 @@
-This is because Vehicle #2 attempted to pass Vehicle #1 on the left side at the same time that Vehicle #1 was attempting to turn left into a driveway, resulting in the front right of Vehicle #2 contacting the left side front of Vehicle #1.

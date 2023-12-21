@@ -1,1 +1,0 @@
-The reason for this is that V2 failed to recognize that a collision was impending and did not see V1 until the crash was imminent. This indicates either distraction or a failure to pay attention to the road.

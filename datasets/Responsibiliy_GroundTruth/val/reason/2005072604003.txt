@@ -1,1 +1,0 @@
-The reason for this is that V1 was attempting to make a left turn from the eastbound left turn lane, and V2 (the driver of the 1995 Buick LaSabre sedan) was traveling straight in the westbound first lane. V1's false assumption of other road users' actions led to the collision, as V1 failed to yield the right of way to V2.

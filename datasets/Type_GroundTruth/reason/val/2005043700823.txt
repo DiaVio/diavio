@@ -1,1 +1,0 @@
-This is because the crash only involved one vehicle (Vehicle 1) and there were no other entities involved in the accident.

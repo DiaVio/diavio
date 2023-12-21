@@ -1,1 +1,0 @@
-This is because vehicle 1 (V1) was traveling south and was contacted on its right side by vehicle 2 (V2) that was traveling east. V1 then rotated clockwise and slid south to contact vehicle 3 (V3) on its front bumper with its left fender.

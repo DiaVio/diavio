@@ -1,1 +1,0 @@
-The reason for this is that V2 swerved to avoid Vehicle three (V3) and ended up colliding with Vehicle one (V1). This indicates that V2 was unable to maintain control of their vehicle and failed to avoid the collision, resulting in the impact with V1.

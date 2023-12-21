@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was turning left at the intersection and the front of Vehicle 2 (V2) impacted with the right front of V1, resulting in a side slap collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted a left turn without the right of way and was struck on the right side by the front of Vehicle 2. The collision occurred between the front of Vehicle 2 and the side of Vehicle 1, which is characteristic of a front-to-side collision.

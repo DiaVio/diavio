@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 was attempting to make a left turn out of the parking lot and continue traveling southbound, crossing the path of Vehicle 2 (the 2007 Volkswagen Jetta) which was traveling north. Vehicle 1 failed to yield the right of way to Vehicle 2, resulting in the near side collision.

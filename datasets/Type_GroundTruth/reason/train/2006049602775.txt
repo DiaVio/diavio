@@ -1,1 +1,0 @@
-This is because the front of vehicle one (V1) collided with the side of vehicle two (V2) when V2 slowed down to turn right into the driveway.

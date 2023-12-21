@@ -1,1 +1,0 @@
-This is because V1, which was intending to turn left, collided with the right side of V2 as V2 was approaching the intersection. The front of V1 collided with the side of V2, similar to a "T-bone" collision.

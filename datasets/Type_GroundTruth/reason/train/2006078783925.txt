@@ -1,1 +1,0 @@
-This is because Vehicle 1 was making a U-turn and collided with the front of Vehicle 2, which was traveling northbound in the number one lane.

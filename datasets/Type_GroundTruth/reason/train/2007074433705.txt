@@ -1,6 +1,0 @@
-
-
-Justification: 
-- Vehicle 1 (V1) struck the right side of Vehicle 2 (V2) in the intersection, indicating a collision between the front of one vehicle and the side of another.
-- The description of the collision, with V1 rotating clockwise and V2 rotating clockwise after being struck by V1, is consistent with a front-to-side collision.
-- The fact that V2's left side was struck by the front of V3 also suggests a front-to-side collision.

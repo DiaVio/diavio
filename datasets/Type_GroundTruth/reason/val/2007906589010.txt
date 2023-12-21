@@ -1,1 +1,0 @@
-This is because vehicle one collided with the rear of vehicle two, and then vehicle two collided with the rear of vehicle three.

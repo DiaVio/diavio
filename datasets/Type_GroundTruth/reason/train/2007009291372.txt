@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) when V1 veered right and crashed into V2 while V2 was attempting to merge into the westbound lane.

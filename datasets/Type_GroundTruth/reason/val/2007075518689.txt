@@ -1,3 +1,0 @@
-
-
-This is because Vehicle 1 (V1) collided with the side of Vehicle 2 (V2) as V2 was making a left turn at the intersection. Additionally, V1 then continued to collide with the front of Vehicle 3 (V3) with its right side.

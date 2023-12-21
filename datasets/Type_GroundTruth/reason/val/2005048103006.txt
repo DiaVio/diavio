@@ -1,4 +1,0 @@
-Backover Collision - Vehicle reverses into an object, person, or another vehicle.
-
-Justification:
-The accident involved two vehicles, where Vehicle 1 (V1) was driving on the wrong side of the roadway and impacted Vehicle 2 (V2) in the left rear at the rear axle. This indicates that V1 reversed into V2, making it a backover collision.

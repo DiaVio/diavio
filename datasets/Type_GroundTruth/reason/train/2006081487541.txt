@@ -1,3 +1,0 @@
-
-
-Justification: The collision occurred in an intersection, where Vehicle 1 (V1) entered the roadway without yielding to Vehicle 2 (V2). The front of V1 impacted the left side of V2, indicating a front-to-side collision.

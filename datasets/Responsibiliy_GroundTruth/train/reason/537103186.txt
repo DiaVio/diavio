@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 attempted to make a left turn at the intersection, crossing the path of Vehicle one (V1), the 2001 Honda Civic, which was traveling straight in the westbound lane. This indicates that V2 failed to yield the right of way to V1, resulting in the collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) first collided with the rear of Vehicle 2 (V2) and then collided with the left side of Vehicle 3 (V3). The front of V1 contacting the overturned trailer from the previous crash and pushing it into pedestrians further supports this classification.

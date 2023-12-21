@@ -1,1 +1,0 @@
-This is because the front of vehicle V1 collided with the side of vehicle V2, resulting in the impact between the right rear corner of V1 and the front left corner of V2.

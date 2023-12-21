@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) struck the rear of Vehicle 2 (V2), causing it to veer and subsequently collide with Vehicle 3 (V3).

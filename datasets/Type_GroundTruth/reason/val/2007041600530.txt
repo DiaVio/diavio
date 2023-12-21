@@ -1,1 +1,0 @@
-This is because V1's front hit V2's back left end, and then hit V3's front right end, indicating a collision between the front of one vehicle (V1) and the side of another (V2 and V3).

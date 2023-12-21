@@ -1,1 +1,0 @@
-This is because Vehicle #1 collided with the back of Vehicle #2 when it failed to notice that the vehicle ahead had come to a complete stop. The driver of Vehicle #1 was distracted and looking around to change lanes, resulting in the collision.

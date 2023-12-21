@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) crossed the main road and impacted the left side of Vehicle 2 (V2). V2 then rotated and impacted the back of Vehicle 3 (V3) with its right side.

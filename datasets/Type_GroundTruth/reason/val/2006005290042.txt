@@ -1,1 +1,0 @@
-This is because the front of Vehicle 2 (Honda Civic) collided with the side of Vehicle 1 (Cadillac CTS) at the intersection, resulting in the impact and subsequent rotation of Vehicle 2.

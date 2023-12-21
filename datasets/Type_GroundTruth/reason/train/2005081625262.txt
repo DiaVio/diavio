@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with the rear of vehicle two (V2) after V2 slowed down and came to a stop.

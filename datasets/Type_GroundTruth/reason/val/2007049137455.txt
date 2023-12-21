@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) struck the back of Vehicle 2 (V2), which then forced V2 to collide with the back of Vehicle 3 (V3).

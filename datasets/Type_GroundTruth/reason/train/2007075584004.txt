@@ -1,1 +1,0 @@
-Vehicle one (V1) impacted the back of vehicle two (V2) while both vehicles were traveling in the same direction, with V2 stopped in traffic. This matches the definition of a Rear-End Collision where one vehicle hits the back of another.

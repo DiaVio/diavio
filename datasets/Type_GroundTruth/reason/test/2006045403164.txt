@@ -1,1 +1,0 @@
-This is because V1's front contacted V2's right side, causing V2 to spin in a clockwise rotation and V2's left side to contact V3's front.

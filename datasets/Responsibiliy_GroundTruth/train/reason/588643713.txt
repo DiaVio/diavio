@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 struck the back plane of Vehicle 2 in a rear-end type impact. This indicates that Vehicle 1 failed to maintain a safe following distance and was unable to stop in time to avoid colliding with the stopped Vehicle 2.

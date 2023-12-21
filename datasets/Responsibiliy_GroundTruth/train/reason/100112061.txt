@@ -1,1 +1,0 @@
-The reason for this is that V2 was making a left turn into the path of V1, which was traveling straight through the intersection. V2 failed to yield the right of way to V1, resulting in the collision.

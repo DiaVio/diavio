@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) collided with the back of Vehicle 1 (V1) as V1 entered lane one in front of V2.

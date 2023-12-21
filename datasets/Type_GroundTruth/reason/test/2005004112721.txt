@@ -1,1 +1,0 @@
-This is because the front of vehicle 1 (V1) collided with the right side of vehicle 2 (V2) at an intersection.

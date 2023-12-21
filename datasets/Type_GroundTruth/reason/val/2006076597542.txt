@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) impacted the rear of Vehicle 2 (V2) while both vehicles were traveling in the same direction. The critical pre-crash event for V1 was coded as "other motor vehicle in lane, other vehicle stopped," indicating that V2 had come to a stop for the railroad crossing, and V1 failed to stop in time, resulting in a Rear-End Collision.

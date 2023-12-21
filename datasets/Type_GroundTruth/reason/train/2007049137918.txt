@@ -1,1 +1,0 @@
-This is because the front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2), resulting in a rotational movement and V2 hitting the left side of Vehicle 3 (V3).

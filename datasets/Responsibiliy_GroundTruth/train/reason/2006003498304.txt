@@ -1,1 +1,0 @@
-The driver of V1 failed to stop for a traffic control device, which is an illegal maneuver. This indicates that V1 ran a red light, resulting in the collision with V2.

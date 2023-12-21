@@ -1,1 +1,0 @@
-This is because vehicle one (V1) was attempting to turn left from a private driveway, and vehicle two (V2) was traveling westbound and collided with the front left of V1.

@@ -1,1 +1,0 @@
-This collision involved the front of V1 colliding with the side of V2, which is characteristic of a front-to-side collision.

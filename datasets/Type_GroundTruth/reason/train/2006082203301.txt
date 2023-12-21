@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to slow down in time and collided with the rear of Vehicle 2 (V2), which then pushed V2 into the rear of Vehicle 3 (V3).

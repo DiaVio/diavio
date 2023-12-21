@@ -1,1 +1,0 @@
-Vehicle 2 (V2) struck the rear of Vehicle 1 (V1) after V1 slowed down due to hitting an object in the roadway.

@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle one changed lanes to the left and attempted to turn left into the driveway without ensuring there was no oncoming traffic. This is classified as an "inadequate surveillance" driver-related factor, indicating that the driver of Vehicle one did not properly check for oncoming traffic before making the left turn.

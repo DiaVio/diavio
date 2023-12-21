@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 failed to stop at the stop sign, which is an illegal maneuver. This caused V2 to collide with the left side of V1 as it entered the intersection.

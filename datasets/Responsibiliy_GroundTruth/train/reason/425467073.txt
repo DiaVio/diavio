@@ -1,1 +1,0 @@
-The reason for this is that V1 was making a left turn at the intersection in front of Vehicle 2 (V2), the 2007 Acura TL sedan. V1 failed to yield the right of way to V2, resulting in a collision between the front right corner of V1 and the front of V2. This indicates that V1 violated the right of way of V2, making V1 primarily responsible for the accident.

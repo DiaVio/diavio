@@ -1,1 +1,0 @@
-Vehicle 2 struck Vehicle 1 in the rear with its front, indicating a Rear-End Collision.

@@ -1,1 +1,0 @@
-Vehicle two (V2) changed lanes to the left into the number five lane and the front of vehicle two impacted the rear of vehicle one (V1). This indicates that V2 hit the back of V1, which is characteristic of a Rear-End Collision.

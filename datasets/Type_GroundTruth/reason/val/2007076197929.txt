@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the rear of Vehicle 2 (V2), which was stopped in the lane behind Vehicle 3 (V3). This sequence of events aligns with the definition of a Rear-End Collision, where one vehicle hits the back of another.

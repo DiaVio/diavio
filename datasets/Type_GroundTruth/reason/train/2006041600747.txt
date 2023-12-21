@@ -1,6 +1,0 @@
-
-- Vehicle 1 (2007 Dodge Ram Truck) hit the back of Vehicle 2 (1998 Chevy Geo Metro), causing it to be pushed into Vehicle 3 (2006 Ford Van).
-- The Critical Pre-crash Event for Vehicle 2 was "other vehicle in lane traveling at a higher rate of speed", indicating that Vehicle 1 hit it from behind.
-- The description of the accident also matches the characteristics of a Rear-End Collision, where one vehicle hits the back of another.
-
-Therefore, the accident is classified as a Rear-End Collision (Type 3).

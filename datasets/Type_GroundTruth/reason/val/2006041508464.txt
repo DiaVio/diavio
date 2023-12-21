@@ -1,7 +1,0 @@
-This classification is based on the following factors:
-
-1. Description of the accident: V1 veered to the left to avoid rear-ending the vehicle in front of it.
-2. Sequence of events: V1 made contact with the concrete barrier wall after trying to avoid the collision.
-3. Critical Reason for the Critical Event: The driver was following too closely and couldn't respond to the sudden slowing of traffic.
-
-These factors indicate that the accident involved a collision between the front of V1 and the back of another vehicle, which aligns with the characteristics of a Rear-End Collision.

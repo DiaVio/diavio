@@ -1,1 +1,0 @@
-The reason for V1 being primarily responsible is that it attempted to turn left and lost control, running off the left side of the roadway. This indicates that V1 failed to properly navigate the turn, resulting in the loss of control and subsequent rollover.

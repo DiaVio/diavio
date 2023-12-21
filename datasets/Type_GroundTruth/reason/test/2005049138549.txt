@@ -1,1 +1,0 @@
-This is because Vehicle 1 entered the intersection without the right of way and the front of Vehicle 1 struck the front of Vehicle 2, which indicates a collision between the front of one vehicle (Vehicle 1) and the side of another vehicle (Vehicle 2).

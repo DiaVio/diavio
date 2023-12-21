@@ -1,1 +1,0 @@
-This is because the front of vehicle V2 collided with the right side of vehicle V1 when V1 attempted a u-turn and stopped in V2's travel lane.

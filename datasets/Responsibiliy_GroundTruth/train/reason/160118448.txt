@@ -1,1 +1,0 @@
-The reason for this is that V1 was attempting to make a left turn onto the eastbound direction and failed to observe Vehicle 2 (V2) traveling westbound in the right through lane. V1 pulled into the path of V2, resulting in the collision.

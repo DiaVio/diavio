@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) struck the rear of Vehicle 2 (V2), and then Vehicle 2 struck the rear of Vehicle 3 (V3). This sequence of events indicates that the collision occurred when one vehicle hit the back of another, which is characteristic of a Rear-End Collision.

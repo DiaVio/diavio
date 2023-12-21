@@ -1,1 +1,0 @@
-The reason for this is that V1 ignored a traffic control device (the stop sign) and made an illegal maneuver by leaving the roadway to go around the stopped vehicles. Additionally, V1's off-road path took him behind some tall cactus bushes and a tree, blocking his line of sight to V2. This decision error and aggressive driving by V1 led to the collision with V2.

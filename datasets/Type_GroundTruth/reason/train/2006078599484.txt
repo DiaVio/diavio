@@ -1,1 +1,0 @@
-This is because the front of vehicle one (V1) collided with the right side passenger door of vehicle two (V2), resulting in a left side impact to V1 and a right side impact to V2.

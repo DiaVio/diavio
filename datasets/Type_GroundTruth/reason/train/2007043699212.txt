@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Chevrolet Camaro) impacted the left side of Vehicle 2 (Honda Accord) while Vehicle 2 was attempting to turn left.

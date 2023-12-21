@@ -1,3 +1,0 @@
-Single-Vehicle Accident
-
-Justification: The accident involves only one vehicle (V1) and no other entities. It is described as a single-vehicle rollover where V1 lost traction on an icy patch of road, rotated counter-clockwise, and rolled multiple times before coming to rest on the roadside.

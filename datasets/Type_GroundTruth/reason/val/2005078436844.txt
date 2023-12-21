@@ -1,1 +1,0 @@
-This is because Vehicle 1 entered the intersection and the front of Vehicle 2 impacted the right side of Vehicle 1. The impact occurred when Vehicle 1 crossed the path of Vehicle 2, resulting in a collision between the front of Vehicle 2 and the side of Vehicle 1.

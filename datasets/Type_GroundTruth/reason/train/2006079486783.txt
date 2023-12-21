@@ -1,1 +1,0 @@
-This is evident from the description that vehicle one (V1) traveling east was impacted on its left plane by vehicle two (V2) traveling south. This indicates a collision between the front of V2 and the side of V1, which is characteristic of a front-to-side collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1, while attempting to make a left turn, was struck on its left front by the front of Vehicle 2. This collision occurred at a T-intersection, with the front of one vehicle colliding with the side of another, which is characteristic of a front-to-side collision.

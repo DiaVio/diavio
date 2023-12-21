@@ -1,1 +1,0 @@
-The reason for this is that the driver of V2 failed to notice that his traffic signal was red and proceeded through the intersection without looking. This indicates a lack of adequate surveillance on the part of the driver, which is a driver-related factor. As a result, V2 entered the intersection when it was not safe to do so, leading to the collision with V1.

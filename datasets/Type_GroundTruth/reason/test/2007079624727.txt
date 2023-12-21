@@ -1,3 +1,0 @@
-Backover Collision
-
-Justification: Although it is a single-vehicle accident, the vehicle (V1) involved in the collision reversed into an object (on-color signal pole) after attempting a late right turn at the intersection.

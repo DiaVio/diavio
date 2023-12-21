@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver misjudged the speed and distance of V2 while attempting to make a left turn at the intersection. Despite stopping at the stop sign, V1 failed to accurately assess the oncoming vehicle's approach, resulting in the collision.

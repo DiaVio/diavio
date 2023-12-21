@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the back of Vehicle 2 (V2), which then caused the front of V2 to collide with the back of Vehicle 3 (V3), and subsequently, the front of V3 collided with the back of Vehicle 4 (V4). This sequence of events indicates a front-to-side collision between the vehicles involved.

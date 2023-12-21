@@ -1,1 +1,0 @@
-This is because Vehicle 1 initiated a left turn, cutting in front of Vehicle 2, resulting in the front right corner of Vehicle 1 impacting the front of Vehicle 2.

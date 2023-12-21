@@ -1,1 +1,0 @@
-The reason for V1's responsibility is that the driver failed to stop at a traffic control device, specifically the stop sign at the intersection. This failure to stop resulted in V1 crossing the intersection and colliding with V2, which was traveling northbound in lane one. V1's failure to properly observe and yield to oncoming traffic led to the collision.

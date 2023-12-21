@@ -1,1 +1,0 @@
-This is because Vehicle 1 was turning left and was contacted on the right front side by Vehicle 2, which was traveling in lane one.

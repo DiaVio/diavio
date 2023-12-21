@@ -1,6 +1,0 @@
-
-Justification:
-- Vehicle 1 was attempting to turn left at an intersection, which indicates a front-to-side collision.
-- Vehicle 2 impacted the right front corner of Vehicle 1, confirming the front-to-side collision.
-- The critical pre-crash event for Vehicle 1 was coded as "traveling, turning left at intersection," further supporting a front-to-side collision.
-- The critical pre-crash event for Vehicle 2 was coded as "other vehicle encroachment; from opposite direction - over left lane line," which suggests a collision with the side of Vehicle 1.

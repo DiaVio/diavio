@@ -1,1 +1,0 @@
-This is because the crash involved only one vehicle (Vehicle one - V1) and no other entities. V1 steered off the right side of the road, returned to the roadway, and then rolled over to the left, resulting in a single-vehicle crash.

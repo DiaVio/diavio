@@ -1,1 +1,0 @@
-This is because the front of vehicle two collided with the left side of vehicle one.

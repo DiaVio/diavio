@@ -1,1 +1,0 @@
-This is because the driver of Vehicle 1 lost control on the wet roadway and collided with Vehicle 2, resulting in the accident. No other entities were involved in the collision.

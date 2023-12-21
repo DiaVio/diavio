@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to stop in time and impacted the rear of Vehicle 2 (V2), which then caused V2 to impact the rear of Vehicle 3 (V3).

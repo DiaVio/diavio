@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the left rear dual wheels of Vehicle 2 (V2), indicating that the front of V1 collided with the side of V2 in a "T-bone" collision.

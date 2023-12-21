@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) crossed through the intersection and was impacted on the right side by the front of Vehicle 2 (V2). This collision caused V1 to then collide with the front of Vehicle 3 (V3), where they came to a final rest.

@@ -1,6 +1,0 @@
-
-
-Justification:
-- Vehicle 1 (V1) was travelling southbound and was struck on the right side by the front of Vehicle 2 (V2) and then the front of Vehicle 3 (V3).
-- This collision occurred when V1 entered the intersection, indicating a T-bone collision where the front of one vehicle (V2 and V3) collides with the side of another vehicle (V1).
-- The movement of V1 rotating clockwise and striking V4 further supports the front-to-side collision.

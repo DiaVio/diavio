@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to execute a left turn when the light was yellow, assuming that V2 (the driver of the 1995 Honda Accord) would stop. However, V2 had the right of way and was approaching the intersection in a straight path. V1's false assumption of V2's actions led to the collision.

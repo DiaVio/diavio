@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one was changing lanes from lane two to lane three and was impacted on its left side by the front of vehicle two. This indicates that the front of vehicle one collided with the side of vehicle two, resulting in a front-to-side collision.

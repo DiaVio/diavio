@@ -1,1 +1,0 @@
-This is because the front of vehicle one collided with the side of vehicle two as vehicle one was turning left at the intersection.

@@ -1,1 +1,0 @@
-This is because Vehicle 1, which was attempting to make a left turn, collided with the front of Vehicle 2, which was traveling in the first lane approaching the intersection. The collision occurred when the front of Vehicle 2 impacted with the front of Vehicle 1, resulting in rotational movements of both vehicles.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) struck the rear of Vehicle 2 (V2), and V2 subsequently struck the rear of Vehicle 3 (V3). The sequence of events indicates that the collision occurred when V1 failed to stop in time and collided with the rear of V2.

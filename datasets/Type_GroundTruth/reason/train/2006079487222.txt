@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) was westbound and vehicle two (V2) was northbound. V2's front plane impacted the left plane of V1, indicating a collision between the front of one vehicle (V2) and the side of another vehicle (V1). This type of collision is commonly referred to as a "T-bone" collision.

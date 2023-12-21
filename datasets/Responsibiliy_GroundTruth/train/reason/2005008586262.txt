@@ -1,1 +1,0 @@
-The reason for Vehicle 1's responsibility is that the driver admitted to taking his eyes off the road for two seconds to look for something on the dashboard, resulting in the vehicle departing the right side of the road and colliding with the parked pickup. This internal driver distraction caused the critical pre-crash event of V1 traveling off the right roadside.

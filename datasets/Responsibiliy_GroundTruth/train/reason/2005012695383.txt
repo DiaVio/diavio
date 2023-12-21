@@ -1,1 +1,0 @@
-The reason for V1's primary responsibility is that the driver of V1 made a decision error by falsely assuming that V2 would stop when the traffic signal turned yellow. This false assumption led to V1 attempting to make a left-hand turn, resulting in the collision with V2.

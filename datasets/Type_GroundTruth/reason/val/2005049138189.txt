@@ -1,1 +1,0 @@
-The collision occurred when Vehicle 1 (V1) struck the right side passenger door of Vehicle 2 (V2) as V2 was making a left turn across the path of V1. This type of collision involves the front of one vehicle colliding with the side of another, which is exactly what occurred in this case.

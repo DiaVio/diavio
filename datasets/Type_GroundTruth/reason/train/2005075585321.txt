@@ -1,7 +1,0 @@
-
-
-Justification:
-- Vehicle 1 (V1) hit the back of Vehicle 2 (V2) when V2 slowed down and attempted to change lanes.
-- V1 then continued forward and hit the back of Vehicle 3 (V3).
-- The critical pre-crash event for V1 was coded as "other motor vehicle in lane, traveling in the same direction while decelerating", indicating that V1 was unable to slow down enough to avoid hitting V2.
-- The critical pre-crash event for V2 was coded as "other motor vehicle in lane, traveling in the same direction with higher speed", indicating that V2 was impacted by the higher-speed vehicle behind it (V1).

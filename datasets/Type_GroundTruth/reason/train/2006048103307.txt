@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) failed to stop for a traffic signal and was struck on the left side by Vehicle 2's (V2) front. The description of the collision, where the front of V2 collides with the side of V1, aligns with the characteristics of a "T-bone" collision, which is a type of front-to-side collision.

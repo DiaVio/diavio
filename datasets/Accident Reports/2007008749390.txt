@@ -1,7 +1,0 @@
-This crash occurred in the northbound lanes of a four-lane undivided roadway, near an intersection. There were two northbound lanes and two southbound lanes. The intersection had traffic lights without pedestrian signals. The roadway curved to the right, was level, bituminous, and had a posted speed limit of 72 kmph (45 mph).
-
-V1 was a 1997 Mercury Grand Marquis 4-door sedan, driven by a 77 year-old female. V2 was a 2005 Subaru Outback station wagon, driven by a 78 year-old male. V1 was traveling northbound in lane one, negotiating a right curve, when it impacted the rear of V2, which was stopped at an intersection about to proceed through a just turned green light. Police Reported Travel Speed is 56 kmph for V1 and 56 kmph for V2.
-
-The Critical Pre-crash Event for V1 was "other motor vehicle in lane, other vehicle stopped." The Critical Reason for V2 was "driver related factor, external distraction." The driver stated that she was looking for a yoga studio, and wasn't looking where she was going. She never saw V2 until the impact. Associated factors coded to the driver of V1 were the use of prescription medication for diabetes and unfamiliarity with the roadway.
-
-The Critical Pre-crash Event for V2 was "other motor vehicle in lane, traveling in same direction with higher speed." The Critical Reason was not coded to this vehicle. The only associated factors coded to this driver were the medical conditions of hypertension, diabetes and glaucoma, along with the use of several prescription medications for these conditions.

@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) traveled off the left side of the road, entered the westbound lanes, and struck the front of Vehicle 1 (V1). The description of the collision involving the front of one vehicle colliding with the side of another ("T-bone" collision) aligns with a Front-to-Side Collision.

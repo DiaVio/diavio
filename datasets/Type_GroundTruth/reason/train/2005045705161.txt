@@ -1,1 +1,0 @@
-This is because Vehicle #2 swerved to the left and collided with the right front of Vehicle #1 with its left rear, indicating a collision between the front of one vehicle and the side of another ("T-bone" collision).

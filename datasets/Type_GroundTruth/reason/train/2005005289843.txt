@@ -1,1 +1,0 @@
-This is because the collision involved only one vehicle (V1) and there were no other entities involved. The vehicle lost control, crossed over the opposite lane of travel, and struck a tree, resulting in the accident.

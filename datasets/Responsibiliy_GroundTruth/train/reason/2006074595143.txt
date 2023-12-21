@@ -1,1 +1,0 @@
-The driver of V2 failed to adequately surveil the intersection before making a left turn. This is evident from the fact that the driver of V2 looked to the left, saw it was clear, but failed to notice the approaching V1 from the right. The critical reason for V2 was coded as "inadequate surveillance (e.g., failed to look, looked but did not see)."

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) attempted to change lanes into lane one, and in doing so, struck the left side of Vehicle 2 (V2), forcing it partially off the roadway to the right. The impact occurred between the front of V1 and the side of V2, resembling a "T-bone" collision.

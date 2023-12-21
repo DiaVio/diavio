@@ -1,1 +1,0 @@
-Front-to-Side Collision - The front of vehicle one (V1) collided with the side of vehicle two (V2) as V2 was making a left turn at the intersection.

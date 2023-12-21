@@ -1,8 +1,0 @@
-
-Justification:
-- Vehicle 1 (V1) changed lanes into the second lane, a two-way left turn lane.
-- V1 slowed and then turned left into a parking lot.
-- The front of Vehicle 2 (V2) impacted with the right of V1.
-- Both vehicles rotated and came to rest in the parking lot.
-
-This sequence of events indicates that the front of V2 collided with the side of V1, which is characteristic of a Front-to-Side Collision (T-bone collision).

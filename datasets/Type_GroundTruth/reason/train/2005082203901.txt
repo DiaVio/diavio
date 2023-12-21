@@ -1,1 +1,0 @@
-This is because Vehicle 1 turned left onto the main roadway into the path of Vehicle 2, resulting in the front of Vehicle 2 impacting the front of Vehicle 1.

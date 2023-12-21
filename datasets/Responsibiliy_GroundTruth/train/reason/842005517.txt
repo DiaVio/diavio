@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 crossed the centerline and entered the path of Vehicle 1, causing the collision.

@@ -1,1 +1,0 @@
-Vehicle 1 was attempting to turn left and struck Vehicle 2 with its front, resulting in a head-on collision between the front of Vehicle 1 and the side of Vehicle 2.

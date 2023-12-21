@@ -1,1 +1,0 @@
-The reason for this is that V1 failed to yield the right of way to oncoming traffic. V1 stopped at the stop sign and then entered the intersection without ensuring that it was safe to do so. V1 falsely assumed that Vehicle two (V2) would stop, even though V2 did not have a stop sign. This false assumption of other road users' actions led to the collision between V1 and V2.

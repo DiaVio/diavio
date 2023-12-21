@@ -1,9 +1,0 @@
-This three vehicle daytime collision occurred during morning hours near the end of rush hour. The collision occurred on the southbound lanes of a divided interstate highway, in the third of four lanes. The pre-crash roadway for both vehicles is a straight and level, wet worn concrete paving section, preceded by a curve to the right and followed by a curve to the left. The roadway has a posted speed limit of 97 kmph (60 mph).
-
-Vehicle one (V1), a 1993 Nissan Altima driven by a 19 year-old female, was traveling southbound on the roadway in lane four. Vehicle two (V2), a 1995 Ford Escort wagon driven by a 31 year-old female with one passenger, was traveling southbound in lane three. Vehicle three (V3), a 1991 Chevrolet box truck, driven by a 41 year-old male was traveling southbound in lane 3. V3 slowed for traffic, and V2 slowed behind V3. V1 was attempting to change lanes into lane 3 from lane 4, and did not slow or stop for V2. The right front corner of V1 struck the left rear corner of V2. The front of V2 above the bumper then collided with the rear lift gate on V3. V2 was towed due to the damage to the front. The bumpers of V1 and V2 were barely deformed. Police Reported Travel Speed is Not reported for V1 and Not reported for V2.
-
-The critical pre-crash event for V1 was coded: this vehicle traveling, over the lane line on right side of travel lane. The critical reason for the critical event was assigned to V1 as a driver related factor: misjudgment of gap or other's speed. The driver stated she didn't notice traffic had slowed. The driver of V1 also made a false assumption that the other driver would continue to proceed.
-
-The critical pre-crash event for V2 was coded: other vehicle in lane, traveling in same direction with higher steady speed. The critical reason for the critical event is not coded to this vehicle.
-
-V3 was not involved in first harmful event. The critical reason for the critical event is not coded to this vehicle.

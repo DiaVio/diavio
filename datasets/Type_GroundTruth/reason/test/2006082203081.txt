@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one, intending to turn left, collided with the front of vehicle two that was traveling straight through the intersection. This type of collision is commonly known as a "T-bone" collision, where the front of one vehicle collides with the side of another.

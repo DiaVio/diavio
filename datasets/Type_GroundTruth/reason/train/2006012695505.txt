@@ -1,1 +1,0 @@
-This is because Vehicle #1 (Jeep Cherokee) collided with the rear of Vehicle #2 (Chevrolet Silverado) as Vehicle #2 was making a left turn. The impact resulted in Vehicle #2 being rotated 180 degrees and coming to rest facing east in the first eastbound lane, while Vehicle #1 rotated counterclockwise and rolled over before coming to rest in the first westbound lane.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was attempting to make a left turn into a shopping mall and turned in front of Vehicle 2 (V2), resulting in the front of V1 striking the left front corner of V2.

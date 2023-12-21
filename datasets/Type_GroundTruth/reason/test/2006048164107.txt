@@ -1,1 +1,0 @@
-This is because the accident involved only one vehicle (Vehicle 1) and there was no collision with any other entities. The driver of Vehicle 1 fell asleep, causing the vehicle to depart from the roadway and eventually roll over after striking an embankment.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) turned left at the intersection and the front of V1 struck the front of Vehicle 2 (V2) initially. The vehicles then rotated, and the right side of V1 struck the left side of V2. This is a classic "T-bone" collision, where the front of one vehicle collides with the side of another.

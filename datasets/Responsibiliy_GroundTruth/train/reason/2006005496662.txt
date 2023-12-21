@@ -1,1 +1,0 @@
-The driver of V1 admitted to attempting a lane change without properly checking for other vehicles and not signaling the lane change. This indicates inadequate surveillance and a decision error on the part of the driver of V1. The driver's failure to see V2 in the adjacent lane and the subsequent collision with V2 led to the chain of events that resulted in the collision with V3.

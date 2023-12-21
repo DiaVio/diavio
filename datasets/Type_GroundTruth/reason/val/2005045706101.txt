@@ -1,3 +1,0 @@
-
-
-This classification is based on the description that Vehicle 1 crossed into the left lane and struck Vehicle 2 on the driver's door. The angle of collision, with Vehicle 1 striking the side of Vehicle 2, aligns with a front-to-side collision or a "T-bone" collision.

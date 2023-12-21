@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the right front plane of Vehicle 3 (V3) after bouncing off the concrete sound wall.

@@ -1,5 +1,0 @@
-
-
-Justification: 
-- Vehicle one (Nissan Altima) was struck by vehicle two (unknown van) when it suddenly merged into the lane of vehicle one, resulting in a collision between the front left corner of vehicle one and the unknown van. This indicates a collision between the front of one vehicle (Nissan Altima) and the side of another vehicle (unknown van).
-- Subsequently, vehicle one was struck by vehicle three (unknown vehicle) in the back left corner as vehicle one crossed lane three, which further supports a front-to-side collision.

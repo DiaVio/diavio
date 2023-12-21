@@ -1,2 +1,0 @@
-
-Justification: Vehicle one (V1) attempted to turn left into a private driveway and the front plane of Vehicle two (V2) contacted its right plane. This indicates that the front of V1 collided with the side of V2, which is characteristic of a front-to-side collision.

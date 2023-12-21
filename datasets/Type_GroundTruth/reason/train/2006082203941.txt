@@ -1,1 +1,0 @@
-Vehicle 1 (V1) impacted the rear of Vehicle 2 (V2), causing V2 to then impact the rear of Vehicle 3 (V3).

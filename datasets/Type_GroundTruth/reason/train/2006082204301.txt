@@ -1,1 +1,0 @@
-This is because Vehicle 1 changed lanes into the space that Vehicle 2 was occupying, resulting in the right side of Vehicle 1 pushing the left front corner of Vehicle 2.

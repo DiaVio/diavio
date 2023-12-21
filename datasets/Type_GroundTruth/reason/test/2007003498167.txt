@@ -1,1 +1,0 @@
-The front of vehicle V1 collided with the side of the non-contact vehicle that attempted to make a left turn in front of V1. The impact occurred at the intersection of the two roadways.

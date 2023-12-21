@@ -1,1 +1,0 @@
-The driver of V2 made a decision error by turning left at the intersection with an obstructed view. The presence of a large truck in the westbound lane three obstructed her line of sight, causing her to not see V1 approaching from the opposite direction. This failure to yield to oncoming traffic resulted in the collision between the two vehicles.

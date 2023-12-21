@@ -1,1 +1,0 @@
-This is because vehicle one (V1) collided with vehicle two (V2) in the intersection, with the front of V1 colliding with the front of V2. Additionally, V2 then collided with vehicle three (V3) in a front-to-front manner.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) collided with the side of Vehicle 3 (V3), causing it to rotate in a counter-clockwise direction.

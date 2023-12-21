@@ -1,1 +1,0 @@
-This is because the front of vehicle 2 (V2) collided with the right rear side of vehicle 1 (V1) in the northbound lane, indicating a "T-bone" collision.

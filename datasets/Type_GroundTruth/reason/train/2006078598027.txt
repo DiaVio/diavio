@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V-1) was traveling westbound and entered the intersection on a red light, and was then struck on the left side by the front of Vehicle 2 (V-2), which was traveling northbound. The impact caused V-1 to rotate counterclockwise and V-2 to rotate clockwise, indicating a collision between the front of V-2 and the side of V-1.

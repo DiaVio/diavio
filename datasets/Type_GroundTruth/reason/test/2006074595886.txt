@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) failed to notice that Vehicle 1 (V1) had stopped and struck the rear of V1.

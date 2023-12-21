@@ -1,1 +1,0 @@
-The reason for this is that V1 attempted to turn left across the path of V2, which resulted in the collision. Additionally, the driver of V1 was intoxicated at the time of the crash, which impaired their ability to safely operate the vehicle. V1 did not have the right of way in this situation.

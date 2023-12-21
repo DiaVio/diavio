@@ -1,1 +1,0 @@
-This is based on the information that the front of Vehicle 1 impacted the rear of Vehicle 2, causing Vehicle 2 to rotate and collide with the rear of Vehicle 3.

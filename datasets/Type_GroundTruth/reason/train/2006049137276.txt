@@ -1,1 +1,0 @@
-This is because Vehicle one, while attempting to make a left turn, collided with the right side of Vehicle two as it was traveling eastbound.

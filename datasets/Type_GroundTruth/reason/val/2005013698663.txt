@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) was traveling behind Vehicle 2 (V2) and its front contacted the back of V2 when V1 failed to stop in time.

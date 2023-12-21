@@ -1,8 +1,0 @@
-
-
-- V1, the Ford Explorer, was stopped facing west at the intersection waiting to turn left.
-- V2, the Nissan Sentra, was eastbound approaching the intersection in the lane one and switched to lane two to continue straight through the intersection.
-- As V1 began its left turn, the right side of V1 was struck by V2 as it crossed the intersection.
-- Both vehicles came to rest in the intersection near the impact.
-
-This scenario describes a collision where the front of one vehicle (V2) collided with the side of another vehicle (V1), commonly known as a "T-bone" collision.

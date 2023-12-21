@@ -1,1 +1,0 @@
-Vehicle #1 struck the rear of Vehicle #2, which was then pushed into the rear of Vehicle #3. This type of collision involves one vehicle hitting the back of another vehicle, which matches the scenario described in the case.

@@ -1,1 +1,0 @@
-This is because Vehicle 2 (V2) collided with the right rear door and panel of Vehicle 1 (V1) as V1 was turning left. V2 impacted the front of V1, which is considered a side collision.

@@ -1,7 +1,0 @@
-
-
-Justification: 
-- Vehicle one (V1) was stopped waiting to turn left at the intersection.
-- Vehicle two (V2) was westbound in the second lane of the east-west road.
-- The front of V1 impacted the right side of V2.
-- The critical pre-crash event for V2 was coded as "other vehicle encroachment; from driveway, turning into opposite direction." This indicates that V2 was turning into the opposite direction and was involved in a collision with V1.

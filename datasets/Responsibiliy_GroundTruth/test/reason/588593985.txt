@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 1 struck the back plane of Vehicle 2 in a rear-end collision. It is the responsibility of the following vehicle (Vehicle 1) to maintain a safe distance and avoid colliding with the vehicle in front (Vehicle 2). In this case, Vehicle 1 failed to do so, resulting in the collision.

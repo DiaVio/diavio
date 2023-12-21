@@ -1,1 +1,0 @@
-This is because V1 was initiating a left turn and V2 collided with the side of V1 in southbound lane three.

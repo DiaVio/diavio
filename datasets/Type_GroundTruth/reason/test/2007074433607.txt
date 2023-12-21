@@ -1,1 +1,0 @@
-The front of Vehicle 1 collided with the front of Vehicle 2 when Vehicle 1 crossed over the center line.

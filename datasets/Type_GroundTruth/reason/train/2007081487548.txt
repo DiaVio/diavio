@@ -1,1 +1,0 @@
-Rear-End Collision - Vehicle one (V1) impacted the rear of vehicle two (V2) as V2 slowed down quickly, resulting in a collision between the two vehicles.

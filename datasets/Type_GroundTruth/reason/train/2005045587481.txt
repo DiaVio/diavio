@@ -1,1 +1,0 @@
-This is because Vehicle #1 (Jeep Cherokee) collided with the back of Vehicle #2 (Toyota Pickup) while it was decelerating in preparation for a right turn.

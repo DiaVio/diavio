@@ -1,1 +1,0 @@
-This is because the front of vehicle 1 (V1) collided with the side of vehicle 2 (V2) as V2 pulled out of a parking space and attempted to turn left onto the roadway.

@@ -1,1 +1,0 @@
-This is because the collision only involved one vehicle (V1) and no other entities. The vehicle lost control and collided with the hillside, resulting in damage and coming to a rest on the shoulder.

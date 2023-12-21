@@ -1,1 +1,0 @@
-Vehicle 1 (V1) struck the left side of Vehicle 2 (V2) as V2 was making a left turn, and then V1 continued through the intersection and struck the left side of Vehicle 3 (V3). This collision involves the front of one vehicle colliding with the side of another, which is characteristic of a front-to-side collision.

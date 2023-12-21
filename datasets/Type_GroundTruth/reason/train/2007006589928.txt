@@ -1,6 +1,0 @@
-
-
-Justification: 
-- Vehicle 1 (V1), a Ford Explorer SUV, contacts the right side of Vehicle 2 (V2), a Honda Odyssey van, with its front.
-- The impact occurs as V1 is traveling northbound and V2 is traveling eastbound, resulting in a collision between the front of V1 and the side of V2.
-- This type of collision is commonly known as a "T-bone" collision, where the front of one vehicle collides with the side of another.

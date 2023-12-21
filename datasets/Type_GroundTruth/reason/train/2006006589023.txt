@@ -1,1 +1,0 @@
-Non-Motorized Vehicle or Pedestrian Crash - The accident involved a vehicle (V1) hitting another vehicle (V2) and then colliding with a parked car (V3). No other entities were mentioned in the summary.

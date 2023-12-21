@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 allowed the vehicle to depart the right pavement edge, which initiated the counterclockwise rotation and subsequent impacts with the embankment and ditch. The driver's steering input and failure to maintain control of the vehicle led to the accident.

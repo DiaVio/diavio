@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was attempting to make a left turn across the oncoming lane of travel, which resulted in a head-on collision with Vehicle 1 (2011 Ford Fusion). Vehicle 1, on the other hand, steered right in an attempt to avoid the collision. Therefore, the actions of Vehicle 2 in turning left across the oncoming lane were the primary cause of the accident.

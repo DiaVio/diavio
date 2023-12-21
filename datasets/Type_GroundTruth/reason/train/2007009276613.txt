@@ -1,3 +1,0 @@
-Front-to-Side Collision. 
-
-Justification: V1 failed to stop for the stop sign at the intersection and collided with V2 on the front right side. This collision is described as the front of one vehicle (V1) colliding with the side of another vehicle (V2), which is characteristic of a front-to-side collision, also known as a "T-bone" collision.

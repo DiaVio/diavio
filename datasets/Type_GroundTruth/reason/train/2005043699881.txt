@@ -1,1 +1,0 @@
-This is because Vehicle 1 (Chevrolet Blazer) collided with the left side of Vehicle 3 (Dodge Grand Caravan) after initially striking the front of Vehicle 2 (Volkswagen Passat).

@@ -1,1 +1,0 @@
-This is because Vehicle 2 (the motorcycle) collided with the left side of Vehicle 1 (the minivan) as it attempted a u-turn.

@@ -1,6 +1,0 @@
-
-
-Justification: 
-- Vehicle 1 (V1), while attempting to make a left turn, crossed the path of oncoming Vehicle 2 (V2) and was struck on the right side.
-- After the initial impact, V2 veered right and struck the left side of Vehicle 3 (V3).
-- This collision scenario matches the description of a front of one vehicle colliding with the side of another, commonly known as a "T-bone" collision.

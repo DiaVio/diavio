@@ -1,1 +1,0 @@
-This is because Vehicle 1, which was traveling east in the left turn lane, turned left at the intersection and the front of Vehicle 1 contacted the front of Vehicle 2, which was traveling west in lane one.

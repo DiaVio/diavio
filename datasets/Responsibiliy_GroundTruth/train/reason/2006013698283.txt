@@ -1,1 +1,0 @@
-The driver of V1 made a false assumption that the intersection was a four-way stop and thought that V2 would yield the right of way. This false assumption led to V1 turning left in front of V2, resulting in the collision.

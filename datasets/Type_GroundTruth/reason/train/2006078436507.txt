@@ -1,2 +1,0 @@
-ackover Collision - Vehicle reverses into an object, person, or another vehicle.
-- The accident involved V1, a Pontiac Grand Am, which struck the rear of V2, a Mc Donn Swather tractor, after the driver of V1 failed to detect the slower-moving vehicle in time.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 crossed over the median and collided with the left side of Vehicle 2, which is a classic example of a "T-bone" collision where the front of one vehicle collides with the side of another.

@@ -1,1 +1,0 @@
-The reason for this is that V2 driver made a left turn at an intersection with an obstructed view, which resulted in the collision with V1. Additionally, V2 driver had a sightline restriction and the roadway congestion further contributed to the accident.

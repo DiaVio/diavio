@@ -1,6 +1,0 @@
-
-Justification:
-- Vehicle 1 (V1) collided with the rear of Vehicle 2 (V2), causing V2 to be pushed into the rear of Vehicle 3 (V3).
-- The critical pre-crash event for V1 was coded as "other motor vehicle in lane - other vehicle stopped", indicating that V1 was following V2 and failed to stop in time.
-- The critical pre-crash event for V2 was coded as "other motor vehicle in lane; traveling in the same direction with higher speed", indicating that V2 was stopped in the left-turn lane and did not notice V1 approaching behind.
-- The sequence of events and the description of the collision indicate a Rear-End Collision involving three vehicles.

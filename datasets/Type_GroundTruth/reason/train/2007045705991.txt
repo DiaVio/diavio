@@ -1,6 +1,0 @@
-
-
-Justification: 
-- V1, the Ford Escort, was crossing the road from the west side to the east side and was struck on the right side by V2, the Nissan Altima, which was traveling north in lane 2. This indicates that the front of V1 collided with the side of V2, forming a "T-bone" collision.
-- The description of the vehicles' movements and the point of impact support a front-to-side collision. V2 skidded longitudinally into lane 1 and struck V1 with its front at the east edge of the road.
-- The crash resulted in V1 going into yaw and subsequently striking a light pole with its right front corner, further indicating a collision between the front of V1 and the side of V2.

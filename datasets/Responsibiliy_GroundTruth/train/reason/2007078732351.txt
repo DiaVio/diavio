@@ -1,1 +1,0 @@
-The driver of V1 failed to adequately survey the intersection before making a left turn. They assumed there were stop signs for both westbound and eastbound traffic, which led to their failure to notice the oncoming V2. This lack of attention and failure to properly assess the situation resulted in the collision.

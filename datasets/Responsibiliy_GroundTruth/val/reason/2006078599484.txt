@@ -1,1 +1,0 @@
-The driver of V2 accelerated from the stop sign, attempting to cross the path of V1. The driver of V1 attempted to steer right and brake to avoid the collision, but was unsuccessful. V2 failed to properly judge the speed and distance of V1, resulting in the collision.

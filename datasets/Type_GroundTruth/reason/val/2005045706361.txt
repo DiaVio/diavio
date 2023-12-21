@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle #1, the Nissan Pathfinder, was turning left intending to head west on the road, while Vehicle #2, the Dodge Neon, was making a left turn into the parking lot. Vehicle #1 struck Vehicle #2 on the left side with its front. This collision scenario involves the front of one vehicle (Vehicle #1) colliding with the side of another vehicle (Vehicle #2), which corresponds to a Front-to-Side Collision.

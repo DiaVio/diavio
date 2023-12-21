@@ -1,1 +1,0 @@
-This is because Vehicle 1 merged into Vehicle 2's lane, causing a collision between the front of Vehicle 1 and the side of Vehicle 2.

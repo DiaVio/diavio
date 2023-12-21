@@ -1,1 +1,0 @@
-Vehicle 1, traveling westbound, collided with the left side of Vehicle 2, which was southbound and intending to turn left at the intersection. This collision scenario aligns with a front of one vehicle colliding with the side of another, commonly referred to as a "T-bone" collision.

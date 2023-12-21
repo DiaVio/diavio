@@ -1,1 +1,0 @@
-The front of vehicle V2 collided with the left side of vehicle V1 when V1 was making a left turn onto the roadway.

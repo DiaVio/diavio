@@ -1,1 +1,0 @@
-This is because the collision involved only one vehicle (Vehicle one - V1) and no other entities. The driver of V1 braked and steered right to avoid a collision with a non-contact vehicle, resulting in V1 departing the road and colliding with a pole and curb.

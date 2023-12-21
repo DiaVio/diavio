@@ -1,1 +1,0 @@
-The reason for this is that V2 was making a left turn while V1 was proceeding straight through the intersection. When making a left turn, it is the responsibility of the turning vehicle to yield to oncoming traffic. In this case, V2 failed to yield to V1, resulting in the collision.

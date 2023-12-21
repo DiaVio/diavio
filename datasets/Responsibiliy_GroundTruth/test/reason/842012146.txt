@@ -1,1 +1,0 @@
-The reason for this is that Vehicle 2 was attempting to turn left across the path of Vehicle 1 (the 2001 Ford Ranger pickup truck), which was traveling straight on the eastbound lane. Vehicle 2 failed to yield the right of way to Vehicle 1, resulting in the frontal collision.

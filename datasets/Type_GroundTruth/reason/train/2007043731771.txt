@@ -1,1 +1,0 @@
-Single-Vehicle Accident. The accident involves only one vehicle (V1) and no other entities. The driver of V1 reported that he reached down for a pack of cigarettes and drove off the right side of the road, resulting in the vehicle striking culverts and rolling onto its rooftop.

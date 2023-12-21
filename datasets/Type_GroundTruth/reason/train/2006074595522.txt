@@ -1,1 +1,0 @@
-This is because Vehicle 1 (V1) entered the intersection and its front struck the right side of Vehicle 2 (V2). This collision is commonly referred to as a "T-bone" collision, which is classified as a front-to-side collision.

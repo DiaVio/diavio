@@ -1,1 +1,0 @@
-Backover Collision - Vehicle two (V2) was stopped in lane four and then entered the intersection, turning left, and the front of V2 struck the front of V1. This indicates that V2 reversed or backed into V1, resulting in a backover collision.

@@ -1,1 +1,0 @@
-This is because Vehicle 1 attempted to turn left and crossed the roadway in front of Vehicle 2, resulting in the front of Vehicle 2 striking the left side of Vehicle 1.

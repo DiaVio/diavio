@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 failed to negotiate the left turning curve and continued to travel straight, resulting in the vehicle departing the roadway and colliding with shrubs/brush/branches and eventually striking a tree. The driver's failure to properly navigate the curve and stay on the roadway led to the accident.

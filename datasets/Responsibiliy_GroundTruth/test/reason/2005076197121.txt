@@ -1,1 +1,0 @@
-The driver of V1 unintentionally accelerated instead of braking, causing the vehicle to fish-tail on the dirt-gravel roadway. This poor directional control led to V1 departing the left road edge and ultimately impacting a large oak tree. The driver's inattention, specifically talking to the passenger, is also mentioned as an associative factor.

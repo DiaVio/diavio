@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle 2 (V2) was turning left at the intersection and collided with the front of Vehicle 1 (V1), resulting in a front-to-side collision.

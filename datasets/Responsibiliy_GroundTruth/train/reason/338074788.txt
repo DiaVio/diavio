@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 allowed the vehicle to depart the road edge and continue in a forward tracking mode, ultimately resulting in an offset frontal collision with an embankment. This indicates that the driver lost control of the vehicle and failed to maintain proper lane position, leading to the accident.

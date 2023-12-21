@@ -1,1 +1,0 @@
-The reason for this is that V2 was attempting to make a left turn across the path of V1, which was traveling in the left through lane. V2 turned into the path of V1, causing the collision.

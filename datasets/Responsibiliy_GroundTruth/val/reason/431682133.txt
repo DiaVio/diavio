@@ -1,1 +1,0 @@
-The reason for this is that the driver of Vehicle 1 allowed the vehicle to depart the right (east) pavement edge and continued in a northeasterly direction, ultimately colliding with a large diameter tree. This indicates that the driver lost control of the vehicle and failed to maintain proper lane position, resulting in the accident.

@@ -1,1 +1,0 @@
-The reason for this is that V2 was making a left turn at the intersection and failed to yield the right-of-way to V1, which was approaching from the opposite direction. V2 falsely assumed that V1 was stopping for the traffic signal, leading to the collision.

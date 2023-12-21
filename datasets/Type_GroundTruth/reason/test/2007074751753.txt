@@ -1,1 +1,0 @@
-The front of Vehicle 1 (V1) collided with the side of Vehicle 2 (V2), causing a chain reaction where the front of V2 also struck the rear of Vehicle 3 (V3).

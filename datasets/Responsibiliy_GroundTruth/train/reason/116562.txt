@@ -1,1 +1,0 @@
-The reason for this is that V2 struck the left side of V1, causing V1 to be redirected and ultimately resulting in disabling vehicle damage. Since V2 struck V1, it indicates that V2 failed to yield the right of way or failed to properly judge the distance and speed of V1, leading to the collision.

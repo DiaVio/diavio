@@ -1,2 +1,0 @@
-
-Justification: Vehicle 1 (V1) struck the back of Vehicle 2 (V2) while both were traveling in the same direction. V2 decelerated and V1 failed to stop in time, resulting in a collision. This sequence of events corresponds to a Rear-End Collision.

@@ -1,1 +1,0 @@
-Vehicle 1 (V1) crossed the intersection and was struck on its left side by the front of Vehicle 2 (V2), which was heading east. Vehicle 3 (V3) also struck the left side of V2 before hitting the left side of V1. This sequence of events matches the description of a front of one vehicle colliding with the side of another, commonly known as a "T-bone" collision.

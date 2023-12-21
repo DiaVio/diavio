@@ -1,3 +1,0 @@
-
-
-Justification: Vehicle one (V1) impacted the left side of vehicle two (V2) with its front. This indicates that the front of V1 collided with the side of V2, which is characteristic of a front-to-side collision.
