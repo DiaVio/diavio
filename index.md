@@ -20,7 +20,7 @@ Here we will introduce the format of the accident reports, the style of the viol
 
 ### Accident Reports
 
-| Paragraph | Description                                                  | Use                                                          |
+| Para | Description                                                  | Use                                                          |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1         | The crash occurred on a two lane undivided level roadway with a posted speed limit of 30 mph (48 kph) on a weekday evening. It was raining, the roadway was wet and it was dark, but lighted at the time of the crash. | Extract road and environmental information                   |
 | 2         | Vehicle #1, a 1995 Ford Escort and Vehicle #2, a 2000 Chevrolet Express van, were traveling north on the roadway. Vehicle #2 was ahead of Vehicle #1. Vehicle #2 pulled to the right side of the roadway into a driveway entrance. Vehicle #2 then entered the roadway to the left and attempted to cross over into a driveway on the west side of the roadway. Vehicle #1 took evasive maneuvers by braking and steering left. Vehicle #1 struck Vehicle #2 in the left side with its front. Both vehicles came to rest on the roadway. Police Reported Travel Speed is Not reported for V1 and Not reported for V2. | Extract vehicle information                                  |
@@ -87,9 +87,10 @@ Based on the above accident report, we convert its format according to the synta
 
 The output of our fine-tuned model diagnosis of the above report are shown below.
 
+
 | Liability Determination                                      | Crash Classification                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| V2. The reason for this is that Vehicle #2 pulled to the right side of the roadway into a driveway entrance and then entered the roadway to the left, attempting to cross over into a driveway on the west side of the roadway. This action put Vehicle #2 directly in the path of Vehicle #1 (the Ford Escort), which was traveling behind Vehicle #2. Although Vehicle #1 took evasive maneuvers by braking and steering left, it was unable to avoid colliding with Vehicle #2. Therefore, Vehicle #2's improper maneuver of crossing the roadway without yielding to oncoming traffic is the main reason for the crash. | 5.Front-to-Side Collision. This is because Vehicle #1 struck Vehicle #2 in the left side with its front, indicating that the front of Vehicle #1 collided with the side of Vehicle #2. |
+|   <img alt="Liability Determination" src="img/liability.png" width="100%" /> | <img alt="Alt text for image 2" src="img/determination.png" width="100%" /> |
 
 
 
