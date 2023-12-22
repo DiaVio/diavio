@@ -1,7 +1,7 @@
 <Crash>                   ::=     <Road>; <Environment>; <Obstacles>; <Vehicles>; <Diagnosis>;
 
 <Road>                    ::=     <RoadType>; <Lanes>; <RoadShape>; <RoadSlope>; <SpeedLimit>;
-<RoadType>                ::=     intersection | cityStreet | ruralRoad | highway | unmentioned | suburban | bituminous | asphalt | trafficway | residential | divided | two-way | unmentioned 
+<RoadType>                ::=     intersection | cityStreet | ruralRoad | highway | unmentioned | suburban | bituminous | asphalt | trafficway | residential | divided | undivided | two-way | unmentioned 
 <Lanes>                   ::=     ∅ | <Lane>; <Lanes>;
 <Lane>                    ::=     [laneIdentifier] | unmentioned
 <RoadShape>               ::=     straight | curved | inclined | unmentioned
