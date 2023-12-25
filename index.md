@@ -104,5 +104,29 @@ The output of our fine-tuned model diagnosis of the above report are shown below
 
 By running DiaVio with AV-Fuzzer and DriveFuzz, we diagnose cases caused by NPC Vehicles and Ego Vehicle respectively. Here are some examples of our findings.
 
+**Running status of AV-Fuzzer**
+![](/img/apollo.gif)
 
+<table>
+  <tr>
+    <td>
+      <img src="/img/apollo_ego.gif" alt="Caused by Ego" style="width: 100%;" />
+      <p align="center">Caused by Ego(AV-Fuzzer)</p>
+    </td>
+    <td>
+      <img src="/img/apollo_npc.gif" alt="Caused by NPC" style="width: 100%;" />
+      <p align="center">Caused by NPC(AV-Fuzzer)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/img/drivefuzz_ego.gif" alt="Caused by ADS" style="width: 100%;" />
+      <p align="center">Caused by ADS(DriveFuzz)</p>
+    </td>
+    <td>
+      <img src="/img/drivefuzz_npc.gif" alt="Caused by NPC" style="width: 100%;" />
+      <p align="center">Caused by NPC(DriveFuzz)</p>
+    </td>
+  </tr>
+</table>
 
