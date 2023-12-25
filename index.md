@@ -110,21 +110,21 @@ By running DiaVio with AV-Fuzzer and DriveFuzz, we diagnose cases caused by NPC 
 <table>
   <tr>
     <td>
-      <img src="/img/apollo_ego.gif" alt="Caused by Ego" style="width: 100%;" />
+      <img src="img/apollo_ego.gif" alt="Caused by Ego" style="width: 100%;" />
       <p align="center">Caused by Ego(AV-Fuzzer)</p>
     </td>
     <td>
-      <img src="/img/apollo_npc.gif" alt="Caused by NPC" style="width: 100%;" />
+      <img src="img/apollo_npc.gif" alt="Caused by NPC" style="width: 100%;" />
       <p align="center">Caused by NPC(AV-Fuzzer)</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/img/drivefuzz_ego.gif" alt="Caused by ADS" style="width: 100%;" />
+      <img src="img/drivefuzz_ego.gif" alt="Caused by ADS" style="width: 100%;" />
       <p align="center">Caused by ADS(DriveFuzz)</p>
     </td>
     <td>
-      <img src="/img/drivefuzz_npc.gif" alt="Caused by NPC" style="width: 100%;" />
+      <img src="img/drivefuzz_npc.gif" alt="Caused by NPC" style="width: 100%;" />
       <p align="center">Caused by NPC(DriveFuzz)</p>
     </td>
   </tr>
