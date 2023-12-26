@@ -121,7 +121,7 @@ By running DiaVio with AV-Fuzzer and DriveFuzz, we diagnose cases caused by NPC 
   <tr>
     <td>
       <img src="img/drivefuzz_ego.gif" alt="Caused by ADS" style="width: 100%;" />
-      <p align="center">Caused by ADS(DriveFuzz)</p>
+      <p align="center">Caused by Ego(DriveFuzz)</p>
     </td>
     <td>
       <img src="img/drivefuzz_npc.gif" alt="Caused by NPC" style="width: 100%;" />
