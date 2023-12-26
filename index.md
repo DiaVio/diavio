@@ -127,6 +127,6 @@ By running DiaVio with AV-Fuzzer and DriveFuzz, we diagnose cases caused by NPC 
   </tr>
 </table>
 
-**The Effect of DiaVio when running**
+**The Effect of DiaVio When Running**
 ![](/img/apollo.gif)
 
